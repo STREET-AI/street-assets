@@ -1,0 +1,27 @@
+Privacy Policy – STREET Crop Capture
+Last updated: 2 Feb 2026
+This extension s a local utility used to capture a user-selected region of the current browser tab and return the cropped image to a web application chosen by the user. This is specifically for STREET annotators only and is not compatible with other domains.
+Data Collection
+This extension does not collect, store, transmit, or sell any personal data.
+All processing happens locally on the user’s device.
+The extension does not:
+	•	log user activity
+	•	track browsing behavior
+	•	send data to any external server
+	•	store screenshots or images
+Captured images exist only in memory and are immediately passed to the active webpage that requested the capture.
+Permissions Explanation
+The extension requests the following permissions:
+	•	desktopCapture – required to capture the visible tab when the user presses the capture hotkey.
+	•	activeTab – required to know which tab to capture.
+	•	scripting – required to inject capture logic into the active page.
+These permissions are used only when the user explicitly triggers a capture.
+Third-Party Access
+The extension does not share data with any third parties.
+The web application that receives the cropped image is responsible for how that data is handled after receipt.
+Security
+No data is transmitted outside the user’s browser. No files are written to disk. No background recording occurs.
+Changes
+This policy may be updated. Any changes will be reflected on this page.
+Contact
+For questions, contact: ram@streetplay.ai
