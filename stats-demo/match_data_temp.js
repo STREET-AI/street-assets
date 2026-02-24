@@ -1,4 +1,4 @@
-{
+window.matchData = {
   "player_stats": {
     "1": {
       "raw_interceptions": 11,
@@ -20598,4 +20598,4 @@
     "7": "Kalyan Mbappi",
     "4": "Chirag Puyal"
   }
-}
+};
