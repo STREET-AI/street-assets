@@ -1,4 +1,4 @@
-window.matchData = {
+{
   "player_stats": {
     "1": {
       "raw_interceptions": 11,
@@ -497,23 +497,23 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "1": "Well played today! You were a real menace in midfield, causing all sorts of problems for the opposition with your interceptions and dribbling.  That goal and assist really helped the team secure the win - keep up the great work!",
-    "2": "You put in a solid shift today, mate.  Your tackling and blocks were crucial in keeping the opposition at bay, and those shots on target kept their keeper on his toes. Shame about not getting on the scoresheet, but your contribution was vital!",
-    "3": "Cracking performance! Those two goals were just reward for your relentless dribbling and attacking intent. Keep making those runs and you'll be a nightmare for any defence.",
-    "4": "Good defensive effort out there! You were solid in the tackle and your positioning helped to break up several attacks. Keep it up and you'll be a rock at the back.",
-    "5": "Another strong defensive showing! You really put in the work, with some vital interceptions and tackles - and even popped up with an assist! Keep up that work rate and you'll be a key player every match.",
-    "6": "You had a great game in the middle of the park! That goal was a great reward for your workrate and grit and you topped it off with an assist.  Keep bossing that midfield!",
-    "7": "You were a constant threat, always looking to take on defenders and create something. You topped off the performance with a goal - well done! Keep at it and you'll be banging them in every week.",
-    "8": "You had a solid game in midfield.  You bagged a goal and your defensive workrate was top notch.  Keep making those runs!",
-    "9": "What a game!  Four goals and two assists... you were unplayable out there today! You really made the difference in a crucial victory, keep up this form.",
-    "10": "You put in a good shift defensively today, helping to protect the back four! Keep working hard in training and you'll continue to improve.",
-    "11": "Great effort in defence! You were always in the right place at the right time, making some crucial blocks and clearances.  Keep it up!",
-    "12": "Two goals, not bad! You were a constant threat going forward, always looking to get in behind the defence. With a bit more luck, you could have had a hat-trick, keep shooting!",
-    "13": "Top performance in goal! Some really important saves today, you kept us in it. Keep up the good work and you'll be a tough nut to crack.",
-    "14": "You caused their defence all sorts of problems with your direct running and those two goals were well deserved! You had some fantastic shots and dribbles and you grabbed an assist. Keep it up!",
-    "15": "Great goalkeeping today! Five saves, you were on fire, keeping those shots out. Keep up that concentration and you'll be unbeatable!"
+    "1": "Zunaid, your interceptions were crucial in the midfield and you also got yourself a goal in this high-scoring game. You were all over the pitch, contributing both offensively and defensively, a true box-to-box performance. Keep that energy up!",
+    "3": "Kavin, what a fantastic performance, bagging a brace! Your dribbling was a menace to the opposition and you really showed your attacking prowess, well done! Your goals helped the team get over the line in this match.",
+    "5": "Sanjeev, your defensive work was solid, making key interceptions and tackles. You supported the team well at the back and even grabbed an assist, nice work! Keep up your consistent performance and continue contributing to the team's defensive stability.",
+    "6": "Nikhil, you were a key player, contributing with a goal and an assist! Your work rate in midfield was impressive and you were always looking to win the ball back. Keep that level of performance going!",
+    "12": "Mehtab, scoring two goals is a great effort, especially in a match as tight as this. You were a constant threat and your finishing made all the difference, keep it up! You really showed composure in front of goal when it mattered.",
+    "14": "Tarun, two goals and an assist! You were electric in attack, really making things happen for your team. Keep up this level of performance and you'll be unstoppable!",
+    "15": "Varun, you were a rock in goal, making some crucial saves to keep the score respectable. Your shot prevention was excellent and you can be proud of your performance, well done! Keep up the great work!",
+    "13": "Alok, your saves really kept the team in the game and you looked solid in goal. Your defensive actions were vital and you should be pleased with your contribution. Keep up the good work!",
+    "11": "Pratik, you provided a good assist and made important blocks and clearances at the back, you were always alert. Your defensive contributions were crucial to the team's effort. Keep up the solid defensive work!",
+    "2": "Rohan, you had some good attempts and created chances for others, but couldn't quite find the net. Your defensive contributions were also valuable, keep working hard! Focus on converting those shots into goals next time and you'll be a real threat.",
+    "9": "Krishnan, what a game! Four goals and two assists - you absolutely ran the show and terrorized the opposition. You really led the line, Krishnan, brilliant performance!",
+    "10": "Lokesh, your defensive work rate was commendable, even if the shots didn't go your way. Keep focusing on those tackles and your contributions will shine through! Your presence in midfield was definitely felt by the opposition.",
+    "8": "Tanay, a goal is a great contribution, especially in a tight game! You made an impact with your defensive work as well. Keep up the good work and continue contributing to the team's success!",
+    "7": "Kalyan, you got yourself a goal and were a real threat going forward, brilliant! Your dribbling skills were on full display and you caused the opposition all sorts of problems. Keep up the attacking momentum!",
+    "4": "Chirag, you put in a solid defensive shift, making important tackles and interceptions. Your effort was crucial to containing the opposition's attack and you should be proud of your contribution. Keep up the hard work!"
   },
-  "match_description": "What a match! Street Legends triumphed over Ballers for Life in a high-scoring affair, final score 8-6. Street Legends came out strong with a three-goal blitz around the 16th minute, shifting momentum firmly in their favor. Ballers for Life's Player 9 put on a show with a stunning four goals, almost single-handedly dragging his team back into contention. Ultimately, Player 14 for Street Legends sealed victory, scoring twice and providing critical support to secure bragging rights in this thrilling contest.",
+  "match_description": "What a match, folks! Street Legends emerged victorious in a 8-6 goal-fest against Ballers for Life, but don't let the score fool you \u2013 Ballers for Life mounted a late comeback led by Krishnan Ranaldo, who bagged four goals and kept us all on the edge of our seats! Street Legends, however, proved too strong, with Tarun Hanry's brace proving vital to keep them ahead. Kavin D'Braine also had a stellar showing, scoring twice in a thrilling display of attacking football for Street Legends. What a game this was!",
   "team_stats": {
     "avg_sequence_length": 2.15625,
     "max_sequence_length": 3,
@@ -20571,14 +20571,14 @@ window.matchData = {
       "15"
     ],
     "teamB": [
+      "7",
+      "11",
+      "9",
       "4",
       "10",
-      "2",
       "13",
-      "7",
-      "8",
-      "11",
-      "9"
+      "2",
+      "8"
     ]
   },
   "player_names": {
@@ -20598,4 +20598,4 @@ window.matchData = {
     "7": "Kalyan Mbappi",
     "4": "Chirag Puyal"
   }
-};
+}
