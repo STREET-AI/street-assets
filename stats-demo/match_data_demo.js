@@ -497,23 +497,23 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "1": "You were a force in midfield, creating chances and disrupting plays, well done! Bagging a goal and an assist really helped the team secure the win, keep it up!",
-    "2": "You put in a solid shift in the midfield today, keep practicing those shots. Your defensive work rate was great, and your shots leading to goal opportunities almost paid off - unlucky not to score!",
-    "3": "Cracking performance today, those dribbling skills really opened up the game for the team! You bagged a brace and really helped the team to victory, top bins!",
-    "4": "You were a rock in defense, making some crucial tackles and interceptions, well done. Keep up the solid work in defense, your contributions are really valuable to the team.",
-    "5": "You put in a strong defensive performance, making some vital interceptions and blocks, well done! Your assist also helped to make a vital difference in what was a close match.",
-    "6": "You did well controlling the game from defensive midfield! Great to see you get a goal and an assist, that's the kind of impact we need in the tight games!",
-    "7": "You were a constant threat up front, your dribbling was brilliant to watch, top class! You got a goal which helped the team towards victory, cracking performance!",
-    "8": "You did well in defensive midfield, winning the ball back a number of times. A well taken goal as well, keep up the good work!",
-    "9": "What a performance! 4 goals and 2 assists, you were unstoppable - a real handful for the opposition. Keep up this form and the goals will keep on flowing!",
-    "10": "You worked tirelessly in midfield, putting in some great tackles! Keep up the effort, it's that kind of grit that makes a difference.",
-    "11": "You put in a solid defensive performance, some important blocks and clearances, well done. Your assist also helped the team get over the line in what was a close match!",
-    "12": "You were a real threat in attack, scoring two goals and really putting the opposition under pressure! Keep up the good work in front of goal, we need more of that!",
-    "13": "You were fantastic in goal, making some crucial saves, keep up the fantastic work! The number of shots you prevented really helped in securing the win, brilliant!",
-    "14": "You were a constant menace to the opposition, driving forward and creating chances, well done! Two goals and an assist, cracking performance, well done!",
-    "15": "You were dependable in goal, making some important saves at crucial times. Keep up the concentration levels, it really does make a difference."
+    "1": "Well played today! You were a real menace in midfield, causing all sorts of problems for the opposition with your interceptions and dribbling.  That goal and assist really helped the team secure the win - keep up the great work!",
+    "2": "You put in a solid shift today, mate.  Your tackling and blocks were crucial in keeping the opposition at bay, and those shots on target kept their keeper on his toes. Shame about not getting on the scoresheet, but your contribution was vital!",
+    "3": "Cracking performance! Those two goals were just reward for your relentless dribbling and attacking intent. Keep making those runs and you'll be a nightmare for any defence.",
+    "4": "Good defensive effort out there! You were solid in the tackle and your positioning helped to break up several attacks. Keep it up and you'll be a rock at the back.",
+    "5": "Another strong defensive showing! You really put in the work, with some vital interceptions and tackles - and even popped up with an assist! Keep up that work rate and you'll be a key player every match.",
+    "6": "You had a great game in the middle of the park! That goal was a great reward for your workrate and grit and you topped it off with an assist.  Keep bossing that midfield!",
+    "7": "You were a constant threat, always looking to take on defenders and create something. You topped off the performance with a goal - well done! Keep at it and you'll be banging them in every week.",
+    "8": "You had a solid game in midfield.  You bagged a goal and your defensive workrate was top notch.  Keep making those runs!",
+    "9": "What a game!  Four goals and two assists... you were unplayable out there today! You really made the difference in a crucial victory, keep up this form.",
+    "10": "You put in a good shift defensively today, helping to protect the back four! Keep working hard in training and you'll continue to improve.",
+    "11": "Great effort in defence! You were always in the right place at the right time, making some crucial blocks and clearances.  Keep it up!",
+    "12": "Two goals, not bad! You were a constant threat going forward, always looking to get in behind the defence. With a bit more luck, you could have had a hat-trick, keep shooting!",
+    "13": "Top performance in goal! Some really important saves today, you kept us in it. Keep up the good work and you'll be a tough nut to crack.",
+    "14": "You caused their defence all sorts of problems with your direct running and those two goals were well deserved! You had some fantastic shots and dribbles and you grabbed an assist. Keep it up!",
+    "15": "Great goalkeeping today! Five saves, you were on fire, keeping those shots out. Keep up that concentration and you'll be unbeatable!"
   },
-  "match_description": "What a game between Street Legends and Ballers for Life! Street Legends emerged victorious with a final score of 8-6, but Ballers for Life certainly made them work for it, especially with Player 9 bagging four goals and two assists. Street Legends had a goal blitz around the 16th minute, scoring three in quick succession before Player 9 tried to spark a comeback with a late flurry of goals. However, Player 14, with two goals for Street Legends, sealed victory in the 39th minute, a fitting end to a thrilling contest!",
+  "match_description": "What a match! Street Legends triumphed over Ballers for Life in a high-scoring affair, final score 8-6. Street Legends came out strong with a three-goal blitz around the 16th minute, shifting momentum firmly in their favor. Ballers for Life's Player 9 put on a show with a stunning four goals, almost single-handedly dragging his team back into contention. Ultimately, Player 14 for Street Legends sealed victory, scoring twice and providing critical support to secure bragging rights in this thrilling contest.",
   "team_stats": {
     "avg_sequence_length": 2.15625,
     "max_sequence_length": 3,
@@ -20571,14 +20571,31 @@ window.matchData = {
       "15"
     ],
     "teamB": [
-      "13",
-      "11",
-      "2",
-      "9",
+      "4",
       "10",
-      "8",
+      "2",
+      "13",
       "7",
-      "4"
+      "8",
+      "11",
+      "9"
     ]
+  },
+  "player_names": {
+    "1": "Zunaid Zidani",
+    "3": "Kavin D'Braine",
+    "5": "Sanjeev Ramas",
+    "6": "Nikhil Kanti",
+    "12": "Mehtab Ozail",
+    "14": "Tarun Hanry",
+    "15": "Varun Vandyk",
+    "13": "Alok Nasta",
+    "11": "Pratik Maldani",
+    "2": "Rohan Dinho",
+    "9": "Krishnan Ranaldo",
+    "10": "Lokesh Modri",
+    "8": "Tanay Kroos",
+    "7": "Kalyan Mbappi",
+    "4": "Chirag Puyal"
   }
 };
