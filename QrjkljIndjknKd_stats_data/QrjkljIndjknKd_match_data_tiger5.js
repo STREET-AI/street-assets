@@ -547,22 +547,22 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "8": "Bhuno, you put in a solid shift in midfield and that goal was a thing of beauty, great way to contribute to the win! Your defensive work rate was also key to securing the victory in this match.",
-    "5": "Mahadhona, you were an absolute menace in attack, bagging a hat-trick! Your finishing was clinical, and those assists were the cherry on top as we secured the win.",
-    "2": "Mo, you showed great work rate and tenacity out there, bagging a goal and an assist which helped us get over the line for the win. Keep up the good work in attack!",
-    "3": "Rohan, you were lethal in front of goal, and that hat-trick was crucial in securing the victory! Your movement caused all sorts of problems for the opposition defense, well played!",
-    "1": "Pitar, you were an absolute rock in goal, your saves were vital in securing the win! You really stepped up when it mattered most and kept us in the game.",
-    "6": "Adarshan, you were key to victory with some important saves and even an assist for your teammates. You really put in the work to help secure this win!",
-    "7": "Rohan, you were full of energy out there and you put in a lot of effort into your defensive work. Your contributions were key to us securing the win today.",
-    "4": "Juhu, you really made an impact in the midfield, always looking to create something. Keep putting in that effort and the goals will come soon!",
-    "10": "Jamla, you showed great composure in front of goal to score, helping the team get the win! Your defensive contributions were vital to securing the victory.",
-    "12": "Luis, you were a constant threat going forward, bagging a goal and an assist in this match! Your contribution was essential to securing the win, well done!",
-    "11": "Jaltan, you showed great composure bagging a goal and providing the team with 2 assists! You really made an impact in this match, well played!",
-    "9": "Bhukayo, you were on fire, with your goals and assists being crucial to winning this match! Keep up the good work and you'll be unstoppable!",
-    "13": "Hareesh, you were always dangerous in attack, scoring those 2 goals and assisting another! Well done in contributing to this victory.",
-    "14": "Lional, you were a real handful for the opposition defense and your goals were very important for securing the win! You really stepped up and delivered when it mattered most."
+    "8": "Kavin, you were a real menace in midfield, popping up everywhere and causing trouble. Your goal was a beauty and those blocks were crucial to getting the win. Well played!",
+    "5": "Vinay, what a performance! A hat-trick to help the team clinch a tight win. Those assists also made the difference, keep up the amazing work!",
+    "2": "Jaltan, you were a constant threat up front, always looking to create something. Your goal and assist were important contributions. Keep those shots coming!",
+    "3": "Bhukayo, another fantastic performance leading the line. A hat-trick helped secure a memorable victory! Opposing defenders must be having nightmares about you.",
+    "1": "Gyaanji, you were an absolute rock in goal, those saves kept us in the game and ultimately helped us to victory! You are a wall!",
+    "6": "Manesh, you are a reliable presence between the posts. That assist was unexpected but a welcome suprise and contributed to the win, but lets focus on keeping the ball out of the net next time!",
+    "7": "Mehtab, you put in a real shift in midfield. You created some good chances and your interceptions disrupted the opposition's play. Keep battling!",
+    "4": "Rohan, you were always looking to make something happen. Keep working on your accuracy, and you'll be banging in the goals soon!",
+    "10": "Inder, that goal was well-taken and really helped the team. Your defensive work didn't go unnoticed either, you put in a real shift to get the win!",
+    "12": "Rohan, you were lively up front and your assist helped swing the momentum in our favor. Great goal, you caused their defence all sorts of problems, well done!",
+    "11": "Tarun, great job out there today! Great goal and two assists, you really came to the party and made a big impact to help the team secure the win, keep it up!",
+    "9": "Mahadhona, what a fantastic performance! Two goals and four assists. You were involved in almost every attack, keep up the great work!",
+    "13": "Lameen, you were a constant threat, bagging two goals and an assist to help the team win!. Keep up the good work, mate!",
+    "14": "Mo, two goals is a great effort for the team! Keep that energy and those shots coming next match!"
   },
-  "match_description": "What a contest we've just witnessed! Street Legends have emerged victorious over Ballers for Life in a pulsating 10-8 goal fest! The game started with a bang as Jaltan Ibrahimi put Street Legends ahead early on, but Ballers for Life responded with a flurry to take the lead. Mahadhona was simply sensational, netting a hat trick and pulling the strings in midfield for Street Legends. But let's not forget Rohan Lavandeshki, who also grabbed a hat trick, sealing a memorable win for Street Legends in this high scoring affair!",
+  "match_description": "What a match! Street Legends have emerged victorious in a thrilling 10-8 goalfest against Ballers for Life! Tarun Hanry set the tone early with a goal just three minutes in, but Ballers for Life responded with a flurry of goals to take the lead. Vinay Junior kept Street Legends in it with a hat-trick, while Bhukayo Sarkar also bagged a hat-trick to push Street Legends ahead in the second half. Not to be outdone, Mahadhona was instrumental for Ballers for Life, notching two goals of his own, but ultimately Street Legends proved too strong on the day.",
   "team_stats": {
     "avg_sequence_length": 2.0714285714285716,
     "max_sequence_length": 3,
@@ -42321,29 +42321,29 @@ window.matchData = {
       "13"
     ],
     "teamB": [
-      "10",
+      "12",
+      "6",
       "14",
-      "8",
       "7",
       "9",
-      "6",
-      "12"
+      "8",
+      "10"
     ]
   },
   "player_names": {
-    "8": "Bhuno Farhandey",
-    "7": "Rohan Dinho",
-    "4": "Juhu Balligam",
-    "10": "Jamla Masala",
-    "5": "Mahadhona",
-    "2": "Mo Swaha",
-    "3": "Rohan Lavandeshki",
-    "12": "Luis Suraj",
-    "11": "Jaltan Ibrahimi",
-    "9": "Bhukayo Sarkar",
-    "13": "Hareesh Khan",
-    "14": "Lional Masi",
-    "1": "Pitar Shamaikhel",
-    "6": "Adarshan"
+    "8": "Kavin D'Braine",
+    "7": "Mehtab Ozail",
+    "4": "Rohan Dinho",
+    "10": "Inder Inashta",
+    "5": "Vinay Junior",
+    "2": "Jaltan Ibrahimi",
+    "3": "Bhukayo Sarkar",
+    "12": "Rohan Lavandeshki",
+    "11": "Tarun Hanry",
+    "9": "Mahadhona",
+    "13": "Lameen Dhayal",
+    "14": "Mo Swaha",
+    "1": "Gyaanji Bhufon",
+    "6": "Manesh Nayar"
   }
 };
