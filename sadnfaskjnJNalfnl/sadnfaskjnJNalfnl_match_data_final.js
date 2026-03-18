@@ -298,6 +298,7 @@ window.matchData = {
       "raw_passes": 4,
       "raw_clearances": 3,
       "raw_blocks": 4,
+      "raw_own_goals": 1,
       "raw_total_events": 12,
       "shots_total": 1,
       "shots_off_target": 1,
@@ -500,24 +501,24 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "2": "Bhukayo, you bagged a couple of goals in what was a difficult match for the team; not bad at all! You were a constant threat going forward, keep up that offensive pressure and those numbers will only keep climbing, mate.",
-    "1": "Mahadhona, you were an absolute menace in front of goal, bagging a hat-trick! Your assist shows you have an eye for a pass too. You really put in a shift even though the match result didn't go our way.",
-    "3": "Jamla, you were a rock in midfield, breaking up play and shielding the defense well. Four interceptions is a great contribution! Keep up that work ethic, it's exactly what the team needs.",
-    "4": "Rohan, you kept trying to make something happen on the attack, you managed to get a couple of shots on target even if none ended up in the back of the net! Your effort and determination didn't go unnoticed.",
-    "5": "Vinay, you showed some real quality in front of goal, Vinay, with two goals to your name! That's a great return from your shots, and you really kept the opposition defense on their toes.",
-    "7": "Hareesh, you put in a real shift up front, Hareesh, creating opportunities and trying to unlock the defense. You got an assist, so you still had a big impact! Stick at it, and the goals will come.",
-    "8": "Bhuno, you managed to make a crucial save, Bhuno! Your defensive presence was valuable to the team, giving us a platform to build from.",
-    "10": "Lional, you were tenacious in the tackle, Lional, and worked hard to win back possession in midfield. You're a key part of this team, even if the scoreboard didn't reflect your effort this time around!",
-    "11": "Advait, you were kept busy between the sticks, Advait, pulling off a number of saves. You gave it your all, and that's all we can ask for, the high number of saves shows that you were determined.",
-    "9": "Inder, you did your best to help control the game in midfield, Inder. Clearing the ball 3 times and making 4 blocks shows you have the ability to make important decisions on the field. Keep battling in there!",
-    "14": "Dev, you showed great reflexes with some good saves in goal, Dev. Keep working hard and honing your skills, it'll pay off in the long run.",
-    "6": "Lameen, you got stuck in, Lameen, making a tackle and trying to make an impact going forward. That kind of commitment is always appreciated, keep at it.",
-    "13": "Alinga, you kept plugging away, Alinga, trying to create chances, and also make saves. Don't let this match get you down, there is always another one coming.",
-    "16": "Pillai, you were clinical in front of goal, Pillai, grabbing yourself a hat-trick and an assist! You really took the game to the opposition. Keep that scoring touch going and you'll be unstoppable!",
-    "15": "Krishnan, you were solid in defense and broke up a lot of attacks. Your contribution didn't go unnoticed! Keep making those interceptions and clearances and you'll be a real asset to the team, Krishnan.",
-    "12": "Rohan, you worked hard in midfield, Rohan, and tried to make things happen. Keep putting in the effort and the results will come."
+    "2": "Lional, you bagged a couple of goals in this match and kept the pressure on, even though the result didn't go our way, so keep your head up!",
+    "1": "Alinga, what a performance, my friend! You really led the line with a hat-trick and an assist against Team B, what a shift!",
+    "4": "Luis, you were always a threat going forward and created some good chances, even if the goals didn't come this time. Keep at it, mate!",
+    "5": "Bhukayo, two goals is a great return! You really made the most of your opportunities in front of goal - well done, son!",
+    "7": "Hareesh, you were lively out there and put in a real shift! Your assist was a great contribution to the team against Team B, keep up the good work!",
+    "10": "Tarun, you worked tirelessly out there! Your work rate was excellent even though the result didn't reflect your effort!",
+    "6": "Kalyan, you showed some nice touches, even if the ball didn't always fall for you. Keep battling!",
+    "13": "Mo, you're a threat up front, and even though you didn't score this time, you still forced the keeper into some saves! Just keep putting yourself in those positions, and they'll come!",
+    "16": "Mahadhona, you were unplayable today! A hat-trick and an assist against team A. Keep that up, and we'll be unstoppable!",
+    "3": "Bhuno, you put in a solid shift in midfield, breaking up play and keeping things tight. Those blocks were vital, well done!",
+    "8": "Inder, you made a crucial save and a block! Keep that up, and you'll be a brick wall!",
+    "9": "Kavin, you got stuck in out there, and your clearances helped relieve some pressure, even if luck wasn't on our side.",
+    "15": "Krishnan, you were solid at the back, making some important interceptions. Keep up that defensive work rate!",
+    "12": "Mehtab, your interceptions helped to disrupt Team A's attacks. Keep working on your distribution, and you'll boss that midfield!",
+    "11": "Pitar, you were kept busy in goal and made some great saves under pressure. That's the kind of resilience we need!",
+    "14": "Adarshan, you had to work hard between the sticks and came up with some decent saves out there against Team B. Keep practicing and honing your skills!"
   },
-  "match_description": "What a game, amigos! Ballers for Life absolutely dismantled Street Legends in a 8-2 victory! Bhukayo Sarkar opened the scoring early, setting the tone for Ballers for Life dominance. Street Legends showed some signs of life with Vinay Junior bagging a brace, but Pillai responded with a hat trick to crush any hopes of a comeback. Mahadhona also bagged a hat trick with an incredible performance as Ballers for Life cruised to a comfortable victory.",
+  "match_description": "What a match, amigos! Ballers for Life absolutely dismantled Street Legends with a final score of 8-3! The second half was an absolute goal fest for Ballers for Life, with Mahadhona bagging a hat trick and Alinga Halandh also helping himself to one. Alinga Halandh was simply sensational, orchestrating the attack and finding the net thrice, while Bhukayo Sarkar valiantly scored two for Street Legends, yet it was just not enough to stop the Ballers for Life juggernaut.",
   "team_stats": {
     "avg_sequence_length": 2.210526315789474,
     "max_sequence_length": 4,
@@ -39677,15 +39678,19 @@ window.matchData = {
       },
       {
         "time": 5248.79,
-        "momentum": -0.7228572884421689
+        "momentum": -0.5452098293112994
       },
       {
         "time": 5249.29,
-        "momentum": -0.6764530032972398
+        "momentum": -0.36351494350692237
+      },
+      {
+        "time": 5249.91,
+        "momentum": -0.22809417616506203
       },
       {
         "time": 5254.91,
-        "momentum": -0.600204666771532
+        "momentum": -0.0034810971757734954
       }
     ],
     "goals": [
@@ -39693,61 +39698,78 @@ window.matchData = {
         "time": 470.63,
         "momentum": -2.417863748103808,
         "player": "2",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 2379.52,
         "momentum": -1.7252495727471597,
         "player": "16",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 2905.6,
         "momentum": -3.521643140972959,
         "player": "16",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 3082.05,
         "momentum": -1.6659044516127444,
         "player": "1",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 3855.48,
         "momentum": 1.8202089737171785,
         "player": "5",
-        "team": "teamA"
+        "team": "teamA",
+        "is_own_goal": false
       },
       {
         "time": 3969.56,
         "momentum": 2.9032340226965223,
         "player": "5",
-        "team": "teamA"
+        "team": "teamA",
+        "is_own_goal": false
       },
       {
         "time": 4709.13,
         "momentum": -3.133102674408872,
         "player": "2",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 4787.45,
         "momentum": -3.7853969700877244,
         "player": "16",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 4993.19,
         "momentum": -2.0851696894758005,
         "player": "1",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
       },
       {
         "time": 5184.44,
         "momentum": -4.918821478892808,
         "player": "1",
-        "team": "teamB"
+        "team": "teamB",
+        "is_own_goal": false
+      },
+      {
+        "time": 5249.91,
+        "momentum": 0.8882372956543476,
+        "player": "9",
+        "team": "teamA",
+        "is_own_goal": true
       }
     ],
     "match_duration": 5254.91,
@@ -41597,32 +41619,32 @@ window.matchData = {
       "15"
     ],
     "teamB": [
-      "11",
-      "10",
+      "1",
       "16",
       "12",
+      "11",
+      "3",
       "9",
-      "2",
-      "1",
-      "3"
+      "10",
+      "2"
     ]
   },
   "player_names": {
-    "2": "Bhukayo Sarkar",
-    "1": "Mahadhona",
-    "4": "Rohan Lavandeshki",
-    "5": "Vinay Junior",
+    "2": "Lional Masi",
+    "1": "Alinga Halandh",
+    "4": "Luis Suraj",
+    "5": "Bhukayo Sarkar",
     "7": "Hareesh Khan",
-    "10": "Lional Masi",
-    "6": "Lameen Dhayal",
-    "13": "Alinga Halandh",
-    "16": "Pillai",
-    "3": "Jamla Masala",
-    "8": "Bhuno Farhandey",
-    "9": "Inder Inashta",
+    "10": "Tarun Hanry",
+    "6": "Kalyan Mbappi",
+    "13": "Mo Swaha",
+    "16": "Mahadhona",
+    "3": "Bhuno Farhandey",
+    "8": "Inder Inashta",
+    "9": "Kavin D'Braine",
     "15": "Krishnan Ranaldo",
-    "12": "Rohan Dinho",
-    "11": "Advait Vandeshar",
-    "14": "Dev Digia"
+    "12": "Mehtab Ozail",
+    "11": "Pitar Chak",
+    "14": "Adarshan"
   }
 };
