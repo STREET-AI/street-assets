@@ -625,24 +625,24 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "9": "Pelly, what a performance! Scoring for both sides, you truly left your mark on this match, especially after your mid-game switch to Team A where you really found your stride with five incredible goals. You were a constant threat, and your attacking prowess was simply a joy to watch, even if Team A didn't get the win this time.",
-    "10": "Lewis, you were instrumental in Team B's victory today, getting on the scoresheet early on and maintaining that attacking drive throughout the match! Your three goals and keen eye for an assist truly showed your offensive capabilities, always pushing forward and making things happen. Keep up that brilliant work, son!",
-    "15": "Rodney, you put in a solid shift for the winning Team B today, contributing across the park with some vital defensive interventions. While your offensive opportunities were limited, your teamwork and effort certainly didn't go unnoticed, and those two saves show you're willing to do anything for the team!",
-    "13": "Abraham, six goals, absolutely outstanding! You were a scoring machine for Team B, especially in that crucial second half, driving your team to victory. Your relentless pressure and clinical finishing were a nightmare for the opposition, truly a match-winning performance!",
-    "4": "Cillian, you grabbed a well-taken goal for Team A today, showing your knack for getting into dangerous positions! Your contributions weren't just in attack though, as you battled hard and got involved in some good defensive work too, giving it your all in a tough match.",
-    "3": "James, you were a busy man in midfield for Team A today, getting stuck in with tackles and even making a couple of unexpected saves! You created a chance for a teammate, showing that creative spark, even though the final score didn't go Team A's way.",
-    "11": "Mason, you certainly made your presence felt in Team B's midfield today, diligently breaking up play with interceptions and tackles. You even chipped in with a lovely assist, demonstrating your ability to influence the game from both ends of the pitch in their winning effort!",
-    "2": "Manuel, what a monumental effort in goal for Team A, pulling off a staggering number of saves to keep your team in the game! And to top it all off, you even popped up with a goal late in the match \u2013 a true testament to your incredible all-round performance, even if it wasn't enough for the win!",
-    "7": "Ronnie, you were a tireless worker in Team A's midfield today, showing great defensive discipline with those tackles and crucial blocks. Your assist proved you have a keen eye for a pass, and your relentless effort was clear for all to see throughout the match.",
-    "6": "Harvey, talk about clinical! You were absolutely lethal in front of goal for Team A today, bagging four fantastic goals from your seven shots, showing incredible efficiency. You truly led the line and gave the opposition defenders a torrid time, a real shame Team A couldn't quite get the result despite your heroics.",
-    "5": "Errol, you were a constant attacking threat for Team A, weaving through defenders with your dribbles and finding the back of the net three times! Those two assists were also top-notch, demonstrating your ability to create chances not just for yourself, but for your teammates too, a truly impactful performance.",
-    "16": "John, four goals for the winning side! You were absolutely immense in front of goal for Team B, delivering crucial strikes throughout the game. Not just a goal machine, your defensive blocks and tackles showed your commitment to the team's overall effort.",
-    "1": "Danny, you were a defensive powerhouse today, putting in a fantastic shift for both sides with those crucial blocks and relentless tackling! Your determination was unwavering, and you even set up a goal for a teammate \u2013 a truly disciplined performance that helped Team B see out their win.",
-    "8": "Paddy, you were a defensive rock for Team A today, getting stuck in with powerful tackles and making a key block to protect your goal. Your disciplined performance and tireless work rate in the midfield were clear for all to see, even if the result wasn't what Team A hoped for.",
-    "12": "Vince, you got Team B off to a flyer with an early goal and showed a real creative flair with two excellent assists! Your ability to get shots on target was impressive, and you were a constant headache for the opposition defense in Team B's winning effort.",
-    "14": "John-Luke, you truly redefined the goalkeeper role today for Team B, not only making some important saves but also incredibly bagging four goals yourself! Your offensive contributions from the back were absolutely mind-boggling and played a massive part in securing the win for your side."
+    "9": "Lewis, what a performance across the pitch! You got on the scoresheet for Ballers for Life early on, but after switching to Street Legends, you absolutely exploded with a flurry of goals, showing incredible attacking drive right to the final whistle. It's a shame your heroic efforts couldn't quite turn the tide for your new team in the end.",
+    "10": "Liam, you were a clinical finisher for Ballers for Life, grabbing a goal early on and then adding two more in the second half, alongside some great assists! Your consistent attacking threat and ability to find the net were absolutely vital in securing the big win for your team.",
+    "13": "Moe, you were an absolute goal machine for Ballers for Life, especially in the second half, scoring a whopping six goals! Your relentless attacking drive and pinpoint accuracy in front of goal were undeniably the powerhouse behind your team's fantastic victory.",
+    "4": "Mark, you showed great determination up front for Street Legends, getting on the scoresheet with a well-taken goal. You kept pushing and trying to create opportunities throughout the match, a spirited effort despite the final result not going your team's way.",
+    "6": "Vince, what a clinical performance! You put four fantastic goals away for Street Legends, with every shot on target, truly leading the line and battling hard right to the end. It's a shame the final score didn't reflect that incredible individual effort.",
+    "5": "Pelly, you were a constant attacking presence for Street Legends, notching up a fantastic hat-trick and setting up teammates throughout the match. You kept pushing and showing great flair, always looking to create chances even as the game slipped away.",
+    "12": "Christian, you made your presence felt early on for Ballers for Life with a crucial goal and two assists, demonstrating your keen eye for a pass and dangerous shots on target. Your ability to create opportunities truly helped propel your team to victory.",
+    "15": "Andrew, you put in a diligent shift in the midfield for Ballers for Life, contributing to both ends of the pitch with timely tackles and an assist. Your defensive awareness and smart passing helped maintain control as your team secured a memorable win.",
+    "3": "Calvin, you put in a solid, versatile shift for Street Legends, showing grit with your tackles, blocks, and even making a couple of crucial saves. You were certainly busy in the midfield, trying to stem the tide and provide a spark for your team.",
+    "11": "Mason, you brought a nice balance to Ballers for Life's play, breaking up opponent attacks with sharp interceptions and tackles. You also laid on a lovely assist, playing your part beautifully in your team's well-deserved victory.",
+    "7": "Bruce, you were a tireless worker in the midfield for Street Legends, putting in some strong tackles and important blocks to protect your defence. Your vision also shone through with an assist, showing great commitment even if the win eluded your team.",
+    "16": "James, you were simply phenomenal for Ballers for Life, bagging an incredible four goals at crucial moments in the match! Your attacking prowess and defensive work with those blocks and tackles were absolutely key to your team's hard-fought victory.",
+    "2": "Ike, what a performance between the sticks! You pulled off some fantastic saves for Street Legends, and then, to top it all off, you managed to get on the scoresheet yourself late in the game! A brilliant individual effort, even if the result didn't go your team's way.",
+    "14": "John, you were the talk of the town today! Not only did you pull off some excellent saves for Ballers for Life, but you also shocked everyone by scoring four goals and bagging two assists yourself \u2013 absolutely incredible for a goalkeeper and a huge factor in your team's win!",
+    "1": "Alex, you were a rock in defense for both teams today, starting strong for Street Legends with vital tackles and blocks. After your mid-match switch, you continued that solid defensive effort for Ballers for Life, contributing to their ultimate victory.",
+    "8": "Deacon, you held your ground admirably in the midfield for Street Legends, making crucial tackles and blocks to break up opposition attacks. You showed great commitment and tried to keep your team organized throughout what was a tough match."
   },
-  "match_description": "What a truly captivating encounter we had today, with Ballers for Life eventually securing a hard-fought 19-14 victory over Street Legends! The game was an absolute festival of goals, full of dramatic momentum swings, none more captivating than when Pelly, after scoring once for Ballers for Life, switched sides mid-match to Street Legends and absolutely lit up the pitch with five more goals for his new team. Despite Pelly's incredible individual performance and a fantastic four-goal haul from Harvey Caine, it was the relentless attacking prowess of Abraham O'Vick, who bagged six clinical finishes for Ballers for Life, that ultimately propelled them to victory. Both sides showcased immense talent and an admirable fighting spirit, giving us a match to remember!",
+  "match_description": "What a thrilling encounter we witnessed today as Ballers for Life clinched a narrow 19-14 victory over Street Legends in a match that truly had everything! The momentum swung beautifully throughout, with Ballers for Life initially taking the lead thanks to Liam Yarn-Hall and Christian Ronald, but Street Legends kept fighting back through Vince Junior and Mark O'danna. The real twist came mid-match when Lewis Sowers made a memorable switch, scoring for Ballers for Life early on, then adding a stunning five more goals for Street Legends after changing shirts, showcasing incredible adaptability. Ultimately, Moe Sallers' clinical finishing with six goals of his own for Ballers for Life proved decisive in a breathtaking goal blitz that sealed their hard-fought win. What a joy to watch!",
   "team_stats": {
     "avg_sequence_length": 2.1041666666666665,
     "max_sequence_length": 3,
@@ -44216,15 +44216,19 @@ window.matchData = {
       "8"
     ],
     "teamB": [
-      "11",
-      "12",
       "13",
-      "10",
       "15",
       "16",
-      "9",
-      "14"
+      "12",
+      "14",
+      "11",
+      "10",
+      "9"
     ]
+  },
+  "team_labels": {
+    "teamA": "Street Legends",
+    "teamB": "Ballers for Life"
   },
   "team_swaps": {
     "1": 2900.0,
@@ -44245,21 +44249,21 @@ window.matchData = {
     }
   ],
   "player_names": {
-    "9": "Pelly",
-    "10": "Lewis Sowers",
-    "13": "Abraham O'Vick",
-    "4": "Cillian McBappeh",
-    "6": "Harvey Caine",
-    "5": "Errol Hall-Hand",
-    "12": "Vince Junior",
-    "15": "Rodney",
-    "3": "James Marshall",
+    "9": "Lewis Sowers",
+    "10": "Liam Yarn-Hall",
+    "13": "Moe Sallers",
+    "4": "Mark O'danna",
+    "6": "Vince Junior",
+    "5": "Pelly",
+    "12": "Christian Ronald",
+    "15": "Andrew Innster",
+    "3": "Calvin de Brown",
     "11": "Mason O'Zell",
-    "7": "Ronnie Deano",
-    "16": "John Bullingham",
-    "2": "Manuel Newer",
-    "14": "John-Luke Boffin",
-    "1": "Danny Alvins",
-    "8": "Paddy Veers"
+    "7": "Bruce Ferdinand",
+    "16": "James Marshall",
+    "2": "Ike Castles",
+    "14": "John O'Block",
+    "1": "Alex Nester",
+    "8": "Deacon Price"
   }
 };
