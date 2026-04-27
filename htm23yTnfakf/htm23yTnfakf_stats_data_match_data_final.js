@@ -43814,21 +43814,21 @@ window.matchData = {
     ]
   },
   "player_names": {
-    "9": "Krishnan Ranaldo",
-    "10": "Mahadhona",
-    "13": "Lameen Dhayal",
-    "4": "Pillai",
-    "6": "Lional Masi",
-    "5": "Hareesh Khan",
-    "12": "Vinay Junior",
-    "15": "Rudri",
-    "3": "Mehtab Ozail",
-    "11": "Kavin D'Braine",
-    "7": "Jamla Masala",
-    "16": "Inder Inashta",
-    "2": "Manesh Nayar",
-    "14": "Dev Digia",
-    "1": "Masala",
-    "8": "Daksh Rais"
+    "9": "Pelly",
+    "10": "Harvey Caine",
+    "13": "Terry Henries",
+    "4": "Cillian McBappeh",
+    "6": "Bruce Sacker",
+    "5": "Moe Sallers",
+    "12": "Liam Yarn-Hall",
+    "15": "Andrew Innster",
+    "3": "Calvin de Brown",
+    "11": "Rodney",
+    "7": "John Bullingham",
+    "16": "Ronnie Deano",
+    "2": "John-Luke Boffin",
+    "14": "Alan Sonbaker",
+    "1": "Churchill Van Dyke",
+    "8": "Paddy Veers"
   }
 };
