@@ -414,17 +414,17 @@ window.matchData = {
       "defensive_role_pct": 0.0,
       "role": "attacker"
     },
-    "22": {
-      "raw_passes": 1,
-      "raw_total_events": 1,
-      "passes_not_leading_to_shots": 1,
-      "passing_accuracy_total": 1,
-      "passing_accuracy_successful": 1,
+    "21": {
+      "raw_passes": 2,
+      "raw_total_events": 2,
+      "passes_not_leading_to_shots": 2,
+      "passing_accuracy_total": 2,
+      "passing_accuracy_successful": 2,
       "dangerous_shots": 0,
       "shot_conversion": 0.0,
       "shots_on_target_prevented": 0,
       "shot_prevention_rate": 0.0,
-      "total_offensive_actions": 1,
+      "total_offensive_actions": 2,
       "total_defensive_actions": 0,
       "interception_self_followup_rate": 0.0,
       "tackle_self_followup_rate": 0.0,
@@ -527,29 +527,6 @@ window.matchData = {
       "offensive_role_pct": 33.33333333333333,
       "defensive_role_pct": 66.66666666666666,
       "role": "defender"
-    },
-    "21": {
-      "raw_passes": 1,
-      "raw_total_events": 1,
-      "passes_not_leading_to_shots": 1,
-      "passing_accuracy_total": 1,
-      "passing_accuracy_successful": 1,
-      "dangerous_shots": 0,
-      "shot_conversion": 0.0,
-      "shots_on_target_prevented": 0,
-      "shot_prevention_rate": 0.0,
-      "total_offensive_actions": 1,
-      "total_defensive_actions": 0,
-      "interception_self_followup_rate": 0.0,
-      "tackle_self_followup_rate": 0.0,
-      "passing_accuracy": 1.0,
-      "shots_off_target_pct": 0.0,
-      "shots_saved_pct": 0.0,
-      "shots_blocked_pct": 0.0,
-      "goals_pct": 0.0,
-      "offensive_role_pct": 100.0,
-      "defensive_role_pct": 0.0,
-      "role": "attacker"
     },
     "25": {
       "raw_tackles": 5,
@@ -846,62 +823,61 @@ window.matchData = {
     }
   },
   "player_descriptions": {
-    "2": "Lewis, you were a real live wire out there! Your perfect passing and bursts forward contributed nicely to the team's attacking play, helping Street Legends secure that vital win. A solid shift, well done!",
-    "8": "Christian, you really put the opposition keeper to work, making him pull off a save from your dangerous shot. Your all-round effort, including that crucial defensive contribution, showed you were ready to do whatever it took for Street Legends to clinch the victory!",
-    "9": "Manuel, what a performance between the sticks! You pulled off some fantastic saves to deny the opposition, really keeping Ballers for Life in the game. Despite the narrow loss, you certainly gave your teammates every chance.",
-    "10": "Jimmy, you were a dynamic force in midfield, linking play with perfect passes and intercepting danger with ease. It's a shame that shot didn't quite find the net, but your hard work helped Street Legends earn that hard-fought win.",
-    "11": "Pelly, you put in a real engine room shift, combining attacking runs with some vital defensive clearances and tackles! Your fantastic work rate and reliable passing were clear to see, even if Ballers for Life couldn't quite get the result this time.",
-    "7": "Newman, you were a constant threat up front, forcing the keeper into action with two dangerous shots on target! Your sharp attacking play was brilliant to watch, and you certainly made your mark for Ballers for Life despite the close defeat.",
-    "5": "Andrew, you displayed fantastic versatility in the middle of the park, creating a dangerous shot after a brilliant dribble and contributing defensively. Your all-action display was a highlight for Ballers for Life, even if the result wasn't what you hoped for.",
-    "6": "Mark, your attacking play was a joy to behold, with every pass finding its mark and some lovely dribbles to boot! You really pushed forward, creating opportunities and helping Street Legends claim that crucial victory.",
-    "1": "Luke, you were a rock in the midfield engine room! Your perfectly timed tackles and faultless passing provided a solid foundation, allowing Street Legends to push forward and secure a clean sheet victory.",
-    "17": "Rodney, you controlled the midfield with an assured touch, spraying passes around with perfect accuracy and winning back possession when needed. Your composed performance was key to Street Legends' ability to hold out for the win!",
-    "12": "Vince, your short but sweet appearance saw you contribute with precise passing and intelligent movement. Every touch was accurate, showing great control and helping Street Legends keep possession on their way to victory.",
-    "3": "Errol, you showed great determination, combining attacking runs with some diligent defensive work! Your perfect passing kept the play flowing for Ballers for Life, a commendable effort despite the narrow loss.",
-    "16": "Ronnie, you were truly instrumental in midfield, delivering impeccable passes and showing great defensive resolve with your tackles and clearances. You gave it your all for Ballers for Life, a fantastic display of effort!",
-    "15": "Calvin, your midfield presence was undeniable, showcasing excellent passing accuracy and winning back possession with some crunching tackles. You demonstrated superb commitment for Ballers for Life, leaving everything on the pitch.",
-    "14": "Abraham, you were the hero of the day! Your clinical finish was the deciding factor, securing a massive 1-0 win for Street Legends. What a moment for you and the team!",
-    "22": "Bruce, though your time on the pitch was brief, you made every touch count with perfect passing. Your calm distribution was a positive contribution for Ballers for Life, even in a tough contest.",
-    "13": "James, you were a busy player in the midfield, combining perfect passing with some crucial tackles to break up play. You even tried your luck with a shot, showing your desire to impact the game for Ballers for Life.",
-    "19": "Bruce, what an influential performance! You set up the crucial goal with a brilliant assist, demonstrating your creative flair, and your defensive work with tackles and interceptions was top-notch, helping Street Legends to a fantastic victory.",
-    "4": "Fabian, you were a rock at the back for Ballers for Life, making important tackles and clearances to repel the opposition's attacks. Your defensive work rate was commendable, keeping the scoreline tight.",
-    "21": "Moe, a short and sweet appearance where you demonstrated great composure with a perfect pass. Every contribution counts, and you showed your quality when called upon for Street Legends.",
-    "25": "Churchill, you were an absolute defensive titan today, making some incredible tackles and intercepting play like a seasoned pro! Your relentless effort at the back for Ballers for Life was a masterclass in denying the opposition.",
-    "20": "Mason, you were neat and tidy in midfield, displaying perfect passing accuracy and even getting stuck in with a solid tackle. You kept things ticking over for Ballers for Life, showing your commitment in a challenging match.",
-    "18": "Eddison, you were a calm and collected presence in goal, making crucial saves to keep a clean sheet for Street Legends. Your confident performance was undoubtedly a factor in securing that valuable 1-0 victory!",
-    "23": "Paddy, you were a force in defensive midfield, breaking up play with important tackles and clearing your lines effectively. Your relentless work rate was truly appreciated, battling hard for Ballers for Life throughout the game.",
-    "26": "Cillian, you showed some lovely footwork with a nice dribble and distributed the ball with perfect accuracy in your attacking role. Every touch was positive, trying to ignite the Ballers for Life offense.",
-    "24": "Lionel, you displayed some promising attacking intent with your dribbling and even pitched in with a defensive clearance. It's that kind of all-round effort that makes a difference, even in a tough match for Ballers for Life.",
-    "29": "John, you were a tenacious presence in midfield, winning back possession with sharp tackles and delivering perfect passes to launch attacks. Your determination was a key factor in Street Legends' ability to grind out that important victory.",
-    "27": "Liam, you showed glimpses of your individual brilliance with a lovely dribble, trying to spark something for Ballers for Life. Keep showing that initiative, it's what drives the team forward!",
-    "30": "Reuben, though your time on the pitch was brief, you made an immediate impact with a solid tackle, showcasing your defensive commitment. You were ready to put your body on the line for Street Legends' clean sheet.",
-    "32": "Tony, you showed a fantastic blend of offensive and defensive power, testing the keeper with a dangerous shot and winning back possession with a firm tackle. Your all-round contribution helped Street Legends secure their hard-earned victory.",
-    "31": "Terry, a quick appearance on the field saw you distribute the ball with perfect precision. Every touch was meaningful, contributing to Street Legends' controlled play and eventual win.",
-    "28": "Josh, you were a tenacious defender, putting in some great tackles to stop the opposition in their tracks. While a pass might not have gone to plan, your defensive effort was absolutely crucial in helping Street Legends keep that clean sheet and seal the win!"
+    "2": "Terry, your all-around game really shone today, with those sharp passes and a crucial tackle that showed your commitment. You were a busy bee up front, contributing to a fantastic team performance that secured the win for Street Legends!",
+    "8": "Errol, you certainly kept the opposition on their toes with that dangerous shot you fired in! It was also impressive to see you get stuck in defensively, helping your teammates preserve that hard-fought clean sheet and the winning result for Street Legends.",
+    "11": "Mark, you covered a lot of ground today, showing great versatility with your clearances and tackles, alongside your attacking efforts. Your dedication to both ends of the pitch was clear for Ballers for Life, even if the result didn't go your way this time.",
+    "7": "Christian, you really took the game to the opposition with those dangerous shots on target, making their keeper work! Your offensive drive was a constant threat, and you showed real intent to try and break the deadlock for Ballers for Life.",
+    "6": "Abraham, you were a constant attacking presence, showing superb dribbling skills and precise passing throughout the match. Your offensive contributions were key in helping the Street Legends secure that vital victory and keep the pressure on.",
+    "12": "Lionel, though your involvement in events was limited, your perfect passing accuracy showed real composure when on the ball. Every touch contributed to the team's flow, helping Street Legends earn that hard-fought victory.",
+    "3": "Bruce, you demonstrated a good balance of attack and defence, dribbling well and making some accurate passes. Your efforts to push forward and contribute to the team were clear, even though the result wasn't what Ballers for Life had hoped for.",
+    "14": "Vince, what a moment it was when you found the back of the net! That decisive goal was absolutely massive, not only securing the win for Street Legends but also proving to be the difference maker in a tight match. Brilliant stuff!",
+    "21": "Moe, you demonstrated excellent composure and perfect passing accuracy with every touch, keeping the ball moving forward for Street Legends. Your contribution helped maintain possession and secure a fantastic win for the team.",
+    "26": "Liam, you looked sharp with your dribble and made a perfect pass when you had the ball. Every touch counted, and you showed good intent to get forward for Ballers for Life today.",
+    "24": "Cillian, you demonstrated your attacking intent with a nice dribble and even chipped in with a clearance, showing a willingness to contribute. You gave your all out there for Ballers for Life, putting in the effort.",
+    "27": "Lewis, you showed a flash of individual skill with a well-executed dribble today. Every moment on the pitch counts, and you contributed your attacking flair for Ballers for Life.",
+    "31": "Pelly, your perfect pass kept possession flowing and demonstrated your reliability on the ball. You played your part in a cohesive team effort that saw Street Legends achieve a great victory today.",
+    "9": "Alan, you put in a real shift between the sticks today, making some vital saves to keep your team in the game! Despite the scoreline, your efforts were truly commendable and you denied the opposition multiple times for Ballers for Life.",
+    "18": "Davey, you were a commanding presence in goal, making crucial saves to keep a clean sheet for Street Legends. Your concentration and sharp reflexes were vital in securing that fantastic win for the team!",
+    "10": "Jimmy, your work rate was superb, intercepting plays and linking up passes with great accuracy. You were a dynamic force in midfield, playing a part in securing that valuable victory for the Street Legends.",
+    "5": "Mason, your efforts in midfield were tireless, creating a dangerous shot after a brilliant dribble and contributing defensively with tackles and interceptions. You gave it your all, showcasing your versatility and creativity for Ballers for Life.",
+    "17": "James, your crisp passing and willingness to track back with tackles and clearances made you a real asset in the midfield battle. You played your part in a solid team performance that saw Street Legends come out on top.",
+    "16": "Andrew, your accurate passing was a real highlight, and you certainly weren't afraid to get stuck in with some solid tackles and clearances! You worked tirelessly in the midfield, fighting hard for Ballers for Life right up until the final whistle.",
+    "15": "Calvin, your precision passing and tenacious tackling showed incredible commitment in the midfield today. You were a pivotal figure, influencing play at both ends for Ballers for Life, always pushing to make something happen.",
+    "13": "Bruce, your willingness to take a shot and your commitment to winning the ball back with those tackles were impressive today. You battled hard in the midfield for Ballers for Life, putting in a determined performance despite the final score.",
+    "19": "John, what a performance! Your fantastic assist directly led to the winning goal, and your tenacious tackling and smart interceptions were instrumental in securing that clean sheet. You truly led by example today for Street Legends.",
+    "20": "Rodney, you kept things ticking over with your accurate passes and weren't afraid to get involved in the defensive duties either. Your efforts to contribute on both ends of the pitch were valuable for Ballers for Life today.",
+    "29": "Ronnie, your tenacious tackling, including a great follow-up to win the ball, and accurate passing were a real engine in the midfield. You played a vital role in keeping things tight and securing a brilliant victory for Street Legends!",
+    "1": "Luke, your defensive work was absolutely crucial today, making several important tackles to protect your backline. You were a rock in midfield, instrumental in helping Street Legends keep a clean sheet and clinch the win!",
+    "23": "Tony, your defensive actions, including those important clearances and a solid tackle, were a testament to your hard work in the midfield. You showed good effort to break up play and get forward when possible for Ballers for Life.",
+    "32": "Nigel, you certainly made your presence felt with both a strong tackle to win possession and a dangerous shot that tested the keeper! Your dual threat helped Street Legends control the midfield and earn a memorable win.",
+    "4": "Alex, you were a sturdy presence at the back, putting in some strong tackles and clearances to break up the opposition's play. Your defensive efforts were commendable, showcasing your commitment to the Ballers for Life cause.",
+    "25": "John, your defensive masterclass was a sight to behold, with a fantastic number of tackles and a smart interception to win the ball back. You were a formidable presence, truly anchoring the defense for Ballers for Life today.",
+    "30": "Sir, you put in a solid tackle when it mattered, showing your defensive commitment for the team. Every defensive action contributed to that fantastic clean sheet and the winning result for Street Legends!",
+    "28": "Fabian, you were a strong presence in defense, putting in some robust tackles to shut down the opposition. Your efforts were key in maintaining that crucial clean sheet and securing the win for Street Legends."
   },
-  "match_description": "What a captivating contest we witnessed today as Street Legends edged out Ballers for Life with a narrow 1-0 victory! It was Abraham O'Vick who truly lit up the stadium in the 33rd minute, finding the back of the net to give Street Legends the crucial lead, a moment that certainly shifted the momentum. O'Vick, not just a scorer, was also pivotal with his clever key passes, while Bruce Ferdinand was an absolute powerhouse for Street Legends, orchestrating play and delivering the assist that led to the winner, truly a delightful display of football. Ballers for Life fought valiantly, but ultimately, Street Legends held firm to claim all three points, a performance to remember indeed!",
+  "match_description": "What a captivating encounter we witnessed today as Street Legends secured a narrow but well-deserved 1-0 victory over Ballers for Life! The breakthrough arrived in the 33rd minute, with the ever-lively Vince Junior slotting home the decisive goal after some brilliant build-up. Vince Junior truly shone, not only with his crucial strike but also by orchestrating play with two key passes throughout the match. Not to be outdone, John Bullingham was a force in midfield, bagging the assist for the goal and tirelessly breaking up play, making him another standout performer for Street Legends. What a display of grit and flair from both sides!",
   "team_stats": {
     "avg_sequence_length": 2.111111111111111,
     "max_sequence_length": 3,
     "total_sequences": 9,
     "averages": {
-      "shot_conversion": 0.03125,
-      "shot_prevention_rate": 0.01597222222222222,
-      "dangerous_shots": 0.1875,
-      "shots_on_target": 0.1875,
-      "shots_total": 0.3125,
-      "tackle_self_followup_rate": 0.015625,
-      "interception_self_followup_rate": 0.0625,
-      "total_offensive_actions": 3.34375,
-      "total_defensive_actions": 1.53125,
-      "shots_on_target_prevented": 0.15625,
-      "shot_creating_actions": 0.03125,
-      "valid_key_passes": 0.03125,
-      "dribbles_leading_to_shots": 0.03125,
-      "passing_accuracy": 0.80078125,
-      "passing_accuracy_total": 2.5,
-      "passing_accuracy_successful": 2.40625,
-      "passing_accuracy_unsuccessful": 0.09375
+      "shot_conversion": 0.03225806451612903,
+      "shot_prevention_rate": 0.016487455197132614,
+      "dangerous_shots": 0.1935483870967742,
+      "shots_on_target": 0.1935483870967742,
+      "shots_total": 0.3225806451612903,
+      "tackle_self_followup_rate": 0.016129032258064516,
+      "interception_self_followup_rate": 0.06451612903225806,
+      "total_offensive_actions": 3.4516129032258065,
+      "total_defensive_actions": 1.5806451612903225,
+      "shots_on_target_prevented": 0.16129032258064516,
+      "shot_creating_actions": 0.03225806451612903,
+      "valid_key_passes": 0.03225806451612903,
+      "dribbles_leading_to_shots": 0.03225806451612903,
+      "passing_accuracy": 0.7943548387096774,
+      "passing_accuracy_total": 2.5806451612903225,
+      "passing_accuracy_successful": 2.4838709677419355,
+      "passing_accuracy_unsuccessful": 0.0967741935483871
     },
     "maximums": {
       "shot_conversion": 1.0,
@@ -3707,15372 +3683,15372 @@ window.matchData = {
       },
       {
         "time": 363.04,
-        "momentum": -1.7996564165992275
+        "momentum": -1.6556564165992278
       },
       {
         "time": 363.54,
-        "momentum": -1.86528261440025
+        "momentum": -1.5815872741658232
       },
       {
         "time": 364.36,
-        "momentum": -1.930672131093575
+        "momentum": -1.5077852623489219
       },
       {
         "time": 364.86,
-        "momentum": -1.9958258202704298
+        "momentum": -1.434249417741038
       },
       {
         "time": 365.36,
-        "momentum": -2.0607445324435627
+        "momentum": -1.3609787804092184
       },
       {
         "time": 365.86,
-        "momentum": -2.042165028075283
+        "momentum": -1.3487083068994499
       },
       {
         "time": 366.36,
-        "momentum": -2.0347999528897396
+        "momentum": -1.3438441857598165
       },
       {
         "time": 366.86,
-        "momentum": -2.2297726797331627
+        "momentum": -1.537807465579394
       },
       {
         "time": 367.36,
-        "momentum": -2.2843494166266423
+        "momentum": -1.623756902232938
       },
       {
         "time": 368.06,
-        "momentum": -2.338729322331125
+        "momentum": -1.7093963619480828
       },
       {
         "time": 368.56,
-        "momentum": -2.392913106718971
+        "momentum": -1.794726962657721
       },
       {
         "time": 369.06,
-        "momentum": -2.446901477102382
+        "momentum": -1.8797498182629166
       },
       {
         "time": 369.56,
-        "momentum": -2.298383898382614
+        "momentum": -1.7656561801578252
       },
       {
         "time": 370.06,
-        "momentum": -2.290094768961578
+        "momentum": -1.7592883350816915
       },
       {
         "time": 370.56,
-        "momentum": -2.2818355343142587
+        "momentum": -1.752943455660689
       },
       {
         "time": 371.06,
-        "momentum": -2.273606086625054
+        "momentum": -1.7466214590691034
       },
       {
         "time": 371.56,
-        "momentum": -2.265406318467196
+        "momentum": -1.740322262779932
       },
       {
         "time": 372.06,
-        "momentum": -2.2572361228013538
+        "momentum": -1.734045784563806
       },
       {
         "time": 372.56,
-        "momentum": -2.2490953929742323
+        "momentum": -1.7277919424879165
       },
       {
         "time": 373.06,
-        "momentum": -2.240984022717184
+        "momentum": -1.7215606549149467
       },
       {
         "time": 373.56,
-        "momentum": -2.232901906144818
+        "momentum": -1.7153518405020036
       },
       {
         "time": 374.06,
-        "momentum": -2.2248489377536202
+        "momentum": -1.709165418199559
       },
       {
         "time": 374.56,
-        "momentum": -2.2168250124205753
+        "momentum": -1.7030013072503891
       },
       {
         "time": 375.06,
-        "momentum": -2.2088300254017943
+        "momentum": -1.6968594271885222
       },
       {
         "time": 375.56,
-        "momentum": -2.200863872331147
+        "momentum": -1.6907396978381866
       },
       {
         "time": 376.06,
-        "momentum": -2.192926449218901
+        "momentum": -1.6846420393127648
       },
       {
         "time": 376.56,
-        "momentum": -2.1850176524503633
+        "momentum": -1.6785663720137514
       },
       {
         "time": 377.06,
-        "momentum": -2.177137378784525
+        "momentum": -1.672512616629713
       },
       {
         "time": 377.56,
-        "momentum": -2.169285525352721
+        "momentum": -1.6664806941352523
       },
       {
         "time": 378.06,
-        "momentum": -2.161461989657277
+        "momentum": -1.6604705257899792
       },
       {
         "time": 378.56,
-        "momentum": -2.153666669570181
+        "momentum": -1.6544820331374788
       },
       {
         "time": 379.06,
-        "momentum": -2.1458994633317445
+        "momentum": -1.648515138004291
       },
       {
         "time": 379.56,
-        "momentum": -2.1381602695492754
+        "momentum": -1.6425697624988889
       },
       {
         "time": 380.06,
-        "momentum": -2.1304489871957557
+        "momentum": -1.6366458290106602
       },
       {
         "time": 380.56,
-        "momentum": -2.122765515608521
+        "momentum": -1.630743260208897
       },
       {
         "time": 381.06,
-        "momentum": -2.1151097544879467
+        "momentum": -1.6248619790417838
       },
       {
         "time": 381.56,
-        "momentum": -2.1074816038961393
+        "momentum": -1.619001908735393
       },
       {
         "time": 382.06,
-        "momentum": -2.0998809642556333
+        "momentum": -1.6131629727926828
       },
       {
         "time": 382.56,
-        "momentum": -2.0923077363480873
+        "momentum": -1.6073450949924983
       },
       {
         "time": 383.06,
-        "momentum": -2.0847618213129926
+        "momentum": -1.6015481993885756
       },
       {
         "time": 383.56,
-        "momentum": -2.077243120646381
+        "momentum": -1.5957722103085523
       },
       {
         "time": 384.06,
-        "momentum": -2.069751536199539
+        "momentum": -1.5900170523529777
       },
       {
         "time": 384.56,
-        "momentum": -2.0622869701777273
+        "momentum": -1.5842826503943306
       },
       {
         "time": 385.06,
-        "momentum": -2.0548493251389024
+        "momentum": -1.5785689295760363
       },
       {
         "time": 385.56,
-        "momentum": -2.0474385039924474
+        "momentum": -1.5728758153114915
       },
       {
         "time": 386.06,
-        "momentum": -2.0400544099979023
+        "momentum": -1.5672032332830887
       },
       {
         "time": 386.56,
-        "momentum": -2.032696946763702
+        "momentum": -1.5615511094412486
       },
       {
         "time": 387.06,
-        "momentum": -2.0253660182459177
+        "momentum": -1.5559193700034508
       },
       {
         "time": 387.56,
-        "momentum": -2.0180615287470034
+        "momentum": -1.5503079414532717
       },
       {
         "time": 388.06,
-        "momentum": -2.010783382914547
+        "momentum": -1.544716750539426
       },
       {
         "time": 388.56,
-        "momentum": -2.0035314857400253
+        "momentum": -1.5391457242748081
       },
       {
         "time": 389.06,
-        "momentum": -1.9963057425575623
+        "momentum": -1.5335947899355422
       },
       {
         "time": 389.56,
-        "momentum": -1.989106059042697
+        "momentum": -1.5280638750600297
       },
       {
         "time": 390.06,
-        "momentum": -1.981932341211148
+        "momentum": -1.5225529074480062
       },
       {
         "time": 390.56,
-        "momentum": -1.9747844954175897
+        "momentum": -1.5170618151595974
       },
       {
         "time": 391.06,
-        "momentum": -1.9676624283544277
+        "momentum": -1.5115905265143805
       },
       {
         "time": 391.56,
-        "momentum": -1.9605660470505828
+        "momentum": -1.5061389700904484
       },
       {
         "time": 392.06,
-        "momentum": -1.9534952588702759
+        "momentum": -1.500707074723477
       },
       {
         "time": 392.56,
-        "momentum": -1.9464499715118186
+        "momentum": -1.4952947695057972
       },
       {
         "time": 393.06,
-        "momentum": -1.93943009300641
+        "momentum": -1.4899019837854681
       },
       {
         "time": 393.56,
-        "momentum": -1.9324355317169335
+        "momentum": -1.4845286471653556
       },
       {
         "time": 394.06,
-        "momentum": -1.9254661963367639
+        "momentum": -1.4791746895022126
       },
       {
         "time": 394.56,
-        "momentum": -1.9185219958885718
+        "momentum": -1.4738400409057648
       },
       {
         "time": 395.06,
-        "momentum": -1.9116028397231393
+        "momentum": -1.468524631737797
       },
       {
         "time": 395.56,
-        "momentum": -1.904708637518174
+        "momentum": -1.4632283926112435
       },
       {
         "time": 396.06,
-        "momentum": -1.8978392992771327
+        "momentum": -1.4579512543892847
       },
       {
         "time": 396.56,
-        "momentum": -1.8909947353280434
+        "momentum": -1.4526931481844425
       },
       {
         "time": 397.06,
-        "momentum": -1.8841748563223373
+        "momentum": -1.4474540053576819
       },
       {
         "time": 397.56,
-        "momentum": -1.8773795732336815
+        "momentum": -1.4422337575175146
       },
       {
         "time": 398.06,
-        "momentum": -1.8706087973568166
+        "momentum": -1.4370323365191067
       },
       {
         "time": 398.56,
-        "momentum": -1.863862440306399
+        "momentum": -1.4318496744633884
       },
       {
         "time": 399.06,
-        "momentum": -1.8571404140158474
+        "momentum": -1.426685703696169
       },
       {
         "time": 399.56,
-        "momentum": -1.8504426307361928
+        "momentum": -1.421540356807252
       },
       {
         "time": 400.06,
-        "momentum": -1.8437690030349334
+        "momentum": -1.4164135666295565
       },
       {
         "time": 400.56,
-        "momentum": -1.8371194437948923
+        "momentum": -1.4113052662382397
       },
       {
         "time": 401.06,
-        "momentum": -1.8304938662130819
+        "momentum": -1.4062153889498237
       },
       {
         "time": 401.56,
-        "momentum": -1.823892183799569
+        "momentum": -1.4011438683213246
       },
       {
         "time": 402.06,
-        "momentum": -1.8173143103763478
+        "momentum": -1.3960906381493852
       },
       {
         "time": 402.56,
-        "momentum": -1.8107601600762124
+        "momentum": -1.391055632469411
       },
       {
         "time": 403.06,
-        "momentum": -2.010666766998674
+        "momentum": -1.5678055253290755
       },
       {
         "time": 403.56,
-        "momentum": -2.184152841719377
+        "momentum": -1.7231202525190206
       },
       {
         "time": 404.55,
-        "momentum": -2.3570132383159335
+        "momentum": -1.8778748366120808
       },
       {
         "time": 405.05,
-        "momentum": -2.5292502132986465
+        "momentum": -2.032071297766258
       },
       {
         "time": 405.55,
-        "momentum": -2.700866015039708
+        "momentum": -2.1857116488538484
       },
       {
         "time": 406.05,
-        "momentum": -2.6654257641455095
+        "momentum": -2.1570311557133497
       },
       {
         "time": 406.55,
-        "momentum": -2.6558128969753585
+        "momentum": -2.149251815444086
       },
       {
         "time": 407.05,
-        "momentum": -2.6462346986436622
+        "momentum": -2.1415005313922135
       },
       {
         "time": 407.55,
-        "momentum": -2.636691044117136
+        "momentum": -2.1337772023728885
       },
       {
         "time": 408.05,
-        "momentum": -2.627181808813428
+        "momentum": -2.1260817275661896
       },
       {
         "time": 408.55,
-        "momentum": -2.6177068685994924
+        "momentum": -2.1184140065158035
       },
       {
         "time": 409.05,
-        "momentum": -2.6082660997899714
+        "momentum": -2.1107739391277134
       },
       {
         "time": 409.55,
-        "momentum": -2.6937242895079145
+        "momentum": -2.1936651576758353
       },
       {
         "time": 410.05,
-        "momentum": -2.762516201035335
+        "momentum": -2.262651704016597
       },
       {
         "time": 411.02,
-        "momentum": -2.831060014297634
+        "momentum": -2.3313894501411156
       },
       {
         "time": 411.52,
-        "momentum": -2.8993566240620567
+        "momentum": -2.399879293348224
       },
       {
         "time": 412.02,
-        "momentum": -2.967406921868867
+        "momentum": -2.4681221277006453
       },
       {
         "time": 412.52,
-        "momentum": -2.9403468856806483
+        "momentum": -2.445615112029717
       },
       {
         "time": 413.02,
-        "momentum": -2.929742514541737
+        "momentum": -2.436794992731143
       },
       {
         "time": 413.52,
-        "momentum": -2.862022701498163
+        "momentum": -2.368355011432993
       },
       {
         "time": 414.02,
-        "momentum": -2.761662795351017
+        "momentum": -2.273573012267228
       },
       {
         "time": 414.79,
-        "momentum": -2.661664837549977
+        "momentum": -2.1791328447068885
       },
       {
         "time": 415.29,
-        "momentum": -2.56202752272709
+        "momentum": -2.0850332759351167
       },
       {
         "time": 415.79,
-        "momentum": -2.4627495502222176
+        "momentum": -1.9912730775812122
       },
       {
         "time": 416.29,
-        "momentum": -2.42098331067164
+        "momentum": -1.9575026974947076
       },
       {
         "time": 416.79,
-        "momentum": -2.412252026049237
+        "momentum": -1.9504429572950919
       },
       {
         "time": 417.29,
-        "momentum": -2.403552230834804
+        "momentum": -1.9434086780727458
       },
       {
         "time": 417.79,
-        "momentum": -2.394883811461683
+        "momentum": -1.9363997680025673
       },
       {
         "time": 418.29,
-        "momentum": -2.386246654772793
+        "momentum": -1.9294161355906219
       },
       {
         "time": 418.79,
-        "momentum": -2.3776406480191588
+        "momentum": -1.9224576896729488
       },
       {
         "time": 419.29,
-        "momentum": -2.3690656788584294
+        "momentum": -1.9155243394143695
       },
       {
         "time": 419.79,
-        "momentum": -2.360521635353421
+        "momentum": -1.9086159943073036
       },
       {
         "time": 420.29,
-        "momentum": -2.3520084059706488
+        "momentum": -1.901732564170586
       },
       {
         "time": 420.79,
-        "momentum": -2.343525879578876
+        "momentum": -1.8948739591482908
       },
       {
         "time": 421.29,
-        "momentum": -2.33507394544766
+        "momentum": -1.8880400897085579
       },
       {
         "time": 421.79,
-        "momentum": -2.3266524932459083
+        "momentum": -1.8812308666424233
       },
       {
         "time": 422.29,
-        "momentum": -2.318261413040437
+        "momentum": -1.8744462010626564
       },
       {
         "time": 422.79,
-        "momentum": -2.2207197793454547
+        "momentum": -1.7726050675156433
       },
       {
         "time": 423.29,
-        "momentum": -2.0513437659816383
+        "momentum": -1.598992275788081
       },
       {
         "time": 423.82,
-        "momentum": -1.8746331009317039
+        "momentum": -1.4205655294984907
       },
       {
         "time": 424.39,
-        "momentum": -1.6985597435020097
+        "momentum": -1.2427822798820236
       },
       {
         "time": 424.89,
-        "momentum": -1.5231213952404346
+        "momentum": -1.0656402061657182
       },
       {
         "time": 425.39,
-        "momentum": -1.437496581933317
+        "momentum": -0.9842179328334444
       },
       {
         "time": 425.89,
-        "momentum": -1.4243667387150498
+        "momentum": -0.9752282577878661
       },
       {
         "time": 426.39,
-        "momentum": -1.4192297551812996
+        "momentum": -0.9717110937277003
       },
       {
         "time": 426.89,
-        "momentum": -1.5413031690243757
+        "momentum": -1.0931307082938762
       },
       {
         "time": 427.39,
-        "momentum": -1.636900829440871
+        "momentum": -1.1938718166331932
       },
       {
         "time": 428.17,
-        "momentum": -1.7321537165668388
+        "momentum": -1.2942496018193892
       },
       {
         "time": 428.67,
-        "momentum": -1.8270630738283355
+        "momentum": -1.3942653741786635
       },
       {
         "time": 429.17,
-        "momentum": -1.9216301401669962
+        "momentum": -1.4939204393115186
       },
       {
         "time": 429.67,
-        "momentum": -1.8886642792281356
+        "momentum": -1.4682920041477234
       },
       {
         "time": 430.17,
-        "momentum": -1.8818528050203558
+        "momentum": -1.4629966039933724
       },
       {
         "time": 430.67,
-        "momentum": -1.8750658964176936
+        "momentum": -1.45772030171786
       },
       {
         "time": 431.17,
-        "momentum": -1.8683034648242092
+        "momentum": -1.4524630284446203
       },
       {
         "time": 431.67,
-        "momentum": -1.8615654219634858
+        "momentum": -1.4472247155454911
       },
       {
         "time": 432.17,
-        "momentum": -1.8548516798774748
+        "momentum": -1.4420052946398187
       },
       {
         "time": 432.67,
-        "momentum": -1.8481621509253485
+        "momentum": -1.4368046975935638
       },
       {
         "time": 433.17,
-        "momentum": -1.841496747782357
+        "momentum": -1.4316228565184121
       },
       {
         "time": 433.67,
-        "momentum": -1.8348553834386863
+        "momentum": -1.4264597037708902
       },
       {
         "time": 434.17,
-        "momentum": -1.8282379711983243
+        "momentum": -1.4213151719514796
       },
       {
         "time": 434.67,
-        "momentum": -1.821644424677928
+        "momentum": -1.4161891939037397
       },
       {
         "time": 435.17,
-        "momentum": -1.8150746578056964
+        "momentum": -1.411081702713429
       },
       {
         "time": 435.67,
-        "momentum": -1.8085285848202468
+        "momentum": -1.4059926317076328
       },
       {
         "time": 436.17,
-        "momentum": -1.8980488684269687
+        "momentum": -1.4916133120016783
       },
       {
         "time": 436.67,
-        "momentum": -2.0602931619599745
+        "momentum": -1.649776023993122
       },
       {
         "time": 437.33,
-        "momentum": -2.212359848820428
+        "momentum": -1.7993259563805897
       },
       {
         "time": 437.51,
-        "momentum": -2.363878106652597
+        "momentum": -1.948336536423421
       },
       {
         "time": 438.01,
-        "momentum": -2.5148499133676556
+        "momentum": -2.096809709297699
       },
       {
         "time": 438.51,
-        "momentum": -2.56923449158596
+        "momentum": -2.154056015616436
       },
       {
         "time": 439.01,
-        "momentum": -2.439607299012029
+        "momentum": -2.0259845405738552
       },
       {
         "time": 439.51,
-        "momentum": -2.312228149025338
+        "momentum": -1.90025066788207
       },
       {
         "time": 440.07,
-        "momentum": -2.185308392380432
+        "momentum": -1.7749702548338564
       },
       {
         "time": 440.57,
-        "momentum": -2.0588463722736456
+        "momentum": -1.6501416660254524
       },
       {
         "time": 441.07,
-        "momentum": -1.9328404378765824
+        "momentum": -1.5257632719511856
       },
       {
         "time": 441.57,
-        "momentum": -2.0450002317475473
+        "momentum": -1.63957429829263
       },
       {
         "time": 442.07,
-        "momentum": -2.0790281138395734
+        "momentum": -1.6873602756526505
       },
       {
         "time": 442.84,
-        "momentum": -2.1129332742579994
+        "momentum": -1.7349739127212487
       },
       {
         "time": 443.34,
-        "momentum": -2.146716155598963
+        "momentum": -1.7824158310442768
       },
       {
         "time": 443.84,
-        "momentum": -2.1803771988623764
+        "momentum": -1.829686649925981
       },
       {
         "time": 444.34,
-        "momentum": -2.086974323512384
+        "momentum": -1.7513066365128211
       },
       {
         "time": 444.84,
-        "momentum": -2.0794476434489937
+        "momentum": -1.7449905431151123
       },
       {
         "time": 445.34,
-        "momentum": -2.071948108383095
+        "momentum": -1.7386972287299287
       },
       {
         "time": 445.84,
-        "momentum": -2.064475620416161
+        "momentum": -1.732426611204683
       },
       {
         "time": 446.34,
-        "momentum": -2.0570300820027367
+        "momentum": -1.7261786086830733
       },
       {
         "time": 446.84,
-        "momentum": -2.0496113959491646
+        "momentum": -1.7199531396040098
       },
       {
         "time": 447.34,
-        "momentum": -2.042219465412317
+        "momentum": -1.7137501227005552
       },
       {
         "time": 447.84,
-        "momentum": -2.034854193898331
+        "momentum": -1.7075694769988607
       },
       {
         "time": 448.34,
-        "momentum": -2.027515485261348
+        "momentum": -1.7014111218171108
       },
       {
         "time": 448.84,
-        "momentum": -2.020203243702263
+        "momentum": -1.695274976764469
       },
       {
         "time": 449.34,
-        "momentum": -2.0129173737674666
+        "momentum": -1.6891609617400278
       },
       {
         "time": 449.84,
-        "momentum": -2.0056577803476068
+        "momentum": -1.683068996931765
       },
       {
         "time": 450.34,
-        "momentum": -1.998424368676341
+        "momentum": -1.6769990028154997
       },
       {
         "time": 450.84,
-        "momentum": -1.991217044329104
+        "momentum": -1.6709509001538563
       },
       {
         "time": 451.34,
-        "momentum": -1.9840357132218713
+        "momentum": -1.6649246099952282
       },
       {
         "time": 451.84,
-        "momentum": -1.9768802816099345
+        "momentum": -1.6589200536727486
       },
       {
         "time": 452.34,
-        "momentum": -1.9697506560866738
+        "momentum": -1.6529371528032626
       },
       {
         "time": 452.84,
-        "momentum": -1.962646743582343
+        "momentum": -1.6469758292863048
       },
       {
         "time": 453.34,
-        "momentum": -1.95556845136285
+        "momentum": -1.6410360053030792
       },
       {
         "time": 453.84,
-        "momentum": -1.94851568702855
+        "momentum": -1.6351176033154435
       },
       {
         "time": 454.34,
-        "momentum": -1.9414883585130376
+        "momentum": -1.629220546064897
       },
       {
         "time": 454.84,
-        "momentum": -1.9344863740819445
+        "momentum": -1.6233447565715722
       },
       {
         "time": 455.34,
-        "momentum": -1.9275096423317435
+        "momentum": -1.6174901581332297
       },
       {
         "time": 455.84,
-        "momentum": -1.9205580721885547
+        "momentum": -1.6116566743242569
       },
       {
         "time": 456.34,
-        "momentum": -1.913631572906955
+        "momentum": -1.6058442289946704
       },
       {
         "time": 456.84,
-        "momentum": -1.906730054068797
+        "momentum": -1.6000527462691223
       },
       {
         "time": 457.34,
-        "momentum": -1.899853425582025
+        "momentum": -1.594282150545909
       },
       {
         "time": 457.84,
-        "momentum": -1.8930015976795016
+        "momentum": -1.5885323664959847
       },
       {
         "time": 458.34,
-        "momentum": -1.8861744809178345
+        "momentum": -1.5828033190619784
       },
       {
         "time": 458.84,
-        "momentum": -1.8793719861762093
+        "momentum": -1.5770949334572135
       },
       {
         "time": 459.34,
-        "momentum": -1.8725940246552262
+        "momentum": -1.571407135164732
       },
       {
         "time": 459.84,
-        "momentum": -1.8658405078757405
+        "momentum": -1.5657398499363215
       },
       {
         "time": 460.34,
-        "momentum": -1.8591113476777086
+        "momentum": -1.5600930037915461
       },
       {
         "time": 460.84,
-        "momentum": -1.8524064562190354
+        "momentum": -1.5544665230167802
       },
       {
         "time": 461.34,
-        "momentum": -1.8457257459744292
+        "momentum": -1.5488603341642468
       },
       {
         "time": 461.84,
-        "momentum": -1.839069129734258
+        "momentum": -1.5432743640510593
       },
       {
         "time": 462.34,
-        "momentum": -1.832436520603413
+        "momentum": -1.5377085397582644
       },
       {
         "time": 462.84,
-        "momentum": -1.8258278320001715
+        "momentum": -1.5321627886298916
       },
       {
         "time": 463.34,
-        "momentum": -1.8192429776550685
+        "momentum": -1.526637038272005
       },
       {
         "time": 463.84,
-        "momentum": -1.8126818716097706
+        "momentum": -1.5211312165517565
       },
       {
         "time": 464.34,
-        "momentum": -1.806144428215952
+        "momentum": -1.5156452515964465
       },
       {
         "time": 464.84,
-        "momentum": -1.7996305621341802
+        "momentum": -1.5101790717925838
       },
       {
         "time": 465.34,
-        "momentum": -1.793140188332797
+        "momentum": -1.5047326057849522
       },
       {
         "time": 465.84,
-        "momentum": -1.786673222086814
+        "momentum": -1.4993057824756773
       },
       {
         "time": 466.34,
-        "momentum": -1.780229578976801
+        "momentum": -1.4938985310233004
       },
       {
         "time": 466.84,
-        "momentum": -1.7738091748877889
+        "momentum": -1.4885107808418525
       },
       {
         "time": 467.34,
-        "momentum": -1.938417330675982
+        "momentum": -1.6427273999587986
       },
       {
         "time": 467.84,
-        "momentum": -2.0738595642335342
+        "momentum": -1.7715306423127206
       },
       {
         "time": 468.47,
-        "momentum": -2.208813324910719
+        "momentum": -1.8998693553308468
       },
       {
         "time": 468.97,
-        "momentum": -2.3432803743866573
+        "momentum": -2.027745214339821
       },
       {
         "time": 469.47,
-        "momentum": -2.477262467986966
+        "momentum": -2.1551598886242163
       },
       {
         "time": 469.97,
-        "momentum": -2.4397559500388635
+        "momentum": -2.1225301030894608
       },
       {
         "time": 470.47,
-        "momentum": -2.430956961828127
+        "momentum": -2.1148751909849444
       },
       {
         "time": 470.97,
-        "momentum": -2.4221897071985836
+        "momentum": -2.107247886347216
       },
       {
         "time": 471.47,
-        "momentum": -2.413454071702964
+        "momentum": -2.099648089609853
       },
       {
         "time": 471.97,
-        "momentum": -2.404749941306754
+        "momentum": -2.0920757015655163
       },
       {
         "time": 472.47,
-        "momentum": -2.396077202386703
+        "momentum": -2.0845306233646617
       },
       {
         "time": 472.97,
-        "momentum": -2.3874357417293455
+        "momentum": -2.0770127565142444
       },
       {
         "time": 473.47,
-        "momentum": -2.378825446529519
+        "momentum": -2.069522002876436
       },
       {
         "time": 473.97,
-        "momentum": -2.370246204388894
+        "momentum": -2.062058264667342
       },
       {
         "time": 474.47,
-        "momentum": -2.3616979033145062
+        "momentum": -2.054621444455726
       },
       {
         "time": 474.97,
-        "momentum": -2.451201478888005
+        "momentum": -2.141849142154695
       },
       {
         "time": 475.47,
-        "momentum": -2.611528232681116
+        "momentum": -2.300005125551781
       },
       {
         "time": 476.29,
-        "momentum": -2.6251337059682287
+        "momentum": -2.3116632153750727
       },
       {
         "time": 477.0,
-        "momentum": -2.634926164760356
+        "momentum": -2.320006097246252
       },
       {
         "time": 477.97,
-        "momentum": -2.552154868505759
+        "momentum": -2.2353377929153737
       },
       {
         "time": 478.47,
-        "momentum": -2.3669084245150582
+        "momentum": -2.0523582861073395
       },
       {
         "time": 479.05,
-        "momentum": -2.111184099288426
+        "momentum": -1.798795822829505
       },
       {
         "time": 479.55,
-        "momentum": -1.9927840716943028
+        "momentum": -1.683920199592207
       },
       {
         "time": 480.05,
-        "momentum": -1.8785750005150859
+        "momentum": -1.572732038695678
       },
       {
         "time": 481.27,
-        "momentum": -1.8573062632536832
+        "momentum": -1.5549259758531313
       },
       {
         "time": 481.77,
-        "momentum": -1.8408668472957708
+        "momentum": -1.5411629926518404
       },
       {
         "time": 482.27,
-        "momentum": -1.824486720147955
+        "momentum": -1.5274496456967206
       },
       {
         "time": 482.77,
-        "momentum": -1.8179067025273519
+        "momentum": -1.5219408933050047
       },
       {
         "time": 483.27,
-        "momentum": -1.81135041576289
+        "momentum": -1.5164520082477042
       },
       {
         "time": 483.77,
-        "momentum": -1.804817774269155
+        "momentum": -1.510982918873209
       },
       {
         "time": 484.27,
-        "momentum": -1.7381103684051067
+        "momentum": -1.4434138478290088
       },
       {
         "time": 484.77,
-        "momentum": -1.6654257111660027
+        "momentum": -1.3711284463042945
       },
       {
         "time": 485.39,
-        "momentum": -1.593003191392795
+        "momentum": -1.2991037423283718
       },
       {
         "time": 485.89,
-        "momentum": -1.5208418636858125
+        "momentum": -1.2273387956946356
       },
       {
         "time": 486.39,
-        "momentum": -1.448940786054972
+        "momentum": -1.1558326695873395
       },
       {
         "time": 486.89,
-        "momentum": -1.3707004483924208
+        "momentum": -1.0788546979482976
       },
       {
         "time": 487.39,
-        "momentum": -1.2918533938655128
+        "momentum": -1.0019187188744545
       },
       {
         "time": 488.33,
-        "momentum": -1.213290701511478
+        "momentum": -0.9252602096733012
       },
       {
         "time": 488.83,
-        "momentum": -1.1350113457771636
+        "momentum": -0.8488781696487898
       },
       {
         "time": 489.33,
-        "momentum": -1.0570143048080778
+        "momentum": -0.7727716017138848
       },
       {
         "time": 489.83,
-        "momentum": -1.0460954563143998
+        "momentum": -0.7647889509579304
       },
       {
         "time": 490.33,
-        "momentum": -1.042322709459425
+        "momentum": -0.7620307369803918
       },
       {
         "time": 490.83,
-        "momentum": -1.0385635690289363
+        "momentum": -0.7592824705110334
       },
       {
         "time": 491.33,
-        "momentum": -1.034817985951317
+        "momentum": -0.7565441156741329
       },
       {
         "time": 491.83,
-        "momentum": -0.9658525702081354
+        "momentum": -0.6867626670466265
       },
       {
         "time": 492.33,
-        "momentum": -0.8946573570691173
+        "momentum": -0.6157648751942434
       },
       {
         "time": 492.92,
-        "momentum": -0.8237189097107344
+        "momentum": -0.5450231371219474
       },
       {
         "time": 493.42,
-        "momentum": -0.7530363021063172
+        "momentum": -0.4745365293709014
       },
       {
         "time": 493.92,
-        "momentum": -0.6125744373645559
+        "momentum": -0.3334684761795147
       },
       {
         "time": 494.42,
-        "momentum": -0.5361800705123607
+        "momentum": -0.2597267779706339
       },
       {
         "time": 495.41,
-        "momentum": -0.4625397416110263
+        "momentum": -0.18771903970848322
       },
       {
         "time": 495.91,
-        "momentum": -0.3891649968087192
+        "momentum": -0.11597099760161411
       },
       {
         "time": 496.41,
-        "momentum": -0.3160548782754744
+        "momentum": -0.044481715054950854
       },
       {
         "time": 496.91,
-        "momentum": -0.31324260584010266
+        "momentum": -0.044085914484462384
       },
       {
         "time": 497.41,
-        "momentum": -0.31211289530661934
+        "momentum": -0.04392691848250484
       },
       {
         "time": 497.91,
-        "momentum": -0.4325688744709293
+        "momentum": -0.16399109320864258
       },
       {
         "time": 498.41,
-        "momentum": -0.5125001517168981
+        "momentum": -0.2554318248210049
       },
       {
         "time": 499.03,
-        "momentum": -0.5921431565370346
+        "momentum": -0.34654277512084475
       },
       {
         "time": 499.53,
-        "momentum": -0.6714989285868324
+        "momentum": -0.4373251334655981
       },
       {
         "time": 500.03,
-        "momentum": -0.7505685037722639
+        "momentum": -0.5277800849232791
       },
       {
         "time": 500.53,
-        "momentum": -0.7077712988704279
+        "momentum": -0.4976862129794818
       },
       {
         "time": 501.03,
-        "momentum": -0.7052187192509133
+        "momentum": -0.4958913059435618
       },
       {
         "time": 501.53,
-        "momentum": -0.7026753455185608
+        "momentum": -0.4941028722460296
       },
       {
         "time": 502.03,
-        "momentum": -0.7001411444723067
+        "momentum": -0.4923208885407681
       },
       {
         "time": 502.53,
-        "momentum": -0.6976160830308272
+        "momentum": -0.49054533156585817
       },
       {
         "time": 503.03,
-        "momentum": -0.6951001282321061
+        "momentum": -0.4887761781432746
       },
       {
         "time": 503.53,
-        "momentum": -0.6925932472330052
+        "momentum": -0.487013405178584
       },
       {
         "time": 504.03,
-        "momentum": -0.690095407308835
+        "momentum": -0.485256989660643
       },
       {
         "time": 504.53,
-        "momentum": -0.6876065758529276
+        "momentum": -0.48350690866129814
       },
       {
         "time": 505.03,
-        "momentum": -0.6851267203762114
+        "momentum": -0.4817631393350864
       },
       {
         "time": 505.53,
-        "momentum": -0.6826558085067865
+        "momentum": -0.48002565891893684
       },
       {
         "time": 506.03,
-        "momentum": -0.6801938079895027
+        "momentum": -0.4782944447318738
       },
       {
         "time": 506.53,
-        "momentum": -0.6777406866855377
+        "momentum": -0.4765694741747205
       },
       {
         "time": 507.03,
-        "momentum": -0.6752964125719783
+        "momentum": -0.47485072472980433
       },
       {
         "time": 507.53,
-        "momentum": -0.6728609537414019
+        "momentum": -0.47313817396066254
       },
       {
         "time": 508.03,
-        "momentum": -0.6704342784014601
+        "momentum": -0.47143179951174974
       },
       {
         "time": 508.53,
-        "momentum": -0.6680163548744638
+        "momentum": -0.4697315791081458
       },
       {
         "time": 509.03,
-        "momentum": -0.6656071515969695
+        "momentum": -0.4680374905552651
       },
       {
         "time": 509.53,
-        "momentum": -0.6632066371193677
+        "momentum": -0.4663495117385671
       },
       {
         "time": 510.03,
-        "momentum": -0.6608147801054713
+        "momentum": -0.4646676206232672
       },
       {
         "time": 510.53,
-        "momentum": -0.6584315493321082
+        "momentum": -0.46299179525404943
       },
       {
         "time": 511.03,
-        "momentum": -0.656056913688712
+        "momentum": -0.4613220137547797
       },
       {
         "time": 511.53,
-        "momentum": -0.6536908421769171
+        "momentum": -0.4596582543282203
       },
       {
         "time": 512.03,
-        "momentum": -0.6513333039101533
+        "momentum": -0.4580004952557453
       },
       {
         "time": 512.53,
-        "momentum": -0.6489842681132433
+        "momentum": -0.45634871489705714
       },
       {
         "time": 513.03,
-        "momentum": -0.6466437041220002
+        "momentum": -0.45470289168990397
       },
       {
         "time": 513.53,
-        "momentum": -0.644311581382828
+        "momentum": -0.45306300414979833
       },
       {
         "time": 514.03,
-        "momentum": -0.6419878694523218
+        "momentum": -0.4514290308697366
       },
       {
         "time": 514.53,
-        "momentum": -0.6396725379968716
+        "momentum": -0.44980095051991975
       },
       {
         "time": 515.03,
-        "momentum": -0.637365556792265
+        "momentum": -0.4481787418474745
       },
       {
         "time": 515.53,
-        "momentum": -0.6350668957232941
+        "momentum": -0.4465623836761764
       },
       {
         "time": 516.03,
-        "momentum": -0.6327765247833608
+        "momentum": -0.44495185490617273
       },
       {
         "time": 516.53,
-        "momentum": -0.6304944140740864
+        "momentum": -0.4433471345137079
       },
       {
         "time": 517.03,
-        "momentum": -0.6282205338049206
+        "momentum": -0.4417482015508483
       },
       {
         "time": 517.53,
-        "momentum": -0.6259548542927529
+        "momentum": -0.44015503514520915
       },
       {
         "time": 518.03,
-        "momentum": -0.6236973459615252
+        "momentum": -0.4385676144996822
       },
       {
         "time": 518.53,
-        "momentum": -0.6214479793418451
+        "momentum": -0.43698591889216376
       },
       {
         "time": 519.03,
-        "momentum": -0.6192067250706021
+        "momentum": -0.4354099276752845
       },
       {
         "time": 519.53,
-        "momentum": -0.6169735538905838
+        "momentum": -0.4338396202761402
       },
       {
         "time": 520.03,
-        "momentum": -0.6147484366500939
+        "momentum": -0.43227497619602245
       },
       {
         "time": 520.53,
-        "momentum": -0.6125313443025717
+        "momentum": -0.4307159750101519
       },
       {
         "time": 521.03,
-        "momentum": -0.6103222479062133
+        "momentum": -0.4291625963674111
       },
       {
         "time": 521.53,
-        "momentum": -0.6081211186235931
+        "momentum": -0.42761481999007883
       },
       {
         "time": 522.03,
-        "momentum": -0.6059279277212885
+        "momentum": -0.42607262567356574
       },
       {
         "time": 522.53,
-        "momentum": -0.6037426465695033
+        "momentum": -0.4245359932861502
       },
       {
         "time": 523.03,
-        "momentum": -0.6015652466416952
+        "momentum": -0.4230049027687161
       },
       {
         "time": 523.53,
-        "momentum": -0.5993956995142028
+        "momentum": -0.42147933413449
       },
       {
         "time": 524.03,
-        "momentum": -0.597233976865875
+        "momentum": -0.4199592674687813
       },
       {
         "time": 524.53,
-        "momentum": -0.5950800504777006
+        "momentum": -0.4184446829287217
       },
       {
         "time": 525.03,
-        "momentum": -0.5929338922324408
+        "momentum": -0.41693556074300614
       },
       {
         "time": 525.53,
-        "momentum": -0.5907954741142613
+        "momentum": -0.41543188121163493
       },
       {
         "time": 526.03,
-        "momentum": -0.5886647682083672
+        "momentum": -0.4139336247056565
       },
       {
         "time": 526.53,
-        "momentum": -0.5865417467006385
+        "momentum": -0.4124407716669111
       },
       {
         "time": 527.03,
-        "momentum": -0.5844263818772669
+        "momentum": -0.41095330260777574
       },
       {
         "time": 527.53,
-        "momentum": -0.582318646124394
+        "momentum": -0.4094711981109094
       },
       {
         "time": 528.03,
-        "momentum": -0.5802185119277506
+        "momentum": -0.4079944388289998
       },
       {
         "time": 528.53,
-        "momentum": -0.5781259518722983
+        "momentum": -0.40652300548451087
       },
       {
         "time": 529.03,
-        "momentum": -0.5760409386418709
+        "momentum": -0.405056878869431
       },
       {
         "time": 529.53,
-        "momentum": -0.5739634450188178
+        "momentum": -0.4035960398450224
       },
       {
         "time": 530.03,
-        "momentum": -0.5718934438836494
+        "momentum": -0.4021404693415711
       },
       {
         "time": 530.53,
-        "momentum": -0.5698309082146823
+        "momentum": -0.4006901483581382
       },
       {
         "time": 531.03,
-        "momentum": -0.5677758110876872
+        "momentum": -0.3992450579623118
       },
       {
         "time": 531.53,
-        "momentum": -0.5657281256755365
+        "momentum": -0.3978051792899596
       },
       {
         "time": 532.03,
-        "momentum": -0.6548584851390225
+        "momentum": -0.4782888839940796
       },
       {
         "time": 532.53,
-        "momentum": -0.7395281901578812
+        "momentum": -0.5552087728391689
       },
       {
         "time": 533.32,
-        "momentum": -0.8238925335948754
+        "momentum": -0.6318512498410335
       },
       {
         "time": 533.82,
-        "momentum": -0.9079526167375984
+        "momentum": -0.7082173154864381
       },
       {
         "time": 534.32,
-        "momentum": -0.9917095369018462
+        "momentum": -0.7843079666538892
       },
       {
         "time": 534.82,
-        "momentum": -0.9587077590431908
+        "momentum": -0.7582080287939117
       },
       {
         "time": 535.32,
-        "momentum": -0.9299642077068867
+        "momentum": -0.7354757715511141
       },
       {
         "time": 536.68,
-        "momentum": -0.9013243200871683
+        "momentum": -0.7128254982721142
       },
       {
         "time": 537.18,
-        "momentum": -0.8727877223204855
+        "momentum": -0.6902569132814648
       },
       {
         "time": 537.68,
-        "momentum": -0.8443540418916291
+        "momentum": -0.6677697219700737
       },
       {
         "time": 538.18,
-        "momentum": -0.8413088761404506
+        "momentum": -0.665361408174996
       },
       {
         "time": 538.68,
-        "momentum": -0.8382746927900093
+        "momentum": -0.6629617799718892
       },
       {
         "time": 539.18,
-        "momentum": -0.8352514522322393
+        "momentum": -0.660570806036136
       },
       {
         "time": 539.68,
-        "momentum": -0.8322391150019213
+        "momentum": -0.6581884551560916
       },
       {
         "time": 540.18,
-        "momentum": -0.8292376417761671
+        "momentum": -0.6558146962326759
       },
       {
         "time": 540.68,
-        "momentum": -0.8262469933739073
+        "momentum": -0.6534494982789678
       },
       {
         "time": 541.18,
-        "momentum": -0.8232671307553787
+        "momentum": -0.6510928304198005
       },
       {
         "time": 541.68,
-        "momentum": -0.8202980150216153
+        "momentum": -0.6487446618913592
       },
       {
         "time": 542.18,
-        "momentum": -0.8173396074139401
+        "momentum": -0.646404962040778
       },
       {
         "time": 542.68,
-        "momentum": -0.8143918693134596
+        "momentum": -0.6440737003257414
       },
       {
         "time": 543.18,
-        "momentum": -0.8114547622405597
+        "momentum": -0.6417508463140844
       },
       {
         "time": 543.68,
-        "momentum": -0.8085282478544027
+        "momentum": -0.639436369683396
       },
       {
         "time": 544.18,
-        "momentum": -0.8056122879524278
+        "momentum": -0.637130240220623
       },
       {
         "time": 544.68,
-        "momentum": -0.8027068444698511
+        "momentum": -0.6348324278216756
       },
       {
         "time": 545.18,
-        "momentum": -0.7998118794791702
+        "momentum": -0.6325429024910345
       },
       {
         "time": 545.68,
-        "momentum": -0.7969273551896682
+        "momentum": -0.6302616343413596
       },
       {
         "time": 546.18,
-        "momentum": -0.7940532339469202
+        "momentum": -0.6279885935930991
       },
       {
         "time": 546.68,
-        "momentum": -0.7911894782323026
+        "momentum": -0.6257237505741018
       },
       {
         "time": 547.18,
-        "momentum": -0.7883360506625025
+        "momentum": -0.6234670757192288
       },
       {
         "time": 547.68,
-        "momentum": -0.7854929139890301
+        "momentum": -0.6212185395699683
       },
       {
         "time": 548.18,
-        "momentum": -0.7826600310977324
+        "momentum": -0.6189781127740503
       },
       {
         "time": 548.68,
-        "momentum": -0.779837365008309
+        "momentum": -0.6167457660850645
       },
       {
         "time": 549.18,
-        "momentum": -0.7770248788738288
+        "momentum": -0.6145214703620773
       },
       {
         "time": 549.68,
-        "momentum": -0.7742225359802493
+        "momentum": -0.6123051965692521
       },
       {
         "time": 550.18,
-        "momentum": -0.7714302997459372
+        "momentum": -0.6100969157754703
       },
       {
         "time": 550.68,
-        "momentum": -0.7686481337211915
+        "momentum": -0.6078965991539536
       },
       {
         "time": 551.18,
-        "momentum": -0.7658760015877665
+        "momentum": -0.6057042179818869
       },
       {
         "time": 551.68,
-        "momentum": -0.7631138671583988
+        "momentum": -0.603519743640045
       },
       {
         "time": 552.18,
-        "momentum": -0.7603616943763345
+        "momentum": -0.6013431476124174
       },
       {
         "time": 552.68,
-        "momentum": -0.7576194473148583
+        "momentum": -0.5991744014858367
       },
       {
         "time": 553.18,
-        "momentum": -0.754887090176825
+        "momentum": -0.5970134769496079
       },
       {
         "time": 553.68,
-        "momentum": -0.7521645872941913
+        "momentum": -0.5948603457951387
       },
       {
         "time": 554.18,
-        "momentum": -0.7494519031275517
+        "momentum": -0.5927149799155708
       },
       {
         "time": 554.68,
-        "momentum": -0.7467490022656732
+        "momentum": -0.5905773513054136
       },
       {
         "time": 555.18,
-        "momentum": -0.7440558494250334
+        "momentum": -0.5884474320601787
       },
       {
         "time": 555.68,
-        "momentum": -0.7413724094493604
+        "momentum": -0.5863251943760147
       },
       {
         "time": 556.18,
-        "momentum": -0.8227334965057818
+        "momentum": -0.6632189219558442
       },
       {
         "time": 556.68,
-        "momentum": -0.8999958594747606
+        "momentum": -0.7366188911274323
       },
       {
         "time": 557.36,
-        "momentum": -0.9769795754664106
+        "momentum": -0.8097541430581836
       },
       {
         "time": 557.86,
-        "momentum": -1.0536856494220124
+        "momentum": -0.8826256324517365
       },
       {
         "time": 558.36,
-        "momentum": -0.9893705348069709
+        "momentum": -0.8139859945663759
       },
       {
         "time": 558.86,
-        "momentum": -0.8399029544036074
+        "momentum": -0.6658076724775629
       },
       {
         "time": 559.67,
-        "momentum": -0.6947797243897865
+        "momentum": -0.5213801969318442
       },
       {
         "time": 560.17,
-        "momentum": -0.5501798818032924
+        "momentum": -0.37747359957257404
       },
       {
         "time": 560.67,
-        "momentum": -0.3352714222296383
+        "momentum": -0.1627603486602903
       },
       {
         "time": 561.17,
-        "momentum": -0.2613210935028759
+        "momentum": -0.09154195088609346
       },
       {
         "time": 561.95,
-        "momentum": -0.18898703616397466
+        "momentum": -0.021358324394660084
       },
       {
         "time": 562.45,
-        "momentum": -0.11691385185122564
+        "momentum": 0.048572184606855896
       },
       {
         "time": 562.95,
-        "momentum": -0.04510059972516444
+        "momentum": 0.11825048898755094
       },
       {
         "time": 563.45,
-        "momentum": -0.04437645915539987
+        "momentum": 0.11635184513376187
       },
       {
         "time": 563.95,
-        "momentum": -0.04421641530308899
+        "momentum": 0.11593222180479197
       },
       {
         "time": 564.45,
-        "momentum": -0.04405694864948099
+        "momentum": 0.11551411184879878
       },
       {
         "time": 564.95,
-        "momentum": -0.04389805711290675
+        "momentum": 0.11509750980779747
       },
       {
         "time": 565.45,
-        "momentum": -0.04373973861920473
+        "momentum": 0.11468241024348744
       },
       {
         "time": 565.95,
-        "momentum": -0.04358199110169382
+        "momentum": 0.11426880773718133
       },
       {
         "time": 566.45,
-        "momentum": -0.04342481250114645
+        "momentum": 0.11385669688973432
       },
       {
         "time": 566.95,
-        "momentum": -0.04326820076576163
+        "momentum": 0.11344607232147363
       },
       {
         "time": 567.45,
-        "momentum": -0.043112153851138195
+        "momentum": 0.11303692867212825
       },
       {
         "time": 567.95,
-        "momentum": -0.04295666972024814
+        "momentum": 0.11262926060075902
       },
       {
         "time": 568.45,
-        "momentum": -0.04280174634341
+        "momentum": 0.11222306278568892
       },
       {
         "time": 568.95,
-        "momentum": 0.02884867402333819
+        "momentum": 0.18513963513337436
       },
       {
         "time": 569.45,
-        "momentum": 0.09918771912361687
+        "momentum": 0.2561973845254818
       },
       {
         "time": 570.38,
-        "momentum": 0.16927308621623172
+        "momentum": 0.3269988639004292
       },
       {
         "time": 570.88,
-        "momentum": 0.23910569019178843
+        "momentum": 0.3975449974969135
       },
       {
         "time": 571.38,
-        "momentum": 0.1895756171005208
+        "momentum": 0.3491843146435904
       },
       {
         "time": 571.88,
-        "momentum": 0.06978786870551758
+        "momentum": 0.22815298893458982
       },
       {
         "time": 572.72,
-        "momentum": -0.04851489698420234
+        "momentum": 0.10915401220436723
       },
       {
         "time": 573.22,
-        "momentum": -0.1663910033432688
+        "momentum": -0.009415794307693886
       },
       {
         "time": 573.72,
-        "momentum": -0.28384198912002273
+        "momentum": -0.12755797840545888
       },
       {
         "time": 574.22,
-        "momentum": -0.3547784032547484
+        "momentum": -0.19908000520897864
       },
       {
         "time": 574.72,
-        "momentum": -0.39128457119835847
+        "momentum": -0.24415533809175458
       },
       {
         "time": 575.28,
-        "momentum": -0.42765907952193566
+        "momentum": -0.28906810663172233
       },
       {
         "time": 575.78,
-        "momentum": -0.4639024030563517
+        "momentum": -0.33381889711774226
       },
       {
         "time": 576.28,
-        "momentum": -0.5000150149199992
+        "momentum": -0.37840829372422224
       },
       {
         "time": 576.78,
-        "momentum": -0.4629775452427073
+        "momentum": -0.35037856404362644
       },
       {
         "time": 577.28,
-        "momentum": -0.4613078151361524
+        "momentum": -0.34911492254937554
       },
       {
         "time": 577.78,
-        "momentum": -0.45964410691695984
+        "momentum": -0.34785583838251233
       },
       {
         "time": 578.28,
-        "momentum": -0.4579863988671722
+        "momentum": -0.34660129510702004
       },
       {
         "time": 578.78,
-        "momentum": -0.4563346693471577
+        "momentum": -0.34535127634615825
       },
       {
         "time": 579.28,
-        "momentum": -0.4546888967953285
+        "momentum": -0.3441057657822495
       },
       {
         "time": 579.78,
-        "momentum": -0.45304905972785825
+        "momentum": -0.3428647471564659
       },
       {
         "time": 580.28,
-        "momentum": -0.4514151367384021
+        "momentum": -0.3416282042686173
       },
       {
         "time": 580.78,
-        "momentum": -0.44978710649781767
+        "momentum": -0.3403961209769394
       },
       {
         "time": 581.28,
-        "momentum": -0.44816494775388566
+        "momentum": -0.33916848119788323
       },
       {
         "time": 581.78,
-        "momentum": -0.4465486393310334
+        "momentum": -0.33794526890590537
       },
       {
         "time": 582.28,
-        "momentum": -0.4449381601300577
+        "momentum": -0.3367264681332585
       },
       {
         "time": 582.78,
-        "momentum": -0.4433334891278499
+        "momentum": -0.33551206296978286
       },
       {
         "time": 583.28,
-        "momentum": -0.4417346053771213
+        "momentum": -0.33430203756269905
       },
       {
         "time": 583.78,
-        "momentum": -0.4401414880061294
+        "momentum": -0.3330963761164004
       },
       {
         "time": 584.28,
-        "momentum": -0.438554116218406
+        "momentum": -0.33189506289224757
       },
       {
         "time": 584.78,
-        "momentum": -0.43697246929248534
+        "momentum": -0.3306980822083624
       },
       {
         "time": 585.28,
-        "momentum": -0.43539652658163347
+        "momentum": -0.32950541843942344
       },
       {
         "time": 585.78,
-        "momentum": -0.43382626751357944
+        "momentum": -0.3283170560164622
       },
       {
         "time": 586.28,
-        "momentum": -0.43226167159024576
+        "momentum": -0.32713297942665964
       },
       {
         "time": 586.78,
-        "momentum": -0.43070271838748164
+        "momentum": -0.32595317321314365
       },
       {
         "time": 587.28,
-        "momentum": -0.4291493875547959
+        "momentum": -0.32477762197478766
       },
       {
         "time": 587.78,
-        "momentum": -0.42760165881509177
+        "momentum": -0.32360631036600906
       },
       {
         "time": 588.28,
-        "momentum": -0.4260595119644014
+        "momentum": -0.3224392230965692
       },
       {
         "time": 588.78,
-        "momentum": -0.4245229268716232
+        "momentum": -0.3212763449313738
       },
       {
         "time": 589.28,
-        "momentum": -0.4229918834782578
+        "momentum": -0.3201176606902739
       },
       {
         "time": 589.78,
-        "momentum": -0.42146636179814745
+        "momentum": -0.3189631552478679
       },
       {
         "time": 590.28,
-        "momentum": -0.4199463419172143
+        "momentum": -0.31781281353330393
       },
       {
         "time": 590.78,
-        "momentum": -0.4184318039932008
+        "momentum": -0.31666662053008326
       },
       {
         "time": 591.28,
-        "momentum": -0.4169227282554104
+        "momentum": -0.31552456127586415
       },
       {
         "time": 591.78,
-        "momentum": -0.41541909500444973
+        "momentum": -0.31438662086226665
       },
       {
         "time": 592.28,
-        "momentum": -0.41392088461197146
+        "momentum": -0.3132527844346779
       },
       {
         "time": 592.78,
-        "momentum": -0.4124280775204177
+        "momentum": -0.31212303719205836
       },
       {
         "time": 593.28,
-        "momentum": -0.41094065424276527
+        "momentum": -0.31099736438674824
       },
       {
         "time": 593.78,
-        "momentum": -0.40945859536227075
+        "momentum": -0.3098757513242755
       },
       {
         "time": 594.28,
-        "momentum": -0.40798188153221737
+        "momentum": -0.3087581833631637
       },
       {
         "time": 594.78,
-        "momentum": -0.40651049347566237
+        "momentum": -0.3076446459147407
       },
       {
         "time": 595.28,
-        "momentum": -0.40504441198518537
+        "momentum": -0.3065351244429489
       },
       {
         "time": 595.78,
-        "momentum": -0.4035836179226376
+        "momentum": -0.3054296044641546
       },
       {
         "time": 596.28,
-        "momentum": -0.40212809221889206
+        "momentum": -0.3043280715469597
       },
       {
         "time": 596.78,
-        "momentum": -0.4006778158735946
+        "momentum": -0.30323051131201273
       },
       {
         "time": 597.28,
-        "momentum": -0.399232769954916
+        "momentum": -0.3021369094318216
       },
       {
         "time": 597.78,
-        "momentum": -0.39779293559930473
+        "momentum": -0.3010472516305662
       },
       {
         "time": 598.28,
-        "momentum": -0.3963582940112406
+        "momentum": -0.2999615236839125
       },
       {
         "time": 598.78,
-        "momentum": -0.39492882646298977
+        "momentum": -0.29887971141882613
       },
       {
         "time": 599.28,
-        "momentum": -0.39350451429435973
+        "momentum": -0.2978018007133883
       },
       {
         "time": 599.78,
-        "momentum": -0.3920853389124562
+        "momentum": -0.2967277774966106
       },
       {
         "time": 600.28,
-        "momentum": -0.39067128179144034
+        "momentum": -0.2956576277482519
       },
       {
         "time": 600.78,
-        "momentum": -0.38926232447228654
+        "momentum": -0.29459133749863503
       },
       {
         "time": 601.28,
-        "momentum": -0.387858448562542
+        "momentum": -0.2935288928284645
       },
       {
         "time": 601.78,
-        "momentum": -0.3864596357360861
+        "momentum": -0.2924702798686448
       },
       {
         "time": 602.28,
-        "momentum": -0.38506586773289164
+        "momentum": -0.29141548480009954
       },
       {
         "time": 602.78,
-        "momentum": -0.38367712635878626
+        "momentum": -0.29036449385359064
       },
       {
         "time": 603.28,
-        "momentum": -0.38229339348521485
+        "momentum": -0.2893172933095388
       },
       {
         "time": 603.78,
-        "momentum": -0.380914651049003
+        "momentum": -0.2882738694978447
       },
       {
         "time": 604.28,
-        "momentum": -0.37954088105212136
+        "momentum": -0.28723420879771017
       },
       {
         "time": 604.78,
-        "momentum": -0.3781720655614502
+        "momentum": -0.2861982976374603
       },
       {
         "time": 605.28,
-        "momentum": -0.3768081867085461
+        "momentum": -0.2851661224943666
       },
       {
         "time": 605.78,
-        "momentum": -0.3754492266894078
+        "momentum": -0.2841376698944706
       },
       {
         "time": 606.28,
-        "momentum": -0.3740951677642445
+        "momentum": -0.2831129264124072
       },
       {
         "time": 606.78,
-        "momentum": -0.37274599225724403
+        "momentum": -0.2820918786712304
       },
       {
         "time": 607.28,
-        "momentum": -0.3714016825563419
+        "momentum": -0.2810745133422379
       },
       {
         "time": 607.78,
-        "momentum": -0.3700622211129919
+        "momentum": -0.2800608171447975
       },
       {
         "time": 608.28,
-        "momentum": -0.3687275904419363
+        "momentum": -0.27905077684617374
       },
       {
         "time": 608.78,
-        "momentum": -0.3673977731209784
+        "momentum": -0.278044379261355
       },
       {
         "time": 609.28,
-        "momentum": -0.3660727517907544
+        "momentum": -0.27704161125288135
       },
       {
         "time": 609.78,
-        "momentum": -0.3647525091545073
+        "momentum": -0.27604245973067326
       },
       {
         "time": 610.28,
-        "momentum": -0.363437027977861
+        "momentum": -0.2750469116518606
       },
       {
         "time": 610.78,
-        "momentum": -0.36212629108859484
+        "momentum": -0.2740549540206124
       },
       {
         "time": 611.28,
-        "momentum": -0.36082028137642036
+        "momentum": -0.2730665738879672
       },
       {
         "time": 611.78,
-        "momentum": -0.359518981792757
+        "momentum": -0.272081758351664
       },
       {
         "time": 612.28,
-        "momentum": -0.35822237535051016
+        "momentum": -0.27110049455597385
       },
       {
         "time": 612.78,
-        "momentum": -0.3569304451238492
+        "momentum": -0.27012276969153204
       },
       {
         "time": 613.28,
-        "momentum": -0.3556431742479865
+        "momentum": -0.2691485709951708
       },
       {
         "time": 613.78,
-        "momentum": -0.3543605459189575
+        "momentum": -0.268177885749753
       },
       {
         "time": 614.28,
-        "momentum": -0.35308254339340095
+        "momentum": -0.2672107012840056
       },
       {
         "time": 614.78,
-        "momentum": -0.35180914998834095
+        "momentum": -0.26624700497235476
       },
       {
         "time": 615.28,
-        "momentum": -0.3505403490809685
+        "momentum": -0.26528678423476076
       },
       {
         "time": 615.78,
-        "momentum": -0.3492761241084249
+        "momentum": -0.2643300265365538
       },
       {
         "time": 616.28,
-        "momentum": -0.3480164585675855
+        "momentum": -0.26337671938827045
       },
       {
         "time": 616.78,
-        "momentum": -0.34676133601484427
+        "momentum": -0.2624268503454906
       },
       {
         "time": 617.28,
-        "momentum": -0.3455107400658989
+        "momentum": -0.2614804070086749
       },
       {
         "time": 617.78,
-        "momentum": -0.3442646543955374
+        "momentum": -0.2605373770230031
       },
       {
         "time": 618.28,
-        "momentum": -0.2485166876564005
+        "momentum": -0.15889116691280192
       },
       {
         "time": 618.78,
-        "momentum": -0.15772116945499043
+        "momentum": -0.06619195424518871
       },
       {
         "time": 619.63,
-        "momentum": -0.0672531056017209
+        "momentum": 0.02617293839365529
       },
       {
         "time": 620.13,
-        "momentum": 0.022888684868639
+        "momentum": 0.11820471673006169
       },
       {
         "time": 620.63,
-        "momentum": 0.11270537866216498
+        "momentum": 0.20990458214190602
       },
       {
         "time": 621.13,
-        "momentum": 0.10769177316011436
+        "momentum": 0.20056715050887974
       },
       {
         "time": 621.63,
-        "momentum": 0.10730338241045183
+        "momentum": 0.19984380439192057
       },
       {
         "time": 622.13,
-        "momentum": 0.10691639239336152
+        "momentum": 0.19912306702521582
       },
       {
         "time": 622.63,
-        "momentum": 0.1065307980570966
+        "momentum": 0.19840492900029877
       },
       {
         "time": 623.13,
-        "momentum": 0.10614659436812932
+        "momentum": 0.19768938094263427
       },
       {
         "time": 623.63,
-        "momentum": 0.1057637763110855
+        "momentum": 0.19697641351149658
       },
       {
         "time": 624.13,
-        "momentum": 0.1053823388886788
+        "momentum": 0.1962660173998473
       },
       {
         "time": 624.63,
-        "momentum": 0.10500227712164567
+        "momentum": 0.19555818333421385
       },
       {
         "time": 625.13,
-        "momentum": 0.10462358604868031
+        "momentum": 0.19485290207456843
       },
       {
         "time": 625.63,
-        "momentum": 0.10424626072636982
+        "momentum": 0.1941501644142075
       },
       {
         "time": 626.13,
-        "momentum": 0.10387029622912983
+        "momentum": 0.1934499611796315
       },
       {
         "time": 626.63,
-        "momentum": 0.10349568764913997
+        "momentum": 0.1927522832304252
       },
       {
         "time": 627.13,
-        "momentum": 0.10312243009628008
+        "momentum": 0.19205712145913817
       },
       {
         "time": 627.63,
-        "momentum": 0.10275051869806617
+        "momentum": 0.19136446679116614
       },
       {
         "time": 628.13,
-        "momentum": 0.10237994859958685
+        "momentum": 0.19067431018463238
       },
       {
         "time": 628.63,
-        "momentum": 0.1020107149634401
+        "momentum": 0.18998664263026974
       },
       {
         "time": 629.13,
-        "momentum": 0.10164281296966984
+        "momentum": 0.18930145515130303
       },
       {
         "time": 629.63,
-        "momentum": 0.10127623781570332
+        "momentum": 0.18861873880333183
       },
       {
         "time": 630.13,
-        "momentum": 0.1009109847162882
+        "momentum": 0.18793848467421365
       },
       {
         "time": 630.63,
-        "momentum": 0.10054704890343028
+        "momentum": 0.18726068388394784
       },
       {
         "time": 631.13,
-        "momentum": 0.10018442562633094
+        "momentum": 0.1865853275845593
       },
       {
         "time": 631.63,
-        "momentum": 0.09982311015132557
+        "momentum": 0.1859124069599834
       },
       {
         "time": 632.13,
-        "momentum": 0.09946309776182137
+        "momentum": 0.1852419132259505
       },
       {
         "time": 632.63,
-        "momentum": 0.09910438375823602
+        "momentum": 0.18457383762987153
       },
       {
         "time": 633.13,
-        "momentum": 0.09874696345793625
+        "momentum": 0.18390817145072366
       },
       {
         "time": 633.63,
-        "momentum": 0.09839083219517672
+        "momentum": 0.18324490599893645
       },
       {
         "time": 634.13,
-        "momentum": 0.09803598532103912
+        "momentum": 0.18258403261627848
       },
       {
         "time": 634.63,
-        "momentum": 0.09768241820337145
+        "momentum": 0.18192554267574412
       },
       {
         "time": 635.13,
-        "momentum": 0.09733012622672763
+        "momentum": 0.18126942758144124
       },
       {
         "time": 635.63,
-        "momentum": 0.09697910479230717
+        "momentum": 0.18061567876847878
       },
       {
         "time": 636.13,
-        "momentum": 0.0966293493178952
+        "momentum": 0.17996428770285486
       },
       {
         "time": 636.63,
-        "momentum": 0.09628085523780257
+        "momentum": 0.1793152458813457
       },
       {
         "time": 637.13,
-        "momentum": 0.09593361800280635
+        "momentum": 0.17866854483139433
       },
       {
         "time": 637.63,
-        "momentum": 0.0955876330800904
+        "momentum": 0.17802417611100002
       },
       {
         "time": 638.13,
-        "momentum": 0.09524289595318615
+        "momentum": 0.17738213130860828
       },
       {
         "time": 638.63,
-        "momentum": 0.09489940212191375
+        "momentum": 0.17674240204300085
       },
       {
         "time": 639.13,
-        "momentum": 0.09455714710232321
+        "momentum": 0.1761049799631863
       },
       {
         "time": 639.63,
-        "momentum": 0.09421612642663597
+        "momentum": 0.17546985674829124
       },
       {
         "time": 640.13,
-        "momentum": 0.09387633564318648
+        "momentum": 0.17483702410745136
       },
       {
         "time": 640.63,
-        "momentum": 0.09353777031636419
+        "momentum": 0.17420647377970355
       },
       {
         "time": 641.13,
-        "momentum": 0.09320042602655554
+        "momentum": 0.17357819753387774
       },
       {
         "time": 641.63,
-        "momentum": 0.09286429837008636
+        "momentum": 0.17295218716848967
       },
       {
         "time": 642.13,
-        "momentum": 0.09252938295916434
+        "momentum": 0.17232843451163382
       },
       {
         "time": 642.63,
-        "momentum": 0.09219567542182175
+        "momentum": 0.17170693142087656
       },
       {
         "time": 643.13,
-        "momentum": 0.09186317140185836
+        "momentum": 0.17108766978315004
       },
       {
         "time": 643.63,
-        "momentum": 0.09153186655878462
+        "momentum": 0.17047064151464625
       },
       {
         "time": 644.13,
-        "momentum": 0.09120175656776498
+        "momentum": 0.16985583856071135
       },
       {
         "time": 644.63,
-        "momentum": 0.09087283711956137
+        "momentum": 0.16924325289574077
       },
       {
         "time": 645.13,
-        "momentum": 0.014339498673408588
+        "momentum": 0.095699627502927
       },
       {
         "time": 645.63,
-        "momentum": -0.05550493796940037
+        "momentum": 0.026766077782823
       },
       {
         "time": 646.28,
-        "momentum": -0.12509748041164562
+        "momentum": -0.04191886285353155
       },
       {
         "time": 646.78,
-        "momentum": -0.19443903711062635
+        "momentum": -0.1103560910156508
       },
       {
         "time": 647.28,
-        "momentum": -0.26353051324728743
+        "momentum": -0.1785465000794236
       },
       {
         "time": 647.78,
-        "momentum": -0.25616720549096705
+        "momentum": -0.17355773117862833
       },
       {
         "time": 648.28,
-        "momentum": -0.25524333758481177
+        "momentum": -0.17293179462522076
       },
       {
         "time": 648.78,
-        "momentum": -0.2543228016114321
+        "momentum": -0.1723081155141422
       },
       {
         "time": 649.28,
-        "momentum": -0.2534055855542011
+        "momentum": -0.17168668570391915
       },
       {
         "time": 649.78,
-        "momentum": -0.25249167743982975
+        "momentum": -0.1710674970824404
       },
       {
         "time": 650.28,
-        "momentum": -0.25158106533821084
+        "momentum": -0.17045054156685097
       },
       {
         "time": 650.78,
-        "momentum": -0.250673737362263
+        "momentum": -0.1698358111034468
       },
       {
         "time": 651.28,
-        "momentum": -0.24976968166777574
+        "momentum": -0.16922329766756963
       },
       {
         "time": 651.78,
-        "momentum": -0.24886888645325472
+        "momentum": -0.16861299326350201
       },
       {
         "time": 652.28,
-        "momentum": -0.24797133995976775
+        "momentum": -0.16800488992436313
       },
       {
         "time": 652.78,
-        "momentum": -0.2470770304707913
+        "momentum": -0.1673989797120048
       },
       {
         "time": 653.28,
-        "momentum": -0.24618594631205742
+        "momentum": -0.16679525471690773
       },
       {
         "time": 653.78,
-        "momentum": -0.24529807585140156
+        "momentum": -0.16619370705807837
       },
       {
         "time": 654.28,
-        "momentum": -0.24441340749861062
+        "momentum": -0.165594328882946
       },
       {
         "time": 654.78,
-        "momentum": -0.24353192970527152
+        "momentum": -0.1649971123672602
       },
       {
         "time": 655.28,
-        "momentum": -0.24265363096462061
+        "momentum": -0.16440204971498878
       },
       {
         "time": 655.78,
-        "momentum": -0.24177849981139357
+        "momentum": -0.16380913315821594
       },
       {
         "time": 656.28,
-        "momentum": -0.24090652482167535
+        "momentum": -0.16321835495704087
       },
       {
         "time": 656.78,
-        "momentum": -0.2400376946127515
+        "momentum": -0.1626297073994768
       },
       {
         "time": 657.28,
-        "momentum": -0.2391719978429593
+        "momentum": -0.16204318280135016
       },
       {
         "time": 657.78,
-        "momentum": -0.2383094232115397
+        "momentum": -0.16145877350620055
       },
       {
         "time": 658.28,
-        "momentum": -0.23744995945849
+        "momentum": -0.16087647188518045
       },
       {
         "time": 658.78,
-        "momentum": -0.23659359536441663
+        "momentum": -0.16029627033695593
       },
       {
         "time": 659.28,
-        "momentum": -0.23574031975038884
+        "momentum": -0.15971816128760716
       },
       {
         "time": 659.78,
-        "momentum": -0.23489012147779284
+        "momentum": -0.15914213719052983
       },
       {
         "time": 660.28,
-        "momentum": -0.23404298944818608
+        "momentum": -0.1585681905263364
       },
       {
         "time": 660.78,
-        "momentum": -0.2331989126031527
+        "momentum": -0.15799631380275803
       },
       {
         "time": 661.28,
-        "momentum": -0.35801260979483135
+        "momentum": -0.28125767726092377
       },
       {
         "time": 661.78,
-        "momentum": -0.4705241199885838
+        "momentum": -0.3933747220143783
       },
       {
         "time": 662.49,
-        "momentum": -0.5826298570345132
+        "momentum": -0.5050874162609748
       },
       {
         "time": 662.99,
-        "momentum": -0.6943312843548707
+        "momentum": -0.6163972182922044
       },
       {
         "time": 663.49,
-        "momentum": -0.8056298600940694
+        "momentum": -0.7273055811402254
       },
       {
         "time": 663.99,
-        "momentum": -0.790872307267048
+        "momentum": -0.713982774890453
       },
       {
         "time": 664.49,
-        "momentum": -0.7880200235754231
+        "momentum": -0.7114077935613452
       },
       {
         "time": 664.99,
-        "momentum": -0.7851780266547254
+        "momentum": -0.7088420989112418
       },
       {
         "time": 665.49,
-        "momentum": -0.7823462794056801
+        "momentum": -0.7062856574477034
       },
       {
         "time": 665.99,
-        "momentum": -0.7795247448628113
+        "momentum": -0.7037384357990809
       },
       {
         "time": 666.49,
-        "momentum": -0.7767133861939592
+        "momentum": -0.70120040071408
       },
       {
         "time": 666.99,
-        "momentum": -0.7739121666997991
+        "momentum": -0.6986715190613275
       },
       {
         "time": 667.49,
-        "momentum": -0.7711210498133626
+        "momentum": -0.6961517578289387
       },
       {
         "time": 667.99,
-        "momentum": -0.7683399990995605
+        "momentum": -0.693641084124086
       },
       {
         "time": 668.49,
-        "momentum": -0.7655689782547065
+        "momentum": -0.6911394651725703
       },
       {
         "time": 668.99,
-        "momentum": -0.7628079511060437
+        "momentum": -0.6886468683183926
       },
       {
         "time": 669.49,
-        "momentum": -0.7600568816112727
+        "momentum": -0.6861632610233277
       },
       {
         "time": 669.99,
-        "momentum": -0.7573157338580803
+        "momentum": -0.6836886108665001
       },
       {
         "time": 670.49,
-        "momentum": -0.7545844720636714
+        "momentum": -0.6812228855439598
       },
       {
         "time": 670.99,
-        "momentum": -0.8584712431831418
+        "momentum": -0.7843428955342755
       },
       {
         "time": 671.49,
-        "momentum": -0.9570930893895886
+        "momentum": -0.8824978214097552
       },
       {
         "time": 672.42,
-        "momentum": -1.055359255569073
+        "momentum": -0.9802987512080493
       },
       {
         "time": 672.92,
-        "momentum": -1.1532710244828333
+        "momentum": -1.0777469616172257
       },
       {
         "time": 673.42,
-        "momentum": -1.2508296742658254
+        "momentum": -1.174843724720972
       },
       {
         "time": 673.92,
-        "momentum": -1.2043643414001741
+        "momentum": -1.1312010882714307
       },
       {
         "time": 674.42,
-        "momentum": -1.1629568428333272
+        "momentum": -1.0923090305848346
       },
       {
         "time": 675.6,
-        "momentum": -1.1216986805522344
+        "momentum": -1.0535572372378212
       },
       {
         "time": 676.1,
-        "momentum": -1.0805893159750688
+        "momentum": -1.0149452023665684
       },
       {
         "time": 676.6,
-        "momentum": -1.0396282124624001
+        "momentum": -0.9764724219316537
       },
       {
         "time": 677.1,
-        "momentum": -1.0358787897445825
+        "momentum": -0.9729507707892313
       },
       {
         "time": 677.6,
-        "momentum": -1.0321428893326707
+        "momentum": -0.9694418204937458
       },
       {
         "time": 678.1,
-        "momentum": -1.0284204624584217
+        "momentum": -0.9659455252395489
       },
       {
         "time": 678.6,
-        "momentum": -1.0247114605294754
+        "momentum": -0.9624618393861908
       },
       {
         "time": 679.1,
-        "momentum": -1.021015835128721
+        "momentum": -0.9589907174578242
       },
       {
         "time": 679.6,
-        "momentum": -1.0173335380136632
+        "momentum": -0.9555321141426104
       },
       {
         "time": 680.1,
-        "momentum": -1.0136645211157942
+        "momentum": -0.9520859842921279
       },
       {
         "time": 680.6,
-        "momentum": -1.0100087365399648
+        "momentum": -0.9486522829207835
       },
       {
         "time": 681.1,
-        "momentum": -1.0063661365637606
+        "momentum": -0.9452309652052246
       },
       {
         "time": 681.6,
-        "momentum": -1.0027366736368772
+        "momentum": -0.9418219864837539
       },
       {
         "time": 682.1,
-        "momentum": -0.9991203003805016
+        "momentum": -0.9384253022557469
       },
       {
         "time": 682.6,
-        "momentum": -0.9955169695866918
+        "momentum": -0.9350408681810709
       },
       {
         "time": 683.1,
-        "momentum": -0.9919266342177618
+        "momentum": -0.9316686400795057
       },
       {
         "time": 683.6,
-        "momentum": -0.9883492474056675
+        "momentum": -0.9283085739301672
       },
       {
         "time": 684.1,
-        "momentum": -0.9847847624513941
+        "momentum": -0.9249606258709331
       },
       {
         "time": 684.6,
-        "momentum": -0.9812331328243469
+        "momentum": -0.9216247521978701
       },
       {
         "time": 685.1,
-        "momentum": -0.9776943121617441
+        "momentum": -0.9183009093646625
       },
       {
         "time": 685.6,
-        "momentum": -0.9741682542680115
+        "momentum": -0.9149890539820454
       },
       {
         "time": 686.1,
-        "momentum": -0.9706549131141795
+        "momentum": -0.9116891428172369
       },
       {
         "time": 686.6,
-        "momentum": -0.9671542428372819
+        "momentum": -0.9084011327933746
       },
       {
         "time": 687.1,
-        "momentum": -0.9636661977397575
+        "momentum": -0.9051249809889528
       },
       {
         "time": 687.6,
-        "momentum": -0.9601907322888534
+        "momentum": -0.9018606446372625
       },
       {
         "time": 688.1,
-        "momentum": -0.9567278011160312
+        "momentum": -0.8986080811258323
       },
       {
         "time": 688.6,
-        "momentum": -0.9532773590163737
+        "momentum": -0.8953672479958741
       },
       {
         "time": 689.1,
-        "momentum": -0.9498393609479958
+        "momentum": -0.8921381029417266
       },
       {
         "time": 689.6,
-        "momentum": -0.9464137620314558
+        "momentum": -0.8889206038103039
       },
       {
         "time": 690.1,
-        "momentum": -0.9430005175491702
+        "momentum": -0.885714708600546
       },
       {
         "time": 690.6,
-        "momentum": -0.9395995829448294
+        "momentum": -0.8825203754628695
       },
       {
         "time": 691.1,
-        "momentum": -0.9362109138228162
+        "momentum": -0.8793375626986221
       },
       {
         "time": 691.6,
-        "momentum": -0.9328344659476266
+        "momentum": -0.8761662287595371
       },
       {
         "time": 692.1,
-        "momentum": -0.929470195243292
+        "momentum": -0.873006332247192
       },
       {
         "time": 692.6,
-        "momentum": -0.9261180577928038
+        "momentum": -0.8698578319124683
       },
       {
         "time": 693.1,
-        "momentum": -0.9227780098375403
+        "momentum": -0.8667206866550122
       },
       {
         "time": 693.6,
-        "momentum": -0.9194500077766955
+        "momentum": -0.8635948555226985
       },
       {
         "time": 694.1,
-        "momentum": -0.9161340081667099
+        "momentum": -0.8604802977110962
       },
       {
         "time": 694.6,
-        "momentum": -0.9128299677207034
+        "momentum": -0.8573769725629351
       },
       {
         "time": 695.1,
-        "momentum": -0.9095378433079097
+        "momentum": -0.8542848395675764
       },
       {
         "time": 695.6,
-        "momentum": -0.9062575919531144
+        "momentum": -0.851203858360482
       },
       {
         "time": 696.1,
-        "momentum": -0.9029891708360929
+        "momentum": -0.8481339887226899
       },
       {
         "time": 696.6,
-        "momentum": -0.8997325372910518
+        "momentum": -0.8450751905802866
       },
       {
         "time": 697.1,
-        "momentum": -0.896487648806073
+        "momentum": -0.8420274240038864
       },
       {
         "time": 697.6,
-        "momentum": -0.8932544630225564
+        "momentum": -0.8389906492081085
       },
       {
         "time": 698.1,
-        "momentum": -0.8900329377346692
+        "momentum": -0.8359648265510584
       },
       {
         "time": 698.6,
-        "momentum": -0.8786344300671244
+        "momentum": -0.8252587604255813
       },
       {
         "time": 699.1,
-        "momentum": -0.8672770311566195
+        "momentum": -0.8145913057643451
       },
       {
         "time": 700.15,
-        "momentum": -0.855960592744281
+        "momentum": -0.8039623233149715
       },
       {
         "time": 700.65,
-        "momentum": -0.8446849671059317
+        "momentum": -0.7933716743272964
       },
       {
         "time": 701.15,
-        "momentum": -0.833450007050162
+        "momentum": -0.7828192205515582
       },
       {
         "time": 701.65,
-        "momentum": -0.8304441667380786
+        "momentum": -0.779995980344823
       },
       {
         "time": 702.15,
-        "momentum": -0.827449166999401
+        "momentum": -0.777182922163587
       },
       {
         "time": 702.65,
-        "momentum": -0.8244649687375644
+        "momentum": -0.7743800092863402
       },
       {
         "time": 703.15,
-        "momentum": -0.8214915329970053
+        "momentum": -0.7715872051240091
       },
       {
         "time": 703.65,
-        "momentum": -0.8185288209626538
+        "momentum": -0.7688044732194786
       },
       {
         "time": 704.15,
-        "momentum": -0.8155767939594268
+        "momentum": -0.7660317772471164
       },
       {
         "time": 704.65,
-        "momentum": -0.8126354134517229
+        "momentum": -0.7632690810122984
       },
       {
         "time": 705.15,
-        "momentum": -0.809704641042919
+        "momentum": -0.7605163484509371
       },
       {
         "time": 705.65,
-        "momentum": -0.8067844384748704
+        "momentum": -0.7577735436290098
       },
       {
         "time": 706.15,
-        "momentum": -0.8038747676274101
+        "momentum": -0.7550406307420904
       },
       {
         "time": 706.65,
-        "momentum": -0.8009755905178514
+        "momentum": -0.752317574114881
       },
       {
         "time": 707.15,
-        "momentum": -0.7980868693004927
+        "momentum": -0.7496043382007473
       },
       {
         "time": 707.65,
-        "momentum": -0.7952085662661228
+        "momentum": -0.7469008875812538
       },
       {
         "time": 708.15,
-        "momentum": -0.7923406438415291
+        "momentum": -0.7442071869657019
       },
       {
         "time": 708.65,
-        "momentum": -0.7894830645890067
+        "momentum": -0.7415232011906688
       },
       {
         "time": 709.15,
-        "momentum": -0.7866357912058701
+        "momentum": -0.7388488952195489
       },
       {
         "time": 709.65,
-        "momentum": -0.783798786523966
+        "momentum": -0.736184234142096
       },
       {
         "time": 710.15,
-        "momentum": -0.780972013509188
+        "momentum": -0.7335291831739681
       },
       {
         "time": 710.65,
-        "momentum": -0.7781554352609934
+        "momentum": -0.730883707656273
       },
       {
         "time": 711.15,
-        "momentum": -0.7753490150119218
+        "momentum": -0.7282477730551156
       },
       {
         "time": 711.65,
-        "momentum": -0.7725527161271143
+        "momentum": -0.7256213449611478
       },
       {
         "time": 712.15,
-        "momentum": -0.7697665021038359
+        "momentum": -0.7230043890891188
       },
       {
         "time": 712.65,
-        "momentum": -0.7669903365709991
+        "momentum": -0.7203968712774276
       },
       {
         "time": 713.15,
-        "momentum": -0.7642241832886884
+        "momentum": -0.7177987574876772
       },
       {
         "time": 713.65,
-        "momentum": -0.7614680061476878
+        "momentum": -0.7152100138042301
       },
       {
         "time": 714.15,
-        "momentum": -0.7587217691690098
+        "momentum": -0.712630606433766
       },
       {
         "time": 714.65,
-        "momentum": -0.7559854365034245
+        "momentum": -0.7100605017048397
       },
       {
         "time": 715.15,
-        "momentum": -0.7532589724309929
+        "momentum": -0.7074996660674427
       },
       {
         "time": 715.65,
-        "momentum": -0.7505423413605998
+        "momentum": -0.7049480660925649
       },
       {
         "time": 716.15,
-        "momentum": -0.7478355078294898
+        "momentum": -0.7024056684717572
       },
       {
         "time": 716.65,
-        "momentum": -0.7451384365028035
+        "momentum": -0.6998724400166983
       },
       {
         "time": 717.15,
-        "momentum": -0.7424510921731174
+        "momentum": -0.6973483476587605
       },
       {
         "time": 717.65,
-        "momentum": -0.7397734397599833
+        "momentum": -0.6948333584485782
       },
       {
         "time": 718.15,
-        "momentum": -0.737105444309471
+        "momentum": -0.6923274395556175
       },
       {
         "time": 718.65,
-        "momentum": -0.7344470709937115
+        "momentum": -0.6898305582677484
       },
       {
         "time": 719.15,
-        "momentum": -0.7317982851104429
+        "momentum": -0.687342681990817
       },
       {
         "time": 719.65,
-        "momentum": -0.7291590520825568
+        "momentum": -0.6848637782482206
       },
       {
         "time": 720.15,
-        "momentum": -0.7265293374576477
+        "momentum": -0.6823938146804831
       },
       {
         "time": 720.65,
-        "momentum": -0.7239091069075625
+        "momentum": -0.6799327590448334
       },
       {
         "time": 721.15,
-        "momentum": -0.7212983262279526
+        "momentum": -0.6774805792147838
       },
       {
         "time": 721.65,
-        "momentum": -0.718696961337828
+        "momentum": -0.6750372431797107
       },
       {
         "time": 722.15,
-        "momentum": -0.7161049782791113
+        "momentum": -0.6726027190444372
       },
       {
         "time": 722.65,
-        "momentum": -0.7135223432161956
+        "momentum": -0.6701769750288167
       },
       {
         "time": 723.15,
-        "momentum": -0.7109490224355017
+        "momentum": -0.6677599794673174
       },
       {
         "time": 723.65,
-        "momentum": -0.708384982345039
+        "momentum": -0.6653517008086093
       },
       {
         "time": 724.15,
-        "momentum": -0.7058301894739663
+        "momentum": -0.6629521076151527
       },
       {
         "time": 724.65,
-        "momentum": -0.7032846104721548
+        "momentum": -0.6605611685627873
       },
       {
         "time": 725.15,
-        "momentum": -0.7007482121097537
+        "momentum": -0.6581788524403236
       },
       {
         "time": 725.65,
-        "momentum": -0.6982209612767554
+        "momentum": -0.6558051281491353
       },
       {
         "time": 726.15,
-        "momentum": -0.6957028249825634
+        "momentum": -0.6534399647027532
       },
       {
         "time": 726.65,
-        "momentum": -0.6931937703555626
+        "momentum": -0.6510833312264614
       },
       {
         "time": 727.15,
-        "momentum": -0.690693764642689
+        "momentum": -0.6487351969568935
       },
       {
         "time": 727.65,
-        "momentum": -0.6882027752090025
+        "momentum": -0.646395531241631
       },
       {
         "time": 728.15,
-        "momentum": -0.6857207695372616
+        "momentum": -0.6440643035388038
       },
       {
         "time": 728.65,
-        "momentum": -0.6832477152274977
+        "momentum": -0.6417414834166912
       },
       {
         "time": 729.15,
-        "momentum": -0.814113350169962
+        "momentum": -0.7707320792329975
       },
       {
         "time": 729.65,
-        "momentum": -0.9325084091459288
+        "momentum": -0.8877162926759216
       },
       {
         "time": 730.24,
-        "momentum": -1.0504764759351886
+        "momentum": -1.0042786021513974
       },
       {
         "time": 730.74,
-        "momentum": -1.1680190904865284
+        "momentum": -1.1204205292575322
       },
       {
         "time": 731.24,
-        "momentum": -1.2851377871949055
+        "momentum": -1.2361435901047848
       },
       {
         "time": 731.74,
-        "momentum": -1.268504324748107
+        "momentum": -1.2201442566560825
       },
       {
         "time": 732.24,
-        "momentum": -1.263929459545483
+        "momentum": -1.2157438022050773
       },
       {
         "time": 732.74,
-        "momentum": -1.2593710936099207
+        "momentum": -1.2113592180081587
       },
       {
         "time": 733.24,
-        "momentum": -1.2548291674367558
+        "momentum": -1.2069904468292008
       },
       {
         "time": 733.74,
-        "momentum": -1.2503036217359291
+        "momentum": -1.2026374316384998
       },
       {
         "time": 734.24,
-        "momentum": -1.2457943974312111
+        "momentum": -1.1983001156120305
       },
       {
         "time": 734.74,
-        "momentum": -1.2413014356594305
+        "momentum": -1.1939784421307027
       },
       {
         "time": 735.24,
-        "momentum": -1.1277063305509467
+        "momentum": -1.0801391587825135
       },
       {
         "time": 735.74,
-        "momentum": -1.0074504951418686
+        "momentum": -0.9601466085192755
       },
       {
         "time": 736.59,
-        "momentum": -0.8876283628160925
+        "momentum": -0.8405868118005573
       },
       {
         "time": 737.09,
-        "momentum": -0.7682383694219597
+        "momentum": -0.7214582078992148
       },
       {
         "time": 737.59,
-        "momentum": -0.6492789564489293
+        "momentum": -0.6027592417168715
       },
       {
         "time": 738.09,
-        "momentum": -0.6398669182259937
+        "momentum": -0.5940215597607289
       },
       {
         "time": 738.59,
-        "momentum": -0.6375592359884236
+        "momentum": -0.5918792189658741
       },
       {
         "time": 739.09,
-        "momentum": -0.6352598764147667
+        "momentum": -0.5897446045304517
       },
       {
         "time": 739.59,
-        "momentum": -0.6329688094893069
+        "momentum": -0.5876176885893198
       },
       {
         "time": 740.09,
-        "momentum": -0.6306860053045803
+        "momentum": -0.5854984433778324
       },
       {
         "time": 740.59,
-        "momentum": -0.6284114340609839
+        "momentum": -0.5833868412314767
       },
       {
         "time": 741.09,
-        "momentum": -0.6261450660663873
+        "momentum": -0.5812828545855121
       },
       {
         "time": 741.59,
-        "momentum": -0.6238868717357449
+        "momentum": -0.57918645597461
       },
       {
         "time": 742.09,
-        "momentum": -0.6216368215907093
+        "momentum": -0.5770976180324963
       },
       {
         "time": 742.59,
-        "momentum": -0.5057757948896281
+        "momentum": -0.46094004105015796
       },
       {
         "time": 743.09,
-        "momentum": -0.38837870842021205
+        "momentum": -0.3451810522455768
       },
       {
         "time": 743.98,
-        "momentum": -0.2714050149462318
+        "momentum": -0.2298395486315788
       },
       {
         "time": 744.48,
-        "momentum": -0.15485318749939553
+        "momentum": -0.11491402454639063
       },
       {
         "time": 744.98,
-        "momentum": -0.03872170461842791
+        "momentum": -0.000402979758413409
       },
       {
         "time": 745.48,
-        "momentum": -0.03662814169882826
+        "momentum": -0.0003811918880735781
       },
       {
         "time": 745.98,
-        "momentum": -0.03649604218002843
+        "momentum": -0.00037981711822041535
       },
       {
         "time": 746.48,
-        "momentum": -0.0363644190785967
+        "momentum": -0.00037844730647944834
       },
       {
         "time": 746.98,
-        "momentum": -0.03623327067633222
+        "momentum": -0.0003770824349692284
       },
       {
         "time": 747.48,
-        "momentum": -0.03610259526123081
+        "momentum": -0.0003757224858727963
       },
       {
         "time": 747.98,
-        "momentum": -0.03597239112746263
+        "momentum": -0.0003743674414374499
       },
       {
         "time": 748.48,
-        "momentum": -0.03584265657534995
+        "momentum": -0.0003730172839745122
       },
       {
         "time": 748.98,
-        "momentum": -0.0357133899113449
+        "momentum": -0.0003716719958591003
       },
       {
         "time": 749.48,
-        "momentum": -0.03558458944800743
+        "momentum": -0.0003703315595298957
       },
       {
         "time": 749.98,
-        "momentum": -0.035456253503983216
+        "momentum": -0.0003689959574889148
       },
       {
         "time": 750.48,
-        "momentum": -0.03532838040398177
+        "momentum": -0.00036766517230128043
       },
       {
         "time": 750.98,
-        "momentum": -0.035200968478754535
+        "momentum": -0.0003663391865949946
       },
       {
         "time": 751.48,
-        "momentum": -0.035074016065073106
+        "momentum": -0.00036501798306071126
       },
       {
         "time": 751.98,
-        "momentum": -0.034947521505707506
+        "momentum": -0.00036370154445151064
       },
       {
         "time": 752.48,
-        "momentum": -0.03482148314940458
+        "momentum": -0.0003623898535826741
       },
       {
         "time": 752.98,
-        "momentum": -0.03469589935086641
+        "momentum": -0.00036108289333145973
       },
       {
         "time": 753.48,
-        "momentum": -0.03457076847072887
+        "momentum": -0.00035978064663687884
       },
       {
         "time": 753.98,
-        "momentum": -0.034446088875540175
+        "momentum": -0.0003584830964994732
       },
       {
         "time": 754.48,
-        "momentum": -0.03432185893773962
+        "momentum": -0.0003571902259810934
       },
       {
         "time": 754.98,
-        "momentum": -0.034198077035636286
+        "momentum": -0.00035590201820467703
       },
       {
         "time": 755.48,
-        "momentum": -0.0340747415533879
+        "momentum": -0.0003546184563540295
       },
       {
         "time": 755.98,
-        "momentum": -0.033951850880979705
+        "momentum": -0.0003533395236736034
       },
       {
         "time": 756.48,
-        "momentum": -0.033829403414203506
+        "momentum": -0.0003520652034682805
       },
       {
         "time": 756.98,
-        "momentum": -0.033707397554636656
+        "momentum": -0.00035079547910315346
       },
       {
         "time": 757.48,
-        "momentum": -0.03358583170962124
+        "momentum": -0.00034953033400330887
       },
       {
         "time": 757.98,
-        "momentum": -0.033464704292243276
+        "momentum": -0.0003482697516536108
       },
       {
         "time": 758.48,
-        "momentum": -0.03334401372131197
+        "momentum": -0.00034701371559848506
       },
       {
         "time": 758.98,
-        "momentum": -0.03322375842133912
+        "momentum": -0.00034576220944170476
       },
       {
         "time": 759.48,
-        "momentum": -0.03310393682251852
+        "momentum": -0.000344515216846176
       },
       {
         "time": 759.98,
-        "momentum": -0.032984547360705475
+        "momentum": -0.0003432727215337245
       },
       {
         "time": 760.48,
-        "momentum": -0.03286558847739639
+        "momentum": -0.0003420347072848835
       },
       {
         "time": 760.98,
-        "momentum": -0.0327470586197084
+        "momentum": -0.0003408011579386817
       },
       {
         "time": 761.48,
-        "momentum": -0.03262895624035913
+        "momentum": -0.00033957205739243234
       },
       {
         "time": 761.98,
-        "momentum": -0.032511279797646495
+        "momentum": -0.00033834738960152315
       },
       {
         "time": 762.48,
-        "momentum": -0.032394027755428545
+        "momentum": -0.0003371271385792068
       },
       {
         "time": 762.98,
-        "momentum": -0.03227719858310345
+        "momentum": -0.0003359112883963922
       },
       {
         "time": 763.48,
-        "momentum": -0.03216079075558946
+        "momentum": -0.0003346998231814365
       },
       {
         "time": 763.98,
-        "momentum": -0.0320448027533051
+        "momentum": -0.0003334927271199382
       },
       {
         "time": 764.48,
-        "momentum": -0.03192923306214922
+        "momentum": -0.00033228998445453025
       },
       {
         "time": 764.98,
-        "momentum": -0.03181408017348131
+        "momentum": -0.0003310915794846747
       },
       {
         "time": 765.48,
-        "momentum": -0.031699342584101745
+        "momentum": -0.0003298974965664576
       },
       {
         "time": 765.98,
-        "momentum": -0.03158501879623224
+        "momentum": -0.000328707720112385
       },
       {
         "time": 766.48,
-        "momentum": -0.031471107317496215
+        "momentum": -0.00032752223459117907
       },
       {
         "time": 766.98,
-        "momentum": -0.031357606660899366
+        "momentum": -0.0003263410245275758
       },
       {
         "time": 767.48,
-        "momentum": -0.031244515344810243
+        "momentum": -0.00032516407450212264
       },
       {
         "time": 767.98,
-        "momentum": -0.031131831892940894
+        "momentum": -0.0003239913691509773
       },
       {
         "time": 768.48,
-        "momentum": -0.031019554834327605
+        "momentum": -0.0003228228931657073
       },
       {
         "time": 768.98,
-        "momentum": -0.030907682703311717
+        "momentum": -0.00032165863129309023
       },
       {
         "time": 769.48,
-        "momentum": -0.03079621403952045
+        "momentum": -0.00032049856833491424
       },
       {
         "time": 769.98,
-        "momentum": -0.03068514738784787
+        "momentum": -0.00031934268914778
       },
       {
         "time": 770.48,
-        "momentum": -0.0305744812984359
+        "momentum": -0.00031819097864290287
       },
       {
         "time": 770.98,
-        "momentum": -0.03046421432665537
+        "momentum": -0.000317043421785916
       },
       {
         "time": 771.48,
-        "momentum": -0.030354345033087166
+        "momentum": -0.000315900003596674
       },
       {
         "time": 771.98,
-        "momentum": -0.030244871983503452
+        "momentum": -0.0003147607091490574
       },
       {
         "time": 772.48,
-        "momentum": -0.03013579374884894
+        "momentum": -0.0003136255235707779
       },
       {
         "time": 772.98,
-        "momentum": -0.030027108905222227
+        "momentum": -0.0003124944320431842
       },
       {
         "time": 773.48,
-        "momentum": -0.029918816033857227
+        "momentum": -0.00031136741980106837
       },
       {
         "time": 773.98,
-        "momentum": -0.029810913721104625
+        "momentum": -0.0003102444721324733
       },
       {
         "time": 774.48,
-        "momentum": -0.029703400558413456
+        "momentum": -0.00030912557437850065
       },
       {
         "time": 774.98,
-        "momentum": -0.029596275142312677
+        "momentum": -0.00030801071193311945
       },
       {
         "time": 775.48,
-        "momentum": -0.13103953676475655
+        "momentum": -0.10032303084665269
       },
       {
         "time": 775.98,
-        "momentum": -0.20591639278597218
+        "momentum": -0.17556446723045332
       },
       {
         "time": 776.49,
-        "momentum": -0.280523205168857
+        "momentum": -0.25053454511559375
       },
       {
         "time": 776.99,
-        "momentum": -0.35486094782671984
+        "momentum": -0.32523424315743105
       },
       {
         "time": 777.49,
-        "momentum": -0.42893059116044785
+        "momentum": -0.39966453648179845
       },
       {
         "time": 777.99,
-        "momentum": -0.40118310138081037
+        "momentum": -0.3738102657213248
       },
       {
         "time": 778.49,
-        "momentum": -0.39973623314821516
+        "momentum": -0.37246211771452037
       },
       {
         "time": 778.99,
-        "momentum": -0.39829458305086857
+        "momentum": -0.3711188318081313
       },
       {
         "time": 779.49,
-        "momentum": -0.396858132269548
+        "momentum": -0.3697803904669758
       },
       {
         "time": 779.99,
-        "momentum": -0.39542686205290234
+        "momentum": -0.36844677621911276
       },
       {
         "time": 780.49,
-        "momentum": -0.3940007537172073
+        "momentum": -0.36711797165561355
       },
       {
         "time": 780.99,
-        "momentum": -0.3925797886461214
+        "momentum": -0.3657939594303351
       },
       {
         "time": 781.49,
-        "momentum": -0.3911639482904434
+        "momentum": -0.3644747222596932
       },
       {
         "time": 781.99,
-        "momentum": -0.38975321416786934
+        "momentum": -0.36316024292243676
       },
       {
         "time": 782.49,
-        "momentum": -0.3883475678627522
+        "momentum": -0.3618505042594234
       },
       {
         "time": 782.99,
-        "momentum": -0.3869469910258607
+        "momentum": -0.3605454891733952
       },
       {
         "time": 783.49,
-        "momentum": -0.38555146537414037
+        "momentum": -0.35924518062875554
       },
       {
         "time": 783.99,
-        "momentum": -0.38416097269047456
+        "momentum": -0.3579495616513467
       },
       {
         "time": 784.49,
-        "momentum": -0.3827754948234466
+        "momentum": -0.3566586153282285
       },
       {
         "time": 784.99,
-        "momentum": -0.3813950136871031
+        "momentum": -0.35537232480745706
       },
       {
         "time": 785.49,
-        "momentum": -0.38001951126071776
+        "momentum": -0.3540906732978653
       },
       {
         "time": 785.99,
-        "momentum": -0.378648969588556
+        "momentum": -0.3528136440688434
       },
       {
         "time": 786.49,
-        "momentum": -0.37728337077964064
+        "momentum": -0.35154122045012065
       },
       {
         "time": 786.99,
-        "momentum": -0.3759226970075184
+        "momentum": -0.35027338583154777
       },
       {
         "time": 787.49,
-        "momentum": -0.3745669305100272
+        "momentum": -0.3490101236628798
       },
       {
         "time": 787.99,
-        "momentum": -0.37321605358906423
+        "momentum": -0.3477514174535606
       },
       {
         "time": 788.49,
-        "momentum": -0.37187004861035505
+        "momentum": -0.34649725077250704
       },
       {
         "time": 788.99,
-        "momentum": -0.370528898003223
+        "momentum": -0.345247607247895
       },
       {
         "time": 789.49,
-        "momentum": -0.3691925842603605
+        "momentum": -0.344002470566945
       },
       {
         "time": 789.99,
-        "momentum": -0.36786108993759986
+        "momentum": -0.34276182447571013
       },
       {
         "time": 790.49,
-        "momentum": -0.3665343976536859
+        "momentum": -0.34152565277886304
       },
       {
         "time": 790.99,
-        "momentum": -0.36521249009004914
+        "momentum": -0.340293939339485
       },
       {
         "time": 791.49,
-        "momentum": -0.3638953499905794
+        "momentum": -0.3390666680788552
       },
       {
         "time": 791.99,
-        "momentum": -0.36258296016140074
+        "momentum": -0.3378438229762407
       },
       {
         "time": 792.49,
-        "momentum": -0.3612753034706472
+        "momentum": -0.33662538806868747
       },
       {
         "time": 792.99,
-        "momentum": -0.3599723628482387
+        "momentum": -0.3354113474508118
       },
       {
         "time": 793.49,
-        "momentum": -0.3586741212856585
+        "momentum": -0.33420168527459293
       },
       {
         "time": 793.99,
-        "momentum": -0.35738056183573136
+        "momentum": -0.33299638574916596
       },
       {
         "time": 794.49,
-        "momentum": -0.3560916676124018
+        "momentum": -0.3317954331406159
       },
       {
         "time": 794.99,
-        "momentum": -0.35480742179051405
+        "momentum": -0.33059881177177197
       },
       {
         "time": 795.49,
-        "momentum": -0.3535278076055925
+        "momentum": -0.3294065060220034
       },
       {
         "time": 795.99,
-        "momentum": -0.3522528083536224
+        "momentum": -0.3282185003270152
       },
       {
         "time": 796.49,
-        "momentum": -0.35098240739083225
+        "momentum": -0.327034779178645
       },
       {
         "time": 796.99,
-        "momentum": -0.34971658813347634
+        "momentum": -0.3258553271246607
       },
       {
         "time": 797.49,
-        "momentum": -0.3484553340576183
+        "momentum": -0.3246801287685588
       },
       {
         "time": 797.99,
-        "momentum": -0.3471986286989153
+        "momentum": -0.32350916876936314
       },
       {
         "time": 798.49,
-        "momentum": -0.34594645565240345
+        "momentum": -0.32234243184142514
       },
       {
         "time": 798.99,
-        "momentum": -0.34469879857228314
+        "momentum": -0.32117990275422376
       },
       {
         "time": 799.49,
-        "momentum": -0.3434556411717061
+        "momentum": -0.3200215663321669
       },
       {
         "time": 799.99,
-        "momentum": -0.3422169672225627
+        "momentum": -0.31886740745439335
       },
       {
         "time": 800.49,
-        "momentum": -0.3409827605552698
+        "momentum": -0.3177174110545753
       },
       {
         "time": 800.99,
-        "momentum": -0.3397530050585602
+        "momentum": -0.31657156212072174
       },
       {
         "time": 801.49,
-        "momentum": -0.33852768467927186
+        "momentum": -0.31542984569498234
       },
       {
         "time": 801.99,
-        "momentum": -0.3373067834221386
+        "momentum": -0.31429224687345253
       },
       {
         "time": 802.49,
-        "momentum": -0.3360902853495812
+        "momentum": -0.3131587508059785
       },
       {
         "time": 802.99,
-        "momentum": -0.3348781745814992
+        "momentum": -0.31202934269596366
       },
       {
         "time": 803.49,
-        "momentum": -0.3336704352950642
+        "momentum": -0.31090400780017546
       },
       {
         "time": 803.99,
-        "momentum": -0.3324670517245124
+        "momentum": -0.3097827314285527
       },
       {
         "time": 804.49,
-        "momentum": -0.3312680081609397
+        "momentum": -0.3086654989440142
       },
       {
         "time": 804.99,
-        "momentum": -0.330073288952096
+        "momentum": -0.30755229576226717
       },
       {
         "time": 805.49,
-        "momentum": -0.32888287850218095
+        "momentum": -0.3064431073516173
       },
       {
         "time": 805.99,
-        "momentum": -0.3276967612716409
+        "momentum": -0.30533791923277886
       },
       {
         "time": 806.49,
-        "momentum": -0.3265149217769653
+        "momentum": -0.30423671697868565
       },
       {
         "time": 806.99,
-        "momentum": -0.3253373445904851
+        "momentum": -0.30313948621430287
       },
       {
         "time": 807.49,
-        "momentum": -0.3241640143401711
+        "momentum": -0.3020462126164391
       },
       {
         "time": 807.99,
-        "momentum": -0.32299491570943356
+        "momentum": -0.30095688191355985
       },
       {
         "time": 808.49,
-        "momentum": -0.32183003343692185
+        "momentum": -0.29987147988560076
       },
       {
         "time": 808.99,
-        "momentum": -0.32066935231632565
+        "momentum": -0.29878999236378223
       },
       {
         "time": 809.49,
-        "momentum": -0.31951285719617606
+        "momentum": -0.2977124052304244
       },
       {
         "time": 809.99,
-        "momentum": -0.31836053297964806
+        "momentum": -0.296638704418763
       },
       {
         "time": 810.49,
-        "momentum": -0.3172123646243636
+        "momentum": -0.29556887591276537
       },
       {
         "time": 810.99,
-        "momentum": -0.3160683371421946
+        "momentum": -0.29450290574694793
       },
       {
         "time": 811.49,
-        "momentum": -0.31492843559906813
+        "momentum": -0.29344078000619345
       },
       {
         "time": 811.99,
-        "momentum": -0.31379264511477084
+        "momentum": -0.2923824848255699
       },
       {
         "time": 812.49,
-        "momentum": -0.31266095086275486
+        "momentum": -0.2913280063901489
       },
       {
         "time": 812.99,
-        "momentum": -0.3115333380699445
+        "momentum": -0.2902773309348258
       },
       {
         "time": 813.49,
-        "momentum": -0.31040979201654306
+        "momentum": -0.28923044474413984
       },
       {
         "time": 813.99,
-        "momentum": -0.40898840014032045
+        "momentum": -0.386541429218756
       },
       {
         "time": 814.49,
-        "momentum": -0.4376439078390016
+        "momentum": -0.41632354371217317
       },
       {
         "time": 815.35,
-        "momentum": -0.4661960693507786
+        "momentum": -0.4459982489074128
       },
       {
         "time": 815.85,
-        "momentum": -0.49464525739402926
+        "momentum": -0.47556593217647747
       },
       {
         "time": 816.35,
-        "momentum": -0.5229918433429215
+        "momentum": -0.5050269794943114
       },
       {
         "time": 816.85,
-        "momentum": -0.45153809512778126
+        "momentum": -0.4360276803771779
       },
       {
         "time": 817.35,
-        "momentum": -0.44990962143734325
+        "momentum": -0.4344551450507931
       },
       {
         "time": 817.85,
-        "momentum": -0.4482870208428612
+        "momentum": -0.43288828107846217
       },
       {
         "time": 818.35,
-        "momentum": -0.4466702721629944
+        "momentum": -0.43132706800642734
       },
       {
         "time": 818.85,
-        "momentum": -0.44505935429279264
+        "momentum": -0.4297714854546972
       },
       {
         "time": 819.35,
-        "momentum": -0.4434542462034209
+        "momentum": -0.4282215131167811
       },
       {
         "time": 819.85,
-        "momentum": -0.4418549269418846
+        "momentum": -0.4266771307594234
       },
       {
         "time": 820.35,
-        "momentum": -0.4402613756307563
+        "momentum": -0.4251383182223402
       },
       {
         "time": 820.85,
-        "momentum": -0.43867357146790303
+        "momentum": -0.4236050554179556
       },
       {
         "time": 821.35,
-        "momentum": -0.4370914937262148
+        "momentum": -0.42207732233113937
       },
       {
         "time": 821.85,
-        "momentum": -0.43551512175333407
+        "momentum": -0.42055509901894633
       },
       {
         "time": 822.35,
-        "momentum": -0.4339444349713861
+        "momentum": -0.4190383656103552
       },
       {
         "time": 822.85,
-        "momentum": -0.4323794128767101
+        "momentum": -0.4175271023060099
       },
       {
         "time": 823.35,
-        "momentum": -0.43082003503959215
+        "momentum": -0.4160212893779606
       },
       {
         "time": 823.85,
-        "momentum": -0.42926628110399784
+        "momentum": -0.4145209071694066
       },
       {
         "time": 824.35,
-        "momentum": -0.4277181307873071
+        "momentum": -0.4130259360944393
       },
       {
         "time": 824.85,
-        "momentum": -0.42617556388004907
+        "momentum": -0.4115363566377869
       },
       {
         "time": 825.35,
-        "momentum": -0.42463856024563845
+        "momentum": -0.41005214935455936
       },
       {
         "time": 825.85,
-        "momentum": -0.4231070998201127
+        "momentum": -0.40857329486999483
       },
       {
         "time": 826.35,
-        "momentum": -0.42158116261186984
+        "momentum": -0.4070997738792066
       },
       {
         "time": 826.85,
-        "momentum": -0.42006072870140787
+        "momentum": -0.40563156714693094
       },
       {
         "time": 827.35,
-        "momentum": -0.4185457782410644
+        "momentum": -0.4041686555072763
       },
       {
         "time": 827.85,
-        "momentum": -0.41703629145475773
+        "momentum": -0.402711019863473
       },
       {
         "time": 828.35,
-        "momentum": -0.41553224863772875
+        "momentum": -0.4012586411876239
       },
       {
         "time": 828.85,
-        "momentum": -0.41403363015628347
+        "momentum": -0.399811500520456
       },
       {
         "time": 829.35,
-        "momentum": -0.4125404164475371
+        "momentum": -0.398369578971073
       },
       {
         "time": 829.85,
-        "momentum": -0.4110525880191583
+        "momentum": -0.3969328577167087
       },
       {
         "time": 830.35,
-        "momentum": -0.4095701254491148
+        "momentum": -0.3955013180024813
       },
       {
         "time": 830.85,
-        "momentum": -0.4080930093854203
+        "momentum": -0.39407494114114844
       },
       {
         "time": 831.35,
-        "momentum": -0.4066212205458812
+        "momentum": -0.3926537085128634
       },
       {
         "time": 831.85,
-        "momentum": -0.4051547397178453
+        "momentum": -0.39123760156493215
       },
       {
         "time": 832.35,
-        "momentum": -0.4036935477579509
+        "momentum": -0.3898266018115708
       },
       {
         "time": 832.85,
-        "momentum": -0.4022376255918768
+        "momentum": -0.3884206908336646
       },
       {
         "time": 833.35,
-        "momentum": -0.4007869542140936
+        "momentum": -0.3870198502785275
       },
       {
         "time": 833.85,
-        "momentum": -0.3993415146876153
+        "momentum": -0.38562406185966225
       },
       {
         "time": 834.35,
-        "momentum": -0.39790128814375214
+        "momentum": -0.3842333073565221
       },
       {
         "time": 834.85,
-        "momentum": -0.39646625578186445
+        "momentum": -0.3828475686142727
       },
       {
         "time": 835.35,
-        "momentum": -0.3950363988691172
+        "momentum": -0.3814668275435552
       },
       {
         "time": 835.85,
-        "momentum": -0.39361169874023505
+        "momentum": -0.38009106612025
       },
       {
         "time": 836.35,
-        "momentum": -0.3921921367972595
+        "momentum": -0.3787202663852416
       },
       {
         "time": 836.85,
-        "momentum": -0.3907776945093054
+        "momentum": -0.37735441044418416
       },
       {
         "time": 837.35,
-        "momentum": -0.38936835341231923
+        "momentum": -0.3759934804672679
       },
       {
         "time": 837.85,
-        "momentum": -0.3879640951088384
+        "momentum": -0.37463745868898607
       },
       {
         "time": 838.35,
-        "momentum": -0.38656490126775056
+        "momentum": -0.3732863274079035
       },
       {
         "time": 838.85,
-        "momentum": -0.38517075362405473
+        "momentum": -0.37194006898642534
       },
       {
         "time": 839.35,
-        "momentum": -0.38378163397862275
+        "momentum": -0.3705986658505666
       },
       {
         "time": 839.85,
-        "momentum": -0.3823975241979616
+        "momentum": -0.3692621004897231
       },
       {
         "time": 840.35,
-        "momentum": -0.38101840621397665
+        "momentum": -0.36793035545644254
       },
       {
         "time": 840.85,
-        "momentum": -0.37964426202373625
+        "momentum": -0.3666034133661971
       },
       {
         "time": 841.35,
-        "momentum": -0.3782750736892361
+        "momentum": -0.3652812568971562
       },
       {
         "time": 841.85,
-        "momentum": -0.37691082333716536
+        "momentum": -0.36396386878996045
       },
       {
         "time": 842.35,
-        "momentum": -0.37555149315867353
+        "momentum": -0.36265123184749665
       },
       {
         "time": 842.85,
-        "momentum": -0.3741970654091378
+        "momentum": -0.36134332893467275
       },
       {
         "time": 843.35,
-        "momentum": -0.3728475224079311
+        "momentum": -0.36004014297819464
       },
       {
         "time": 843.85,
-        "momentum": -0.371502846538192
+        "momentum": -0.35874165696634314
       },
       {
         "time": 844.35,
-        "momentum": -0.37016302024659403
+        "momentum": -0.35744785394875167
       },
       {
         "time": 844.85,
-        "momentum": -0.36882802604311704
+        "momentum": -0.35615871703618546
       },
       {
         "time": 845.35,
-        "momentum": -0.36749784650081857
+        "momentum": -0.3548742294003207
       },
       {
         "time": 845.85,
-        "momentum": -0.36617246425560657
+        "momentum": -0.3535943742735249
       },
       {
         "time": 846.35,
-        "momentum": -0.3648518620060127
+        "momentum": -0.35231913494863837
       },
       {
         "time": 846.85,
-        "momentum": -0.3635360225129662
+        "momentum": -0.35104849477875555
       },
       {
         "time": 847.35,
-        "momentum": -0.3622249285995694
+        "momentum": -0.3497824371770082
       },
       {
         "time": 847.85,
-        "momentum": -0.36091856315087284
+        "momentum": -0.3485209456163485
       },
       {
         "time": 848.35,
-        "momentum": -0.35961690911365246
+        "momentum": -0.34726400362933374
       },
       {
         "time": 848.85,
-        "momentum": -0.35831994949618656
+        "momentum": -0.3460115948079108
       },
       {
         "time": 849.35,
-        "momentum": -0.3570276673680342
+        "momentum": -0.34476370280320257
       },
       {
         "time": 849.85,
-        "momentum": -0.355740045859814
+        "momentum": -0.34352031132529387
       },
       {
         "time": 850.35,
-        "momentum": -0.35445706816298433
+        "momentum": -0.3422814041430195
       },
       {
         "time": 850.85,
-        "momentum": -0.3531787175296234
+        "momentum": -0.34104696508375176
       },
       {
         "time": 851.35,
-        "momentum": -0.3519049772722108
+        "momentum": -0.3398169780331898
       },
       {
         "time": 851.85,
-        "momentum": -0.3506358307634101
+        "momentum": -0.33859142693514876
       },
       {
         "time": 852.35,
-        "momentum": -0.34937126143585095
+        "momentum": -0.3373702957913508
       },
       {
         "time": 852.85,
-        "momentum": -0.34811125278191357
+        "momentum": -0.3361535686612157
       },
       {
         "time": 853.35,
-        "momentum": -0.34685578835351283
+        "momentum": -0.3349412296616531
       },
       {
         "time": 853.85,
-        "momentum": -0.3456048517618838
+        "momentum": -0.3337332629668549
       },
       {
         "time": 854.35,
-        "momentum": -0.34435842667736755
+        "momentum": -0.33252965280808916
       },
       {
         "time": 854.85,
-        "momentum": -0.34311649682919826
+        "momentum": -0.3313303834734936
       },
       {
         "time": 855.35,
-        "momentum": -0.3418790460052905
+        "momentum": -0.3301354393078709
       },
       {
         "time": 855.85,
-        "momentum": -0.34064605805202797
+        "momentum": -0.32894480471248444
       },
       {
         "time": 856.35,
-        "momentum": -0.3394175168740524
+        "momentum": -0.32775846414485427
       },
       {
         "time": 856.85,
-        "momentum": -0.3381934064340534
+        "momentum": -0.32657640211855454
       },
       {
         "time": 857.35,
-        "momentum": -0.3369737107525593
+        "momentum": -0.3253986032030113
       },
       {
         "time": 857.85,
-        "momentum": -0.3357584139077282
+        "momentum": -0.324225052023301
       },
       {
         "time": 858.35,
-        "momentum": -0.33454750003514083
+        "momentum": -0.32305573325994963
       },
       {
         "time": 858.85,
-        "momentum": -0.3333409533275926
+        "momentum": -0.3218906316487332
       },
       {
         "time": 859.35,
-        "momentum": -0.33213875803488785
+        "momentum": -0.320729731980478
       },
       {
         "time": 859.85,
-        "momentum": -0.33094089846363395
+        "momentum": -0.31957301910086233
       },
       {
         "time": 860.35,
-        "momentum": -0.32974735897703666
+        "momentum": -0.31842047791021855
       },
       {
         "time": 860.85,
-        "momentum": -0.3285581239946958
+        "momentum": -0.3172720933633361
       },
       {
         "time": 861.35,
-        "momentum": -0.32737317799240195
+        "momentum": -0.316127850469265
       },
       {
         "time": 861.85,
-        "momentum": -0.326192505501934
+        "momentum": -0.31498773429112015
       },
       {
         "time": 862.35,
-        "momentum": -0.3250160911108567
+        "momentum": -0.3138517299458863
       },
       {
         "time": 862.85,
-        "momentum": -0.32384391946232005
+        "momentum": -0.31271982260422404
       },
       {
         "time": 863.35,
-        "momentum": -0.3226759752548585
+        "momentum": -0.31159199749027594
       },
       {
         "time": 863.85,
-        "momentum": -0.32151224324219135
+        "momentum": -0.31046823988147365
       },
       {
         "time": 864.35,
-        "momentum": -0.32035270823302353
+        "momentum": -0.3093485351083459
       },
       {
         "time": 864.85,
-        "momentum": -0.3191973550908476
+        "momentum": -0.3082328685543271
       },
       {
         "time": 865.35,
-        "momentum": -0.3180461687337458
+        "momentum": -0.3071212256555659
       },
       {
         "time": 865.85,
-        "momentum": -0.31689913413419346
+        "momentum": -0.3060135919007359
       },
       {
         "time": 866.35,
-        "momentum": -0.3157562363188628
+        "momentum": -0.30490995283084577
       },
       {
         "time": 866.85,
-        "momentum": -0.3146174603684273
+        "momentum": -0.30381029403905063
       },
       {
         "time": 867.35,
-        "momentum": -0.313482791417367
+        "momentum": -0.3027146011704637
       },
       {
         "time": 867.85,
-        "momentum": -0.3123522146537746
+        "momentum": -0.30162285992196947
       },
       {
         "time": 868.35,
-        "momentum": -0.311225715319162
+        "momentum": -0.3005350560420364
       },
       {
         "time": 868.85,
-        "momentum": -0.3101032787082675
+        "momentum": -0.2994511753305313
       },
       {
         "time": 869.35,
-        "momentum": -0.308984890168864
+        "momentum": -0.2983712036385337
       },
       {
         "time": 869.85,
-        "momentum": -0.3078705351015679
+        "momentum": -0.29729512686815146
       },
       {
         "time": 870.35,
-        "momentum": -0.3067601989596482
+        "momentum": -0.29622293097233626
       },
       {
         "time": 870.85,
-        "momentum": -0.30565386724883664
+        "momentum": -0.2951546019547008
       },
       {
         "time": 871.35,
-        "momentum": -0.30455152552713877
+        "momentum": -0.2940901258693355
       },
       {
         "time": 871.85,
-        "momentum": -0.30345315940464507
+        "momentum": -0.29302948882062696
       },
       {
         "time": 872.35,
-        "momentum": -0.3023587545433434
+        "momentum": -0.29197267696307627
       },
       {
         "time": 872.85,
-        "momentum": -0.3012682966569316
+        "momentum": -0.2909196765011184
       },
       {
         "time": 873.35,
-        "momentum": -0.3001817715106313
+        "momentum": -0.2898704736889421
       },
       {
         "time": 873.85,
-        "momentum": -0.2990991649210017
+        "momentum": -0.28882505483031035
       },
       {
         "time": 874.35,
-        "momentum": -0.2980204627557547
+        "momentum": -0.2877834062783817
       },
       {
         "time": 874.85,
-        "momentum": -0.2969456509335705
+        "momentum": -0.2867455144355321
       },
       {
         "time": 875.35,
-        "momentum": -0.2958747154239133
+        "momentum": -0.2857113657531774
       },
       {
         "time": 875.85,
-        "momentum": -0.29480764224684874
+        "momentum": -0.28468094673159633
       },
       {
         "time": 876.35,
-        "momentum": -0.2937444174728611
+        "momentum": -0.2836542439197545
       },
       {
         "time": 876.85,
-        "momentum": -0.2926850272226715
+        "momentum": -0.28263124391512884
       },
       {
         "time": 877.35,
-        "momentum": -0.2916294576670565
+        "momentum": -0.28161193336353224
       },
       {
         "time": 877.85,
-        "momentum": -0.29057769502666825
+        "momentum": -0.2805962989589399
       },
       {
         "time": 878.35,
-        "momentum": -0.28952972557185375
+        "momentum": -0.27958432744331485
       },
       {
         "time": 878.85,
-        "momentum": -0.2884855356224762
+        "momentum": -0.27857600560643553
       },
       {
         "time": 879.35,
-        "momentum": -0.2874451115477364
+        "momentum": -0.27757132028572296
       },
       {
         "time": 879.85,
-        "momentum": -0.2864084397659944
+        "momentum": -0.2765702583660692
       },
       {
         "time": 880.35,
-        "momentum": -0.2853755067445927
+        "momentum": -0.2755728067796658
       },
       {
         "time": 880.85,
-        "momentum": -0.2843462989996793
+        "momentum": -0.2745789525058335
       },
       {
         "time": 881.35,
-        "momentum": -0.28332080309603164
+        "momentum": -0.27358868257085217
       },
       {
         "time": 881.85,
-        "momentum": -0.2822990056468816
+        "momentum": -0.27260198404779146
       },
       {
         "time": 882.35,
-        "momentum": -0.2812808933137402
+        "momentum": -0.27161884405634207
       },
       {
         "time": 882.85,
-        "momentum": -0.28026645280622403
+        "momentum": -0.2706392497626474
       },
       {
         "time": 883.35,
-        "momentum": -0.2792556708818813
+        "momentum": -0.2696631883791364
       },
       {
         "time": 883.85,
-        "momentum": -0.2782485343460192
+        "momentum": -0.2686906471643563
       },
       {
         "time": 884.35,
-        "momentum": -0.2772450300515317
+        "momentum": -0.2677216134228066
       },
       {
         "time": 884.85,
-        "momentum": -0.27624514489872787
+        "momentum": -0.26675607450477296
       },
       {
         "time": 885.35,
-        "momentum": -0.2752488658351607
+        "momentum": -0.2657940178061624
       },
       {
         "time": 885.85,
-        "momentum": -0.274256179855457
+        "momentum": -0.2648354307683386
       },
       {
         "time": 886.35,
-        "momentum": -0.2732670740011475
+        "momentum": -0.2638803008779581
       },
       {
         "time": 886.85,
-        "momentum": -0.27228153536049776
+        "momentum": -0.2629286156668066
       },
       {
         "time": 887.35,
-        "momentum": -0.27129955106833925
+        "momentum": -0.26198036271163677
       },
       {
         "time": 887.85,
-        "momentum": -0.27032110830590217
+        "momentum": -0.26103552963400556
       },
       {
         "time": 888.35,
-        "momentum": -0.26934619430064727
+        "momentum": -0.260094104100113
       },
       {
         "time": 888.85,
-        "momentum": -0.26837479632609973
+        "momentum": -0.25915607382064076
       },
       {
         "time": 889.35,
-        "momentum": -0.26740690170168263
+        "momentum": -0.25822142655059216
       },
       {
         "time": 889.85,
-        "momentum": -0.2664424977925518
+        "momentum": -0.25729015008913214
       },
       {
         "time": 890.35,
-        "momentum": -0.2654815720094305
+        "momentum": -0.25636223227942795
       },
       {
         "time": 890.85,
-        "momentum": -0.26452411180844543
+        "momentum": -0.2554376610084904
       },
       {
         "time": 891.35,
-        "momentum": -0.2635701046909626
+        "momentum": -0.25451642420701603
       },
       {
         "time": 891.85,
-        "momentum": -0.2626195382034246
+        "momentum": -0.25359850984922927
       },
       {
         "time": 892.35,
-        "momentum": -0.26167239993718766
+        "momentum": -0.25268390595272555
       },
       {
         "time": 892.85,
-        "momentum": -0.29427317248450946
+        "momentum": -0.28416483610168675
       },
       {
         "time": 893.35,
-        "momentum": -0.32675637023370435
+        "momentum": -0.31553223016797577
       },
       {
         "time": 894.46,
-        "momentum": -0.35912241721868543
+        "momentum": -0.3467864976198645
       },
       {
         "time": 894.96,
-        "momentum": -0.39137173594408614
+        "momentum": -0.37792804644887623
       },
       {
         "time": 895.46,
-        "momentum": -0.42350474739077537
+        "momentum": -0.4089572831751114
       },
       {
         "time": 895.96,
-        "momentum": -0.42197737606520364
+        "momentum": -0.4074823773291823
       },
       {
         "time": 896.46,
-        "momentum": -0.4204555132095618
+        "momentum": -0.4060127907362506
       },
       {
         "time": 896.96,
-        "momentum": -0.41893913895753415
+        "momentum": -0.4045485042124121
       },
       {
         "time": 897.46,
-        "momentum": -0.41742823351445296
+        "momentum": -0.4030894986429495
       },
       {
         "time": 897.96,
-        "momentum": -0.4159227771570399
+        "momentum": -0.4016357549820828
       },
       {
         "time": 898.46,
-        "momentum": -0.4144227502331489
+        "momentum": -0.40018725425272034
       },
       {
         "time": 898.96,
-        "momentum": -0.4129281331615092
+        "momentum": -0.39874397754621177
       },
       {
         "time": 899.46,
-        "momentum": -0.4114389064314702
+        "momentum": -0.39730590602210075
       },
       {
         "time": 899.96,
-        "momentum": -0.40995505060274634
+        "momentum": -0.39587302090787907
       },
       {
         "time": 900.46,
-        "momentum": -0.4084765463051636
+        "momentum": -0.39444530349874163
       },
       {
         "time": 900.96,
-        "momentum": -0.4070033742384066
+        "momentum": -0.3930227351573424
       },
       {
         "time": 901.46,
-        "momentum": -0.330636339079286
+        "momentum": -0.3165309070027593
       },
       {
         "time": 901.96,
-        "momentum": -0.25433304037900584
+        "momentum": -0.24021398922570297
       },
       {
         "time": 902.83,
-        "momentum": -0.17830492978747625
+        "momentum": -0.1641723086746443
       },
       {
         "time": 903.33,
-        "momentum": -0.10255101483783813
+        "momentum": -0.08840487270558277
       },
       {
         "time": 903.83,
-        "momentum": -0.027070306642567554
+        "momentum": -0.012910692254491738
       },
       {
         "time": 904.33,
-        "momentum": -0.02676099597304729
+        "momentum": -0.012763172135198838
       },
       {
         "time": 904.83,
-        "momentum": -0.026664482349186402
+        "momentum": -0.012717141711070792
       },
       {
         "time": 905.33,
-        "momentum": -0.02656831680204135
+        "momentum": -0.01267127729582541
       },
       {
         "time": 905.83,
-        "momentum": -0.02647249807627226
+        "momentum": -0.012625578290751083
       },
       {
         "time": 906.33,
-        "momentum": -0.026377024921066656
+        "momentum": -0.012580044099295465
       },
       {
         "time": 906.83,
-        "momentum": -0.024835991257763583
+        "momentum": -0.011845076016243456
       },
       {
         "time": 907.33,
-        "momentum": -0.023300515337658367
+        "momentum": -0.011112758598106492
       },
       {
         "time": 908.66,
-        "momentum": -0.021770577116731082
+        "momentum": -0.010383082285252457
       },
       {
         "time": 909.16,
-        "momentum": -0.020246156623250623
+        "momentum": -0.009656037552526078
       },
       {
         "time": 909.66,
-        "momentum": -0.018727233957514012
+        "momentum": -0.00893161490912459
       },
       {
         "time": 910.16,
-        "momentum": -0.01865969412394613
+        "momentum": -0.008899403009288062
       },
       {
         "time": 910.66,
-        "momentum": -0.01859239787301991
+        "momentum": -0.008867307281778893
       },
       {
         "time": 911.16,
-        "momentum": -0.01852534432625372
+        "momentum": -0.008835327307621188
       },
       {
         "time": 911.66,
-        "momentum": -0.018458532608334167
+        "momentum": -0.008803462669350086
       },
       {
         "time": 912.16,
-        "momentum": -0.018391961847104694
+        "momentum": -0.008771712951006316
       },
       {
         "time": 912.66,
-        "momentum": -0.018325631173554163
+        "momentum": -0.008740077738130767
       },
       {
         "time": 913.16,
-        "momentum": -0.01825953972180554
+        "momentum": -0.00870855661775907
       },
       {
         "time": 913.66,
-        "momentum": -0.018193686629104575
+        "momentum": -0.008677149178416225
       },
       {
         "time": 914.16,
-        "momentum": -0.01812807103580854
+        "momentum": -0.008645855010111206
       },
       {
         "time": 914.66,
-        "momentum": -0.01806269208537502
+        "momentum": -0.008614673704331628
       },
       {
         "time": 915.16,
-        "momentum": -0.01799754892435072
+        "momentum": -0.008583604854038406
       },
       {
         "time": 915.66,
-        "momentum": -0.017932640702360322
+        "momentum": -0.00855264805366044
       },
       {
         "time": 916.16,
-        "momentum": -0.017867966572095394
+        "momentum": -0.00852180289908933
       },
       {
         "time": 916.66,
-        "momentum": -0.01780352568930333
+        "momentum": -0.008491068987674086
       },
       {
         "time": 917.16,
-        "momentum": -0.017739317212776308
+        "momentum": -0.008460445918215886
       },
       {
         "time": 917.66,
-        "momentum": -0.017675340304340342
+        "momentum": -0.008429933290962833
       },
       {
         "time": 918.16,
-        "momentum": -0.01761159412884432
+        "momentum": -0.008399530707604732
       },
       {
         "time": 918.66,
-        "momentum": -0.017548077854149094
+        "momentum": -0.0083692377712679
       },
       {
         "time": 919.16,
-        "momentum": -0.01748479065111664
+        "momentum": -0.008339054086509978
       },
       {
         "time": 919.66,
-        "momentum": -0.017421731693599223
+        "momentum": -0.00830897925931477
       },
       {
         "time": 920.16,
-        "momentum": -0.017358900158428604
+        "momentum": -0.008279012897087107
       },
       {
         "time": 920.66,
-        "momentum": -0.017296295225405305
+        "momentum": -0.008249154608647705
       },
       {
         "time": 921.16,
-        "momentum": -0.017233916077287914
+        "momentum": -0.00821940400422808
       },
       {
         "time": 921.66,
-        "momentum": -0.017171761899782388
+        "momentum": -0.008189760695465443
       },
       {
         "time": 922.16,
-        "momentum": -0.017109831881531444
+        "momentum": -0.008160224295397638
       },
       {
         "time": 922.66,
-        "momentum": -0.017048125214103958
+        "momentum": -0.008130794418458091
       },
       {
         "time": 923.16,
-        "momentum": -0.016986641091984417
+        "momentum": -0.008101470680470775
       },
       {
         "time": 923.66,
-        "momentum": -0.01692537871256241
+        "momentum": -0.008072252698645192
       },
       {
         "time": 924.16,
-        "momentum": -0.01686433727612213
+        "momentum": -0.008043140091571385
       },
       {
         "time": 924.66,
-        "momentum": -0.016803515985831956
+        "momentum": -0.008014132479214947
       },
       {
         "time": 925.16,
-        "momentum": -0.016742914047734047
+        "momentum": -0.007985229482912071
       },
       {
         "time": 925.66,
-        "momentum": -0.01668253067073397
+        "momentum": -0.007956430725364599
       },
       {
         "time": 926.16,
-        "momentum": -0.016622365066590365
+        "momentum": -0.007927735830635104
       },
       {
         "time": 926.66,
-        "momentum": -0.016562416449904683
+        "momentum": -0.007899144424141974
       },
       {
         "time": 927.16,
-        "momentum": -0.016502684038110914
+        "momentum": -0.007870656132654532
       },
       {
         "time": 927.66,
-        "momentum": -0.016443167051465372
+        "momentum": -0.007842270584288153
       },
       {
         "time": 928.16,
-        "momentum": -0.016383864713036517
+        "momentum": -0.00781398740849942
       },
       {
         "time": 928.66,
-        "momentum": -0.01632477624869482
+        "momentum": -0.007785806236081277
       },
       {
         "time": 929.16,
-        "momentum": -0.01626590088710265
+        "momentum": -0.007757726699158224
       },
       {
         "time": 929.66,
-        "momentum": -0.016207237859704217
+        "momentum": -0.007729748431181493
       },
       {
         "time": 930.16,
-        "momentum": -0.016148786400715515
+        "momentum": -0.007701871066924285
       },
       {
         "time": 930.66,
-        "momentum": -0.016090545747114347
+        "momentum": -0.007674094242476987
       },
       {
         "time": 931.16,
-        "momentum": -0.01603251513863036
+        "momentum": -0.00764641759524243
       },
       {
         "time": 931.66,
-        "momentum": -0.015974693817735124
+        "momentum": -0.007618840763931152
       },
       {
         "time": 932.16,
-        "momentum": -0.015917081029632223
+        "momentum": -0.007591363388556684
       },
       {
         "time": 932.66,
-        "momentum": -0.015859676022247433
+        "momentum": -0.007563985110430847
       },
       {
         "time": 933.16,
-        "momentum": -0.015802478046218874
+        "momentum": -0.0075367055721590765
       },
       {
         "time": 933.66,
-        "momentum": -0.01574548635488725
+        "momentum": -0.007509524417635746
       },
       {
         "time": 934.16,
-        "momentum": -0.0156887002042861
+        "momentum": -0.007482441292039531
       },
       {
         "time": 934.66,
-        "momentum": -0.015632118853132062
+        "momentum": -0.007455455841828769
       },
       {
         "time": 935.16,
-        "momentum": -0.015575741562815238
+        "momentum": -0.007428567714736846
       },
       {
         "time": 935.66,
-        "momentum": -0.01551956759738951
+        "momentum": -0.007401776559767602
       },
       {
         "time": 936.16,
-        "momentum": -0.015463596223562966
+        "momentum": -0.007375082027190741
       },
       {
         "time": 936.66,
-        "momentum": -0.015407826710688308
+        "momentum": -0.007348483768537276
       },
       {
         "time": 937.16,
-        "momentum": -0.015352258330753316
+        "momentum": -0.0073219814365949685
       },
       {
         "time": 937.66,
-        "momentum": -0.01529689035837135
+        "momentum": -0.007295574685403807
       },
       {
         "time": 938.16,
-        "momentum": -0.015241722070771891
+        "momentum": -0.0072692631702514846
       },
       {
         "time": 938.66,
-        "momentum": -0.01518675274779108
+        "momentum": -0.007243046547668899
       },
       {
         "time": 939.16,
-        "momentum": -0.015131981671862336
+        "momentum": -0.007216924475425673
       },
       {
         "time": 939.66,
-        "momentum": -0.015077408128006984
+        "momentum": -0.007190896612525683
       },
       {
         "time": 940.16,
-        "momentum": -0.015023031403824924
+        "momentum": -0.007164962619202608
       },
       {
         "time": 940.66,
-        "momentum": -0.014968850789485334
+        "momentum": -0.0071391221569154974
       },
       {
         "time": 941.16,
-        "momentum": -0.014914865577717387
+        "momentum": -0.007113374888344351
       },
       {
         "time": 941.66,
-        "momentum": -0.014861075063801039
+        "momentum": -0.007087720477385708
       },
       {
         "time": 942.16,
-        "momentum": -0.014807478545557824
+        "momentum": -0.007062158589148271
       },
       {
         "time": 942.66,
-        "momentum": -0.014754075323341673
+        "momentum": -0.007036688889948531
       },
       {
         "time": 943.16,
-        "momentum": -0.014700864700029806
+        "momentum": -0.007011311047306404
       },
       {
         "time": 943.66,
-        "momentum": -0.014647845981013614
+        "momentum": -0.0069860247299409015
       },
       {
         "time": 944.16,
-        "momentum": -0.014595018474189592
+        "momentum": -0.006960829607765798
       },
       {
         "time": 944.66,
-        "momentum": -0.014542381489950315
+        "momentum": -0.006935725351885326
       },
       {
         "time": 945.16,
-        "momentum": -0.014489934341175426
+        "momentum": -0.006910711634589883
       },
       {
         "time": 945.66,
-        "momentum": -0.014437676343222672
+        "momentum": -0.006885788129351753
       },
       {
         "time": 946.16,
-        "momentum": -0.014385606813918964
+        "momentum": -0.006860954510820837
       },
       {
         "time": 946.66,
-        "momentum": -0.01433372507355147
+        "momentum": -0.00683621045482042
       },
       {
         "time": 947.16,
-        "momentum": -0.014282030444858745
+        "momentum": -0.006811555638342927
       },
       {
         "time": 947.66,
-        "momentum": -0.0142305222530219
+        "momentum": -0.006786989739545712
       },
       {
         "time": 948.16,
-        "momentum": -0.014179199825655764
+        "momentum": -0.006762512437746858
       },
       {
         "time": 948.66,
-        "momentum": -0.014128062492800141
+        "momentum": -0.006738123413420984
       },
       {
         "time": 949.16,
-        "momentum": -0.014077109586911043
+        "momentum": -0.006713822348195081
       },
       {
         "time": 949.66,
-        "momentum": -0.01402634044285198
+        "momentum": -0.0066896089248443535
       },
       {
         "time": 950.16,
-        "momentum": -0.013975754397885284
+        "momentum": -0.006665482827288076
       },
       {
         "time": 950.66,
-        "momentum": -0.013925350791663446
+        "momentum": -0.0066414437405854735
       },
       {
         "time": 951.16,
-        "momentum": -0.01387512896622051
+        "momentum": -0.006617491350931602
       },
       {
         "time": 951.66,
-        "momentum": -0.01382508826596347
+        "momentum": -0.006593625345653259
       },
       {
         "time": 952.16,
-        "momentum": -0.013775228037663723
+        "momentum": -0.006569845413204894
       },
       {
         "time": 952.66,
-        "momentum": -0.013725547630448535
+        "momentum": -0.006546151243164555
       },
       {
         "time": 953.16,
-        "momentum": -0.013676046395792544
+        "momentum": -0.00652254252622982
       },
       {
         "time": 953.66,
-        "momentum": -0.013626723687509303
+        "momentum": -0.00649901895421377
       },
       {
         "time": 954.16,
-        "momentum": -0.01357757886174284
+        "momentum": -0.006475580220040966
       },
       {
         "time": 954.66,
-        "momentum": -0.013528611276959238
+        "momentum": -0.006452226017743432
       },
       {
         "time": 955.16,
-        "momentum": -0.013479820293938289
+        "momentum": -0.006428956042456671
       },
       {
         "time": 955.66,
-        "momentum": -0.013431205275765131
+        "momentum": -0.006405769990415679
       },
       {
         "time": 956.16,
-        "momentum": -0.11451173367250674
+        "momentum": -0.10692110843067679
       },
       {
         "time": 956.66,
-        "momentum": -0.20575180856910694
+        "momentum": -0.19777885097044484
       },
       {
         "time": 957.56,
-        "momentum": -0.29666282582231907
+        "momentum": -0.2883089147497825
       },
       {
         "time": 958.06,
-        "momentum": -0.3872459721796637
+        "momentum": -0.3785124815432642
       },
       {
         "time": 958.56,
-        "momentum": -0.4775024301086527
+        "momentum": -0.46839072886339056
       },
       {
         "time": 959.06,
-        "momentum": -0.46630440972753967
+        "momentum": -0.4574063891042335
       },
       {
         "time": 959.56,
-        "momentum": -0.46462268127279743
+        "momentum": -0.4557567513914206
       },
       {
         "time": 960.06,
-        "momentum": -0.4629470179775014
+        "momentum": -0.45411306310268296
       },
       {
         "time": 960.56,
-        "momentum": -0.4612773979676333
+        "momentum": -0.45247530278140236
       },
       {
         "time": 961.06,
-        "momentum": -0.45961379944806335
+        "momentum": -0.4508434490483436
       },
       {
         "time": 961.56,
-        "momentum": -0.45795620070226634
+        "momentum": -0.4492174806013763
       },
       {
         "time": 962.06,
-        "momentum": -0.45630458009203734
+        "momentum": -0.44759737621519563
       },
       {
         "time": 962.56,
-        "momentum": -0.45465891605721004
+        "momentum": -0.44598311474104635
       },
       {
         "time": 963.06,
-        "momentum": -0.4530191871153747
+        "momentum": -0.44437467510644624
       },
       {
         "time": 963.56,
-        "momentum": -0.4513853718615981
+        "momentum": -0.4427720363149108
       },
       {
         "time": 964.06,
-        "momentum": -0.44975744896814396
+        "momentum": -0.4411751774456798
       },
       {
         "time": 964.56,
-        "momentum": -0.4481353971841946
+        "momentum": -0.4395840776534435
       },
       {
         "time": 965.06,
-        "momentum": -0.4465191953355734
+        "momentum": -0.43799871616807085
       },
       {
         "time": 965.56,
-        "momentum": -0.4449088223244684
+        "momentum": -0.4364190722943387
       },
       {
         "time": 966.06,
-        "momentum": -0.4433042571291573
+        "momentum": -0.43484512541166076
       },
       {
         "time": 966.56,
-        "momentum": -0.4417054788037323
+        "momentum": -0.4332768549738194
       },
       {
         "time": 967.06,
-        "momentum": -0.44011246647782726
+        "momentum": -0.4317142405086969
       },
       {
         "time": 967.56,
-        "momentum": -0.4385251993563454
+        "momentum": -0.43015726161800794
       },
       {
         "time": 968.06,
-        "momentum": -0.436943656719187
+        "momentum": -0.4286058979770343
       },
       {
         "time": 968.56,
-        "momentum": -0.4353678179209798
+        "momentum": -0.42706012933435833
       },
       {
         "time": 969.06,
-        "momentum": -0.4337976623908088
+        "momentum": -0.4255199355115996
       },
       {
         "time": 969.56,
-        "momentum": -0.5606860823212665
+        "momentum": -0.5522769106147629
       },
       {
         "time": 970.06,
-        "momentum": -0.6749208198787555
+        "momentum": -0.666483070583571
       },
       {
         "time": 970.86,
-        "momentum": -0.7887435694630176
+        "momentum": -0.7802773456443238
       },
       {
         "time": 971.36,
-        "momentum": -0.9021558169100926
+        "momentum": -0.8936612212613564
       },
       {
         "time": 971.86,
-        "momentum": -1.015159042697348
+        "momentum": -1.006636177541672
       },
       {
         "time": 972.36,
-        "momentum": -0.9993018092734862
+        "momentum": -0.9909120750426498
       },
       {
         "time": 972.86,
-        "momentum": -0.9956978238672306
+        "momentum": -0.9873383472417039
       },
       {
         "time": 973.36,
-        "momentum": -0.9921068362467171
+        "momentum": -0.9837775081023427
       },
       {
         "time": 973.86,
-        "momentum": -0.9885287995353866
+        "momentum": -0.9802295111415636
       },
       {
         "time": 974.36,
-        "momentum": -0.9849636670257407
+        "momentum": -0.9766943100440058
       },
       {
         "time": 974.86,
-        "momentum": -0.981411392178732
+        "momentum": -0.9731718586613445
       },
       {
         "time": 975.36,
-        "momentum": -0.9778719286231554
+        "momentum": -0.969662111011689
       },
       {
         "time": 975.86,
-        "momentum": -0.974345230155045
+        "momentum": -0.9661650212789828
       },
       {
         "time": 976.36,
-        "momentum": -0.9708312507370689
+        "momentum": -0.9626805438124049
       },
       {
         "time": 976.86,
-        "momentum": -0.9673299444979288
+        "momentum": -0.9592086331257741
       },
       {
         "time": 977.36,
-        "momentum": -0.963841265731762
+        "momentum": -0.9557492438969556
       },
       {
         "time": 977.86,
-        "momentum": -0.9505670697682298
+        "momentum": -0.9425864927194016
       },
       {
         "time": 978.36,
-        "momentum": -0.9373407472380173
+        "momentum": -0.9294712130491639
       },
       {
         "time": 979.5,
-        "momentum": -0.9241621254854225
+        "momentum": -0.9164032336800882
       },
       {
         "time": 980.0,
-        "momentum": -0.9110310324774276
+        "momentum": -0.9033823840234764
       },
       {
         "time": 980.5,
-        "momentum": -0.8979472968014515
+        "momentum": -0.8904084941058581
       },
       {
         "time": 981.0,
-        "momentum": -0.8947088467924278
+        "momentum": -0.8871972328146407
       },
       {
         "time": 981.5,
-        "momentum": -0.8914820762644811
+        "momentum": -0.883997552948296
       },
       {
         "time": 982.0,
-        "momentum": -0.8882669430955223
+        "momentum": -0.8808094127383752
       },
       {
         "time": 982.5,
-        "momentum": -0.8850634053153767
+        "momentum": -0.8776327705670681
       },
       {
         "time": 983.0,
-        "momentum": -0.8818714211052345
+        "momentum": -0.874467584966659
       },
       {
         "time": 983.5,
-        "momentum": -0.8786909487971061
+        "momentum": -0.8713138146189854
       },
       {
         "time": 984.0,
-        "momentum": -0.8755219468732769
+        "momentum": -0.8681714183548991
       },
       {
         "time": 984.5,
-        "momentum": -0.8723643739657669
+        "momentum": -0.8650403551537286
       },
       {
         "time": 985.0,
-        "momentum": -0.8692181888557894
+        "momentum": -0.8619205841427439
       },
       {
         "time": 985.5,
-        "momentum": -0.8660833504732134
+        "momentum": -0.8588120645966217
       },
       {
         "time": 986.0,
-        "momentum": -0.8629598178960277
+        "momentum": -0.8557147559369161
       },
       {
         "time": 986.5,
-        "momentum": -0.8598475503498062
+        "momentum": -0.8526286177315262
       },
       {
         "time": 987.0,
-        "momentum": -0.8567465072071763
+        "momentum": -0.8495536096941703
       },
       {
         "time": 987.5,
-        "momentum": -0.8536566479872876
+        "momentum": -0.8464896916838592
       },
       {
         "time": 988.0,
-        "momentum": -0.8505779323552847
+        "momentum": -0.8434368237043722
       },
       {
         "time": 988.5,
-        "momentum": -0.8475103201217792
+        "momentum": -0.8403949659037353
       },
       {
         "time": 989.0,
-        "momentum": -0.8444537712423266
+        "momentum": -0.8373640785737008
       },
       {
         "time": 989.5,
-        "momentum": -0.8414082458169025
+        "momentum": -0.8343441221492285
       },
       {
         "time": 990.0,
-        "momentum": -0.8383737040893818
+        "momentum": -0.8313350572079703
       },
       {
         "time": 990.5,
-        "momentum": -0.8353501064470207
+        "momentum": -0.8283368444697541
       },
       {
         "time": 991.0,
-        "momentum": -0.8323374134199384
+        "momentum": -0.8253494447960728
       },
       {
         "time": 991.5,
-        "momentum": -0.8293355856806022
+        "momentum": -0.8223728191895718
       },
       {
         "time": 992.0,
-        "momentum": -0.8263445840433148
+        "momentum": -0.8194069287935412
       },
       {
         "time": 992.5,
-        "momentum": -0.94142353396424
+        "momentum": -0.934359281943458
       },
       {
         "time": 993.0,
-        "momentum": -1.033587405756093
+        "momentum": -1.0265188201218225
       },
       {
         "time": 993.8,
-        "momentum": -1.1254188882278837
+        "momentum": -1.118345984609316
       },
       {
         "time": 994.3,
-        "momentum": -1.2169191801428358
+        "momentum": -1.2098419741127961
       },
       {
         "time": 994.8,
-        "momentum": -1.3080894759408295
+        "momentum": -1.30100798301598
       },
       {
         "time": 995.3,
-        "momentum": -1.280871801253456
+        "momentum": -1.2739376543429841
       },
       {
         "time": 995.8,
-        "momentum": -1.2762523327043518
+        "momentum": -1.2693431938185213
       },
       {
         "time": 996.3,
-        "momentum": -1.271649524284431
+        "momentum": -1.2647653032317148
       },
       {
         "time": 996.8,
-        "momentum": -1.2670633159088804
+        "momentum": -1.260203922823028
       },
       {
         "time": 997.3,
-        "momentum": -1.2624936477095832
+        "momentum": -1.2556589930484465
       },
       {
         "time": 997.8,
-        "momentum": -1.2579404600343365
+        "momentum": -1.251130454578702
       },
       {
         "time": 998.3,
-        "momentum": -1.253403693446074
+        "momentum": -1.2466182482984975
       },
       {
         "time": 998.8,
-        "momentum": -1.2488832887220893
+        "momentum": -1.2421223153057355
       },
       {
         "time": 999.3,
-        "momentum": -1.2443791868532625
+        "momentum": -1.2376425969107485
       },
       {
         "time": 999.8,
-        "momentum": -1.2398913290432902
+        "momentum": -1.2331790346355342
       },
       {
         "time": 1000.3,
-        "momentum": -1.235419656707919
+        "momentum": -1.228731570212991
       },
       {
         "time": 1000.8,
-        "momentum": -1.2309641114741787
+        "momentum": -1.2243001455861584
       },
       {
         "time": 1001.3,
-        "momentum": -1.226524635179622
+        "momentum": -1.2198847029074575
       },
       {
         "time": 1001.8,
-        "momentum": -1.2221011698715647
+        "momentum": -1.215485184537938
       },
       {
         "time": 1002.3,
-        "momentum": -1.2176936578063287
+        "momentum": -1.211101533046524
       },
       {
         "time": 1002.8,
-        "momentum": -1.2133020414484892
+        "momentum": -1.206733691209265
       },
       {
         "time": 1003.3,
-        "momentum": -1.2089262634701232
+        "momentum": -1.2023816020085891
       },
       {
         "time": 1003.8,
-        "momentum": -1.2045662667500603
+        "momentum": -1.1980452086325584
       },
       {
         "time": 1004.3,
-        "momentum": -1.1008717999664408
+        "momentum": -1.094262469968283
       },
       {
         "time": 1004.8,
-        "momentum": -0.9900103268929181
+        "momentum": -0.9833891204879773
       },
       {
         "time": 1005.37,
-        "momentum": -0.8795486761026785
+        "momentum": -0.8729156361232568
       },
       {
         "time": 1005.87,
-        "momentum": -0.769485405635285
+        "momentum": -0.7628405747592095
       },
       {
         "time": 1006.37,
-        "momentum": -0.6598190787307352
+        "momentum": -0.6531624994819152
       },
       {
         "time": 1006.87,
-        "momentum": -0.6498984582174042
+        "momentum": -0.6433419630655332
       },
       {
         "time": 1007.37,
-        "momentum": -0.6475545971964116
+        "momentum": -0.6410217480668176
       },
       {
         "time": 1007.87,
-        "momentum": -0.645219189318239
+        "momentum": -0.6387099009314613
       },
       {
         "time": 1008.37,
-        "momentum": -0.6428922040965975
+        "momentum": -0.6364063914807365
       },
       {
         "time": 1008.87,
-        "momentum": -0.6405736111551477
+        "momentum": -0.6341111896447548
       },
       {
         "time": 1009.37,
-        "momentum": -0.6382633802271019
+        "momentum": -0.6318242654620752
       },
       {
         "time": 1009.87,
-        "momentum": -0.6359614811548305
+        "momentum": -0.6295455890793125
       },
       {
         "time": 1010.37,
-        "momentum": -0.6336678838894668
+        "momentum": -0.6272751307507483
       },
       {
         "time": 1010.87,
-        "momentum": -0.6313825584905158
+        "momentum": -0.6250128608379415
       },
       {
         "time": 1011.37,
-        "momentum": -0.6291054751254628
+        "momentum": -0.6227587498093429
       },
       {
         "time": 1011.87,
-        "momentum": -0.568740453604806
+        "momentum": -0.5630027203026514
       },
       {
         "time": 1012.37,
-        "momentum": -0.5085931387415271
+        "momentum": -0.5034622011215485
       },
       {
         "time": 1013.62,
-        "momentum": -0.44866274537581896
+        "momentum": -0.44413641502730516
       },
       {
         "time": 1014.12,
-        "momentum": -0.38894849117955577
+        "momentum": -0.3850245875843063
       },
       {
         "time": 1014.62,
-        "momentum": -0.32944959664608076
+        "momentum": -0.32612594714994153
       },
       {
         "time": 1015.12,
-        "momentum": -0.32826143554460885
+        "momentum": -0.32494977280178927
       },
       {
         "time": 1015.62,
-        "momentum": -0.327077559550229
+        "momentum": -0.323777840330462
       },
       {
         "time": 1016.12,
-        "momentum": -0.3258979532086877
+        "momentum": -0.3226101344376164
       },
       {
         "time": 1016.62,
-        "momentum": -0.32472260112146734
+        "momentum": -0.3214466398800827
       },
       {
         "time": 1017.12,
-        "momentum": -0.32355148794558514
+        "momentum": -0.32028734146966553
       },
       {
         "time": 1017.62,
-        "momentum": -0.3223845983933928
+        "momentum": -0.31913222407294606
       },
       {
         "time": 1018.12,
-        "momentum": -0.321221917232377
+        "momentum": -0.31798127261108394
       },
       {
         "time": 1018.62,
-        "momentum": -0.32006342928496034
+        "momentum": -0.3168344720596209
       },
       {
         "time": 1019.12,
-        "momentum": -0.31890911942830386
+        "momentum": -0.3156918074482841
       },
       {
         "time": 1019.62,
-        "momentum": -0.3177589725941087
+        "momentum": -0.3145532638607916
       },
       {
         "time": 1020.12,
-        "momentum": -0.31661297376842007
+        "momentum": -0.3134188264346565
       },
       {
         "time": 1020.62,
-        "momentum": -0.3154711079914311
+        "momentum": -0.3122884803609939
       },
       {
         "time": 1021.12,
-        "momentum": -0.31433336035728743
+        "momentum": -0.311162210884327
       },
       {
         "time": 1021.62,
-        "momentum": -0.3131997160138928
+        "momentum": -0.3100400033023948
       },
       {
         "time": 1022.12,
-        "momentum": -0.31207016016271494
+        "momentum": -0.3089218429659598
       },
       {
         "time": 1022.62,
-        "momentum": -0.31094467805859277
+        "momentum": -0.3078077152786175
       },
       {
         "time": 1023.12,
-        "momentum": -0.30982325500954344
+        "momentum": -0.306697605696605
       },
       {
         "time": 1023.62,
-        "momentum": -0.30870587637657093
+        "momentum": -0.30559149972861144
       },
       {
         "time": 1024.12,
-        "momentum": -0.3075925275734747
+        "momentum": -0.30448938293558936
       },
       {
         "time": 1024.62,
-        "momentum": -0.3064831940666596
+        "momentum": -0.30339124093056546
       },
       {
         "time": 1025.12,
-        "momentum": -0.3053778613749457
+        "momentum": -0.3022970593784532
       },
       {
         "time": 1025.62,
-        "momentum": -0.3042765150693797
+        "momentum": -0.3012068239958654
       },
       {
         "time": 1026.12,
-        "momentum": -0.3031791407730461
+        "momentum": -0.3001205205509283
       },
       {
         "time": 1026.62,
-        "momentum": -0.30208572416088014
+        "momentum": -0.29903813486309516
       },
       {
         "time": 1027.12,
-        "momentum": -0.3009962509594802
+        "momentum": -0.29795965280296166
       },
       {
         "time": 1027.62,
-        "momentum": -0.2999107069469218
+        "momentum": -0.2968850602920809
       },
       {
         "time": 1028.12,
-        "momentum": -0.2988290779525719
+        "momentum": -0.29581434330278034
       },
       {
         "time": 1028.62,
-        "momentum": -0.29775134985690394
+        "momentum": -0.29474748785797794
       },
       {
         "time": 1029.12,
-        "momentum": -0.2966775085913134
+        "momentum": -0.2936844800310003
       },
       {
         "time": 1029.62,
-        "momentum": -0.2956075401379342
+        "momentum": -0.2926253059454005
       },
       {
         "time": 1030.12,
-        "momentum": -0.29454143052945597
+        "momentum": -0.29156995177477707
       },
       {
         "time": 1030.62,
-        "momentum": -0.2934791658489411
+        "momentum": -0.2905184037425936
       },
       {
         "time": 1031.12,
-        "momentum": -0.2924207322296439
+        "momentum": -0.2894706481219987
       },
       {
         "time": 1031.62,
-        "momentum": -0.29136611585482874
+        "momentum": -0.2884266712356469
       },
       {
         "time": 1032.12,
-        "momentum": -0.29031530295759045
+        "momentum": -0.2873864594555203
       },
       {
         "time": 1032.62,
-        "momentum": -0.289268279820674
+        "momentum": -0.2863499992027503
       },
       {
         "time": 1033.12,
-        "momentum": -0.2882250327762958
+        "momentum": -0.2853172769474406
       },
       {
         "time": 1033.62,
-        "momentum": -0.2871855482059652
+        "momentum": -0.2842882792084905
       },
       {
         "time": 1034.12,
-        "momentum": -0.28614981254030647
+        "momentum": -0.283262992553419
       },
       {
         "time": 1034.62,
-        "momentum": -0.2851178122588822
+        "momentum": -0.2822414035981894
       },
       {
         "time": 1035.12,
-        "momentum": -0.2840895338900163
+        "momentum": -0.2812234990070344
       },
       {
         "time": 1035.62,
-        "momentum": -0.28306496401061826
+        "momentum": -0.2802092654922824
       },
       {
         "time": 1036.12,
-        "momentum": -0.28204408924600816
+        "momentum": -0.2791986898141837
       },
       {
         "time": 1036.62,
-        "momentum": -0.2810268962697418
+        "momentum": -0.278191758780738
       },
       {
         "time": 1037.12,
-        "momentum": -0.2800133718034369
+        "momentum": -0.2771884592475216
       },
       {
         "time": 1037.62,
-        "momentum": -0.2790035026165997
+        "momentum": -0.27618877811751663
       },
       {
         "time": 1038.12,
-        "momentum": -0.2779972755264522
+        "momentum": -0.27519270234093945
       },
       {
         "time": 1038.62,
-        "momentum": -0.2769946773977602
+        "momentum": -0.2742002189150705
       },
       {
         "time": 1039.12,
-        "momentum": -0.27599569514266176
+        "momentum": -0.27321131488408473
       },
       {
         "time": 1039.62,
-        "momentum": -0.2750003157204963
+        "momentum": -0.27222597733888204
       },
       {
         "time": 1040.12,
-        "momentum": -0.27400852613763454
+        "momentum": -0.2712441934169193
       },
       {
         "time": 1040.62,
-        "momentum": -0.2730203134473087
+        "momentum": -0.2702659503020421
       },
       {
         "time": 1041.12,
-        "momentum": -0.2720356647494436
+        "momentum": -0.26929123522431747
       },
       {
         "time": 1041.62,
-        "momentum": -0.2710545671904881
+        "momentum": -0.26832003545986743
       },
       {
         "time": 1042.12,
-        "momentum": -0.27007700796324763
+        "momentum": -0.26735233833070243
       },
       {
         "time": 1042.62,
-        "momentum": -0.2691029743067166
+        "momentum": -0.26638813120455634
       },
       {
         "time": 1043.12,
-        "momentum": -0.26813245350591225
+        "momentum": -0.2654274014947214
       },
       {
         "time": 1043.62,
-        "momentum": -0.26716543289170824
+        "momentum": -0.26447013665988356
       },
       {
         "time": 1044.12,
-        "momentum": -0.26620189984066966
+        "momentum": -0.2635163242039594
       },
       {
         "time": 1044.62,
-        "momentum": -0.26524184177488797
+        "momentum": -0.2625659516759324
       },
       {
         "time": 1045.12,
-        "momentum": -0.26428524616181687
+        "momentum": -0.26161900666969085
       },
       {
         "time": 1045.62,
-        "momentum": -0.26333210051410877
+        "momentum": -0.26067547682386566
       },
       {
         "time": 1046.12,
-        "momentum": -0.26238239238945177
+        "momentum": -0.2597353498216691
       },
       {
         "time": 1046.62,
-        "momentum": -0.2614361093904072
+        "momentum": -0.25879861339073384
       },
       {
         "time": 1047.12,
-        "momentum": -0.2604932391642477
+        "momentum": -0.2578652553029531
       },
       {
         "time": 1047.62,
-        "momentum": -0.25955376940279623
+        "momentum": -0.2569352633743206
       },
       {
         "time": 1048.12,
-        "momentum": -0.25861768784226513
+        "momentum": -0.2560086254647718
       },
       {
         "time": 1048.62,
-        "momentum": -0.2576849822630961
+        "momentum": -0.2550853294780255
       },
       {
         "time": 1049.12,
-        "momentum": -0.2567556404898008
+        "momentum": -0.2541653633614255
       },
       {
         "time": 1049.62,
-        "momentum": -0.25582965039080185
+        "momentum": -0.25324871510578373
       },
       {
         "time": 1050.12,
-        "momentum": -0.25490699987827425
+        "momentum": -0.2523353727452232
       },
       {
         "time": 1050.62,
-        "momentum": -0.25398767690798807
+        "momentum": -0.25142532435702203
       },
       {
         "time": 1051.12,
-        "momentum": -0.2530716694791507
+        "momentum": -0.2505185580614576
       },
       {
         "time": 1051.62,
-        "momentum": -0.25215896563425055
+        "momentum": -0.2496150620216515
       },
       {
         "time": 1052.12,
-        "momentum": -0.2512495534589008
+        "momentum": -0.2487148244434151
       },
       {
         "time": 1052.62,
-        "momentum": -0.25034342108168395
+        "momentum": -0.24781783357509563
       },
       {
         "time": 1053.12,
-        "momentum": -0.24944055667399673
+        "momentum": -0.24692407770742256
       },
       {
         "time": 1053.62,
-        "momentum": -0.2485409484498958
+        "momentum": -0.24603354517335493
       },
       {
         "time": 1054.12,
-        "momentum": -0.24764458466594394
+        "momentum": -0.24514622434792913
       },
       {
         "time": 1054.62,
-        "momentum": -0.24675145362105658
+        "momentum": -0.2442621036481068
       },
       {
         "time": 1055.12,
-        "momentum": -0.24586154365634916
+        "momentum": -0.243381171532624
       },
       {
         "time": 1055.62,
-        "momentum": -0.24497484315498497
+        "momentum": -0.2425034165018404
       },
       {
         "time": 1056.12,
-        "momentum": -0.24409134054202344
+        "momentum": -0.24162882709758912
       },
       {
         "time": 1056.62,
-        "momentum": -0.2432110242842691
+        "momentum": -0.24075739190302717
       },
       {
         "time": 1057.12,
-        "momentum": -0.24233388289012092
+        "momentum": -0.2398890995424865
       },
       {
         "time": 1057.62,
-        "momentum": -0.24145990490942237
+        "momentum": -0.23902393868132538
       },
       {
         "time": 1058.12,
-        "momentum": -0.24058907893331205
+        "momentum": -0.2381618980257806
       },
       {
         "time": 1058.62,
-        "momentum": -0.23972139359407452
+        "momentum": -0.23730296632281983
       },
       {
         "time": 1059.12,
-        "momentum": -0.2388568375649922
+        "momentum": -0.23644713235999495
       },
       {
         "time": 1059.62,
-        "momentum": -0.2379953995601972
+        "momentum": -0.23559438496529556
       },
       {
         "time": 1060.12,
-        "momentum": -0.23713706833452425
+        "momentum": -0.234744713007003
       },
       {
         "time": 1060.62,
-        "momentum": -0.23628183268336378
+        "momentum": -0.23389810539354544
       },
       {
         "time": 1061.12,
-        "momentum": -0.2354296814425157
+        "momentum": -0.2330545510733526
       },
       {
         "time": 1061.62,
-        "momentum": -0.23458060348804355
+        "momentum": -0.23221403903471188
       },
       {
         "time": 1062.12,
-        "momentum": -0.23373458773612957
+        "momentum": -0.23137655830562448
       },
       {
         "time": 1062.62,
-        "momentum": -0.23289162314292966
+        "momentum": -0.23054209795366196
       },
       {
         "time": 1063.12,
-        "momentum": -0.23205169870442943
+        "momentum": -0.22971064708582395
       },
       {
         "time": 1063.62,
-        "momentum": -0.23121480345630055
+        "momentum": -0.2288821948483956
       },
       {
         "time": 1064.12,
-        "momentum": -0.23038092647375757
+        "momentum": -0.22805673042680602
       },
       {
         "time": 1064.62,
-        "momentum": -0.2295500568714152
+        "momentum": -0.22723424304548714
       },
       {
         "time": 1065.12,
-        "momentum": -0.2287221838031465
+        "momentum": -0.22641472196773305
       },
       {
         "time": 1065.62,
-        "momentum": -0.227897296461941
+        "momentum": -0.22559815649555967
       },
       {
         "time": 1066.12,
-        "momentum": -0.22707538407976385
+        "momentum": -0.22478453596956535
       },
       {
         "time": 1066.62,
-        "momentum": -0.226256435927415
+        "momentum": -0.22397384976879162
       },
       {
         "time": 1067.12,
-        "momentum": -0.22544044131438956
+        "momentum": -0.22316608731058452
       },
       {
         "time": 1067.62,
-        "momentum": -0.22462738958873768
+        "momentum": -0.22236123805045635
       },
       {
         "time": 1068.12,
-        "momentum": -0.22381727013692596
+        "momentum": -0.22155929148194828
       },
       {
         "time": 1068.62,
-        "momentum": -0.2230100723836988
+        "momentum": -0.22076023713649304
       },
       {
         "time": 1069.12,
-        "momentum": -0.22220578579194009
+        "momentum": -0.21996406458327825
       },
       {
         "time": 1069.62,
-        "momentum": -0.22140439986253613
+        "momentum": -0.21917076342911032
       },
       {
         "time": 1070.12,
-        "momentum": -0.22060590413423814
+        "momentum": -0.21838032331827867
       },
       {
         "time": 1070.62,
-        "momentum": -0.21981028818352585
+        "momentum": -0.2175927339324207
       },
       {
         "time": 1071.12,
-        "momentum": -0.2190175416244716
+        "momentum": -0.21680798499038706
       },
       {
         "time": 1071.62,
-        "momentum": -0.21822765410860448
+        "momentum": -0.21602606624810727
       },
       {
         "time": 1072.12,
-        "momentum": -0.21744061532477543
+        "momentum": -0.2152469674984563
       },
       {
         "time": 1072.62,
-        "momentum": -0.21665641499902252
+        "momentum": -0.21447067857112093
       },
       {
         "time": 1073.12,
-        "momentum": -0.215875042894437
+        "momentum": -0.21369718933246737
       },
       {
         "time": 1073.62,
-        "momentum": -0.21509648881102955
+        "momentum": -0.21292648968540884
       },
       {
         "time": 1074.12,
-        "momentum": -0.21432074258559708
+        "momentum": -0.21215856956927365
       },
       {
         "time": 1074.62,
-        "momentum": -0.21354779409159014
+        "momentum": -0.21139341895967392
       },
       {
         "time": 1075.12,
-        "momentum": -0.2127776332389808
+        "momentum": -0.21063102786837487
       },
       {
         "time": 1075.62,
-        "momentum": -0.2120102499741307
+        "momentum": -0.20987138634316427
       },
       {
         "time": 1076.12,
-        "momentum": -0.21124563427966012
+        "momentum": -0.20911448446772257
       },
       {
         "time": 1076.62,
-        "momentum": -0.21048377617431696
+        "momentum": -0.2083603123614935
       },
       {
         "time": 1077.12,
-        "momentum": -0.2097246657128466
+        "momentum": -0.207608860179555
       },
       {
         "time": 1077.62,
-        "momentum": -0.2089682929858619
+        "momentum": -0.20686011811249072
       },
       {
         "time": 1078.12,
-        "momentum": -0.2082146481197141
+        "momentum": -0.2061140763862622
       },
       {
         "time": 1078.62,
-        "momentum": -0.2074637212763637
+        "momentum": -0.2053707252620808
       },
       {
         "time": 1079.12,
-        "momentum": -0.20671550265325217
+        "momentum": -0.2046300550362811
       },
       {
         "time": 1079.62,
-        "momentum": -0.2059699824831739
+        "momentum": -0.20389205604019384
       },
       {
         "time": 1080.12,
-        "momentum": -0.20522715103414874
+        "momentum": -0.20315671864001988
       },
       {
         "time": 1080.62,
-        "momentum": -0.20448699860929503
+        "momentum": -0.20242403323670444
       },
       {
         "time": 1081.12,
-        "momentum": -0.2037495155467029
+        "momentum": -0.2016939902658117
       },
       {
         "time": 1081.62,
-        "momentum": -0.20301469221930812
+        "momentum": -0.20096658019740016
       },
       {
         "time": 1082.12,
-        "momentum": -0.20228251903476663
+        "momentum": -0.20024179353589786
       },
       {
         "time": 1082.62,
-        "momentum": -0.2015529864353291
+        "momentum": -0.19951962081997887
       },
       {
         "time": 1083.12,
-        "momentum": -0.2008260848977163
+        "momentum": -0.19880005262243944
       },
       {
         "time": 1083.62,
-        "momentum": -0.20010180493299473
+        "momentum": -0.19808307955007504
       },
       {
         "time": 1084.12,
-        "momentum": -0.19938013708645275
+        "momentum": -0.19736869224355785
       },
       {
         "time": 1084.62,
-        "momentum": -0.19866107193747717
+        "momentum": -0.1966568813773145
       },
       {
         "time": 1085.12,
-        "momentum": -0.1979446000994303
+        "momentum": -0.19594763765940426
       },
       {
         "time": 1085.62,
-        "momentum": -0.19723071221952734
+        "momentum": -0.19524095183139784
       },
       {
         "time": 1086.12,
-        "momentum": -0.1965193989787144
+        "momentum": -0.19453681466825654
       },
       {
         "time": 1086.62,
-        "momentum": -0.19581065109154677
+        "momentum": -0.19383521697821177
       },
       {
         "time": 1087.12,
-        "momentum": -0.19510445930606765
+        "momentum": -0.1931361496026451
       },
       {
         "time": 1087.62,
-        "momentum": -0.19440081440368762
+        "momentum": -0.19243960341596866
       },
       {
         "time": 1088.12,
-        "momentum": -0.193699707199064
+        "momentum": -0.19174556932550607
       },
       {
         "time": 1088.62,
-        "momentum": -0.19300112853998108
+        "momentum": -0.19105403827137368
       },
       {
         "time": 1089.12,
-        "momentum": -0.19230506930723074
+        "momentum": -0.1903650012263624
       },
       {
         "time": 1089.62,
-        "momentum": -0.1916115204144932
+        "momentum": -0.1896784491958198
       },
       {
         "time": 1090.12,
-        "momentum": -0.19092047280821867
+        "momentum": -0.1889943732175326
       },
       {
         "time": 1090.62,
-        "momentum": -0.19023191746750884
+        "momentum": -0.1883127643616099
       },
       {
         "time": 1091.12,
-        "momentum": -0.1895458454039995
+        "momentum": -0.18763361373036638
       },
       {
         "time": 1091.62,
-        "momentum": -0.1888622476617428
+        "momentum": -0.1869569124582063
       },
       {
         "time": 1092.12,
-        "momentum": -0.1881811153170907
+        "momentum": -0.18628265171150776
       },
       {
         "time": 1092.62,
-        "momentum": -0.18750243947857825
+        "momentum": -0.18561082268850723
       },
       {
         "time": 1093.12,
-        "momentum": -0.18682621128680763
+        "momentum": -0.1849414166191849
       },
       {
         "time": 1093.62,
-        "momentum": -0.1861524219143325
+        "momentum": -0.18427442476515
       },
       {
         "time": 1094.12,
-        "momentum": -0.18548106256554261
+        "momentum": -0.18360983841952677
       },
       {
         "time": 1094.62,
-        "momentum": -0.18481212447654932
+        "momentum": -0.1829476489068409
       },
       {
         "time": 1095.12,
-        "momentum": -0.18414559891507074
+        "momentum": -0.18228784758290617
       },
       {
         "time": 1095.62,
-        "momentum": -0.18348147718031815
+        "momentum": -0.18163042583471165
       },
       {
         "time": 1096.12,
-        "momentum": -0.18281975060288222
+        "momentum": -0.18097537508030928
       },
       {
         "time": 1096.62,
-        "momentum": -0.18216041054461987
+        "momentum": -0.18032268676870172
       },
       {
         "time": 1097.12,
-        "momentum": -0.18150344839854146
+        "momentum": -0.17967235237973106
       },
       {
         "time": 1097.62,
-        "momentum": -0.1808488555886986
+        "momentum": -0.17902436342396708
       },
       {
         "time": 1098.12,
-        "momentum": -0.180196623570072
+        "momentum": -0.17837871144259698
       },
       {
         "time": 1098.62,
-        "momentum": -0.17954674382845998
+        "momentum": -0.17773538800731453
       },
       {
         "time": 1099.12,
-        "momentum": -0.17889920788036745
+        "momentum": -0.17709438472021027
       },
       {
         "time": 1099.62,
-        "momentum": -0.17825400727289506
+        "momentum": -0.17645569321366186
       },
       {
         "time": 1100.12,
-        "momentum": -0.17761113358362884
+        "momentum": -0.17581930515022476
       },
       {
         "time": 1100.62,
-        "momentum": -0.17697057842053024
+        "momentum": -0.1751852122225235
       },
       {
         "time": 1101.12,
-        "momentum": -0.1763323334218267
+        "momentum": -0.17455340615314313
       },
       {
         "time": 1101.62,
-        "momentum": -0.17569639025590242
+        "momentum": -0.17392387869452133
       },
       {
         "time": 1102.12,
-        "momentum": -0.17506274062118954
+        "momentum": -0.17329662162884052
       },
       {
         "time": 1102.62,
-        "momentum": -0.17443137624605992
+        "momentum": -0.17267162676792078
       },
       {
         "time": 1103.12,
-        "momentum": -0.173802288888717
+        "momentum": -0.17204888595311288
       },
       {
         "time": 1103.62,
-        "momentum": -0.1731754703370883
+        "momentum": -0.17142839105519175
       },
       {
         "time": 1104.12,
-        "momentum": -0.17255091240871823
+        "momentum": -0.17081013397425046
       },
       {
         "time": 1104.62,
-        "momentum": -0.17192860695066123
+        "momentum": -0.1701941066395944
       },
       {
         "time": 1105.12,
-        "momentum": -0.17130854583937544
+        "momentum": -0.16958030100963586
       },
       {
         "time": 1105.62,
-        "momentum": -0.1706907209806165
+        "momentum": -0.1689687090717893
       },
       {
         "time": 1106.12,
-        "momentum": -0.2629125681623016
+        "momentum": -0.26086548641808727
       },
       {
         "time": 1106.62,
-        "momentum": -0.3234639166268989
+        "momentum": -0.32125926284376616
       },
       {
         "time": 1107.14,
-        "momentum": -0.38379688644535515
+        "momentum": -0.38143522890740333
       },
       {
         "time": 1107.64,
-        "momentum": -0.44391226520100735
+        "momentum": -0.44139417014281734
       },
       {
         "time": 1108.14,
-        "momentum": -0.5038108376367708
+        "momentum": -0.5011368692507963
       },
       {
         "time": 1108.64,
-        "momentum": -0.47065594181241266
+        "momentum": -0.46815794253359455
       },
       {
         "time": 1109.14,
-        "momentum": -0.4689585195422653
+        "momentum": -0.46646952930642316
       },
       {
         "time": 1109.64,
-        "momentum": -0.46726721903136337
+        "momentum": -0.46478720534735274
       },
       {
         "time": 1110.14,
-        "momentum": -0.465582018201561
+        "momentum": -0.4631109486954169
       },
       {
         "time": 1110.64,
-        "momentum": -0.4639028950543375
+        "momentum": -0.4614407374688517
       },
       {
         "time": 1111.14,
-        "momentum": -0.4622298276705098
+        "momentum": -0.45977654986480987
       },
       {
         "time": 1111.64,
-        "momentum": -0.4605627942099463
+        "momentum": -0.45811836415907603
       },
       {
         "time": 1112.14,
-        "momentum": -0.4589017729112821
+        "momentum": -0.4564661587057833
       },
       {
         "time": 1112.64,
-        "momentum": -0.4572467420916347
+        "momentum": -0.45481991193713067
       },
       {
         "time": 1113.14,
-        "momentum": -0.4555976801463209
+        "momentum": -0.4531796023631016
       },
       {
         "time": 1113.64,
-        "momentum": -0.45395456554857494
+        "momentum": -0.4515452085711834
       },
       {
         "time": 1114.14,
-        "momentum": -0.45231737684926737
+        "momentum": -0.44991670922608734
       },
       {
         "time": 1114.64,
-        "momentum": -0.4506860926766252
+        "momentum": -0.4482940830694709
       },
       {
         "time": 1115.14,
-        "momentum": -0.44906069173595264
+        "momentum": -0.4466773089196595
       },
       {
         "time": 1115.64,
-        "momentum": -0.4474411528093535
+        "momentum": -0.4450663656713707
       },
       {
         "time": 1116.14,
-        "momentum": -0.4458274547554538
+        "momentum": -0.443461232295438
       },
       {
         "time": 1116.64,
-        "momentum": -0.44421957650912614
+        "momentum": -0.44186188783853686
       },
       {
         "time": 1117.14,
-        "momentum": -0.44261749708121456
+        "momentum": -0.44026831142291084
       },
       {
         "time": 1117.64,
-        "momentum": -0.44102119555826047
+        "momentum": -0.43868048224609935
       },
       {
         "time": 1118.14,
-        "momentum": -0.43943065110222984
+        "momentum": -0.4370983795806659
       },
       {
         "time": 1118.64,
-        "momentum": -0.437845842950241
+        "momentum": -0.43552198277392745
       },
       {
         "time": 1119.14,
-        "momentum": -0.4362667504142938
+        "momentum": -0.43395127124768507
       },
       {
         "time": 1119.64,
-        "momentum": -0.4346933528809993
+        "momentum": -0.4323862244979552
       },
       {
         "time": 1120.14,
-        "momentum": -0.4331256298113109
+        "momentum": -0.4308268220947018
       },
       {
         "time": 1120.64,
-        "momentum": -0.43156356074025604
+        "momentum": -0.4292730436815699
       },
       {
         "time": 1121.14,
-        "momentum": -0.43000712527666946
+        "momentum": -0.4277248689756199
       },
       {
         "time": 1121.64,
-        "momentum": -0.4284563031029263
+        "momentum": -0.42618227776706263
       },
       {
         "time": 1122.14,
-        "momentum": -0.4269110739746774
+        "momentum": -0.4246452499189955
       },
       {
         "time": 1122.64,
-        "momentum": -0.42537141772058523
+        "momentum": -0.42311376536713974
       },
       {
         "time": 1123.14,
-        "momentum": -0.4238373142420597
+        "momentum": -0.42158780411957875
       },
       {
         "time": 1123.64,
-        "momentum": -0.42230874351299696
+        "momentum": -0.42006734625649633
       },
       {
         "time": 1124.14,
-        "momentum": -0.42078568557951695
+        "momentum": -0.41855237192991773
       },
       {
         "time": 1124.64,
-        "momentum": -0.4192681205597034
+        "momentum": -0.41704286136344954
       },
       {
         "time": 1125.14,
-        "momentum": -0.4177560286433444
+        "momentum": -0.41553879485202233
       },
       {
         "time": 1125.64,
-        "momentum": -0.41624939009167355
+        "momentum": -0.41404015276163275
       },
       {
         "time": 1126.14,
-        "momentum": -0.4147481852371123
+        "momentum": -0.4125469155290878
       },
       {
         "time": 1126.64,
-        "momentum": -0.4132523944830135
+        "momentum": -0.41105906366174905
       },
       {
         "time": 1127.14,
-        "momentum": -0.4117619983034051
+        "momentum": -0.4095765777372784
       },
       {
         "time": 1127.64,
-        "momentum": -0.4102769772427358
+        "momentum": -0.4080994384033844
       },
       {
         "time": 1128.14,
-        "momentum": -0.40879731191562063
+        "momentum": -0.40662762637757
       },
       {
         "time": 1128.64,
-        "momentum": -0.40732298300658815
+        "momentum": -0.40516112244688013
       },
       {
         "time": 1129.14,
-        "momentum": -0.40585397126982814
+        "momentum": -0.40369990746765144
       },
       {
         "time": 1129.64,
-        "momentum": -0.40439025752894064
+        "momentum": -0.4022439623652625
       },
       {
         "time": 1130.14,
-        "momentum": -0.4029318226766854
+        "momentum": -0.40079326813388433
       },
       {
         "time": 1130.64,
-        "momentum": -0.40147864767473235
+        "momentum": -0.39934780583623264
       },
       {
         "time": 1131.14,
-        "momentum": -0.40003071355341324
+        "momentum": -0.39790755660332044
       },
       {
         "time": 1131.64,
-        "momentum": -0.39858800141147427
+        "momentum": -0.39647250163421177
       },
       {
         "time": 1132.14,
-        "momentum": -0.3971504924158287
+        "momentum": -0.3950426221957765
       },
       {
         "time": 1132.64,
-        "momentum": -0.39571816780131164
+        "momentum": -0.3936178996224454
       },
       {
         "time": 1133.14,
-        "momentum": -0.3942910088704347
+        "momentum": -0.39219831531596694
       },
       {
         "time": 1133.64,
-        "momentum": -0.3928689969931422
+        "momentum": -0.39078385074516386
       },
       {
         "time": 1134.14,
-        "momentum": -0.3914521136065677
+        "momentum": -0.38937448744569203
       },
       {
         "time": 1134.64,
-        "momentum": -0.3900403402147916
+        "momentum": -0.3879702070197987
       },
       {
         "time": 1135.14,
-        "momentum": -0.38863365838860037
+        "momentum": -0.386570991136083
       },
       {
         "time": 1135.64,
-        "momentum": -0.3872320497652451
+        "momentum": -0.38517682152925614
       },
       {
         "time": 1136.14,
-        "momentum": -0.38583549604820244
+        "momentum": -0.3837876799999032
       },
       {
         "time": 1136.64,
-        "momentum": -0.38444397900693533
+        "momentum": -0.3824035484142455
       },
       {
         "time": 1137.14,
-        "momentum": -0.3830574804766554
+        "momentum": -0.3810244087039039
       },
       {
         "time": 1137.64,
-        "momentum": -0.3816759823580854
+        "momentum": -0.37965024286566296
       },
       {
         "time": 1138.14,
-        "momentum": -0.38029946661722347
+        "momentum": -0.37828103296123583
       },
       {
         "time": 1138.64,
-        "momentum": -0.37892791528510716
+        "momentum": -0.3769167611170302
       },
       {
         "time": 1139.14,
-        "momentum": -0.37756131045757946
+        "momentum": -0.3755574095239149
       },
       {
         "time": 1139.64,
-        "momentum": -0.37619963429505443
+        "momentum": -0.37420296043698753
       },
       {
         "time": 1140.14,
-        "momentum": -0.37484286902228486
+        "momentum": -0.37285339617534274
       },
       {
         "time": 1140.64,
-        "momentum": -0.37349099692813004
+        "momentum": -0.37150869912184126
       },
       {
         "time": 1141.14,
-        "momentum": -0.3721440003653244
+        "momentum": -0.3701688517228803
       },
       {
         "time": 1141.64,
-        "momentum": -0.3708018617502475
+        "momentum": -0.36883383648816404
       },
       {
         "time": 1142.14,
-        "momentum": -0.36946456356269414
+        "momentum": -0.36750363599047553
       },
       {
         "time": 1142.64,
-        "momentum": -0.36813208834564576
+        "momentum": -0.3661782328654492
       },
       {
         "time": 1143.14,
-        "momentum": -0.3668044187050427
+        "momentum": -0.36485760981134413
       },
       {
         "time": 1143.64,
-        "momentum": -0.3654815373095571
+        "momentum": -0.36354174958881796
       },
       {
         "time": 1144.14,
-        "momentum": -0.36416342689036646
+        "momentum": -0.3622306350207024
       },
       {
         "time": 1144.64,
-        "momentum": -0.3628500702409283
+        "momentum": -0.3609242489917785
       },
       {
         "time": 1145.14,
-        "momentum": -0.3615414502167558
+        "momentum": -0.3596225744485534
       },
       {
         "time": 1145.64,
-        "momentum": -0.3811344362169213
+        "momentum": -0.3791115709724364
       },
       {
         "time": 1146.14,
-        "momentum": -0.4006567600458045
+        "momentum": -0.3985302803634404
       },
       {
         "time": 1147.16,
-        "momentum": -0.42010867654676887
+        "momentum": -0.4178789561123516
       },
       {
         "time": 1147.66,
-        "momentum": -0.43949043964408413
+        "momentum": -0.4371578507957404
       },
       {
         "time": 1148.16,
-        "momentum": -0.4588023023462415
+        "momentum": -0.45636721607925923
       },
       {
         "time": 1148.66,
-        "momentum": -0.45714763026752847
+        "momentum": -0.45472132614752897
       },
       {
         "time": 1149.16,
-        "momentum": -0.4173139405208003
+        "momentum": -0.41509905310548917
       },
       {
         "time": 1149.66,
-        "momentum": -0.37762391111291305
+        "momentum": -0.37561967792721895
       },
       {
         "time": 1150.69,
-        "momentum": -0.3380770239323613
+        "momentum": -0.3362826852510819
       },
       {
         "time": 1151.19,
-        "momentum": -0.2986727627362108
+        "momentum": -0.2970875615740952
       },
       {
         "time": 1151.69,
-        "momentum": -0.25941061314335906
+        "momentum": -0.25803379524522635
       },
       {
         "time": 1152.19,
-        "momentum": -0.25847504787636916
+        "momentum": -0.25710319547671334
       },
       {
         "time": 1152.69,
-        "momentum": -0.2575428567287269
+        "momentum": -0.25617595191946074
       },
       {
         "time": 1153.19,
-        "momentum": -0.2566140275316593
+        "momentum": -0.25525205246928107
       },
       {
         "time": 1153.69,
-        "momentum": -0.2556885481602801
+        "momentum": -0.25433148506564063
       },
       {
         "time": 1154.19,
-        "momentum": -0.25476640653343136
+        "momentum": -0.2534142376915022
       },
       {
         "time": 1154.69,
-        "momentum": -0.2538475906135261
+        "momentum": -0.252500298373168
       },
       {
         "time": 1155.19,
-        "momentum": -0.25293208840639064
+        "momentum": -0.2515896551801234
       },
       {
         "time": 1155.69,
-        "momentum": -0.2520198879611087
+        "momentum": -0.2506822962248812
       },
       {
         "time": 1156.19,
-        "momentum": -0.25111097736986465
+        "momentum": -0.2497782096628265
       },
       {
         "time": 1156.69,
-        "momentum": -0.25020534476778866
+        "momentum": -0.24887738369206205
       },
       {
         "time": 1157.19,
-        "momentum": -0.24930297833280163
+        "momentum": -0.24797980655325413
       },
       {
         "time": 1157.69,
-        "momentum": -0.24840386628546063
+        "momentum": -0.2470854665294792
       },
       {
         "time": 1158.19,
-        "momentum": -0.24750799688880543
+        "momentum": -0.2461943519460707
       },
       {
         "time": 1158.69,
-        "momentum": -0.24661535844820529
+        "momentum": -0.24530645117046695
       },
       {
         "time": 1159.19,
-        "momentum": -0.24572593931120604
+        "momentum": -0.24442175261205903
       },
       {
         "time": 1159.69,
-        "momentum": -0.24483972786737823
+        "momentum": -0.2435402447220396
       },
       {
         "time": 1160.19,
-        "momentum": -0.24395671254816537
+        "momentum": -0.2426619159932522
       },
       {
         "time": 1160.69,
-        "momentum": -0.24307688182673312
+        "momentum": -0.24178675496004093
       },
       {
         "time": 1161.19,
-        "momentum": -0.2422002242178186
+        "momentum": -0.24091475019810077
       },
       {
         "time": 1161.69,
-        "momentum": -0.24132672827758067
+        "momentum": -0.24004589032432863
       },
       {
         "time": 1162.19,
-        "momentum": -0.2404563826034503
+        "momentum": -0.23918016399667447
       },
       {
         "time": 1162.69,
-        "momentum": -0.23958917583398204
+        "momentum": -0.23831755991399345
       },
       {
         "time": 1163.19,
-        "momentum": -0.23872509664870548
+        "momentum": -0.2374580668158984
       },
       {
         "time": 1163.69,
-        "momentum": -0.23786413376797738
+        "momentum": -0.2366016734826127
       },
       {
         "time": 1164.19,
-        "momentum": -0.2370062759528348
+        "momentum": -0.23574836873482394
       },
       {
         "time": 1164.69,
-        "momentum": -0.23615151200484794
+        "momentum": -0.2348981414335379
       },
       {
         "time": 1165.19,
-        "momentum": -0.23529983076597438
+        "momentum": -0.2340509804799332
       },
       {
         "time": 1165.69,
-        "momentum": -0.23445122111841304
+        "momentum": -0.23320687481521643
       },
       {
         "time": 1166.19,
-        "momentum": -0.2336056719844594
+        "momentum": -0.2323658134204777
       },
       {
         "time": 1166.69,
-        "momentum": -0.23276317232636048
+        "momentum": -0.23152778531654689
       },
       {
         "time": 1167.19,
-        "momentum": -0.23192371114617125
+        "momentum": -0.23069277956385026
       },
       {
         "time": 1167.69,
-        "momentum": -0.2310872774856107
+        "momentum": -0.22986078526226775
       },
       {
         "time": 1168.19,
-        "momentum": -0.23025386042591883
+        "momentum": -0.22903179155099052
       },
       {
         "time": 1168.69,
-        "momentum": -0.22942344908771428
+        "momentum": -0.2282057876083794
       },
       {
         "time": 1169.19,
-        "momentum": -0.2285960326308522
+        "momentum": -0.2273827626518234
       },
       {
         "time": 1169.69,
-        "momentum": -0.22777160025428275
+        "momentum": -0.2265627059375991
       },
       {
         "time": 1170.19,
-        "momentum": -0.22695014119591012
+        "momentum": -0.22574560676073033
       },
       {
         "time": 1170.69,
-        "momentum": -0.22613164473245195
+        "momentum": -0.22493145445484836
       },
       {
         "time": 1171.19,
-        "momentum": -0.22531610017929954
+        "momentum": -0.22412023839205303
       },
       {
         "time": 1171.69,
-        "momentum": -0.2245034968903783
+        "momentum": -0.22331194798277348
       },
       {
         "time": 1172.19,
-        "momentum": -0.2236938242580086
+        "momentum": -0.22250657267563026
       },
       {
         "time": 1172.69,
-        "momentum": -0.22288707171276756
+        "momentum": -0.22170410195729753
       },
       {
         "time": 1173.19,
-        "momentum": -0.22208322872335096
+        "momentum": -0.22090452535236574
       },
       {
         "time": 1173.69,
-        "momentum": -0.2212822847964356
+        "momentum": -0.220107832423205
       },
       {
         "time": 1174.19,
-        "momentum": -0.22048422947654284
+        "momentum": -0.2193140127698287
       },
       {
         "time": 1174.69,
-        "momentum": -0.21968905234590128
+        "momentum": -0.21852305602975788
       },
       {
         "time": 1175.19,
-        "momentum": -0.2188967430243117
+        "momentum": -0.21773495187788594
       },
       {
         "time": 1175.69,
-        "momentum": -0.21810729116901081
+        "momentum": -0.21694969002634362
       },
       {
         "time": 1176.19,
-        "momentum": -0.21732068647453665
+        "momentum": -0.21616726022436517
       },
       {
         "time": 1176.69,
-        "momentum": -0.21653691867259392
+        "momentum": -0.21538765225815398
       },
       {
         "time": 1177.19,
-        "momentum": -0.21575597753192
+        "momentum": -0.21461085595074972
       },
       {
         "time": 1177.69,
-        "momentum": -0.21497785285815127
+        "momentum": -0.21383686116189526
       },
       {
         "time": 1178.19,
-        "momentum": -0.21420253449369014
+        "momentum": -0.21306565778790434
       },
       {
         "time": 1178.69,
-        "momentum": -0.21343001231757258
+        "momentum": -0.21229723576152965
       },
       {
         "time": 1179.19,
-        "momentum": -0.21266027624533562
+        "momentum": -0.21153158505183142
       },
       {
         "time": 1179.69,
-        "momentum": -0.21189331622888607
+        "momentum": -0.2107686956640466
       },
       {
         "time": 1180.19,
-        "momentum": -0.2111291222563692
+        "momentum": -0.21000855763945828
       },
       {
         "time": 1180.69,
-        "momentum": -0.21036768435203806
+        "momentum": -0.20925116105526548
       },
       {
         "time": 1181.19,
-        "momentum": -0.20960899257612337
+        "momentum": -0.20849649602445414
       },
       {
         "time": 1181.69,
-        "momentum": -0.2088530370247034
+        "momentum": -0.20774455269566755
       },
       {
         "time": 1182.19,
-        "momentum": -0.20809980782957527
+        "momentum": -0.2069953212530781
       },
       {
         "time": 1182.69,
-        "momentum": -0.20734929515812556
+        "momentum": -0.20624879191625878
       },
       {
         "time": 1183.19,
-        "momentum": -0.20660148921320234
+        "momentum": -0.2055049549400559
       },
       {
         "time": 1183.69,
-        "momentum": -0.20585638023298705
+        "momentum": -0.20476380061446173
       },
       {
         "time": 1184.19,
-        "momentum": -0.20511395849086728
+        "momentum": -0.2040253192644875
       },
       {
         "time": 1184.69,
-        "momentum": -0.20437421429530955
+        "momentum": -0.20328950125003759
       },
       {
         "time": 1185.19,
-        "momentum": -0.20363713798973304
+        "momentum": -0.20255633696578323
       },
       {
         "time": 1185.69,
-        "momentum": -0.20290271995238332
+        "momentum": -0.20182581684103731
       },
       {
         "time": 1186.19,
-        "momentum": -0.20217095059620696
+        "momentum": -0.20109793133962958
       },
       {
         "time": 1186.69,
-        "momentum": -0.20144182036872618
+        "momentum": -0.20037267095978187
       },
       {
         "time": 1187.19,
-        "momentum": -0.20071531975191426
+        "momentum": -0.19965002623398426
       },
       {
         "time": 1187.69,
-        "momentum": -0.19999143926207136
+        "momentum": -0.19892998772887144
       },
       {
         "time": 1188.19,
-        "momentum": -0.1992701694497005
+        "momentum": -0.19821254604509958
       },
       {
         "time": 1188.69,
-        "momentum": -0.19855150089938445
+        "momentum": -0.19749769181722357
       },
       {
         "time": 1189.19,
-        "momentum": -0.19783542422966266
+        "momentum": -0.19678541571357486
       },
       {
         "time": 1189.69,
-        "momentum": -0.19712193009290888
+        "momentum": -0.19607570843613958
       },
       {
         "time": 1190.19,
-        "momentum": -0.1964110091752091
+        "momentum": -0.19536856072043712
       },
       {
         "time": 1190.69,
-        "momentum": -0.19570265219623992
+        "momentum": -0.19466396333539934
       },
       {
         "time": 1191.19,
-        "momentum": -0.19499684990914756
+        "momentum": -0.19396190708324998
       },
       {
         "time": 1191.69,
-        "momentum": -0.194293593100427
+        "momentum": -0.19326238279938449
       },
       {
         "time": 1192.19,
-        "momentum": -0.1935928725898017
+        "momentum": -0.1925653813522506
       },
       {
         "time": 1192.69,
-        "momentum": -0.19289467923010392
+        "momentum": -0.1918708936432289
       },
       {
         "time": 1193.19,
-        "momentum": -0.19219900390715514
+        "momentum": -0.1911789106065144
       },
       {
         "time": 1193.69,
-        "momentum": -0.19150583753964717
+        "momentum": -0.1904894232089977
       },
       {
         "time": 1194.19,
-        "momentum": -0.19081517107902363
+        "momentum": -0.1898024224501475
       },
       {
         "time": 1194.69,
-        "momentum": -0.19012699550936174
+        "momentum": -0.18911789936189288
       },
       {
         "time": 1195.19,
-        "momentum": -0.18944130184725466
+        "momentum": -0.1884358450085064
       },
       {
         "time": 1195.69,
-        "momentum": -0.18875808114169432
+        "momentum": -0.18775625048648728
       },
       {
         "time": 1196.19,
-        "momentum": -0.18807732447395442
+        "momentum": -0.18707910692444515
       },
       {
         "time": 1196.69,
-        "momentum": -0.18739902295747413
+        "momentum": -0.18640440548298456
       },
       {
         "time": 1197.19,
-        "momentum": -0.18672316773774195
+        "momentum": -0.18573213735458918
       },
       {
         "time": 1197.69,
-        "momentum": -0.18604974999218032
+        "momentum": -0.18506229376350708
       },
       {
         "time": 1198.19,
-        "momentum": -0.18537876093003022
+        "momentum": -0.18439486596563612
       },
       {
         "time": 1198.69,
-        "momentum": -0.18471019179223663
+        "momentum": -0.18372984524840982
       },
       {
         "time": 1199.19,
-        "momentum": -0.184044033851334
+        "momentum": -0.18306722293068356
       },
       {
         "time": 1199.69,
-        "momentum": -0.18338027841133253
+        "momentum": -0.18240699036262129
       },
       {
         "time": 1200.19,
-        "momentum": -0.1827189168076044
+        "momentum": -0.18174913892558264
       },
       {
         "time": 1200.69,
-        "momentum": -0.18205994040677093
+        "momentum": -0.1810936600320104
       },
       {
         "time": 1201.19,
-        "momentum": -0.18140334060658966
+        "momentum": -0.18044054512531843
       },
       {
         "time": 1201.69,
-        "momentum": -0.1807491088358422
+        "momentum": -0.17978978567977993
       },
       {
         "time": 1202.19,
-        "momentum": -0.18009723655422222
+        "momentum": -0.17914137320041615
       },
       {
         "time": 1202.69,
-        "momentum": -0.17944771525222414
+        "momentum": -0.1784952992228855
       },
       {
         "time": 1203.19,
-        "momentum": -0.17880053645103183
+        "momentum": -0.17785155531337316
       },
       {
         "time": 1203.69,
-        "momentum": -0.17815569170240814
+        "momentum": -0.17721013306848074
       },
       {
         "time": 1204.19,
-        "momentum": -0.1775131725885844
+        "momentum": -0.17657102411511688
       },
       {
         "time": 1204.69,
-        "momentum": -0.17687297072215077
+        "momentum": -0.17593422011038767
       },
       {
         "time": 1205.19,
-        "momentum": -0.1762350777459466
+        "momentum": -0.17529971274148803
       },
       {
         "time": 1205.69,
-        "momentum": -0.1755994853329513
+        "momentum": -0.17466749372559293
       },
       {
         "time": 1206.19,
-        "momentum": -0.17496618518617577
+        "momentum": -0.17403755480974933
       },
       {
         "time": 1206.69,
-        "momentum": -0.17433516903855403
+        "momentum": -0.17340988777076866
       },
       {
         "time": 1207.19,
-        "momentum": -0.1737064286528353
+        "momentum": -0.17278448441511912
       },
       {
         "time": 1207.69,
-        "momentum": -0.17307995582147645
+        "momentum": -0.1721613365788191
       },
       {
         "time": 1208.19,
-        "momentum": -0.17245574236653488
+        "momentum": -0.17154043612733028
       },
       {
         "time": 1208.69,
-        "momentum": -0.17183378013956183
+        "momentum": -0.17092177495545163
       },
       {
         "time": 1209.19,
-        "momentum": -0.17121406102149586
+        "momentum": -0.1703053449872135
       },
       {
         "time": 1209.69,
-        "momentum": -0.17059657692255698
+        "momentum": -0.16969113817577236
       },
       {
         "time": 1210.19,
-        "momentum": -0.1699813197821411
+        "momentum": -0.16907914650330555
       },
       {
         "time": 1210.69,
-        "momentum": -0.16936828156871458
+        "momentum": -0.1684693619809068
       },
       {
         "time": 1211.19,
-        "momentum": -0.16875745427970967
+        "momentum": -0.16786177664848176
       },
       {
         "time": 1211.69,
-        "momentum": -0.16814882994141983
+        "momentum": -0.16725638257464429
       },
       {
         "time": 1212.19,
-        "momentum": -0.16754240060889578
+        "momentum": -0.16665317185661271
       },
       {
         "time": 1212.69,
-        "momentum": -0.16693815836584164
+        "momentum": -0.16605213662010684
       },
       {
         "time": 1213.19,
-        "momentum": -0.1663360953245117
+        "momentum": -0.16545326901924512
       },
       {
         "time": 1213.69,
-        "momentum": -0.16573620362560756
+        "momentum": -0.16485656123644207
       },
       {
         "time": 1214.19,
-        "momentum": -0.16513847543817523
+        "momentum": -0.16426200548230654
       },
       {
         "time": 1214.69,
-        "momentum": -0.1645429029595032
+        "momentum": -0.1636695939955397
       },
       {
         "time": 1215.19,
-        "momentum": -0.1639494784150204
+        "momentum": -0.16307931904283393
       },
       {
         "time": 1215.69,
-        "momentum": -0.1633581940581948
+        "momentum": -0.16249117291877183
       },
       {
         "time": 1216.19,
-        "momentum": -0.16276904217043225
+        "momentum": -0.16190514794572555
       },
       {
         "time": 1216.69,
-        "momentum": -0.1621820150609758
+        "momentum": -0.16132123647375668
       },
       {
         "time": 1217.19,
-        "momentum": -0.16159710506680514
+        "momentum": -0.16073943088051632
       },
       {
         "time": 1217.69,
-        "momentum": -0.16101430455253676
+        "momentum": -0.1601597235711456
       },
       {
         "time": 1218.19,
-        "momentum": -0.16043360591032413
+        "momentum": -0.1595821069781766
       },
       {
         "time": 1218.69,
-        "momentum": -0.1598550015597585
+        "momentum": -0.15900657356143336
       },
       {
         "time": 1219.19,
-        "momentum": -0.1592784839477698
+        "momentum": -0.15843311580793373
       },
       {
         "time": 1219.69,
-        "momentum": -0.15870404554852824
+        "momentum": -0.15786172623179104
       },
       {
         "time": 1220.19,
-        "momentum": -0.15813167886334586
+        "momentum": -0.1572923973741166
       },
       {
         "time": 1220.69,
-        "momentum": -0.15756137642057882
+        "momentum": -0.15672512180292214
       },
       {
         "time": 1221.19,
-        "momentum": -0.15699313077552976
+        "momentum": -0.15615989211302297
       },
       {
         "time": 1221.69,
-        "momentum": -0.15642693451035067
+        "momentum": -0.15559670092594113
       },
       {
         "time": 1222.19,
-        "momentum": -0.15586278023394595
+        "momentum": -0.1550355408898092
       },
       {
         "time": 1222.69,
-        "momentum": -0.15530066058187614
+        "momentum": -0.15447640467927434
       },
       {
         "time": 1223.19,
-        "momentum": -0.15474056821626156
+        "momentum": -0.15391928499540258
       },
       {
         "time": 1223.69,
-        "momentum": -0.15418249582568663
+        "momentum": -0.15336417456558357
       },
       {
         "time": 1224.19,
-        "momentum": -0.15362643612510446
+        "momentum": -0.1528110661434357
       },
       {
         "time": 1224.69,
-        "momentum": -0.1530723818557417
+        "momentum": -0.15225995250871138
       },
       {
         "time": 1225.19,
-        "momentum": -0.1525203257850037
+        "momentum": -0.15171082646720296
       },
       {
         "time": 1225.69,
-        "momentum": -0.15197026070638037
+        "momentum": -0.15116368085064866
       },
       {
         "time": 1226.19,
-        "momentum": -0.1514221794393517
+        "momentum": -0.1506185085166391
       },
       {
         "time": 1226.69,
-        "momentum": -0.1508760748292944
+        "momentum": -0.150075302348524
       },
       {
         "time": 1227.19,
-        "momentum": -0.15033193974738837
+        "momentum": -0.1495340552553193
       },
       {
         "time": 1227.69,
-        "momentum": -0.2724947497485923
+        "momentum": -0.2715792364782985
       },
       {
         "time": 1228.19,
-        "momentum": -0.39187534396157625
+        "momentum": -0.39084690185869436
       },
       {
         "time": 1229.1,
-        "momentum": -0.5108253916516369
+        "momentum": -0.5096844279943894
       },
       {
         "time": 1229.6,
-        "momentum": -0.6293464455862875
+        "momentum": -0.6280933661840463
       },
       {
         "time": 1230.1,
-        "momentum": -0.7308497767828785
+        "momentum": -0.7295152790547255
       },
       {
         "time": 1230.6,
-        "momentum": -0.7092820532089279
+        "momentum": -0.7079869371417196
       },
       {
         "time": 1231.75,
-        "momentum": -0.6901337488986032
+        "momentum": -0.6888735967452003
       },
       {
         "time": 1232.25,
-        "momentum": -0.6710545030135197
+        "momentum": -0.6698291886764469
       },
       {
         "time": 1232.75,
-        "momentum": -0.6520440664942293
+        "momentum": -0.6508534643307826
       },
       {
         "time": 1233.25,
-        "momentum": -0.6496924673296194
+        "momentum": -0.6485061590769631
       },
       {
         "time": 1233.75,
-        "momentum": -0.6473493492154709
+        "momentum": -0.646167319387601
       },
       {
         "time": 1234.25,
-        "momentum": -0.6450146815648462
+        "momentum": -0.643836914731609
       },
       {
         "time": 1234.75,
-        "momentum": -0.6426884339011195
+        "momentum": -0.6415149146880103
       },
       {
         "time": 1235.25,
-        "momentum": -0.6403705758575793
+        "momentum": -0.6392012889455414
       },
       {
         "time": 1235.75,
-        "momentum": -0.6380610771770314
+        "momentum": -0.6368960073022566
       },
       {
         "time": 1236.25,
-        "momentum": -0.6357599077114047
+        "momentum": -0.6345990396651334
       },
       {
         "time": 1236.75,
-        "momentum": -0.6334670374213569
+        "momentum": -0.6323103560496803
       },
       {
         "time": 1237.25,
-        "momentum": -0.6311824363758827
+        "momentum": -0.6300299265795445
       },
       {
         "time": 1237.75,
-        "momentum": -0.6289060747519231
+        "momentum": -0.6277577214861226
       },
       {
         "time": 1238.25,
-        "momentum": -0.6266379228339762
+        "momentum": -0.6254937111081718
       },
       {
         "time": 1238.75,
-        "momentum": -0.6243779510137093
+        "momentum": -0.6232378658914225
       },
       {
         "time": 1239.25,
-        "momentum": -0.6221261297895716
+        "momentum": -0.620990156388193
       },
       {
         "time": 1239.75,
-        "momentum": -0.6198824297664105
+        "momentum": -0.6187505532570043
       },
       {
         "time": 1240.25,
-        "momentum": -0.6176468216550868
+        "momentum": -0.616519027262198
       },
       {
         "time": 1240.75,
-        "momentum": -0.6154192762720924
+        "momentum": -0.6142955492735539
       },
       {
         "time": 1241.25,
-        "momentum": -0.6131997645391701
+        "momentum": -0.6120800902659103
       },
       {
         "time": 1241.75,
-        "momentum": -0.6109882574829333
+        "momentum": -0.6098726213187844
       },
       {
         "time": 1242.25,
-        "momentum": -0.6087847262344881
+        "momentum": -0.6076731136159956
       },
       {
         "time": 1242.75,
-        "momentum": -0.6065891420290562
+        "momentum": -0.6054815384452892
       },
       {
         "time": 1243.25,
-        "momentum": -0.6044014762055998
+        "momentum": -0.6032978671979605
       },
       {
         "time": 1243.75,
-        "momentum": -0.602221700206447
+        "momentum": -0.6011220713684831
       },
       {
         "time": 1244.25,
-        "momentum": -0.6000497855769196
+        "momentum": -0.5989541225541352
       },
       {
         "time": 1244.75,
-        "momentum": -0.5978857039649607
+        "momentum": -0.59679399245463
       },
       {
         "time": 1245.25,
-        "momentum": -0.5957294271207657
+        "momentum": -0.5946416528717455
       },
       {
         "time": 1245.75,
-        "momentum": -0.593580926896413
+        "momentum": -0.5924970757089566
       },
       {
         "time": 1246.25,
-        "momentum": -0.5914401752454962
+        "momentum": -0.5903602329710689
       },
       {
         "time": 1246.75,
-        "momentum": -0.5893071442227588
+        "momentum": -0.5882310967638522
       },
       {
         "time": 1247.25,
-        "momentum": -0.5871818059837286
+        "momentum": -0.5861096392936772
       },
       {
         "time": 1247.75,
-        "momentum": -0.44072360572489916
+        "momentum": -0.43962671233783845
       },
       {
         "time": 1248.25,
-        "momentum": -0.3047619035127431
+        "momentum": -0.30372554641467653
       },
       {
         "time": 1249.21,
-        "momentum": -0.16929054764644086
+        "momentum": -0.16831450851303406
       },
       {
         "time": 1249.71,
-        "momentum": -0.03430776969021241
+        "momentum": -0.0333918309845188
       },
       {
         "time": 1250.21,
-        "momentum": 0.10018819241385249
+        "momentum": 0.10104424744423182
       },
       {
         "time": 1250.71,
-        "momentum": 0.08985856730934029
+        "momentum": 0.0906263611652279
       },
       {
         "time": 1251.21,
-        "momentum": 0.08953449207780904
+        "momentum": 0.09029951688251917
       },
       {
         "time": 1251.71,
-        "momentum": 0.08921158562471304
+        "momentum": 0.08997385136483826
       },
       {
         "time": 1252.21,
-        "momentum": 0.08888984373484883
+        "momentum": 0.08964936036096503
       },
       {
         "time": 1252.71,
-        "momentum": 0.08856926220821511
+        "momentum": 0.08932603963501143
       },
       {
         "time": 1253.21,
-        "momentum": 0.08824983685995791
+        "momentum": 0.08900388496636609
       },
       {
         "time": 1253.71,
-        "momentum": 0.08793156352031596
+        "momentum": 0.08868289214963934
       },
       {
         "time": 1254.21,
-        "momentum": 0.08761443803456621
+        "momentum": 0.08836305699460825
       },
       {
         "time": 1254.71,
-        "momentum": 0.08729845626296968
+        "momentum": 0.08804437532616194
       },
       {
         "time": 1255.21,
-        "momentum": 0.08698361408071734
+        "momentum": 0.08772684298424707
       },
       {
         "time": 1255.71,
-        "momentum": 0.0866699073778763
+        "momentum": 0.08741045582381357
       },
       {
         "time": 1256.21,
-        "momentum": 0.08635733205933618
+        "momentum": 0.08709520971476051
       },
       {
         "time": 1256.71,
-        "momentum": 0.08604588404475559
+        "momentum": 0.08678110054188212
       },
       {
         "time": 1257.21,
-        "momentum": 0.08573555926850895
+        "momentum": 0.08646812420481423
       },
       {
         "time": 1257.71,
-        "momentum": 0.08542635367963336
+        "momentum": 0.08615627661798057
       },
       {
         "time": 1258.21,
-        "momentum": 0.0851182632417757
+        "momentum": 0.08584555371053956
       },
       {
         "time": 1258.71,
-        "momentum": 0.08481128393314
+        "momentum": 0.08553595142633111
       },
       {
         "time": 1259.21,
-        "momentum": 0.08450541174643492
+        "momentum": 0.08522746572382368
       },
       {
         "time": 1259.71,
-        "momentum": 0.0842006426888214
+        "momentum": 0.08492009257606152
       },
       {
         "time": 1260.21,
-        "momentum": 0.08389697278186059
+        "momentum": 0.08461382797061215
       },
       {
         "time": 1260.71,
-        "momentum": 0.08359439806146188
+        "momentum": 0.08430866790951388
       },
       {
         "time": 1261.21,
-        "momentum": 0.0832929145778312
+        "momentum": 0.08400460840922375
       },
       {
         "time": 1261.71,
-        "momentum": 0.08299251839541935
+        "momentum": 0.08370164550056539
       },
       {
         "time": 1262.21,
-        "momentum": 0.08269320559287081
+        "momentum": 0.08339977522867734
       },
       {
         "time": 1262.71,
-        "momentum": 0.08239497226297235
+        "momentum": 0.08309899365296132
       },
       {
         "time": 1263.21,
-        "momentum": 0.08209781451260215
+        "momentum": 0.08279929684703087
       },
       {
         "time": 1263.71,
-        "momentum": 0.08180172846267894
+        "momentum": 0.08250068089866
       },
       {
         "time": 1264.21,
-        "momentum": 0.0815067102481114
+        "momentum": 0.08220314190973224
       },
       {
         "time": 1264.71,
-        "momentum": 0.08121275601774766
+        "momentum": 0.08190667599618964
       },
       {
         "time": 1265.21,
-        "momentum": 0.080919861934325
+        "momentum": 0.08161127928798216
       },
       {
         "time": 1265.71,
-        "momentum": 0.08062802417441986
+        "momentum": 0.08131694792901709
       },
       {
         "time": 1266.21,
-        "momentum": 0.08033723892839786
+        "momentum": 0.0810236780771087
       },
       {
         "time": 1266.71,
-        "momentum": 0.08004750240036404
+        "momentum": 0.08073146590392816
       },
       {
         "time": 1267.21,
-        "momentum": 0.0797588108081134
+        "momentum": 0.0804403075949535
       },
       {
         "time": 1267.71,
-        "momentum": 0.07947116038308143
+        "momentum": 0.08015019934941987
       },
       {
         "time": 1268.21,
-        "momentum": 0.07918454737029498
+        "momentum": 0.07986113738026986
       },
       {
         "time": 1268.71,
-        "momentum": 0.07889896802832325
+        "momentum": 0.07957311791410406
       },
       {
         "time": 1269.21,
-        "momentum": 0.07861441862922887
+        "momentum": 0.07928613719113191
       },
       {
         "time": 1269.71,
-        "momentum": 0.07833089545851932
+        "momentum": 0.07900019146512252
       },
       {
         "time": 1270.21,
-        "momentum": 0.07804839481509843
+        "momentum": 0.07871527700335576
       },
       {
         "time": 1270.71,
-        "momentum": 0.07776691301121799
+        "momentum": 0.07843139008657363
       },
       {
         "time": 1271.21,
-        "momentum": 0.07748644637242971
+        "momentum": 0.0781485270089316
       },
       {
         "time": 1271.71,
-        "momentum": 0.07720699123753721
+        "momentum": 0.0778666840779503
       },
       {
         "time": 1272.21,
-        "momentum": 0.07692854395854823
+        "momentum": 0.07758585761446729
       },
       {
         "time": 1272.71,
-        "momentum": 0.07665110090062695
+        "momentum": 0.07730604395258905
       },
       {
         "time": 1273.21,
-        "momentum": 0.07637465844204668
+        "momentum": 0.07702723943964314
       },
       {
         "time": 1273.71,
-        "momentum": 0.07609921297414243
+        "momentum": 0.07674944043613043
       },
       {
         "time": 1274.21,
-        "momentum": 0.07582476090126393
+        "momentum": 0.0764726433156777
       },
       {
         "time": 1274.71,
-        "momentum": 0.07555129864072861
+        "momentum": 0.07619684446499028
       },
       {
         "time": 1275.21,
-        "momentum": 0.07527882262277483
+        "momentum": 0.07592204028380482
       },
       {
         "time": 1275.71,
-        "momentum": 0.07500732929051537
+        "momentum": 0.07564822718484235
       },
       {
         "time": 1276.21,
-        "momentum": 0.07473681509989086
+        "momentum": 0.07537540159376144
       },
       {
         "time": 1276.71,
-        "momentum": 0.07446727651962366
+        "momentum": 0.07510355994911148
       },
       {
         "time": 1277.21,
-        "momentum": 0.07419871003117165
+        "momentum": 0.07483269870228634
       },
       {
         "time": 1277.71,
-        "momentum": 0.07393111212868236
+        "momentum": 0.07456281431747788
       },
       {
         "time": 1278.21,
-        "momentum": 0.07366447931894722
+        "momentum": 0.0742939032716299
       },
       {
         "time": 1278.71,
-        "momentum": 0.07339880812135585
+        "momentum": 0.07402596205439205
       },
       {
         "time": 1279.21,
-        "momentum": 0.07313409506785079
+        "momentum": 0.07375898716807415
       },
       {
         "time": 1279.71,
-        "momentum": 0.0728703367028821
+        "momentum": 0.07349297512760042
       },
       {
         "time": 1280.21,
-        "momentum": 0.07260752958336228
+        "momentum": 0.07322792246046403
       },
       {
         "time": 1280.71,
-        "momentum": 0.07234567027862135
+        "momentum": 0.07296382570668171
       },
       {
         "time": 1281.21,
-        "momentum": 0.07208475537036205
+        "momentum": 0.07270068141874868
       },
       {
         "time": 1281.71,
-        "momentum": 0.07182478145261526
+        "momentum": 0.0724384861615936
       },
       {
         "time": 1282.21,
-        "momentum": 0.07156574513169545
+        "momentum": 0.07217723651253369
       },
       {
         "time": 1282.71,
-        "momentum": 0.07130764302615644
+        "momentum": 0.07191692906123012
       },
       {
         "time": 1283.21,
-        "momentum": 0.07105047176674725
+        "momentum": 0.07165756040964345
       },
       {
         "time": 1283.71,
-        "momentum": 0.07079422799636811
+        "momentum": 0.07139912717198926
       },
       {
         "time": 1284.21,
-        "momentum": 0.07053890837002666
+        "momentum": 0.07114162597469402
       },
       {
         "time": 1284.71,
-        "momentum": 0.07028450955479426
+        "momentum": 0.07088505345635095
       },
       {
         "time": 1285.21,
-        "momentum": 0.07003102822976247
+        "momentum": 0.07062940626767622
       },
       {
         "time": 1285.71,
-        "momentum": 0.06977846108599975
+        "momentum": 0.07037468107146523
       },
       {
         "time": 1286.21,
-        "momentum": 0.06952680482650819
+        "momentum": 0.07012087454254896
       },
       {
         "time": 1286.71,
-        "momentum": 0.06927605616618056
+        "momentum": 0.06986798336775067
       },
       {
         "time": 1287.21,
-        "momentum": 0.06902621183175733
+        "momentum": 0.0696160042458426
       },
       {
         "time": 1287.71,
-        "momentum": 0.06877726856178405
+        "momentum": 0.06936493388750287
       },
       {
         "time": 1288.21,
-        "momentum": 0.06852922310656868
+        "momentum": 0.06911476901527254
       },
       {
         "time": 1288.71,
-        "momentum": 0.0682820722281392
+        "momentum": 0.06886550636351285
       },
       {
         "time": 1289.21,
-        "momentum": 0.06803581270020138
+        "momentum": 0.06861714267836258
       },
       {
         "time": 1289.71,
-        "momentum": 0.06779044130809661
+        "momentum": 0.06836967471769556
       },
       {
         "time": 1290.21,
-        "momentum": 0.06754595484875994
+        "momentum": 0.06812309925107837
       },
       {
         "time": 1290.71,
-        "momentum": 0.06730235013067831
+        "momentum": 0.06787741305972815
       },
       {
         "time": 1291.21,
-        "momentum": 0.06705962397384888
+        "momentum": 0.0676326129364706
       },
       {
         "time": 1291.71,
-        "momentum": 0.06681777320973743
+        "momentum": 0.06738869568569811
       },
       {
         "time": 1292.21,
-        "momentum": 0.06657679468123716
+        "momentum": 0.06714565812332803
       },
       {
         "time": 1292.71,
-        "momentum": 0.06633668524262733
+        "momentum": 0.06690349707676109
       },
       {
         "time": 1293.21,
-        "momentum": 0.06609744175953225
+        "momentum": 0.06666220938484006
       },
       {
         "time": 1293.71,
-        "momentum": 0.06585906110888042
+        "momentum": 0.06642179189780842
       },
       {
         "time": 1294.21,
-        "momentum": 0.06562154017886362
+        "momentum": 0.06618224147726921
       },
       {
         "time": 1294.71,
-        "momentum": 0.06538487586889648
+        "momentum": 0.0659435549961442
       },
       {
         "time": 1295.21,
-        "momentum": 0.06514906508957581
+        "momentum": 0.06570572933863288
       },
       {
         "time": 1295.71,
-        "momentum": 0.06491410476264041
+        "momentum": 0.06546876140017195
       },
       {
         "time": 1296.21,
-        "momentum": 0.06467999182093086
+        "momentum": 0.06523264808739472
       },
       {
         "time": 1296.71,
-        "momentum": 0.0644467232083494
+        "momentum": 0.06499738631809071
       },
       {
         "time": 1297.21,
-        "momentum": 0.06421429587982017
+        "momentum": 0.06476297302116547
       },
       {
         "time": 1297.71,
-        "momentum": 0.06398270680124929
+        "momentum": 0.06452940513660047
       },
       {
         "time": 1298.21,
-        "momentum": 0.06375195294948546
+        "momentum": 0.06429667961541309
       },
       {
         "time": 1298.71,
-        "momentum": 0.06352203131228029
+        "momentum": 0.06406479341961693
       },
       {
         "time": 1299.21,
-        "momentum": 0.06329293888824916
+        "momentum": 0.06383374352218212
       },
       {
         "time": 1299.71,
-        "momentum": 0.06306467268683189
+        "momentum": 0.0636035269069957
       },
       {
         "time": 1300.21,
-        "momentum": 0.06283722972825376
+        "momentum": 0.0633741405688224
       },
       {
         "time": 1300.71,
-        "momentum": 0.06261060704348669
+        "momentum": 0.06314558151326533
       },
       {
         "time": 1301.21,
-        "momentum": 0.062384801674210344
+        "momentum": 0.06291784675672688
       },
       {
         "time": 1301.71,
-        "momentum": 0.06215981067277358
+        "momentum": 0.06269093332636982
       },
       {
         "time": 1302.21,
-        "momentum": 0.06193563110215603
+        "momentum": 0.06246483826007845
       },
       {
         "time": 1302.71,
-        "momentum": 0.061712260035929625
+        "momentum": 0.06223955860641996
       },
       {
         "time": 1303.21,
-        "momentum": 0.06148969455822051
+        "momentum": 0.062015091424605887
       },
       {
         "time": 1303.71,
-        "momentum": 0.06126793176367092
+        "momentum": 0.061791433784453745
       },
       {
         "time": 1304.21,
-        "momentum": 0.06104696875740132
+        "momentum": 0.061568582766348724
       },
       {
         "time": 1304.71,
-        "momentum": 0.0608268026549725
+        "momentum": 0.06134653546120568
       },
       {
         "time": 1305.21,
-        "momentum": 0.060607430582348035
+        "momentum": 0.06112528897043101
       },
       {
         "time": 1305.71,
-        "momentum": 0.06038884967585669
+        "momentum": 0.06090484040588499
       },
       {
         "time": 1306.21,
-        "momentum": 0.06017105708215512
+        "momentum": 0.06068518688984391
       },
       {
         "time": 1306.71,
-        "momentum": 0.05995404995819052
+        "momentum": 0.06046632555496262
       },
       {
         "time": 1307.21,
-        "momentum": 0.05973782547116361
+        "momentum": 0.06024825354423704
       },
       {
         "time": 1307.71,
-        "momentum": 0.05952238079849156
+        "momentum": 0.06003096801096689
       },
       {
         "time": 1308.21,
-        "momentum": 0.059307713127771236
+        "momentum": 0.059814466118718525
       },
       {
         "time": 1308.71,
-        "momentum": 0.06408621552163934
+        "momentum": 0.06463379828417343
       },
       {
         "time": 1309.21,
-        "momentum": 0.06884748423021694
+        "momentum": 0.0694357495116264
       },
       {
         "time": 1310.42,
-        "momentum": 0.07359158140684921
+        "momentum": 0.07422038248549002
       },
       {
         "time": 1310.92,
-        "momentum": 0.07831856898072505
+        "momentum": 0.07898775966410533
       },
       {
         "time": 1311.42,
-        "momentum": 0.08302850865768556
+        "momentum": 0.08373794328055714
       },
       {
         "time": 1311.92,
-        "momentum": 0.08272906605613257
+        "momentum": 0.08343594210060092
       },
       {
         "time": 1312.42,
-        "momentum": 0.08243070339535022
+        "momentum": 0.08313503008893712
       },
       {
         "time": 1312.92,
-        "momentum": 0.08213341678052842
+        "momentum": 0.0828352033174766
       },
       {
         "time": 1313.42,
-        "momentum": 0.0818372023309037
+        "momentum": 0.08253645787229677
       },
       {
         "time": 1313.92,
-        "momentum": 0.08154205617970862
+        "momentum": 0.08223878985359076
       },
       {
         "time": 1314.42,
-        "momentum": 0.0812479744741212
+        "momentum": 0.08194219537561624
       },
       {
         "time": 1314.92,
-        "momentum": 0.08095495337521472
+        "momentum": 0.0816466705666449
       },
       {
         "time": 1315.42,
-        "momentum": 0.08066298905790753
+        "momentum": 0.08135221156891181
       },
       {
         "time": 1315.92,
-        "momentum": 0.08037207771091318
+        "momentum": 0.08105881453856506
       },
       {
         "time": 1316.42,
-        "momentum": 0.08008221553669059
+        "momentum": 0.08076647564561565
       },
       {
         "time": 1316.92,
-        "momentum": 0.0797933987513946
+        "momentum": 0.0804751910738874
       },
       {
         "time": 1317.42,
-        "momentum": 0.07950562358482642
+        "momentum": 0.08018495702096722
       },
       {
         "time": 1317.92,
-        "momentum": 0.07921888628038457
+        "momentum": 0.0798957696981554
       },
       {
         "time": 1318.42,
-        "momentum": 0.07893318309501567
+        "momentum": 0.07960762533041625
       },
       {
         "time": 1318.92,
-        "momentum": 0.0786485102991658
+        "momentum": 0.07932052015632869
       },
       {
         "time": 1319.42,
-        "momentum": -0.000408608211899808
+        "momentum": 0.0002714580681030199
       },
       {
         "time": 1319.92,
-        "momentum": -0.07613882427555728
+        "momentum": -0.07545763242343775
       },
       {
         "time": 1320.86,
-        "momentum": -0.1515959190549609
+        "momentum": -0.15091360569010434
       },
       {
         "time": 1321.36,
-        "momentum": -0.22678087756296
+        "momentum": -0.226097446730106
       },
       {
         "time": 1321.86,
-        "momentum": -0.3016946812599519
+        "momentum": -0.3010101369892526
       },
       {
         "time": 1322.36,
-        "momentum": -0.2975648356780621
+        "momentum": -0.29688966201383205
       },
       {
         "time": 1322.86,
-        "momentum": -0.29649166707649793
+        "momentum": -0.2958189284284062
       },
       {
         "time": 1323.36,
-        "momentum": -0.29542236886118
+        "momentum": -0.2947520564473325
       },
       {
         "time": 1323.86,
-        "momentum": -0.29435692707354716
+        "momentum": -0.29368903214372166
       },
       {
         "time": 1324.36,
-        "momentum": -0.29329532780537954
+        "momentum": -0.2926298416409117
       },
       {
         "time": 1324.86,
-        "momentum": -0.2922375571986176
+        "momentum": -0.29157447111228685
       },
       {
         "time": 1325.36,
-        "momentum": -0.2911836014451808
+        "momentum": -0.29052290678109716
       },
       {
         "time": 1325.86,
-        "momentum": -0.29013344678678754
+        "momentum": -0.2894751349202784
       },
       {
         "time": 1326.36,
-        "momentum": -0.17184745380141045
+        "momentum": -0.17118525285844527
       },
       {
         "time": 1326.86,
-        "momentum": -0.0684223174074586
+        "momentum": -0.06778916866862657
       },
       {
         "time": 1327.71,
-        "momentum": 0.03462981587697743
+        "momentum": 0.03523401718855025
       },
       {
         "time": 1328.21,
-        "momentum": 0.13731029128889283
+        "momentum": 0.13788564957220223
       },
       {
         "time": 1328.71,
-        "momentum": 0.23962044921368092
+        "momentum": 0.2401670684912074
       },
       {
         "time": 1329.21,
-        "momentum": 0.22432199948926548
+        "momentum": 0.22483372012786912
       },
       {
         "time": 1329.71,
-        "momentum": 0.22351298142789608
+        "momentum": 0.2240228565442596
       },
       {
         "time": 1330.21,
-        "momentum": 0.22270688109294276
+        "momentum": 0.22321491734294846
       },
       {
         "time": 1330.71,
-        "momentum": 0.22190368796161525
+        "momentum": 0.22240989197714095
       },
       {
         "time": 1331.21,
-        "momentum": 0.22110339154907357
+        "momentum": 0.22160776993807924
       },
       {
         "time": 1331.71,
-        "momentum": 0.22030598140829158
+        "momentum": 0.2208085407549055
       },
       {
         "time": 1332.21,
-        "momentum": 0.21951144712992027
+        "momentum": 0.22001219399452507
       },
       {
         "time": 1332.71,
-        "momentum": 0.2187197783421519
+        "momentum": 0.2192187192614702
       },
       {
         "time": 1333.21,
-        "momentum": 0.21793096471058485
+        "momentum": 0.21842810619776448
       },
       {
         "time": 1333.71,
-        "momentum": 0.2171449959380884
+        "momentum": 0.21764034448278763
       },
       {
         "time": 1334.21,
-        "momentum": 0.21636186176466862
+        "momentum": 0.2168554238331406
       },
       {
         "time": 1334.71,
-        "momentum": 0.21558155196733417
+        "momentum": 0.21607333400251155
       },
       {
         "time": 1335.21,
-        "momentum": 0.214804056359963
+        "momentum": 0.215294064781542
       },
       {
         "time": 1335.71,
-        "momentum": 0.2140293647931694
+        "momentum": 0.21451760599769348
       },
       {
         "time": 1336.21,
-        "momentum": 0.2132574671541713
+        "momentum": 0.21374394751511488
       },
       {
         "time": 1336.71,
-        "momentum": 0.21248835336665856
+        "momentum": 0.2129730792345101
       },
       {
         "time": 1337.21,
-        "momentum": 0.21172201339066127
+        "momentum": 0.21220499109300608
       },
       {
         "time": 1337.71,
-        "momentum": 0.2109584372224186
+        "momentum": 0.21143967306402162
       },
       {
         "time": 1338.21,
-        "momentum": 0.2101976148942485
+        "momentum": 0.21067711515713644
       },
       {
         "time": 1338.71,
-        "momentum": 0.2094395364744172
+        "momentum": 0.2099173074179607
       },
       {
         "time": 1339.21,
-        "momentum": 0.2086841920670099
+        "momentum": 0.20916023992800503
       },
       {
         "time": 1339.71,
-        "momentum": 0.2079315718118014
+        "momentum": 0.20840590280455135
       },
       {
         "time": 1340.21,
-        "momentum": 0.20718166588412745
+        "momentum": 0.20765428620052342
       },
       {
         "time": 1340.71,
-        "momentum": 0.20643446449475644
+        "momentum": 0.20690538030435857
       },
       {
         "time": 1341.21,
-        "momentum": 0.20568995788976174
+        "momentum": 0.20615917533987965
       },
       {
         "time": 1341.71,
-        "momentum": 0.20494813635039422
+        "momentum": 0.20541566156616722
       },
       {
         "time": 1342.21,
-        "momentum": 0.20420899019295544
+        "momentum": 0.20467482927743252
       },
       {
         "time": 1342.71,
-        "momentum": 0.20347250976867137
+        "momentum": 0.2039366688028908
       },
       {
         "time": 1343.21,
-        "momentum": 0.20273868546356616
+        "momentum": 0.203201170506635
       },
       {
         "time": 1343.71,
-        "momentum": 0.20200750769833692
+        "momentum": 0.20246832478751
       },
       {
         "time": 1344.21,
-        "momentum": 0.2012789669282285
+        "momentum": 0.20173812207898725
       },
       {
         "time": 1344.71,
-        "momentum": 0.2005530536429089
+        "momentum": 0.20101055284903993
       },
       {
         "time": 1345.21,
-        "momentum": 0.19982975836634526
+        "momentum": 0.2002856076000185
       },
       {
         "time": 1345.71,
-        "momentum": 0.19910907165667996
+        "momentum": 0.19956327686852685
       },
       {
         "time": 1346.21,
-        "momentum": 0.19839098410610756
+        "momentum": 0.1988435512252984
       },
       {
         "time": 1346.71,
-        "momentum": 0.19767548634075188
+        "momentum": 0.19812642127507346
       },
       {
         "time": 1347.21,
-        "momentum": 0.1969625690205436
+        "momentum": 0.19741187765647625
       },
       {
         "time": 1347.71,
-        "momentum": 0.19625222283909846
+        "momentum": 0.1966999110418929
       },
       {
         "time": 1348.21,
-        "momentum": 0.19554443852359568
+        "momentum": 0.1959905121373496
       },
       {
         "time": 1348.71,
-        "momentum": 0.19483920683465697
+        "momentum": 0.1952836716823913
       },
       {
         "time": 1349.21,
-        "momentum": 0.1941365185662258
+        "momentum": 0.1945793804499607
       },
       {
         "time": 1349.71,
-        "momentum": 0.19343636454544744
+        "momentum": 0.1938776292462781
       },
       {
         "time": 1350.21,
-        "momentum": 0.19273873563254898
+        "momentum": 0.193178408910721
       },
       {
         "time": 1350.71,
-        "momentum": 0.19204362272072023
+        "momentum": 0.19248171031570488
       },
       {
         "time": 1351.21,
-        "momentum": 0.19135101673599464
+        "momentum": 0.19178752436656382
       },
       {
         "time": 1351.71,
-        "momentum": 0.19066090863713103
+        "momentum": 0.19109584200143181
       },
       {
         "time": 1352.21,
-        "momentum": 0.18997328941549546
+        "momentum": 0.19040665419112454
       },
       {
         "time": 1352.71,
-        "momentum": 0.18928815009494368
+        "momentum": 0.1897199519390215
       },
       {
         "time": 1353.21,
-        "momentum": 0.1886054817317039
+        "momentum": 0.18903572628094847
       },
       {
         "time": 1353.71,
-        "momentum": 0.1879252754142601
+        "momentum": 0.18835396828506054
       },
       {
         "time": 1354.21,
-        "momentum": 0.18724752226323563
+        "momentum": 0.18767466905172564
       },
       {
         "time": 1354.71,
-        "momentum": 0.18657221343127742
+        "momentum": 0.18699781971340812
       },
       {
         "time": 1355.21,
-        "momentum": 0.18589934010294035
+        "momentum": 0.1863234114345532
       },
       {
         "time": 1355.71,
-        "momentum": 0.18522889349457222
+        "momentum": 0.18565143541147158
       },
       {
         "time": 1356.21,
-        "momentum": 0.18456086485419917
+        "momentum": 0.18498188287222445
       },
       {
         "time": 1356.71,
-        "momentum": 0.1838952454614113
+        "momentum": 0.18431474507650897
       },
       {
         "time": 1357.21,
-        "momentum": 0.18323202662724897
+        "momentum": 0.1836500133155444
       },
       {
         "time": 1357.71,
-        "momentum": 0.18257119969408916
+        "momentum": 0.18298767891195813
       },
       {
         "time": 1358.21,
-        "momentum": 0.18191275603553275
+        "momentum": 0.1823277332196725
       },
       {
         "time": 1358.71,
-        "momentum": 0.18125668705629172
+        "momentum": 0.181670167623792
       },
       {
         "time": 1359.21,
-        "momentum": 0.18060298419207693
+        "momentum": 0.18101497354049084
       },
       {
         "time": 1359.71,
-        "momentum": 0.1799516389094864
+        "momentum": 0.1803621424169007
       },
       {
         "time": 1360.21,
-        "momentum": 0.17930264270589397
+        "momentum": 0.17971166573099934
       },
       {
         "time": 1360.71,
-        "momentum": 0.1786559871093381
+        "momentum": 0.17906353499149905
       },
       {
         "time": 1361.21,
-        "momentum": 0.17801166367841154
+        "momentum": 0.17841774173773614
       },
       {
         "time": 1361.71,
-        "momentum": 0.17736966400215087
+        "momentum": 0.17777427753956027
       },
       {
         "time": 1362.21,
-        "momentum": 0.176729979699927
+        "momentum": 0.17713313399722447
       },
       {
         "time": 1362.71,
-        "momentum": 0.1760926024213354
+        "momentum": 0.17649430274127545
       },
       {
         "time": 1363.21,
-        "momentum": 0.1754575238460875
+        "momentum": 0.17585777543244444
       },
       {
         "time": 1363.71,
-        "momentum": 0.1748247356839018
+        "momentum": 0.17522354376153826
       },
       {
         "time": 1364.21,
-        "momentum": 0.17419422967439568
+        "momentum": 0.17459159944933084
       },
       {
         "time": 1364.71,
-        "momentum": 0.10445592411560592
+        "momentum": 0.10487670274408449
       },
       {
         "time": 1365.21,
-        "momentum": 0.04604319438324793
+        "momentum": 0.04645422983394844
       },
       {
         "time": 1366.07,
-        "momentum": -0.012158869638769743
+        "momentum": -0.011757542227043208
       },
       {
         "time": 1366.57,
-        "momentum": -0.07015102771705475
+        "momentum": -0.0697593733322263
       },
       {
         "time": 1367.07,
-        "momentum": -0.12793403687811392
+        "momentum": -0.12755202063437882
       },
       {
         "time": 1367.57,
-        "momentum": -0.11639857794686351
+        "momentum": -0.1160510070532339
       },
       {
         "time": 1368.07,
-        "momentum": -0.11597878607584271
+        "momentum": -0.11563246869783436
       },
       {
         "time": 1368.57,
-        "momentum": -0.11556050818564609
+        "momentum": -0.11521543980245061
       },
       {
         "time": 1369.07,
-        "momentum": -0.11514373881609663
+        "momentum": -0.11479991492320996
       },
       {
         "time": 1369.57,
-        "momentum": -0.11472847252670944
+        "momentum": -0.11438588863587298
       },
       {
         "time": 1370.07,
-        "momentum": -0.11431470389662075
+        "momentum": -0.11397335553576285
       },
       {
         "time": 1370.57,
-        "momentum": -0.11390242752451714
+        "momentum": -0.1135623102376947
       },
       {
         "time": 1371.07,
-        "momentum": -0.11349163802856507
+        "momentum": -0.11315274737590535
       },
       {
         "time": 1371.57,
-        "momentum": -0.1130823300463406
+        "momentum": -0.11274466160398329
       },
       {
         "time": 1372.07,
-        "momentum": -0.11267449823475942
+        "momentum": -0.11233804759479885
       },
       {
         "time": 1372.57,
-        "momentum": -0.11226813727000698
+        "momentum": -0.11193290004043462
       },
       {
         "time": 1373.07,
-        "momentum": -0.11186324184746914
+        "momentum": -0.1115292136521163
       },
       {
         "time": 1373.57,
-        "momentum": -0.11145980668166292
+        "momentum": -0.1111269831601435
       },
       {
         "time": 1374.07,
-        "momentum": -0.11105782650616738
+        "momentum": -0.11072620331382106
       },
       {
         "time": 1374.57,
-        "momentum": -0.11065729607355494
+        "momentum": -0.11032686888139046
       },
       {
         "time": 1375.07,
-        "momentum": -0.11025821015532297
+        "momentum": -0.10992897464996154
       },
       {
         "time": 1375.57,
-        "momentum": -0.10986056354182536
+        "momentum": -0.10953251542544444
       },
       {
         "time": 1376.07,
-        "momentum": -0.10946435104220464
+        "momentum": -0.10913748603248181
       },
       {
         "time": 1376.57,
-        "momentum": -0.10906956748432421
+        "momentum": -0.10874388131438124
       },
       {
         "time": 1377.07,
-        "momentum": -0.10867620771470077
+        "momentum": -0.10835169613304796
       },
       {
         "time": 1377.57,
-        "momentum": -0.10828426659843708
+        "momentum": -0.1079609253689177
       },
       {
         "time": 1378.07,
-        "momentum": -0.10789373901915493
+        "momentum": -0.10757156392089
       },
       {
         "time": 1378.57,
-        "momentum": -0.10750461987892834
+        "momentum": -0.10718360670626151
       },
       {
         "time": 1379.07,
-        "momentum": -0.10711690409821702
+        "momentum": -0.1067970486606596
       },
       {
         "time": 1379.57,
-        "momentum": -0.10673058661580007
+        "momentum": -0.10641188473797643
       },
       {
         "time": 1380.07,
-        "momentum": -0.10634566238870986
+        "momentum": -0.10602810991030284
       },
       {
         "time": 1380.57,
-        "momentum": -0.10596212639216629
+        "momentum": -0.10564571916786299
       },
       {
         "time": 1381.07,
-        "momentum": -0.10557997361951114
+        "momentum": -0.10526470751894867
       },
       {
         "time": 1381.57,
-        "momentum": -0.1051991990821427
+        "momentum": -0.10488506998985439
       },
       {
         "time": 1382.07,
-        "momentum": -0.10481979780945068
+        "momentum": -0.10450680162481225
       },
       {
         "time": 1382.57,
-        "momentum": -0.10444176484875127
+        "momentum": -0.10412989748592742
       },
       {
         "time": 1383.07,
-        "momentum": -0.10406509526522263
+        "momentum": -0.10375435265311359
       },
       {
         "time": 1383.57,
-        "momentum": -0.10368978414184027
+        "momentum": -0.10338016222402875
       },
       {
         "time": 1384.07,
-        "momentum": -0.10331582657931301
+        "momentum": -0.10300732131401118
       },
       {
         "time": 1384.57,
-        "momentum": -0.10294321769601902
+        "momentum": -0.10263582505601573
       },
       {
         "time": 1385.07,
-        "momentum": -0.10257195262794197
+        "momentum": -0.10226566860055031
       },
       {
         "time": 1385.57,
-        "momentum": -0.10220202652860769
+        "momentum": -0.10189684711561245
       },
       {
         "time": 1386.07,
-        "momentum": -0.10183343456902079
+        "momentum": -0.10152935578662634
       },
       {
         "time": 1386.57,
-        "momentum": -0.1014661719376017
+        "momentum": -0.10116318981638003
       },
       {
         "time": 1387.07,
-        "momentum": -0.10110023384012386
+        "momentum": -0.10079834442496265
       },
       {
         "time": 1387.57,
-        "momentum": -0.10073561549965097
+        "momentum": -0.1004348148497021
       },
       {
         "time": 1388.07,
-        "momentum": -0.10037231215647495
+        "momentum": -0.1000725963451029
       },
       {
         "time": 1388.57,
-        "momentum": -0.1000103190680535
+        "momentum": -0.09971168418278424
       },
       {
         "time": 1389.07,
-        "momentum": -0.09964963150894833
+        "momentum": -0.09935207365141817
       },
       {
         "time": 1389.57,
-        "momentum": -0.09929024477076351
+        "momentum": -0.0989937600566682
       },
       {
         "time": 1390.07,
-        "momentum": -0.09893215416208391
+        "momentum": -0.09863673872112796
       },
       {
         "time": 1390.57,
-        "momentum": -0.09857535500841401
+        "momentum": -0.09828100498426018
       },
       {
         "time": 1391.07,
-        "momentum": -0.0982198426521169
+        "momentum": -0.09792655420233584
       },
       {
         "time": 1391.57,
-        "momentum": -0.09786561245235344
+        "momentum": -0.09757338174837352
       },
       {
         "time": 1392.07,
-        "momentum": -0.09751265978502166
+        "momentum": -0.09722148301207903
       },
       {
         "time": 1392.57,
-        "momentum": -0.0971609800426965
+        "momentum": -0.09687085339978523
       },
       {
         "time": 1393.07,
-        "momentum": -0.09681056863456951
+        "momentum": -0.09652148833439206
       },
       {
         "time": 1393.57,
-        "momentum": -0.09646142098638907
+        "momentum": -0.09617338325530678
       },
       {
         "time": 1394.07,
-        "momentum": -0.0961135325404006
+        "momentum": -0.09582653361838443
       },
       {
         "time": 1394.57,
-        "momentum": -0.09576689875528707
+        "momentum": -0.09548093489586858
       },
       {
         "time": 1395.07,
-        "momentum": -0.09542151510610972
+        "momentum": -0.09513658257633208
       },
       {
         "time": 1395.57,
-        "momentum": -0.09507737708424902
+        "momentum": -0.09479347216461832
       },
       {
         "time": 1396.07,
-        "momentum": -0.09473448019734573
+        "momentum": -0.09445159918178249
       },
       {
         "time": 1396.57,
-        "momentum": -0.09439281996924243
+        "momentum": -0.09411095916503306
       },
       {
         "time": 1397.07,
-        "momentum": -0.09405239193992485
+        "momentum": -0.09377154766767365
       },
       {
         "time": 1397.57,
-        "momentum": -0.09371319166546388
+        "momentum": -0.09343336025904483
       },
       {
         "time": 1398.07,
-        "momentum": -0.09337521471795739
+        "momentum": -0.0930963925244664
       },
       {
         "time": 1398.57,
-        "momentum": -0.09303845668547253
+        "momentum": -0.0927606400651797
       },
       {
         "time": 1399.07,
-        "momentum": -0.0927029131719881
+        "momentum": -0.09242609849829024
       },
       {
         "time": 1399.57,
-        "momentum": -0.09236857979733713
+        "momentum": -0.09209276345671041
       },
       {
         "time": 1400.07,
-        "momentum": -0.09203545219714979
+        "momentum": -0.09176063058910255
       },
       {
         "time": 1400.57,
-        "momentum": -0.09170352602279631
+        "momentum": -0.0914296955598221
       },
       {
         "time": 1401.07,
-        "momentum": -0.0913727969413303
+        "momentum": -0.09109995404886102
       },
       {
         "time": 1401.57,
-        "momentum": -0.09104326063543218
+        "momentum": -0.09077140175179138
       },
       {
         "time": 1402.07,
-        "momentum": -0.09071491280335273
+        "momentum": -0.09044403437970921
       },
       {
         "time": 1402.57,
-        "momentum": -0.09038774915885707
+        "momentum": -0.09011784765917849
       },
       {
         "time": 1403.07,
-        "momentum": -0.09006176543116859
+        "momentum": -0.08979283733217532
       },
       {
         "time": 1403.57,
-        "momentum": -0.0897369573649133
+        "momentum": -0.0894689991560324
       },
       {
         "time": 1404.07,
-        "momentum": -0.08941332072006418
+        "momentum": -0.08914632890338366
       },
       {
         "time": 1404.57,
-        "momentum": -0.08909085127188592
+        "momentum": -0.08882482236210898
       },
       {
         "time": 1405.07,
-        "momentum": -0.08876954481087972
+        "momentum": -0.0885044753352793
       },
       {
         "time": 1405.57,
-        "momentum": -0.08844939714272834
+        "momentum": -0.08818528364110179
       },
       {
         "time": 1406.07,
-        "momentum": -0.08813040408824138
+        "momentum": -0.08786724311286528
       },
       {
         "time": 1406.57,
-        "momentum": -0.0878125614833007
+        "momentum": -0.08755034959888586
       },
       {
         "time": 1407.07,
-        "momentum": -0.08749586517880606
+        "momentum": -0.08723459896245266
       },
       {
         "time": 1407.57,
-        "momentum": -0.08718031104062093
+        "momentum": -0.08691998708177387
       },
       {
         "time": 1408.07,
-        "momentum": -0.08686589494951866
+        "momentum": -0.08660650984992299
       },
       {
         "time": 1408.57,
-        "momentum": -0.08655261280112847
+        "momentum": -0.08629416317478511
       },
       {
         "time": 1409.07,
-        "momentum": -0.08624046050588212
+        "momentum": -0.08598294297900355
       },
       {
         "time": 1409.57,
-        "momentum": -0.08592943398896036
+        "momentum": -0.08567284519992666
       },
       {
         "time": 1410.07,
-        "momentum": -0.08561952919023977
+        "momentum": -0.08536386578955472
       },
       {
         "time": 1410.57,
-        "momentum": -0.08531074206423984
+        "momentum": -0.08505600071448718
       },
       {
         "time": 1411.07,
-        "momentum": -0.08500306858007005
+        "momentum": -0.08474924595586994
       },
       {
         "time": 1411.57,
-        "momentum": -0.08469650472137731
+        "momentum": -0.08444359750934288
       },
       {
         "time": 1412.07,
-        "momentum": -0.08439104648629354
+        "momentum": -0.08413905138498767
       },
       {
         "time": 1412.57,
-        "momentum": -0.0840866898873834
+        "momentum": -0.08383560360727563
       },
       {
         "time": 1413.07,
-        "momentum": -0.08378343095159223
+        "momentum": -0.08353325021501576
       },
       {
         "time": 1413.57,
-        "momentum": -0.08348126572019424
+        "momentum": -0.08323198726130324
       },
       {
         "time": 1414.07,
-        "momentum": -0.08318019024874077
+        "momentum": -0.08293181081346765
       },
       {
         "time": 1414.57,
-        "momentum": -0.08288020060700883
+        "momentum": -0.08263271695302185
       },
       {
         "time": 1415.07,
-        "momentum": -0.08258129287894983
+        "momentum": -0.08233470177561068
       },
       {
         "time": 1415.57,
-        "momentum": -0.08228346316263838
+        "momentum": -0.0820377613909601
       },
       {
         "time": 1416.07,
-        "momentum": -0.08198670757022139
+        "momentum": -0.08174189192282628
       },
       {
         "time": 1416.57,
-        "momentum": -0.08169102222786737
+        "momentum": -0.08144708950894518
       },
       {
         "time": 1417.07,
-        "momentum": -0.0813964032757158
+        "momentum": -0.08115335030098195
       },
       {
         "time": 1417.57,
-        "momentum": -0.08110284686782673
+        "momentum": -0.08086067046448078
       },
       {
         "time": 1418.07,
-        "momentum": -0.08081034917213066
+        "momentum": -0.08056904617881486
       },
       {
         "time": 1418.57,
-        "momentum": -0.20806439229155668
+        "momentum": -0.20780142843009358
       },
       {
         "time": 1419.07,
-        "momentum": -0.319345884119591
+        "momentum": -0.31906893265062913
       },
       {
         "time": 1419.6,
-        "momentum": -0.43022603886526156
+        "momentum": -0.4299351502351555
       },
       {
         "time": 1420.1,
-        "momentum": -0.5407063039521339
+        "momentum": -0.5404015284253031
       },
       {
         "time": 1420.6,
-        "momentum": -0.6507881215836356
+        "momentum": -0.6504695092432209
       },
       {
         "time": 1421.1,
-        "momentum": -0.6329274428407043
+        "momentum": -0.6326175747174424
       },
       {
         "time": 1421.6,
-        "momentum": -0.6306447878449378
+        "momentum": -0.6303360372621265
       },
       {
         "time": 1422.1,
-        "momentum": -0.6283703652522512
+        "momentum": -0.6280627281794768
       },
       {
         "time": 1422.6,
-        "momentum": -0.6261041453724543
+        "momentum": -0.6257976177938392
       },
       {
         "time": 1423.1,
-        "momentum": -0.623846098622435
+        "momentum": -0.6235406765365846
       },
       {
         "time": 1423.6,
-        "momentum": -0.6215961955257726
+        "momentum": -0.6212918749457235
       },
       {
         "time": 1424.1,
-        "momentum": -0.6193544067123534
+        "momentum": -0.6190511836655211
       },
       {
         "time": 1424.6,
-        "momentum": -0.617120702917987
+        "momentum": -0.6168185734461143
       },
       {
         "time": 1425.1,
-        "momentum": -0.6148950549840245
+        "momentum": -0.6145940151431295
       },
       {
         "time": 1425.6,
-        "momentum": -0.6126774338569776
+        "momentum": -0.6123774797173024
       },
       {
         "time": 1426.1,
-        "momentum": -0.6104678105881396
+        "momentum": -0.6101689382340989
       },
       {
         "time": 1426.6,
-        "momentum": -0.6082661563332074
+        "momentum": -0.6079683618633378
       },
       {
         "time": 1427.1,
-        "momentum": -0.6060724423519049
+        "momentum": -0.6057757218788135
       },
       {
         "time": 1427.6,
-        "momentum": -0.6038866400076083
+        "momentum": -0.6035909896579217
       },
       {
         "time": 1428.1,
-        "momentum": -0.6017087207669712
+        "momentum": -0.601414136681286
       },
       {
         "time": 1428.6,
-        "momentum": -0.5995386561995535
+        "momentum": -0.5992451345323847
       },
       {
         "time": 1429.1,
-        "momentum": -0.5973764179774491
+        "momentum": -0.5970839548971807
       },
       {
         "time": 1429.6,
-        "momentum": -0.5952219778749168
+        "momentum": -0.5949305695637516
       },
       {
         "time": 1430.1,
-        "momentum": -0.5930753077680115
+        "momentum": -0.592784950421921
       },
       {
         "time": 1430.6,
-        "momentum": -0.5909363796342173
+        "momentum": -0.5906470694628926
       },
       {
         "time": 1431.1,
-        "momentum": -0.5888051655520818
+        "momentum": -0.5885168987788832
       },
       {
         "time": 1431.6,
-        "momentum": -0.586681637700851
+        "momentum": -0.5863944105627598
       },
       {
         "time": 1432.1,
-        "momentum": -0.5845657683601069
+        "momentum": -0.5842795771076753
       },
       {
         "time": 1432.6,
-        "momentum": -0.5824575299094048
+        "momentum": -0.5821723708067079
       },
       {
         "time": 1433.1,
-        "momentum": -0.5803568948279141
+        "momentum": -0.5800727641525001
       },
       {
         "time": 1433.6,
-        "momentum": -0.5782638356940571
+        "momentum": -0.5779807297368996
       },
       {
         "time": 1434.1,
-        "momentum": -0.689737200091644
+        "momentum": -0.6894484770137034
       },
       {
         "time": 1434.6,
-        "momentum": -0.788003727976337
+        "momentum": -0.7877129270141499
       },
       {
         "time": 1435.49,
-        "momentum": -0.8859158572908152
+        "momentum": -0.885622985938278
       },
       {
         "time": 1435.99,
-        "momentum": -0.9834748661747386
+        "momentum": -0.9831799318987213
       },
       {
         "time": 1436.49,
-        "momentum": -1.0806820281581522
+        "momentum": -1.0803850383985958
       },
       {
         "time": 1436.99,
-        "momentum": -1.0639797372716204
+        "momentum": -1.0636873375850227
       },
       {
         "time": 1437.49,
-        "momentum": -1.0601424906959676
+        "momentum": -1.0598511455498434
       },
       {
         "time": 1437.99,
-        "momentum": -1.0563190831632647
+        "momentum": -1.0560287887544106
       },
       {
         "time": 1438.49,
-        "momentum": -1.0525094647629565
+        "momentum": -1.0522202173018846
       },
       {
         "time": 1438.99,
-        "momentum": -1.0487135857644894
+        "momentum": -1.0484253814753788
       },
       {
         "time": 1439.49,
-        "momentum": -1.0449313966166633
+        "momentum": -1.044644231737311
       },
       {
         "time": 1439.99,
-        "momentum": -1.041162847946985
+        "momentum": -1.0408767187287562
       },
       {
         "time": 1440.49,
-        "momentum": -1.0374078905610233
+        "momentum": -1.0371227932688023
       },
       {
         "time": 1440.99,
-        "momentum": -1.0336664754417666
+        "momentum": -1.033382406353909
       },
       {
         "time": 1441.49,
-        "momentum": -1.0299385537489838
+        "momentum": -1.029655509157267
       },
       {
         "time": 1441.99,
-        "momentum": -1.026224076818586
+        "momentum": -1.0259420530281609
       },
       {
         "time": 1442.49,
-        "momentum": -0.9237615826088128
+        "momentum": -0.9235077172504944
       },
       {
         "time": 1442.99,
-        "momentum": -0.821668619736213
+        "momentum": -0.8214428112565193
       },
       {
         "time": 1444.02,
-        "momentum": -0.71994385548475
+        "momentum": -0.719746002696452
       },
       {
         "time": 1444.52,
-        "momentum": -0.6185859619448328
+        "momentum": -0.6184159640256335
       },
       {
         "time": 1445.02,
-        "momentum": -0.5175936159959804
+        "momentum": -0.5174513724871986
       },
       {
         "time": 1445.52,
-        "momentum": -0.5157269128427291
+        "momentum": -0.5155851823356501
       },
       {
         "time": 1446.02,
-        "momentum": -0.5138669419608094
+        "momentum": -0.5137257226052908
       },
       {
         "time": 1446.52,
-        "momentum": -0.5120136790702615
+        "momentum": -0.5118729690228335
       },
       {
         "time": 1447.02,
-        "momentum": -0.5101670999786916
+        "momentum": -0.5100268974025328
       },
       {
         "time": 1447.52,
-        "momentum": -0.5083271805809556
+        "momentum": -0.5081874836458691
       },
       {
         "time": 1448.02,
-        "momentum": -0.506493896858845
+        "momentum": -0.5063547037412345
       },
       {
         "time": 1448.52,
-        "momentum": -0.5046672248807728
+        "momentum": -0.5045285337636188
       },
       {
         "time": 1449.02,
-        "momentum": -0.5028471408014613
+        "momentum": -0.5027089498742976
       },
       {
         "time": 1449.52,
-        "momentum": -0.5010336208616312
+        "momentum": -0.5008959283205208
       },
       {
         "time": 1450.02,
-        "momentum": -0.4992266413876908
+        "momentum": -0.4990894454352027
       },
       {
         "time": 1450.52,
-        "momentum": -0.4974261787914275
+        "momentum": -0.4972894776366131
       },
       {
         "time": 1451.02,
-        "momentum": -0.49563220956969944
+        "momentum": -0.4954960014280692
       },
       {
         "time": 1451.52,
-        "momentum": -0.4938447103041292
+        "momentum": -0.4937089933976294
       },
       {
         "time": 1452.02,
-        "momentum": -0.49206365766079757
+        "momentum": -0.49192843021778715
       },
       {
         "time": 1452.52,
-        "momentum": -0.4902890283899395
+        "momentum": -0.4901542886451665
       },
       {
         "time": 1453.02,
-        "momentum": -0.48852079932563985
+        "momentum": -0.4883865455202191
       },
       {
         "time": 1453.52,
-        "momentum": -0.48675894738553194
+        "momentum": -0.4866251777669214
       },
       {
         "time": 1454.02,
-        "momentum": -0.48500344957049524
+        "momentum": -0.4848701623924735
       },
       {
         "time": 1454.52,
-        "momentum": -0.48325428296435613
+        "momentum": -0.4831214764869995
       },
       {
         "time": 1455.02,
-        "momentum": -0.48151142473358777
+        "momentum": -0.4813790972232477
       },
       {
         "time": 1455.52,
-        "momentum": -0.4797748521270127
+        "momentum": -0.47964300185629316
       },
       {
         "time": 1456.02,
-        "momentum": -0.4780445424755059
+        "momentum": -0.47791316772324033
       },
       {
         "time": 1456.52,
-        "momentum": -0.47632047319169823
+        "momentum": -0.4761895722429278
       },
       {
         "time": 1457.02,
-        "momentum": -0.47460262176968226
+        "momentum": -0.4744721929156331
       },
       {
         "time": 1457.52,
-        "momentum": -0.472890965784718
+        "momentum": -0.47276100732277876
       },
       {
         "time": 1458.02,
-        "momentum": -0.4711854828929406
+        "momentum": -0.4710559931266404
       },
       {
         "time": 1458.52,
-        "momentum": -0.4694861508310681
+        "momentum": -0.46935712807005475
       },
       {
         "time": 1459.02,
-        "momentum": -0.4677929474161114
+        "momentum": -0.46766438997612864
       },
       {
         "time": 1459.52,
-        "momentum": -0.46610585054508435
+        "momentum": -0.46597775674795033
       },
       {
         "time": 1460.02,
-        "momentum": -0.4644248381947154
+        "momentum": -0.4642972063683005
       },
       {
         "time": 1460.52,
-        "momentum": -0.4627498884211597
+        "momentum": -0.4626227168993651
       },
       {
         "time": 1461.02,
-        "momentum": -0.4610809793597134
+        "momentum": -0.46095426648244875
       },
       {
         "time": 1461.52,
-        "momentum": -0.4594180892245275
+        "momentum": -0.4592918333376897
       },
       {
         "time": 1462.02,
-        "momentum": -0.45776119630832357
+        "momentum": -0.45763539576377515
       },
       {
         "time": 1462.52,
-        "momentum": -0.4561102789821108
+        "momentum": -0.4559849321376583
       },
       {
         "time": 1463.02,
-        "momentum": -0.4544653156949036
+        "momentum": -0.45434042091427596
       },
       {
         "time": 1463.52,
-        "momentum": -0.45282628497343963
+        "momentum": -0.4527018406262672
       },
       {
         "time": 1464.02,
-        "momentum": -0.4511931654219003
+        "momentum": -0.45106916988369317
       },
       {
         "time": 1464.52,
-        "momentum": -0.4495659357216309
+        "momentum": -0.44944238737375813
       },
       {
         "time": 1465.02,
-        "momentum": -0.4479445746308627
+        "momentum": -0.4478214718605306
       },
       {
         "time": 1465.52,
-        "momentum": -0.44632906098443514
+        "momentum": -0.446206402184667
       },
       {
         "time": 1466.02,
-        "momentum": -0.4447193736935204
+        "momentum": -0.44459715726313476
       },
       {
         "time": 1466.52,
-        "momentum": -0.44311549174534726
+        "momentum": -0.44299371608893745
       },
       {
         "time": 1467.02,
-        "momentum": -0.44151739420292707
+        "momentum": -0.44139605773084023
       },
       {
         "time": 1467.52,
-        "momentum": -0.4399250602047807
+        "momentum": -0.4398041613330971
       },
       {
         "time": 1468.02,
-        "momentum": -0.438338468964666
+        "momentum": -0.43821800611517825
       },
       {
         "time": 1468.52,
-        "momentum": -0.4367575997713063
+        "momentum": -0.43663757137149883
       },
       {
         "time": 1469.02,
-        "momentum": -0.4351824319881204
+        "momentum": -0.4350628364711489
       },
       {
         "time": 1469.52,
-        "momentum": -0.4336129450529529
+        "momentum": -0.4334937808576241
       },
       {
         "time": 1470.02,
-        "momentum": -0.432049118477806
+        "momentum": -0.4319303840485567
       },
       {
         "time": 1470.52,
-        "momentum": -0.4304909318485716
+        "momentum": -0.43037262563544915
       },
       {
         "time": 1471.02,
-        "momentum": -0.4289383648247657
+        "momentum": -0.42882048528340705
       },
       {
         "time": 1471.52,
-        "momentum": -0.427391397139262
+        "momentum": -0.42727394273087393
       },
       {
         "time": 1472.02,
-        "momentum": -0.4258500085980274
+        "momentum": -0.42573297778936653
       },
       {
         "time": 1472.52,
-        "momentum": -0.42431417907985924
+        "momentum": -0.4241975703432116
       },
       {
         "time": 1473.02,
-        "momentum": -0.42278388853612164
+        "momentum": -0.42266770034928314
       },
       {
         "time": 1473.52,
-        "momentum": -0.4212591169904843
+        "momentum": -0.42114334783674046
       },
       {
         "time": 1474.02,
-        "momentum": -0.41973984453866164
+        "momentum": -0.41962449290676823
       },
       {
         "time": 1474.52,
-        "momentum": -0.41822605134815277
+        "momentum": -0.41811111573231596
       },
       {
         "time": 1475.02,
-        "momentum": -0.4167177176579832
+        "momentum": -0.4166031965578395
       },
       {
         "time": 1475.52,
-        "momentum": -0.4152148237784461
+        "momentum": -0.4151007156990433
       },
       {
         "time": 1476.02,
-        "momentum": -0.41371735009084576
+        "momentum": -0.41360365354262313
       },
       {
         "time": 1476.52,
-        "momentum": -0.4122252770472413
+        "momentum": -0.41211199054601017
       },
       {
         "time": 1477.02,
-        "momentum": -0.4107385851701917
+        "momentum": -0.4106257072371163
       },
       {
         "time": 1477.52,
-        "momentum": -0.4092572550525012
+        "momentum": -0.40914478421407896
       },
       {
         "time": 1478.02,
-        "momentum": -0.4077812673569663
+        "momentum": -0.407669202145009
       },
       {
         "time": 1478.52,
-        "momentum": -0.4063106028161232
+        "momentum": -0.4061989417677376
       },
       {
         "time": 1479.02,
-        "momentum": -0.40484524223199614
+        "momentum": -0.4047339838895649
       },
       {
         "time": 1479.52,
-        "momentum": -0.4033851664758471
+        "momentum": -0.4032743093870098
       },
       {
         "time": 1480.02,
-        "momentum": -0.4019303564879258
+        "momentum": -0.40181989920556005
       },
       {
         "time": 1480.52,
-        "momentum": -0.400480793277221
+        "momentum": -0.40037073435942344
       },
       {
         "time": 1481.02,
-        "momentum": -0.39903645792121273
+        "momentum": -0.39892679593128005
       },
       {
         "time": 1481.52,
-        "momentum": -0.39759733156562505
+        "momentum": -0.39748806507203555
       },
       {
         "time": 1482.02,
-        "momentum": -0.39616339542418
+        "momentum": -0.39605452300057487
       },
       {
         "time": 1482.52,
-        "momentum": -0.3947346307783525
+        "momentum": -0.39462615100351695
       },
       {
         "time": 1483.02,
-        "momentum": -0.39331101897712595
+        "momentum": -0.39320293043497073
       },
       {
         "time": 1483.52,
-        "momentum": -0.3918925414367484
+        "momentum": -0.3917848427162916
       },
       {
         "time": 1484.02,
-        "momentum": -0.3904791796404906
+        "momentum": -0.3903718693358389
       },
       {
         "time": 1484.52,
-        "momentum": -0.3890709151384038
+        "momentum": -0.3889639918487343
       },
       {
         "time": 1485.02,
-        "momentum": -0.38766772954707907
+        "momentum": -0.3875611918766209
       },
       {
         "time": 1485.52,
-        "momentum": -0.3862696045494073
+        "momentum": -0.3861634511074234
       },
       {
         "time": 1486.02,
-        "momentum": -0.38487652189434013
+        "momentum": -0.3847707512951092
       },
       {
         "time": 1486.52,
-        "momentum": -0.3834884633966516
+        "momentum": -0.38338307425945
       },
       {
         "time": 1487.02,
-        "momentum": -0.3821054109367009
+        "momentum": -0.38200040188578444
       },
       {
         "time": 1487.52,
-        "momentum": -0.38072734646019574
+        "momentum": -0.380622716124782
       },
       {
         "time": 1488.02,
-        "momentum": -0.37935425197795664
+        "momentum": -0.3792499989922068
       },
       {
         "time": 1488.52,
-        "momentum": -0.37798610956568235
+        "momentum": -0.3778822325686836
       },
       {
         "time": 1489.02,
-        "momentum": -0.37662290136371535
+        "momentum": -0.37651939899946296
       },
       {
         "time": 1489.52,
-        "momentum": -0.3752646095768094
+        "momentum": -0.375161480494189
       },
       {
         "time": 1490.02,
-        "momentum": -0.3739112164738966
+        "momentum": -0.3738084593266668
       },
       {
         "time": 1490.52,
-        "momentum": -0.3725627043878564
+        "momentum": -0.37246031783463085
       },
       {
         "time": 1491.02,
-        "momentum": -0.3712190557152846
+        "momentum": -0.37111703841951477
       },
       {
         "time": 1491.52,
-        "momentum": -0.3698802529162638
+        "momentum": -0.3697786035462215
       },
       {
         "time": 1492.02,
-        "momentum": -0.3685462785141345
+        "momentum": -0.3684449957428943
       },
       {
         "time": 1492.52,
-        "momentum": -0.3672171150952667
+        "momentum": -0.36711619760068875
       },
       {
         "time": 1493.02,
-        "momentum": -0.36589274530883276
+        "momentum": -0.3657921917735455
       },
       {
         "time": 1493.52,
-        "momentum": -0.3645731518665808
+        "momentum": -0.3644729609779638
       },
       {
         "time": 1494.02,
-        "momentum": -0.3632583175426092
+        "momentum": -0.36315848799277595
       },
       {
         "time": 1494.52,
-        "momentum": -0.36194822517314146
+        "momentum": -0.36184875565892244
       },
       {
         "time": 1495.02,
-        "momentum": -0.36064285765630244
+        "momentum": -0.36054374687922797
       },
       {
         "time": 1495.52,
-        "momentum": -0.3593421979518948
+        "momentum": -0.3592434446181782
       },
       {
         "time": 1496.02,
-        "momentum": -0.358046229081177
+        "momentum": -0.35794783190169754
       },
       {
         "time": 1496.52,
-        "momentum": -0.3567549341266412
+        "momentum": -0.3566568918169274
       },
       {
         "time": 1497.02,
-        "momentum": -0.35546829623179255
+        "momentum": -0.35537060751200533
       },
       {
         "time": 1497.52,
-        "momentum": -0.3541862986009294
+        "momentum": -0.3540889621958455
       },
       {
         "time": 1498.02,
-        "momentum": -0.3529089244989237
+        "momentum": -0.35281193913791886
       },
       {
         "time": 1498.52,
-        "momentum": -0.35163615725100267
+        "momentum": -0.35153952166803537
       },
       {
         "time": 1499.02,
-        "momentum": -0.3503679802425314
+        "momentum": -0.3502716931761259
       },
       {
         "time": 1499.52,
-        "momentum": -0.3491043769187955
+        "momentum": -0.34900843711202556
       },
       {
         "time": 1500.02,
-        "momentum": -0.3478453307847852
+        "momentum": -0.34774973698525774
       },
       {
         "time": 1500.52,
-        "momentum": -0.34659082540498015
+        "momentum": -0.346495576364819
       },
       {
         "time": 1501.02,
-        "momentum": -0.34534084440313473
+        "momentum": -0.34524593887896393
       },
       {
         "time": 1501.52,
-        "momentum": -0.3440953714620643
+        "momentum": -0.34400080821499224
       },
       {
         "time": 1502.02,
-        "momentum": -0.3428543903234322
+        "momentum": -0.3427601681190354
       },
       {
         "time": 1502.52,
-        "momentum": -0.3416178847875374
+        "momentum": -0.3415240023958443
       },
       {
         "time": 1503.02,
-        "momentum": -0.34038583871310346
+        "momentum": -0.3402922949085783
       },
       {
         "time": 1503.52,
-        "momentum": -0.3391582360170672
+        "momentum": -0.33906502957859425
       },
       {
         "time": 1504.02,
-        "momentum": -0.3379350606743691
+        "momentum": -0.33784219038523655
       },
       {
         "time": 1504.52,
-        "momentum": -0.3367162967177443
+        "momentum": -0.3366237613656284
       },
       {
         "time": 1505.02,
-        "momentum": -0.3355019282375137
+        "momentum": -0.3354097266144629
       },
       {
         "time": 1505.52,
-        "momentum": -0.3342919393813766
+        "momentum": -0.33420007028379584
       },
       {
         "time": 1506.02,
-        "momentum": -0.3330863143542036
+        "momentum": -0.33299477658283877
       },
       {
         "time": 1506.52,
-        "momentum": -0.33188503741783065
+        "momentum": -0.33179382977775257
       },
       {
         "time": 1507.02,
-        "momentum": -0.3306880928908533
+        "momentum": -0.3305972141914423
       },
       {
         "time": 1507.52,
-        "momentum": -0.32949546514842226
+        "momentum": -0.3294049142033527
       },
       {
         "time": 1508.02,
-        "momentum": -0.3283071386220392
+        "momentum": -0.32821691424926397
       },
       {
         "time": 1508.52,
-        "momentum": -0.3271230977993536
+        "momentum": -0.3270331988210886
       },
       {
         "time": 1509.02,
-        "momentum": -0.3259433272239605
+        "momentum": -0.32585375246666926
       },
       {
         "time": 1509.52,
-        "momentum": -0.3247678114951983
+        "momentum": -0.32467855978957677
       },
       {
         "time": 1510.02,
-        "momentum": -0.323596535267948
+        "momentum": -0.3235076054489092
       },
       {
         "time": 1510.52,
-        "momentum": -0.32242948325243287
+        "momentum": -0.3223408741590918
       },
       {
         "time": 1511.02,
-        "momentum": -0.3212666402140188
+        "momentum": -0.3211783506896771
       },
       {
         "time": 1511.52,
-        "momentum": -0.32010799097301534
+        "momentum": -0.32002001986514633
       },
       {
         "time": 1512.02,
-        "momentum": -0.31895352040447783
+        "momentum": -0.3188658665647114
       },
       {
         "time": 1512.52,
-        "momentum": -0.31780321343800966
+        "momentum": -0.3177158757221173
       },
       {
         "time": 1513.02,
-        "momentum": -0.31665705505756564
+        "momentum": -0.3165700323254455
       },
       {
         "time": 1513.52,
-        "momentum": -0.315515030301256
+        "momentum": -0.31542832141691807
       },
       {
         "time": 1514.02,
-        "momentum": -0.31437712426115116
+        "momentum": -0.3142907280927023
       },
       {
         "time": 1514.52,
-        "momentum": -0.3132433220830869
+        "momentum": -0.31315723750271623
       },
       {
         "time": 1515.02,
-        "momentum": -0.31211360896647083
+        "momentum": -0.31202783485043484
       },
       {
         "time": 1515.52,
-        "momentum": -0.3109879701640887
+        "momentum": -0.3109025053926967
       },
       {
         "time": 1516.02,
-        "momentum": -0.30986639098191227
+        "momentum": -0.3097812344395117
       },
       {
         "time": 1516.52,
-        "momentum": -0.3087488567789073
+        "momentum": -0.3086640073538693
       },
       {
         "time": 1517.02,
-        "momentum": -0.3076353529668425
+        "momentum": -0.30755080955154723
       },
       {
         "time": 1517.52,
-        "momentum": -0.30652586501009915
+        "momentum": -0.30644162650092144
       },
       {
         "time": 1518.02,
-        "momentum": -0.30542037842548125
+        "momentum": -0.3053364437227761
       },
       {
         "time": 1518.52,
-        "momentum": -0.30431887878202646
+        "momentum": -0.3042352467901148
       },
       {
         "time": 1519.02,
-        "momentum": -0.3032213517008178
+        "momentum": -0.30313802132797213
       },
       {
         "time": 1519.52,
-        "momentum": -0.30212778285479586
+        "momentum": -0.302044753013226
       },
       {
         "time": 1520.02,
-        "momentum": -0.3010381579685719
+        "momentum": -0.30095542757441074
       },
       {
         "time": 1520.52,
-        "momentum": -0.2999524628182414
+        "momentum": -0.2998700307915308
       },
       {
         "time": 1521.02,
-        "momentum": -0.29887068323119814
+        "momentum": -0.298788548495875
       },
       {
         "time": 1521.52,
-        "momentum": -0.29779280508595
+        "momentum": -0.29771096656983176
       },
       {
         "time": 1522.02,
-        "momentum": -0.2967188143119336
+        "momentum": -0.29663727094670467
       },
       {
         "time": 1522.52,
-        "momentum": -0.29564869688933115
+        "momentum": -0.29556744761052894
       },
       {
         "time": 1523.02,
-        "momentum": -0.2945824388488877
+        "momentum": -0.2945014825958884
       },
       {
         "time": 1523.52,
-        "momentum": -0.293520026271728
+        "momentum": -0.2934393619877332
       },
       {
         "time": 1524.02,
-        "momentum": -0.29246144528917567
+        "momentum": -0.292381071921198
       },
       {
         "time": 1524.52,
-        "momentum": -0.29140668208257153
+        "momentum": -0.2913265985814215
       },
       {
         "time": 1525.02,
-        "momentum": -0.2903557228830936
+        "momentum": -0.2902759282033654
       },
       {
         "time": 1525.52,
-        "momentum": -0.28930855397157706
+        "momentum": -0.28922904707163527
       },
       {
         "time": 1526.02,
-        "momentum": -0.2882651616783353
+        "momentum": -0.2881859415203012
       },
       {
         "time": 1526.52,
-        "momentum": -0.2872255323829817
+        "momentum": -0.2871465979327195
       },
       {
         "time": 1527.02,
-        "momentum": -0.2861896525142513
+        "momentum": -0.28611100274135504
       },
       {
         "time": 1527.52,
-        "momentum": -0.28515750854982425
+        "momentum": -0.2850791424276039
       },
       {
         "time": 1528.02,
-        "momentum": -0.28412908701614875
+        "momentum": -0.2840510035216173
       },
       {
         "time": 1528.52,
-        "momentum": -0.28310437448826553
+        "momentum": -0.28302657260212516
       },
       {
         "time": 1529.02,
-        "momentum": -0.2820833575896325
+        "momentum": -0.2820058362962616
       },
       {
         "time": 1529.52,
-        "momentum": -0.28106602299195005
+        "momentum": -0.28098878127938987
       },
       {
         "time": 1530.02,
-        "momentum": -0.28005235741498713
+        "momentum": -0.2799753942749285
       },
       {
         "time": 1530.52,
-        "momentum": -0.279042347626408
+        "momentum": -0.2789656620541783
       },
       {
         "time": 1531.02,
-        "momentum": -0.2780359804415992
+        "momentum": -0.277959571436149
       },
       {
         "time": 1531.52,
-        "momentum": -0.27703324272349783
+        "momentum": -0.2769571092873882
       },
       {
         "time": 1532.02,
-        "momentum": -0.2760341213824197
+        "momentum": -0.2759582625218088
       },
       {
         "time": 1532.52,
-        "momentum": -0.27503860337588865
+        "momentum": -0.27496301810051904
       },
       {
         "time": 1533.02,
-        "momentum": -0.2740466757084663
+        "momentum": -0.27397136303165176
       },
       {
         "time": 1533.52,
-        "momentum": -0.27305832543158226
+        "momentum": -0.27298328437019526
       },
       {
         "time": 1534.02,
-        "momentum": -0.27207353964336534
+        "momentum": -0.2719987692178239
       },
       {
         "time": 1534.52,
-        "momentum": -0.27109230548847485
+        "momentum": -0.27101780472272985
       },
       {
         "time": 1535.02,
-        "momentum": -0.27011461015793314
+        "momentum": -0.2700403780794556
       },
       {
         "time": 1535.52,
-        "momentum": -0.26914044088895783
+        "momentum": -0.2690664765287262
       },
       {
         "time": 1536.02,
-        "momentum": -0.268169784964796
+        "momentum": -0.26809608735728346
       },
       {
         "time": 1536.52,
-        "momentum": -0.2672026297145574
+        "momentum": -0.2671291978977194
       },
       {
         "time": 1537.02,
-        "momentum": -0.26623896251304946
+        "momentum": -0.26616579552831104
       },
       {
         "time": 1537.52,
-        "momentum": -0.2652787707806125
+        "momentum": -0.2652058676728558
       },
       {
         "time": 1538.02,
-        "momentum": -0.2643220419829555
+        "momentum": -0.2642494018005072
       },
       {
         "time": 1538.52,
-        "momentum": -0.26336876363099215
+        "momentum": -0.26329638542561123
       },
       {
         "time": 1539.02,
-        "momentum": -0.26241892328067823
+        "momentum": -0.2623468061075435
       },
       {
         "time": 1539.52,
-        "momentum": -0.261472508532849
+        "momentum": -0.26140065145054686
       },
       {
         "time": 1540.02,
-        "momentum": -0.26052950703305733
+        "momentum": -0.26045790910356925
       },
       {
         "time": 1540.52,
-        "momentum": -0.2595899064714125
+        "momentum": -0.25951856676010293
       },
       {
         "time": 1541.02,
-        "momentum": -0.2586536945824193
+        "momentum": -0.2585826121580236
       },
       {
         "time": 1541.52,
-        "momentum": -0.2577208591448183
+        "momentum": -0.2576500330794302
       },
       {
         "time": 1542.02,
-        "momentum": -0.4304490621783116
+        "momentum": -0.4303637455079789
       },
       {
         "time": 1542.52,
-        "momentum": -0.5687876272334097
+        "momentum": -0.5686921949168469
       },
       {
         "time": 1543.24,
-        "momentum": -0.7066272737786499
+        "momentum": -0.7065217622979699
       },
       {
         "time": 1543.74,
-        "momentum": -0.8439698011653511
+        "momentum": -0.843854246871094
       },
       {
         "time": 1544.24,
-        "momentum": -0.9808170022554658
+        "momentum": -0.9806914413670731
       },
       {
         "time": 1544.74,
-        "momentum": -0.9435129892480971
+        "momentum": -0.9433922038937776
       },
       {
         "time": 1545.24,
-        "momentum": -0.9401102064128144
+        "momentum": -0.9399898566712901
       },
       {
         "time": 1545.74,
-        "momentum": -0.9367196957255107
+        "momentum": -0.9365997800257425
       },
       {
         "time": 1546.24,
-        "momentum": -0.9333414129266423
+        "momentum": -0.9332219297032568
       },
       {
         "time": 1546.74,
-        "momentum": -0.9299753139162871
+        "momentum": -0.9298562616095569
       },
       {
         "time": 1547.24,
-        "momentum": -0.9266213547535704
+        "momentum": -0.9265027318093934
       },
       {
         "time": 1547.74,
-        "momentum": -0.9232794916560898
+        "momentum": -0.9231612965259682
       },
       {
         "time": 1548.24,
-        "momentum": -0.9199496809993446
+        "momentum": -0.9198319121403656
       },
       {
         "time": 1548.74,
-        "momentum": -0.9166318793161661
+        "momentum": -0.9165145351909814
       },
       {
         "time": 1549.24,
-        "momentum": -0.9133260432961494
+        "momentum": -0.9132091223729552
       },
       {
         "time": 1549.74,
-        "momentum": -0.9100321297850897
+        "momentum": -0.9099156305376063
       },
       {
         "time": 1550.24,
-        "momentum": -0.9067500957844172
+        "momentum": -0.9066340166918699
       },
       {
         "time": 1550.74,
-        "momentum": -0.903479898450637
+        "momentum": -0.9033642379977355
       },
       {
         "time": 1551.24,
-        "momentum": -0.9002214950947695
+        "momentum": -0.9001062517716883
       },
       {
         "time": 1551.74,
-        "momentum": -0.8969748431817924
+        "momentum": -0.8968600154841517
       },
       {
         "time": 1552.24,
-        "momentum": -0.8937399003300872
+        "momentum": -0.8936254867589323
       },
       {
         "time": 1552.74,
-        "momentum": -0.8905166243108835
+        "momentum": -0.890402623372666
       },
       {
         "time": 1553.24,
-        "momentum": -0.8873049730477105
+        "momentum": -0.8871913832542679
       },
       {
         "time": 1553.74,
-        "momentum": -0.8841049046158453
+        "momentum": -0.8839917244843829
       },
       {
         "time": 1554.24,
-        "momentum": -0.880916377241767
+        "momentum": -0.8808036052948373
       },
       {
         "time": 1554.74,
-        "momentum": -0.8777393493026111
+        "momentum": -0.8776269840680951
       },
       {
         "time": 1555.24,
-        "momentum": -0.8745737793256263
+        "momentum": -0.8744618193367144
       },
       {
         "time": 1555.74,
-        "momentum": -0.8714196259876325
+        "momentum": -0.871308069782805
       },
       {
         "time": 1556.24,
-        "momentum": -0.8682768481144818
+        "momentum": -0.86816569423749
       },
       {
         "time": 1556.74,
-        "momentum": -0.8651454046805214
+        "momentum": -0.8650346516803689
       },
       {
         "time": 1557.24,
-        "momentum": -0.8620252548080576
+        "momentum": -0.8619149012389802
       },
       {
         "time": 1557.74,
-        "momentum": -0.8589163577668216
+        "momentum": -0.8588064021882701
       },
       {
         "time": 1558.24,
-        "momentum": -0.8558186729734395
+        "momentum": -0.8557091139500596
       },
       {
         "time": 1558.74,
-        "momentum": -0.8527321599909005
+        "momentum": -0.8526229960925147
       },
       {
         "time": 1559.24,
-        "momentum": -0.8496567785280307
+        "momentum": -0.8495480083296192
       },
       {
         "time": 1559.74,
-        "momentum": -0.8465924884389662
+        "momentum": -0.8464841105206485
       },
       {
         "time": 1560.24,
-        "momentum": -0.8435392497226288
+        "momentum": -0.8434312626696459
       },
       {
         "time": 1560.74,
-        "momentum": -0.8404970225222055
+        "momentum": -0.8403894249248998
       },
       {
         "time": 1561.24,
-        "momentum": -0.837465767124626
+        "momentum": -0.8373585575784244
       },
       {
         "time": 1561.74,
-        "momentum": -0.8344454439600456
+        "momentum": -0.8343386210654407
       },
       {
         "time": 1562.24,
-        "momentum": -0.8314360136013287
+        "momentum": -0.8313295759638597
       },
       {
         "time": 1562.74,
-        "momentum": -0.8284374367635333
+        "momentum": -0.8283313829937695
       },
       {
         "time": 1563.24,
-        "momentum": -0.8254496743033991
+        "momentum": -0.82534400301692
       },
       {
         "time": 1563.74,
-        "momentum": -0.8224726872188359
+        "momentum": -0.8223673970362142
       },
       {
         "time": 1564.24,
-        "momentum": -0.8195064366484146
+        "momentum": -0.8194015261951982
       },
       {
         "time": 1564.74,
-        "momentum": -0.7451752498363032
+        "momentum": -0.7450670533480971
       },
       {
         "time": 1565.24,
-        "momentum": -0.6325266355455529
+        "momentum": -0.6324255471342786
       },
       {
         "time": 1565.87,
-        "momentum": -0.5202842888690221
+        "momentum": -0.5201902828993755
       },
       {
         "time": 1566.37,
-        "momentum": -0.40844674460116526
+        "momentum": -0.4083597955302964
       },
       {
         "time": 1566.87,
-        "momentum": -0.29701254282070544
+        "momentum": -0.29693262519788466
       },
       {
         "time": 1567.37,
-        "momentum": -0.2573558629061342
+        "momentum": -0.25728661576731937
       },
       {
         "time": 1567.87,
-        "momentum": -0.25642770810292986
+        "momentum": -0.2563587107041589
       },
       {
         "time": 1568.37,
-        "momentum": -0.25550290069321
+        "momentum": -0.2554341521337947
       },
       {
         "time": 1568.87,
-        "momentum": -0.25458142860458877
+        "momentum": -0.25451292798708897
       },
       {
         "time": 1569.37,
-        "momentum": -0.2536632798082189
+        "momentum": -0.25359502623843133
       },
       {
         "time": 1569.87,
-        "momentum": -0.2527484423186357
+        "momentum": -0.2526804349055819
       },
       {
         "time": 1570.37,
-        "momentum": -0.2518369041935998
+        "momentum": -0.25176914204951467
       },
       {
         "time": 1570.87,
-        "momentum": -0.25092865353394156
+        "momentum": -0.2508611357742617
       },
       {
         "time": 1571.37,
-        "momentum": -0.25002367848340584
+        "momentum": -0.2499564042267582
       },
       {
         "time": 1571.87,
-        "momentum": -0.24912196722849717
+        "momentum": -0.24905493559668707
       },
       {
         "time": 1572.37,
-        "momentum": -0.24822350799832532
+        "momentum": -0.2481567181163255
       },
       {
         "time": 1572.87,
-        "momentum": -0.24732828906445198
+        "momentum": -0.24726174006039092
       },
       {
         "time": 1573.37,
-        "momentum": -0.24643629874073741
+        "momentum": -0.24636998974588797
       },
       {
         "time": 1573.87,
-        "momentum": -0.24554752538318794
+        "momentum": -0.24548145553195613
       },
       {
         "time": 1574.37,
-        "momentum": -0.24466195738980406
+        "momentum": -0.24459612581971762
       },
       {
         "time": 1574.87,
-        "momentum": -0.24377958320042897
+        "momentum": -0.24371398905212605
       },
       {
         "time": 1575.37,
-        "momentum": -0.24290039129659752
+        "momentum": -0.24283503371381565
       },
       {
         "time": 1575.87,
-        "momentum": -0.24202437020138592
+        "momentum": -0.24195924833095073
       },
       {
         "time": 1576.37,
-        "momentum": -0.241151508479262
+        "momentum": -0.24108662147107615
       },
       {
         "time": 1576.87,
-        "momentum": -0.24028179473593592
+        "momentum": -0.24021714174296788
       },
       {
         "time": 1577.37,
-        "momentum": -0.23941521761821133
+        "momentum": -0.23935079779648444
       },
       {
         "time": 1577.87,
-        "momentum": -0.2385517658138372
+        "momentum": -0.23848757832241851
       },
       {
         "time": 1578.37,
-        "momentum": -0.23769142805136018
+        "momentum": -0.23762747205234974
       },
       {
         "time": 1578.87,
-        "momentum": -0.23683419309997755
+        "momentum": -0.2367704677584971
       },
       {
         "time": 1579.37,
-        "momentum": -0.2359800497693904
+        "momentum": -0.23591655425357283
       },
       {
         "time": 1579.87,
-        "momentum": -0.23512898690965772
+        "momentum": -0.23506572039063595
       },
       {
         "time": 1580.37,
-        "momentum": -0.2342809934110508
+        "momentum": -0.23421795506294713
       },
       {
         "time": 1580.87,
-        "momentum": -0.2334360582039082
+        "momentum": -0.23337324720382338
       },
       {
         "time": 1581.37,
-        "momentum": -0.23259417025849122
+        "momentum": -0.23253158578649388
       },
       {
         "time": 1581.87,
-        "momentum": -0.23175531858484008
+        "momentum": -0.23169295982395582
       },
       {
         "time": 1582.37,
-        "momentum": -0.23091949223263014
+        "momentum": -0.2308573583688311
       },
       {
         "time": 1582.87,
-        "momentum": -0.23008668029102922
+        "momentum": -0.23002477051322337
       },
       {
         "time": 1583.37,
-        "momentum": -0.22925687188855517
+        "momentum": -0.22919518538857556
       },
       {
         "time": 1583.87,
-        "momentum": -0.22843005619293383
+        "momentum": -0.22836859216552816
       },
       {
         "time": 1584.37,
-        "momentum": -0.22760622241095757
+        "momentum": -0.2275449800537778
       },
       {
         "time": 1584.87,
-        "momentum": -0.2267853597883447
+        "momentum": -0.22672433830193633
       },
       {
         "time": 1585.37,
-        "momentum": -0.2259674576095987
+        "momentum": -0.22590665619739064
       },
       {
         "time": 1585.87,
-        "momentum": -0.2251525051978686
+        "momentum": -0.2250919230661624
       },
       {
         "time": 1586.37,
-        "momentum": -0.2243404919148096
+        "momentum": -0.2242801282727694
       },
       {
         "time": 1586.87,
-        "momentum": -0.22353140716044395
+        "momentum": -0.22347126122008606
       },
       {
         "time": 1587.37,
-        "momentum": -0.22272524037302296
+        "momentum": -0.22266531134920547
       },
       {
         "time": 1587.87,
-        "momentum": -0.22192198102888877
+        "momentum": -0.22186226813930143
       },
       {
         "time": 1588.37,
-        "momentum": -0.2211216186423372
+        "momentum": -0.22106212110749118
       },
       {
         "time": 1588.87,
-        "momentum": -0.2203241427654808
+        "momentum": -0.22026485980869848
       },
       {
         "time": 1589.37,
-        "momentum": -0.2195295429881124
+        "momentum": -0.21947047383551724
       },
       {
         "time": 1589.87,
-        "momentum": -0.21873780893756933
+        "momentum": -0.21867895281807584
       },
       {
         "time": 1590.37,
-        "momentum": -0.21794893027859796
+        "momentum": -0.21789028642390154
       },
       {
         "time": 1590.87,
-        "momentum": -0.2171628967132188
+        "momentum": -0.2171044643577857
       },
       {
         "time": 1591.37,
-        "momentum": -0.21637969798059203
+        "momentum": -0.21632147636164945
       },
       {
         "time": 1591.87,
-        "momentum": -0.21559932385688363
+        "momentum": -0.21554131221440964
       },
       {
         "time": 1592.37,
-        "momentum": -0.21482176415513182
+        "momentum": -0.2147639617318456
       },
       {
         "time": 1592.87,
-        "momentum": -0.21404700872511412
+        "momentum": -0.2139894147664659
       },
       {
         "time": 1593.37,
-        "momentum": -0.21327504745321488
+        "momentum": -0.2132176612073763
       },
       {
         "time": 1593.87,
-        "momentum": -0.21250587026229328
+        "momentum": -0.21244869098014735
       },
       {
         "time": 1594.37,
-        "momentum": -0.21173946711155173
+        "momentum": -0.21168249404668318
       },
       {
         "time": 1594.87,
-        "momentum": -0.21097582799640477
+        "momentum": -0.2109190604050903
       },
       {
         "time": 1595.37,
-        "momentum": -0.21021494294834855
+        "momentum": -0.21015838008954707
       },
       {
         "time": 1595.87,
-        "momentum": -0.2094568020348307
+        "momentum": -0.20940044317017364
       },
       {
         "time": 1596.37,
-        "momentum": -0.20870139535912044
+        "momentum": -0.20864523975290233
       },
       {
         "time": 1596.87,
-        "momentum": -0.20794871306017987
+        "momentum": -0.2078927599793484
       },
       {
         "time": 1597.37,
-        "momentum": -0.2071987453125348
+        "momentum": -0.20714299402668143
       },
       {
         "time": 1597.87,
-        "momentum": -0.20645148232614657
+        "momentum": -0.20639593210749707
       },
       {
         "time": 1598.37,
-        "momentum": -0.20570691434628455
+        "momentum": -0.20565156446968932
       },
       {
         "time": 1598.87,
-        "momentum": -0.20496503165339833
+        "momentum": -0.20490988139632313
       },
       {
         "time": 1599.37,
-        "momentum": -0.20422582456299126
+        "momentum": -0.20417087320550759
       },
       {
         "time": 1599.87,
-        "momentum": -0.20348928342549386
+        "momentum": -0.20343453025026959
       },
       {
         "time": 1600.37,
-        "momentum": -0.20275539862613776
+        "momentum": -0.2027008429184279
       },
       {
         "time": 1600.87,
-        "momentum": -0.2020241605848303
+        "momentum": -0.20196980163246767
       },
       {
         "time": 1601.37,
-        "momentum": -0.20129555975602959
+        "momentum": -0.20124139684941525
       },
       {
         "time": 1601.87,
-        "momentum": -0.20056958662861954
+        "momentum": -0.20051561906071388
       },
       {
         "time": 1602.37,
-        "momentum": -0.19984623172578614
+        "momentum": -0.19979245879209945
       },
       {
         "time": 1602.87,
-        "momentum": -0.1991254856048935
+        "momentum": -0.19907190660347676
       },
       {
         "time": 1603.37,
-        "momentum": -0.1984073388573605
+        "momentum": -0.19835395308879636
       },
       {
         "time": 1603.87,
-        "momentum": -0.19769178210853827
+        "momentum": -0.19763858887593172
       },
       {
         "time": 1604.37,
-        "momentum": -0.1969788060175875
+        "momentum": -0.196925804626557
       },
       {
         "time": 1604.87,
-        "momentum": -0.19626840127735679
+        "momentum": -0.19621559103602504
       },
       {
         "time": 1605.37,
-        "momentum": -0.19556055861426086
+        "momentum": -0.19550793883324583
       },
       {
         "time": 1605.87,
-        "momentum": -0.1948552687881598
+        "momentum": -0.19480283878056565
       },
       {
         "time": 1606.37,
-        "momentum": -0.1941525225922382
+        "momentum": -0.19410028167364643
       },
       {
         "time": 1606.87,
-        "momentum": -0.19345231085288506
+        "momentum": -0.19340025834134558
       },
       {
         "time": 1607.37,
-        "momentum": -0.19275462442957408
+        "momentum": -0.1927027596455962
       },
       {
         "time": 1607.87,
-        "momentum": -0.1920594542147443
+        "momentum": -0.1920077764812879
       },
       {
         "time": 1608.37,
-        "momentum": -0.19136679113368116
+        "momentum": -0.1913152997761479
       },
       {
         "time": 1608.87,
-        "momentum": -0.19067662614439815
+        "momentum": -0.1906253204906226
       },
       {
         "time": 1609.37,
-        "momentum": -0.18998895023751866
+        "momentum": -0.18993782961775965
       },
       {
         "time": 1609.87,
-        "momentum": -0.1893037544361585
+        "momentum": -0.18925281818309014
       },
       {
         "time": 1610.37,
-        "momentum": -0.18862102979580853
+        "momentum": -0.18857027724451178
       },
       {
         "time": 1610.87,
-        "momentum": -0.18794076740421814
+        "momentum": -0.1878901978921719
       },
       {
         "time": 1611.37,
-        "momentum": -0.1872629583812787
+        "momentum": -0.18721257124835128
       },
       {
         "time": 1611.87,
-        "momentum": -0.18658759387890778
+        "momentum": -0.18653738846734827
       },
       {
         "time": 1612.37,
-        "momentum": -0.18591466508093352
+        "momentum": -0.18586464073536318
       },
       {
         "time": 1612.87,
-        "momentum": -0.18524416320297962
+        "momentum": -0.18519431927038338
       },
       {
         "time": 1613.37,
-        "momentum": -0.18457607949235078
+        "momentum": -0.18452641532206854
       },
       {
         "time": 1613.87,
-        "momentum": -0.18391040522791818
+        "momentum": -0.1838609201716366
       },
       {
         "time": 1614.37,
-        "momentum": -0.18324713172000587
+        "momentum": -0.18319782513174965
       },
       {
         "time": 1614.87,
-        "momentum": -0.18258625031027717
+        "momentum": -0.18253712154640084
       },
       {
         "time": 1615.37,
-        "momentum": -0.18192775237162181
+        "momentum": -0.18187880079080107
       },
       {
         "time": 1615.87,
-        "momentum": -0.1812716293080432
+        "momentum": -0.18122285427126675
       },
       {
         "time": 1616.37,
-        "momentum": -0.18061787255454614
+        "momentum": -0.18056927342510729
       },
       {
         "time": 1616.87,
-        "momentum": -0.17996647357702528
+        "momentum": -0.17991804972051362
       },
       {
         "time": 1617.37,
-        "momentum": -0.1793174238721534
+        "momentum": -0.17926917465644654
       },
       {
         "time": 1617.87,
-        "momentum": -0.1786707149672707
+        "momentum": -0.17862263976252593
       },
       {
         "time": 1618.37,
-        "momentum": -0.17802633842027393
+        "momentum": -0.17797843659892013
       },
       {
         "time": 1618.87,
-        "momentum": -0.17738428581950635
+        "momentum": -0.17733655675623575
       },
       {
         "time": 1619.37,
-        "momentum": -0.17674454878364795
+        "momentum": -0.1766969918554079
       },
       {
         "time": 1619.87,
-        "momentum": -0.1761071189616059
+        "momentum": -0.17605973354759086
       },
       {
         "time": 1620.37,
-        "momentum": -0.17547198803240568
+        "momentum": -0.17542477351404898
       },
       {
         "time": 1620.87,
-        "momentum": -0.17483914770508235
+        "momentum": -0.1747921034660482
       },
       {
         "time": 1621.37,
-        "momentum": -0.1742085897185724
+        "momentum": -0.17416171514474782
       },
       {
         "time": 1621.87,
-        "momentum": -0.17358030584160575
+        "momentum": -0.17353360032109263
       },
       {
         "time": 1622.37,
-        "momentum": -0.17295428787259864
+        "momentum": -0.17290775079570564
       },
       {
         "time": 1622.87,
-        "momentum": -0.1723305276395462
+        "momentum": -0.17228415839878078
       },
       {
         "time": 1623.37,
-        "momentum": -0.17170901699991595
+        "momentum": -0.17166281498997654
       },
       {
         "time": 1623.87,
-        "momentum": -0.17108974784054148
+        "momentum": -0.17104371245830957
       },
       {
         "time": 1624.37,
-        "momentum": -0.17047271207751655
+        "momentum": -0.17042684272204872
       },
       {
         "time": 1624.87,
-        "momentum": -0.16985790165608958
+        "momentum": -0.16981219772860973
       },
       {
         "time": 1625.37,
-        "momentum": -0.16924530855055844
+        "momentum": -0.16919976945444998
       },
       {
         "time": 1625.87,
-        "momentum": -0.16863492476416572
+        "momentum": -0.16858954990496375
       },
       {
         "time": 1626.37,
-        "momentum": -0.16802674232899442
+        "momentum": -0.16798153111437794
       },
       {
         "time": 1626.87,
-        "momentum": -0.16742075330586376
+        "momentum": -0.167375705145648
       },
       {
         "time": 1627.37,
-        "momentum": -0.16681694978422568
+        "momentum": -0.16677206409035444
       },
       {
         "time": 1627.87,
-        "momentum": -0.16621532388206153
+        "momentum": -0.16617060006859935
       },
       {
         "time": 1628.37,
-        "momentum": -0.16561586774577924
+        "momentum": -0.1655713052289039
       },
       {
         "time": 1628.87,
-        "momentum": -0.16501857355011068
+        "momentum": -0.16497417174810544
       },
       {
         "time": 1629.37,
-        "momentum": -0.16442343349800964
+        "momentum": -0.16437919183125577
       },
       {
         "time": 1629.87,
-        "momentum": -0.1638304398205499
+        "momentum": -0.1637863577115191
       },
       {
         "time": 1630.37,
-        "momentum": -0.16323958477682396
+        "momentum": -0.16319566165007074
       },
       {
         "time": 1630.87,
-        "momentum": -0.16265086065384193
+        "momentum": -0.16260709593599615
       },
       {
         "time": 1631.37,
-        "momentum": -0.16206425976643085
+        "momentum": -0.16202065288619022
       },
       {
         "time": 1631.87,
-        "momentum": -0.1614797744571343
+        "momentum": -0.161436324845257
       },
       {
         "time": 1632.37,
-        "momentum": -0.16089739709611256
+        "momentum": -0.16085410418540966
       },
       {
         "time": 1632.87,
-        "momentum": -0.16031712008104293
+        "momentum": -0.16027398330637116
       },
       {
         "time": 1633.37,
-        "momentum": -0.15973893583702053
+        "momentum": -0.1596959546352747
       },
       {
         "time": 1633.87,
-        "momentum": -0.1591628368164594
+        "momentum": -0.15912001062656528
       },
       {
         "time": 1634.37,
-        "momentum": -0.15858881549899398
+        "momentum": -0.15854614376190074
       },
       {
         "time": 1634.87,
-        "momentum": -0.1580168643913809
+        "momentum": -0.157974346550054
       },
       {
         "time": 1635.37,
-        "momentum": -0.15744697602740124
+        "momentum": -0.15740461152681504
       },
       {
         "time": 1635.87,
-        "momentum": -0.15687914296776295
+        "momentum": -0.1568369312548936
       },
       {
         "time": 1636.37,
-        "momentum": -0.15631335780000394
+        "momentum": -0.15627129832382197
       },
       {
         "time": 1636.87,
-        "momentum": -0.15574961313839505
+        "momentum": -0.1557077053498584
       },
       {
         "time": 1637.37,
-        "momentum": -0.1551879016238439
+        "momentum": -0.15514614497589047
       },
       {
         "time": 1637.87,
-        "momentum": -0.15462821592379863
+        "momentum": -0.15458660987133938
       },
       {
         "time": 1638.37,
-        "momentum": -0.15407054873215223
+        "momentum": -0.15402909273206405
       },
       {
         "time": 1638.87,
-        "momentum": -0.15351489276914726
+        "momentum": -0.15347358628026575
       },
       {
         "time": 1639.37,
-        "momentum": -0.15296124078128076
+        "momentum": -0.1529200832643932
       },
       {
         "time": 1639.87,
-        "momentum": -0.15240958554120942
+        "momentum": -0.15236857645904783
       },
       {
         "time": 1640.37,
-        "momentum": -0.1518599198476555
+        "momentum": -0.1518190586648896
       },
       {
         "time": 1640.87,
-        "momentum": -0.15131223652531273
+        "momentum": -0.15127152270854272
       },
       {
         "time": 1641.37,
-        "momentum": -0.2528621447163792
+        "momentum": -0.2528156324325873
       },
       {
         "time": 1641.87,
-        "momentum": -0.35222384246476823
+        "momentum": -0.3521717458218626
       },
       {
         "time": 1642.86,
-        "momentum": -0.45122719190906846
+        "momentum": -0.4511695310470595
       },
       {
         "time": 1643.36,
-        "momentum": -0.7432771421574552
+        "momentum": -0.7432137883045962
       },
       {
         "time": 1643.86,
-        "momentum": -0.8897406896242643
+        "momentum": -0.8896716861565098
       },
       {
         "time": 1644.79,
-        "momentum": -0.851204094928964
+        "momentum": -0.8511418170273073
       },
       {
         "time": 1645.52,
-        "momentum": -0.814628452944862
+        "momentum": -0.8145726831578086
       },
       {
         "time": 1646.02,
-        "momentum": -0.7781847211391584
+        "momentum": -0.7781354359951709
       },
       {
         "time": 1646.52,
-        "momentum": -0.5484687670535557
+        "momentum": -0.5484260920048685
       },
       {
         "time": 1647.02,
-        "momentum": -0.4641144079783454
+        "momentum": -0.46407829634146347
       },
       {
         "time": 1647.52,
-        "momentum": -0.462440577772431
+        "momentum": -0.4624045963722915
       },
       {
         "time": 1648.02,
-        "momentum": -0.46077278424090135
+        "momentum": -0.4607369326078049
       },
       {
         "time": 1648.52,
-        "momentum": -0.45911100561246954
+        "momentum": -0.45907528327841096
       },
       {
         "time": 1649.02,
-        "momentum": -0.45745522019436685
+        "momentum": -0.4574196266930287
       },
       {
         "time": 1649.52,
-        "momentum": -0.4558054063720597
+        "momentum": -0.4557699412388064
       },
       {
         "time": 1650.02,
-        "momentum": -0.4541615426089674
+        "momentum": -0.4541262053808389
       },
       {
         "time": 1650.52,
-        "momentum": -0.45252360744618086
+        "momentum": -0.45248839766188703
       },
       {
         "time": 1651.02,
-        "momentum": -0.4508915795021829
+        "momentum": -0.4508564967020969
       },
       {
         "time": 1651.52,
-        "momentum": -0.4492654374725684
+        "momentum": -0.44923048119872144
       },
       {
         "time": 1652.02,
-        "momentum": -0.44764516012976713
+        "momentum": -0.4476103299258418
       },
       {
         "time": 1652.52,
-        "momentum": -0.44603072632276597
+        "momentum": -0.4459960217340907
       },
       {
         "time": 1653.02,
-        "momentum": -0.4444221149768328
+        "momentum": -0.44438753555037575
       },
       {
         "time": 1653.52,
-        "momentum": -0.442819305093242
+        "momentum": -0.4427848503776052
       },
       {
         "time": 1654.02,
-        "momentum": -0.4412222757489996
+        "momentum": -0.441187945294413
       },
       {
         "time": 1654.52,
-        "momentum": -0.4396310060965707
+        "momentum": -0.43959679945488644
       },
       {
         "time": 1655.02,
-        "momentum": -0.43804547536360683
+        "momentum": -0.4380113920882933
       },
       {
         "time": 1655.52,
-        "momentum": -0.4364656628526754
+        "momentum": -0.43643170249881125
       },
       {
         "time": 1656.02,
-        "momentum": -0.43489154794098894
+        "momentum": -0.4348577100652576
       },
       {
         "time": 1656.52,
-        "momentum": -0.43332311008013613
+        "momentum": -0.4332893942408198
       },
       {
         "time": 1657.02,
-        "momentum": -0.4317603287958137
+        "momentum": -0.43172673455278776
       },
       {
         "time": 1657.52,
-        "momentum": -0.43020318368755917
+        "momentum": -0.43016971060228587
       },
       {
         "time": 1658.02,
-        "momentum": -0.4286516544284839
+        "momentum": -0.42861830206400764
       },
       {
         "time": 1658.52,
-        "momentum": -0.42710572076500875
+        "momentum": -0.4270724886859495
       },
       {
         "time": 1659.02,
-        "momentum": -0.4255653625165989
+        "momentum": -0.4255322502891469
       },
       {
         "time": 1659.52,
-        "momentum": -0.42403055957550073
+        "momentum": -0.4239975667674106
       },
       {
         "time": 1660.02,
-        "momentum": -0.42250129190647934
+        "momentum": -0.422468418087065
       },
       {
         "time": 1660.52,
-        "momentum": -0.4209775395465571
+        "momentum": -0.42094478428668525
       },
       {
         "time": 1661.02,
-        "momentum": -0.41945928260475274
+        "momentum": -0.4194266454768381
       },
       {
         "time": 1661.52,
-        "momentum": -0.41794650126182187
+        "momentum": -0.41791398183982115
       },
       {
         "time": 1662.02,
-        "momentum": -0.41643917576999845
+        "momentum": -0.4164067736294049
       },
       {
         "time": 1662.52,
-        "momentum": -0.41493728645273675
+        "momentum": -0.4149050011705745
       },
       {
         "time": 1663.02,
-        "momentum": -0.4134408137044545
+        "momentum": -0.4134086448592732
       },
       {
         "time": 1663.52,
-        "momentum": -0.41194973799027707
+        "momentum": -0.41191768516214633
       },
       {
         "time": 1664.02,
-        "momentum": -0.4104640398457825
+        "momentum": -0.41043210261628643
       },
       {
         "time": 1664.52,
-        "momentum": -0.40898369987674704
+        "momentum": -0.4089518778289789
       },
       {
         "time": 1665.02,
-        "momentum": -0.40750869875889284
+        "momentum": -0.40747699147744915
       },
       {
         "time": 1665.52,
-        "momentum": -0.4060390172376345
+        "momentum": -0.40600742430861025
       },
       {
         "time": 1666.02,
-        "momentum": -0.40457463612782885
+        "momentum": -0.4045431571388115
       },
       {
         "time": 1666.52,
-        "momentum": -0.4031155363135236
+        "momentum": -0.4030841708535883
       },
       {
         "time": 1667.02,
-        "momentum": -0.4016616987477084
+        "momentum": -0.40163044640741213
       },
       {
         "time": 1667.52,
-        "momentum": -0.4002131044520662
+        "momentum": -0.4001819648234425
       },
       {
         "time": 1668.02,
-        "momentum": -0.3987697345167249
+        "momentum": -0.39873870719327875
       },
       {
         "time": 1668.52,
-        "momentum": -0.39733157010001136
+        "momentum": -0.39730065467671366
       },
       {
         "time": 1669.02,
-        "momentum": -0.3958985924282045
+        "momentum": -0.39586778850148713
       },
       {
         "time": 1669.52,
-        "momentum": -0.39447078279529124
+        "momentum": -0.3944400899630413
       },
       {
         "time": 1670.02,
-        "momentum": -0.3930481225627215
+        "momentum": -0.39301754042427645
       },
       {
         "time": 1670.52,
-        "momentum": -0.39163059315916515
+        "momentum": -0.3916001213153074
       },
       {
         "time": 1671.02,
-        "momentum": -0.3902181760802699
+        "momentum": -0.3901878141332217
       },
       {
         "time": 1671.52,
-        "momentum": -0.38881085288841916
+        "momentum": -0.3887806004418372
       },
       {
         "time": 1672.02,
-        "momentum": -0.38740860521249193
+        "momentum": -0.38737846187146247
       },
       {
         "time": 1672.52,
-        "momentum": -0.38601141474762257
+        "momentum": -0.385981380118656
       },
       {
         "time": 1673.02,
-        "momentum": -0.384619263254962
+        "momentum": -0.38458933694598796
       },
       {
         "time": 1673.52,
-        "momentum": -0.3832321325614397
+        "momentum": -0.3832023141818017
       },
       {
         "time": 1674.02,
-        "momentum": -0.3818500045595263
+        "momentum": -0.38182029371997683
       },
       {
         "time": 1674.52,
-        "momentum": -0.3804728612069973
+        "momentum": -0.3804432575196927
       },
       {
         "time": 1675.02,
-        "momentum": -0.3791006845266977
+        "momentum": -0.379071187605193
       },
       {
         "time": 1675.52,
-        "momentum": -0.37773345660630697
+        "momentum": -0.37770406606555096
       },
       {
         "time": 1676.02,
-        "momentum": -0.3763711595981055
+        "momentum": -0.3763418750544356
       },
       {
         "time": 1676.52,
-        "momentum": -0.37501377571874156
+        "momentum": -0.37498459678987894
       },
       {
         "time": 1677.02,
-        "momentum": -0.37366128724899916
+        "momentum": -0.37363221355404364
       },
       {
         "time": 1677.52,
-        "momentum": -0.3723136765335666
+        "momentum": -0.3722847076929918
       },
       {
         "time": 1678.02,
-        "momentum": -0.37097092598080633
+        "momentum": -0.3709420616164546
       },
       {
         "time": 1678.52,
-        "momentum": -0.36963301806252497
+        "momentum": -0.3696042577976023
       },
       {
         "time": 1679.02,
-        "momentum": -0.3682999353137445
+        "momentum": -0.3682712787728161
       },
       {
         "time": 1679.52,
-        "momentum": -0.36697166033247475
+        "momentum": -0.3669431071414596
       },
       {
         "time": 1680.02,
-        "momentum": -0.36564817577948555
+        "momentum": -0.3656197255656518
       },
       {
         "time": 1680.52,
-        "momentum": -0.36432946437808095
+        "momentum": -0.36430111677004107
       },
       {
         "time": 1681.02,
-        "momentum": -0.3630155089138733
+        "momentum": -0.3629872635415792
       },
       {
         "time": 1681.52,
-        "momentum": -0.36170629223455875
+        "momentum": -0.36167814872929677
       },
       {
         "time": 1682.02,
-        "momentum": -0.36040179724969346
+        "momentum": -0.3603737552440798
       },
       {
         "time": 1682.52,
-        "momentum": -0.35910200693046995
+        "momentum": -0.35907406605844583
       },
       {
         "time": 1683.02,
-        "momentum": -0.35780690430949563
+        "momentum": -0.35777906420632244
       },
       {
         "time": 1683.52,
-        "momentum": -0.3565164724805706
+        "momentum": -0.35648873278282506
       },
       {
         "time": 1684.02,
-        "momentum": -0.35523069459846723
+        "momentum": -0.3552030549440369
       },
       {
         "time": 1684.52,
-        "momentum": -0.35394955387871047
+        "momentum": -0.35392201390678873
       },
       {
         "time": 1685.02,
-        "momentum": -0.3526730335973583
+        "momentum": -0.35264559294843983
       },
       {
         "time": 1685.52,
-        "momentum": -0.35140111709078375
+        "momentum": -0.3513737754066598
       },
       {
         "time": 1686.02,
-        "momentum": -0.3501337877554573
+        "momentum": -0.35010654467921104
       },
       {
         "time": 1686.52,
-        "momentum": -0.3488710290477301
+        "momentum": -0.3488438842237319
       },
       {
         "time": 1687.02,
-        "momentum": -0.34761282448361797
+        "momentum": -0.34758577755752074
       },
       {
         "time": 1687.52,
-        "momentum": -0.34635915763858643
+        "momentum": -0.34633220825732103
       },
       {
         "time": 1688.02,
-        "momentum": -0.34511001214733594
+        "momentum": -0.3450831599591066
       },
       {
         "time": 1688.52,
-        "momentum": -0.34386537170358866
+        "momentum": -0.34383861635786833
       },
       {
         "time": 1689.02,
-        "momentum": -0.34262522005987517
+        "momentum": -0.34259856120740106
       },
       {
         "time": 1689.52,
-        "momentum": -0.34138954102732283
+        "momentum": -0.3413629783200917
       },
       {
         "time": 1690.02,
-        "momentum": -0.3401583184754441
+        "momentum": -0.34013185156670783
       },
       {
         "time": 1690.52,
-        "momentum": -0.33893153633192613
+        "momentum": -0.33890516487618705
       },
       {
         "time": 1691.02,
-        "momentum": -0.3377091785824209
+        "momentum": -0.3376829022354275
       },
       {
         "time": 1691.52,
-        "momentum": -0.33649122927033626
+        "momentum": -0.33646504768907853
       },
       {
         "time": 1692.02,
-        "momentum": -0.3352776724966275
+        "momentum": -0.3352515853393324
       },
       {
         "time": 1692.52,
-        "momentum": -0.33406849241958986
+        "momentum": -0.3340424993457171
       },
       {
         "time": 1693.02,
-        "momentum": -0.33286367325465177
+        "momentum": -0.3328377739248892
       },
       {
         "time": 1693.52,
-        "momentum": -0.3316631992741688
+        "momentum": -0.33163739335042797
       },
       {
         "time": 1694.02,
-        "momentum": -0.3304670548072183
+        "momentum": -0.33044134195263003
       },
       {
         "time": 1694.52,
-        "momentum": -0.32927522423939476
+        "momentum": -0.32924960411830495
       },
       {
         "time": 1695.02,
-        "momentum": -0.3280876920126063
+        "momentum": -0.3280621642905711
       },
       {
         "time": 1695.52,
-        "momentum": -0.32690444262487117
+        "momentum": -0.32687900696865313
       },
       {
         "time": 1696.02,
-        "momentum": -0.32572546063011554
+        "momentum": -0.325700116707679
       },
       {
         "time": 1696.52,
-        "momentum": -0.3245507306379721
+        "momentum": -0.3245254781184788
       },
       {
         "time": 1697.02,
-        "momentum": -0.3233802373135787
+        "momentum": -0.32335507586738366
       },
       {
         "time": 1697.52,
-        "momentum": -0.3222139653773787
+        "momentum": -0.32218889467602574
       },
       {
         "time": 1698.02,
-        "momentum": -0.321051899604921
+        "momentum": -0.3210269193211386
       },
       {
         "time": 1698.52,
-        "momentum": -0.31989402482666157
+        "momentum": -0.3198691346343584
       },
       {
         "time": 1699.02,
-        "momentum": -0.3187403259277656
+        "momentum": -0.31871552550202636
       },
       {
         "time": 1699.52,
-        "momentum": -0.3175907878479096
+        "momentum": -0.31756607686499105
       },
       {
         "time": 1700.02,
-        "momentum": -0.31644539558108564
+        "momentum": -0.3164207737184118
       },
       {
         "time": 1700.52,
-        "momentum": -0.31530413417540465
+        "momentum": -0.3152796011115631
       },
       {
         "time": 1701.02,
-        "momentum": -0.31416698873290183
+        "momentum": -0.3141425441476392
       },
       {
         "time": 1701.52,
-        "momentum": -0.31303394440934174
+        "momentum": -0.3130095879835598
       },
       {
         "time": 1702.02,
-        "momentum": -0.3119049864140249
+        "momentum": -0.3118807178297762
       },
       {
         "time": 1702.52,
-        "momentum": -0.3107801000095945
+        "momentum": -0.31075591895007826
       },
       {
         "time": 1703.02,
-        "momentum": -0.30965927051184394
+        "momentum": -0.3096351766614019
       },
       {
         "time": 1703.52,
-        "momentum": -0.30854248328952544
+        "momentum": -0.30851847633363766
       },
       {
         "time": 1704.02,
-        "momentum": -0.30742972376415867
+        "momentum": -0.30740580338943974
       },
       {
         "time": 1704.52,
-        "momentum": -0.3063209774098409
+        "momentum": -0.30629714330403546
       },
       {
         "time": 1705.02,
-        "momentum": -0.30521622975305673
+        "momentum": -0.3051924816050358
       },
       {
         "time": 1705.52,
-        "momentum": -0.30411546637249
+        "momentum": -0.3040918038722464
       },
       {
         "time": 1706.02,
-        "momentum": -0.3030186728988348
+        "momentum": -0.3029950957374795
       },
       {
         "time": 1706.52,
-        "momentum": -0.30192583501460807
+        "momentum": -0.30190234288436624
       },
       {
         "time": 1707.02,
-        "momentum": -0.30083693845396314
+        "momentum": -0.3008135310481697
       },
       {
         "time": 1707.52,
-        "momentum": -0.2997519690025029
+        "momentum": -0.29972864601559884
       },
       {
         "time": 1708.02,
-        "momentum": -0.2986709124970946
+        "momentum": -0.29864767362462286
       },
       {
         "time": 1708.52,
-        "momentum": -0.2975937548256849
+        "momentum": -0.29757059976428646
       },
       {
         "time": 1709.02,
-        "momentum": -0.29652048192711555
+        "momentum": -0.2964974103745256
       },
       {
         "time": 1709.52,
-        "momentum": -0.29545107979093993
+        "momentum": -0.29542809144598364
       },
       {
         "time": 1710.02,
-        "momentum": -0.29438553445724025
+        "momentum": -0.294362629019829
       },
       {
         "time": 1710.52,
-        "momentum": -0.2933238320164452
+        "momentum": -0.29330100918757257
       },
       {
         "time": 1711.02,
-        "momentum": -0.29226595860914817
+        "momentum": -0.29224321809088627
       },
       {
         "time": 1711.52,
-        "momentum": -0.2912119004259268
+        "momentum": -0.29118924192142204
       },
       {
         "time": 1712.02,
-        "momentum": -0.2901616437071623
+        "momentum": -0.2901390669206319
       },
       {
         "time": 1712.52,
-        "momentum": -0.2891151747428601
+        "momentum": -0.2890926793795878
       },
       {
         "time": 1713.02,
-        "momentum": -0.28807247987247075
+        "momentum": -0.2880500656388033
       },
       {
         "time": 1713.52,
-        "momentum": -0.28703354548471155
+        "momentum": -0.2870112120880548
       },
       {
         "time": 1714.02,
-        "momentum": -0.28599835801738893
+        "momentum": -0.2859761051662039
       },
       {
         "time": 1714.52,
-        "momentum": -0.28496690395722163
+        "momentum": -0.2849447313610208
       },
       {
         "time": 1715.02,
-        "momentum": -0.2839391698396637
+        "momentum": -0.2839170772090073
       },
       {
         "time": 1715.52,
-        "momentum": -0.2829151422487296
+        "momentum": -0.2828931292952214
       },
       {
         "time": 1716.02,
-        "momentum": -0.2818948078168182
+        "momentum": -0.2818728742531024
       },
       {
         "time": 1716.52,
-        "momentum": -0.28087815322453874
+        "momentum": -0.28085629876429585
       },
       {
         "time": 1717.02,
-        "momentum": -0.2798651652005371
+        "momentum": -0.2798433895584801
       },
       {
         "time": 1717.52,
-        "momentum": -0.2788558305213221
+        "momentum": -0.2788341334131929
       },
       {
         "time": 1718.02,
-        "momentum": -0.27785013601109326
+        "momentum": -0.2778285171536591
       },
       {
         "time": 1718.52,
-        "momentum": -0.27684806854156857
+        "momentum": -0.27682652765261795
       },
       {
         "time": 1719.02,
-        "momentum": -0.2758496150318134
+        "momentum": -0.27582815183015275
       },
       {
         "time": 1719.52,
-        "momentum": -0.2748547624480693
+        "momentum": -0.2748333766535191
       },
       {
         "time": 1720.02,
-        "momentum": -0.2738634978035843
+        "momentum": -0.2738421891369756
       },
       {
         "time": 1720.52,
-        "momentum": -0.2728758081584432
+        "momentum": -0.2728545763416138
       },
       {
         "time": 1721.02,
-        "momentum": -0.27189168061939856
+        "momentum": -0.2718705253751894
       },
       {
         "time": 1721.52,
-        "momentum": -0.2709111023397024
+        "momentum": -0.2708900233919541
       },
       {
         "time": 1722.02,
-        "momentum": -0.26993406051893887
+        "momentum": -0.26991305759248807
       },
       {
         "time": 1722.52,
-        "momentum": -0.26896054240285655
+        "momentum": -0.2689396152235321
       },
       {
         "time": 1723.02,
-        "momentum": -0.2679905352832025
+        "momentum": -0.26796968357782214
       },
       {
         "time": 1723.52,
-        "momentum": -0.26702402649755597
+        "momentum": -0.26700324999392266
       },
       {
         "time": 1724.02,
-        "momentum": -0.26606100342916345
+        "momentum": -0.2660403018560618
       },
       {
         "time": 1724.52,
-        "momentum": -0.2651014535067736
+        "momentum": -0.2650808265939664
       },
       {
         "time": 1725.02,
-        "momentum": -0.26414536420447343
+        "momentum": -0.26412481168269814
       },
       {
         "time": 1725.52,
-        "momentum": -0.26319272304152486
+        "momentum": -0.2631722446424899
       },
       {
         "time": 1726.02,
-        "momentum": -0.26224351758220127
+        "momentum": -0.2622231130385827
       },
       {
         "time": 1726.52,
-        "momentum": -0.2612977354356259
+        "momentum": -0.26127740448106396
       },
       {
         "time": 1727.02,
-        "momentum": -0.26035536425560946
+        "momentum": -0.26033510662470494
       },
       {
         "time": 1727.52,
-        "momentum": -0.25941639174048936
+        "momentum": -0.2593962071688003
       },
       {
         "time": 1728.02,
-        "momentum": -0.25848080563296905
+        "momentum": -0.2584606938570071
       },
       {
         "time": 1728.52,
-        "momentum": -0.25754859371995786
+        "momentum": -0.2575285544771849
       },
       {
         "time": 1729.02,
-        "momentum": -0.25661974383241165
+        "momentum": -0.2565997768612366
       },
       {
         "time": 1729.52,
-        "momentum": -0.25569424384517414
+        "momentum": -0.2556743488849492
       },
       {
         "time": 1730.02,
-        "momentum": -0.2547720816768183
+        "momentum": -0.2547522584678357
       },
       {
         "time": 1730.52,
-        "momentum": -0.2538532452894889
+        "momentum": -0.2538334935729776
       },
       {
         "time": 1731.02,
-        "momentum": -0.2529377226887452
+        "momentum": -0.2529180422068673
       },
       {
         "time": 1731.52,
-        "momentum": -0.19581721411315253
+        "momentum": -0.1957941972801565
       },
       {
         "time": 1732.02,
-        "momentum": -0.13928252180917652
+        "momentum": -0.13925663032303265
       },
       {
         "time": 1732.96,
-        "momentum": -0.08295172206710713
+        "momentum": -0.08292296629526186
       },
       {
         "time": 1733.46,
-        "momentum": -0.026824079547719766
+        "momentum": -0.026792469820229304
       },
       {
         "time": 1733.96,
-        "momentum": 0.029101138436206743
+        "momentum": 0.029135591826541535
       },
       {
         "time": 1734.46,
-        "momentum": 0.02861637411920249
+        "momentum": 0.028650253587858214
       },
       {
         "time": 1734.96,
-        "momentum": 0.028513169067687038
+        "momentum": 0.02854692634992273
       },
       {
         "time": 1735.46,
-        "momentum": 0.02841033622554423
+        "momentum": 0.02844397176202564
       },
       {
         "time": 1735.96,
-        "momentum": 0.02830787425039969
+        "momentum": 0.02834138848020329
       },
       {
         "time": 1736.46,
-        "momentum": 0.028205781804720314
+        "momentum": 0.028239175165339053
       },
       {
         "time": 1736.96,
-        "momentum": 0.028104057555796813
+        "momentum": 0.028137330483145824
       },
       {
         "time": 1737.46,
-        "momentum": 0.028002700175726324
+        "momentum": 0.028035853104148613
       },
       {
         "time": 1737.96,
-        "momentum": 0.027901708341395076
+        "momentum": 0.027934741703667172
       },
       {
         "time": 1738.46,
-        "momentum": 0.0278010807344611
+        "momentum": 0.027833994961798742
       },
       {
         "time": 1738.96,
-        "momentum": 0.027700816041337034
+        "momentum": 0.02773361156340077
       },
       {
         "time": 1739.46,
-        "momentum": 0.02760091295317298
+        "momentum": 0.027633590198073786
       },
       {
         "time": 1739.96,
-        "momentum": 0.027501370165839405
+        "momentum": 0.027533929560144284
       },
       {
         "time": 1740.46,
-        "momentum": -0.06825314904158616
+        "momentum": -0.06822029901791006
       },
       {
         "time": 1740.96,
-        "momentum": -0.1539058172171498
+        "momentum": -0.15387341838816232
       },
       {
         "time": 1741.79,
-        "momentum": -0.23924957875084915
+        "momentum": -0.23921762948931513
       },
       {
         "time": 1742.29,
-        "momentum": -0.32428554771554874
+        "momentum": -0.3242540464001016
       },
       {
         "time": 1742.79,
-        "momentum": -0.40901483416620543
+        "momentum": -0.4089837791813261
       },
       {
         "time": 1743.29,
-        "momentum": -0.3977832087328629
+        "momentum": -0.3977530065237972
       },
       {
         "time": 1743.79,
-        "momentum": -0.396348602224776
+        "momentum": -0.396318508940081
       },
       {
         "time": 1744.29,
-        "momentum": -0.3949191696299863
+        "momentum": -0.39488918487682584
       },
       {
         "time": 1744.79,
-        "momentum": -0.39349489228875767
+        "momentum": -0.3934650156757124
       },
       {
         "time": 1745.29,
-        "momentum": -0.3920757516086504
+        "momentum": -0.3920459827457127
       },
       {
         "time": 1745.79,
-        "momentum": -0.3906617290642786
+        "momentum": -0.3906320675628473
       },
       {
         "time": 1746.29,
-        "momentum": -0.3892528061970681
+        "momentum": -0.3892232516699436
       },
       {
         "time": 1746.79,
-        "momentum": -0.3878489646150158
+        "momentum": -0.3878195166763948
       },
       {
         "time": 1747.29,
-        "momentum": -0.38645018599244924
+        "momentum": -0.38642084425792
       },
       {
         "time": 1747.79,
-        "momentum": -0.38505645206978767
+        "momentum": -0.38502721615632474
       },
       {
         "time": 1748.29,
-        "momentum": -0.3836677446533036
+        "momentum": -0.383638614179263
       },
       {
         "time": 1748.79,
-        "momentum": -0.3822840456148852
+        "momentum": -0.38225502019999924
       },
       {
         "time": 1749.29,
-        "momentum": -0.38090533689179984
+        "momentum": -0.3808764161571723
       },
       {
         "time": 1749.79,
-        "momentum": -0.37953160048645807
+        "momentum": -0.37950278405455923
       },
       {
         "time": 1750.29,
-        "momentum": -0.37816281846617883
+        "momentum": -0.3781341059608406
       },
       {
         "time": 1750.79,
-        "momentum": -0.37679897296295556
+        "momentum": -0.3767703640093664
       },
       {
         "time": 1751.29,
-        "momentum": -0.3754400461732224
+        "momentum": -0.3754115403979226
       },
       {
         "time": 1751.79,
-        "momentum": -0.3740860203576223
+        "momentum": -0.37405761738849896
       },
       {
         "time": 1752.29,
-        "momentum": -0.3727368778407752
+        "momentum": -0.3727085773070576
       },
       {
         "time": 1752.79,
-        "momentum": -0.37139260101104743
+        "momentum": -0.37136440254330183
       },
       {
         "time": 1753.29,
-        "momentum": -0.37005317232032164
+        "momentum": -0.3700250755504468
       },
       {
         "time": 1753.79,
-        "momentum": -0.36871857428376786
+        "momentum": -0.36869057884499
       },
       {
         "time": 1754.29,
-        "momentum": -0.36738878947961534
+        "momentum": -0.36736089500648356
       },
       {
         "time": 1754.79,
-        "momentum": -0.3660638005489248
+        "momentum": -0.3660360066773061
       },
       {
         "time": 1755.29,
-        "momentum": -0.36474359019536207
+        "momentum": -0.3647158965624369
       },
       {
         "time": 1755.79,
-        "momentum": -0.3634281411849725
+        "momentum": -0.36340054742922956
       },
       {
         "time": 1756.29,
-        "momentum": -0.29063893881534497
+        "momentum": -0.29061079757038477
       },
       {
         "time": 1756.79,
-        "momentum": -0.2178896758704656
+        "momentum": -0.21786420510565904
       },
       {
         "time": 1757.69,
-        "momentum": -0.14540278339218204
+        "momentum": -0.14537997347643333
       },
       {
         "time": 1758.19,
-        "momentum": -0.07317731514050575
+        "momentum": -0.0731571564774536
       },
       {
         "time": 1758.69,
-        "momentum": -0.0012123282880658515
+        "momentum": -0.0011948113159583151
       },
       {
         "time": 1759.19,
-        "momentum": -0.000985380938412144
+        "momentum": -0.0009711431361737738
       },
       {
         "time": 1759.69,
-        "momentum": -0.0009818271586744475
+        "momentum": -0.0009676407051187354
       },
       {
         "time": 1760.19,
-        "momentum": -0.0009782861956555767
+        "momentum": -0.0009641509055933228
       },
       {
         "time": 1760.69,
-        "momentum": -0.0009747580031319915
+        "momentum": -0.0009606736920418806
       },
       {
         "time": 1761.19,
-        "momentum": -0.0009712425350468566
+        "momentum": -0.0009572090190730507
       },
       {
         "time": 1761.69,
-        "momentum": -0.0009677397455094411
+        "momentum": -0.0009537568414591791
       },
       {
         "time": 1762.19,
-        "momentum": -0.000964249588794519
+        "momentum": -0.0009503171141357249
       },
       {
         "time": 1762.69,
-        "momentum": -0.000960772019341773
+        "momentum": -0.000946889792200673
       },
       {
         "time": 1763.19,
-        "momentum": -0.0009573069917551986
+        "momentum": -0.0009434748309139476
       },
       {
         "time": 1763.69,
-        "momentum": -0.0009538544608025123
+        "momentum": -0.0009400721856968282
       },
       {
         "time": 1764.19,
-        "momentum": -0.0009504143814145612
+        "momentum": -0.0009366818121313673
       },
       {
         "time": 1764.69,
-        "momentum": -0.0009469867086847343
+        "momentum": -0.000933303665959811
       },
       {
         "time": 1765.19,
-        "momentum": -0.0009435713978683764
+        "momentum": -0.0009299377030840214
       },
       {
         "time": 1765.69,
-        "momentum": -0.0009401684043822042
+        "momentum": -0.0009265838795649003
       },
       {
         "time": 1766.19,
-        "momentum": -0.0009367776838037241
+        "momentum": -0.0009232421516218165
       },
       {
         "time": 1766.69,
-        "momentum": -0.0009333991918706524
+        "momentum": -0.0009199124756320333
       },
       {
         "time": 1767.19,
-        "momentum": -0.0009300328844803373
+        "momentum": -0.0009165948081301395
       },
       {
         "time": 1767.69,
-        "momentum": -0.0009266787176891837
+        "momentum": -0.0009132891058074825
       },
       {
         "time": 1768.19,
-        "momentum": -0.0009233366477120789
+        "momentum": -0.0009099953255116025
       },
       {
         "time": 1768.69,
-        "momentum": -0.0009200066309218215
+        "momentum": -0.0009067134242456687
       },
       {
         "time": 1769.19,
-        "momentum": -0.0009166886238485518
+        "momentum": -0.000903443359167919
       },
       {
         "time": 1769.69,
-        "momentum": -0.0009133825831791845
+        "momentum": -0.0009001850875910999
       },
       {
         "time": 1770.19,
-        "momentum": -0.0009100884657568424
+        "momentum": -0.0008969385669819099
       },
       {
         "time": 1770.69,
-        "momentum": -0.0009068062285802944
+        "momentum": -0.000893703754960444
       },
       {
         "time": 1771.19,
-        "momentum": -0.0009035358288033932
+        "momentum": -0.0008904806092996402
       },
       {
         "time": 1771.69,
-        "momentum": -0.0009002772237345162
+        "momentum": -0.0008872690879247289
       },
       {
         "time": 1772.19,
-        "momentum": -0.0008970303708360087
+        "momentum": -0.0008840691489126829
       },
       {
         "time": 1772.69,
-        "momentum": -0.0008937952277236278
+        "momentum": -0.0008808807504916708
       },
       {
         "time": 1773.19,
-        "momentum": -0.0008905717521659895
+        "momentum": -0.0008777038510405115
       },
       {
         "time": 1773.69,
-        "momentum": -0.0008873599020840176
+        "momentum": -0.0008745384090881308
       },
       {
         "time": 1774.19,
-        "momentum": -0.0008841596355503945
+        "momentum": -0.0008713843833130198
       },
       {
         "time": 1774.69,
-        "momentum": -0.0008809709107890128
+        "momentum": -0.0008682417325426963
       },
       {
         "time": 1775.19,
-        "momentum": -0.0008777936861744315
+        "momentum": -0.0008651104157531661
       },
       {
         "time": 1775.69,
-        "momentum": -0.0008746279202313318
+        "momentum": -0.0008619903920683888
       },
       {
         "time": 1776.19,
-        "momentum": -0.0008714735716339756
+        "momentum": -0.0008588816207597433
       },
       {
         "time": 1776.69,
-        "momentum": -0.0008683305992056663
+        "momentum": -0.0008557840612454964
       },
       {
         "time": 1777.19,
-        "momentum": -0.0008651989619182111
+        "momentum": -0.0008526976730902731
       },
       {
         "time": 1777.69,
-        "momentum": -0.0008620786188913855
+        "momentum": -0.0008496224160045287
       },
       {
         "time": 1778.19,
-        "momentum": -0.0008589695293923999
+        "momentum": -0.0008465582498440233
       },
       {
         "time": 1778.69,
-        "momentum": -0.0008558716528353676
+        "momentum": -0.0008435051346092962
       },
       {
         "time": 1779.19,
-        "momentum": -0.0008527849487807746
+        "momentum": -0.0008404630304451462
       },
       {
         "time": 1779.69,
-        "momentum": -0.0008497093769349529
+        "momentum": -0.0008374318976401094
       },
       {
         "time": 1780.19,
-        "momentum": -0.0008466448971495531
+        "momentum": -0.0008344116966259411
       },
       {
         "time": 1780.69,
-        "momentum": -0.0008435914694210212
+        "momentum": -0.0008314023879771006
       },
       {
         "time": 1781.19,
-        "momentum": -0.0008405490538900762
+        "momentum": -0.0008284039324102344
       },
       {
         "time": 1781.69,
-        "momentum": -0.0008375176108411899
+        "momentum": -0.0008254162907836655
       },
       {
         "time": 1782.19,
-        "momentum": -0.0008344971007020677
+        "momentum": -0.0008224394240968807
       },
       {
         "time": 1782.69,
-        "momentum": -0.0008314874840431334
+        "momentum": -0.0008194732934900231
       },
       {
         "time": 1783.19,
-        "momentum": -0.0008284887215770128
+        "momentum": -0.0008165178602433833
       },
       {
         "time": 1783.69,
-        "momentum": -0.0008255007741580228
+        "momentum": -0.0008135730857768951
       },
       {
         "time": 1784.19,
-        "momentum": -0.0008225236027816585
+        "momentum": -0.0008106389316496308
       },
       {
         "time": 1784.69,
-        "momentum": -0.0008195571685840851
+        "momentum": -0.0008077153595593013
       },
       {
         "time": 1785.19,
-        "momentum": -0.0008166014328416305
+        "momentum": -0.0008048023313417536
       },
       {
         "time": 1785.69,
-        "momentum": -0.0008136563569702797
+        "momentum": -0.0008018998089704743
       },
       {
         "time": 1786.19,
-        "momentum": -0.0008107219025251707
+        "momentum": -0.000799007754556093
       },
       {
         "time": 1786.69,
-        "momentum": -0.0008077980312000936
+        "momentum": -0.0007961261303458869
       },
       {
         "time": 1787.19,
-        "momentum": -0.0008048847048269896
+        "momentum": -0.000793254898723289
       },
       {
         "time": 1787.69,
-        "momentum": -0.0008019818853754531
+        "momentum": -0.0007903940222073965
       },
       {
         "time": 1788.19,
-        "momentum": -0.0007990895349522353
+        "momentum": -0.0007875434634524815
       },
       {
         "time": 1788.69,
-        "momentum": -0.0007962076158007497
+        "momentum": -0.0007847031852475032
       },
       {
         "time": 1789.19,
-        "momentum": -0.0007933360903005793
+        "momentum": -0.0007818731505156235
       },
       {
         "time": 1789.69,
-        "momentum": -0.0007904749209669843
+        "momentum": -0.0007790533223137212
       },
       {
         "time": 1790.19,
-        "momentum": -0.0007876240704504149
+        "momentum": -0.000776243663831911
       },
       {
         "time": 1790.69,
-        "momentum": -0.0007847835015360221
+        "momentum": -0.0007734441383930625
       },
       {
         "time": 1791.19,
-        "momentum": -0.000781953177143172
+        "momentum": -0.0007706547094523213
       },
       {
         "time": 1791.69,
-        "momentum": -0.0007791330603249627
+        "momentum": -0.0007678753405966325
       },
       {
         "time": 1792.19,
-        "momentum": -0.0007763231142677412
+        "momentum": -0.0007651059955442647
       },
       {
         "time": 1792.69,
-        "momentum": -0.000773523302290623
+        "momentum": -0.0007623466381443368
       },
       {
         "time": 1793.19,
-        "momentum": -0.0007707335878450135
+        "momentum": -0.000759597232376346
       },
       {
         "time": 1793.69,
-        "momentum": -0.0007679539345141305
+        "momentum": -0.0007568577423496975
       },
       {
         "time": 1794.19,
-        "momentum": -0.0007651843060125294
+        "momentum": -0.0007541281323032363
       },
       {
         "time": 1794.69,
-        "momentum": -0.0007624246661856288
+        "momentum": -0.0007514083666047797
       },
       {
         "time": 1795.19,
-        "momentum": -0.0007596749790092392
+        "momentum": -0.000748698409750653
       },
       {
         "time": 1795.69,
-        "momentum": -0.0007569352085890922
+        "momentum": -0.0007459982263652253
       },
       {
         "time": 1796.19,
-        "momentum": -0.0007542053191603727
+        "momentum": -0.0007433077812004483
       },
       {
         "time": 1796.69,
-        "momentum": -0.0007514852750872509
+        "momentum": -0.0007406270391353958
       },
       {
         "time": 1797.19,
-        "momentum": -0.000748775040862418
+        "momentum": -0.0007379559651758052
       },
       {
         "time": 1797.69,
-        "momentum": -0.0007460745811066227
+        "momentum": -0.0007352945244536209
       },
       {
         "time": 1798.19,
-        "momentum": -0.0007433838605682086
+        "momentum": -0.0007326426822265393
       },
       {
         "time": 1798.69,
-        "momentum": -0.000740702844122655
+        "momentum": -0.0007300004038775547
       },
       {
         "time": 1799.19,
-        "momentum": -0.0007380314967721176
+        "momentum": -0.0007273676549145082
       },
       {
         "time": 1799.69,
-        "momentum": -0.0007353697836449719
+        "momentum": -0.0007247444009696364
       },
       {
         "time": 1800.19,
-        "momentum": -0.0007327176699953584
+        "momentum": -0.0007221306077991238
       },
       {
         "time": 1800.69,
-        "momentum": -0.0007300751212027281
+        "momentum": -0.000719526241282655
       },
       {
         "time": 1801.19,
-        "momentum": -0.0007274421027713918
+        "momentum": -0.0007169312674229701
       },
       {
         "time": 1801.69,
-        "momentum": -0.0007248185803300685
+        "momentum": -0.00071434565234542
       },
       {
         "time": 1802.19,
-        "momentum": -0.0007222045196314378
+        "momentum": -0.0007117693622975248
       },
       {
         "time": 1802.69,
-        "momentum": -0.000719599886551692
+        "momentum": -0.000709202363648533
       },
       {
         "time": 1803.19,
-        "momentum": -0.0007170046470900914
+        "momentum": -0.0007066446228889826
       },
       {
         "time": 1803.69,
-        "momentum": -0.0007144187673685197
+        "momentum": -0.0007040961066302635
       },
       {
         "time": 1804.19,
-        "momentum": -0.0007118422136310427
+        "momentum": -0.000701556781604182
       },
       {
         "time": 1804.69,
-        "momentum": -0.0007092749522434665
+        "momentum": -0.0006990266146625257
       },
       {
         "time": 1805.19,
-        "momentum": -0.0007067169496928992
+        "momentum": -0.0006965055727766318
       },
       {
         "time": 1805.69,
-        "momentum": -0.0007041681725873135
+        "momentum": -0.0006939936230369555
       },
       {
         "time": 1806.19,
-        "momentum": -0.0007016285876551103
+        "momentum": -0.0006914907326526401
       },
       {
         "time": 1806.69,
-        "momentum": -0.0006990981617446849
+        "momentum": -0.0006889968689510895
       },
       {
         "time": 1807.19,
-        "momentum": -0.0006965768618239935
+        "momentum": -0.000686511999377541
       },
       {
         "time": 1807.69,
-        "momentum": -0.0006940646549801232
+        "momentum": -0.0006840360914946416
       },
       {
         "time": 1808.19,
-        "momentum": -0.0006915615084188609
+        "momentum": -0.0006815691129820228
       },
       {
         "time": 1808.69,
-        "momentum": -0.0006890673894642663
+        "momentum": -0.0006791110316358802
       },
       {
         "time": 1809.19,
-        "momentum": -0.000686582265558245
+        "momentum": -0.0006766618153685522
       },
       {
         "time": 1809.69,
-        "momentum": -0.0006841061042601236
+        "momentum": -0.0006742214322081019
       },
       {
         "time": 1810.19,
-        "momentum": -0.0006816388732462257
+        "momentum": -0.0006717898502978986
       },
       {
         "time": 1810.69,
-        "momentum": -0.0006791805403094508
+        "momentum": -0.0006693670378962035
       },
       {
         "time": 1811.19,
-        "momentum": -0.0006767310733588529
+        "momentum": -0.0006669529633757538
       },
       {
         "time": 1811.69,
-        "momentum": -0.0006742904404192227
+        "momentum": -0.0006645475952233509
       },
       {
         "time": 1812.19,
-        "momentum": -0.0006718586096306692
+        "momentum": -0.0006621509020394484
       },
       {
         "time": 1812.69,
-        "momentum": -0.0006694355492482043
+        "momentum": -0.0006597628525377428
       },
       {
         "time": 1813.19,
-        "momentum": -0.0006670212276413284
+        "momentum": -0.0006573834155447644
       },
       {
         "time": 1813.69,
-        "momentum": -0.0006646156132936173
+        "momentum": -0.000655012559999471
       },
       {
         "time": 1814.19,
-        "momentum": -0.0006622186748023108
+        "momentum": -0.0006526502549528421
       },
       {
         "time": 1814.69,
-        "momentum": -0.0006598303808779032
+        "momentum": -0.0006502964695674748
       },
       {
         "time": 1815.19,
-        "momentum": -0.0006574507003437341
+        "momentum": -0.0006479511731171816
       },
       {
         "time": 1815.69,
-        "momentum": -0.0006550796021355823
+        "momentum": -0.000645614334986589
       },
       {
         "time": 1816.19,
-        "momentum": -0.0006527170553012593
+        "momentum": -0.0006432859246707379
       },
       {
         "time": 1816.69,
-        "momentum": -0.0006503630290002061
+        "momentum": -0.0006409659117746856
       },
       {
         "time": 1817.19,
-        "momentum": -0.0006480174925030903
+        "momentum": -0.0006386542660131087
       },
       {
         "time": 1817.69,
-        "momentum": -0.0006456804151914046
+        "momentum": -0.0006363509572099078
       },
       {
         "time": 1818.19,
-        "momentum": -0.0006433517665570679
+        "momentum": -0.0006340559552978143
       },
       {
         "time": 1818.69,
-        "momentum": -0.0006410315162020265
+        "momentum": -0.0006317692303179966
       },
       {
         "time": 1819.19,
-        "momentum": -0.0006387196338378571
+        "momentum": -0.00062949075241967
       },
       {
         "time": 1819.69,
-        "momentum": -0.000636416089285372
+        "momentum": -0.000627220491859707
       },
       {
         "time": 1820.19,
-        "momentum": -0.0006341208524742245
+        "momentum": -0.0006249584190022484
       },
       {
         "time": 1820.69,
-        "momentum": -0.0006318338934425173
+        "momentum": -0.0006227045043183171
       },
       {
         "time": 1821.19,
-        "momentum": -0.0006295551823364101
+        "momentum": -0.0006204587183854321
       },
       {
         "time": 1821.69,
-        "momentum": -0.0006272846894097312
+        "momentum": -0.0006182210318872252
       },
       {
         "time": 1822.19,
-        "momentum": -0.000625022385023588
+        "momentum": -0.0006159914156130571
       },
       {
         "time": 1822.69,
-        "momentum": -0.0006227682396459811
+        "momentum": -0.0006137698404576372
       },
       {
         "time": 1823.19,
-        "momentum": -0.0006205222238514182
+        "momentum": -0.0006115562774206432
       },
       {
         "time": 1823.69,
-        "momentum": -0.0006182843083205301
+        "momentum": -0.0006093506976063422
       },
       {
         "time": 1824.19,
-        "momentum": -0.000616054463839688
+        "momentum": -0.0006071530722232145
       },
       {
         "time": 1824.69,
-        "momentum": -0.0006138326613006223
+        "momentum": -0.0006049633725835766
       },
       {
         "time": 1825.19,
-        "momentum": -0.0006116188717000422
+        "momentum": -0.0006027815701032073
       },
       {
         "time": 1825.69,
-        "momentum": -0.0006094130661392578
+        "momentum": -0.0006006076363009748
       },
       {
         "time": 1826.19,
-        "momentum": -0.0006072152158238019
+        "momentum": -0.0005984415427984643
       },
       {
         "time": 1826.69,
-        "momentum": -0.0006050252920630551
+        "momentum": -0.0005962832613196078
       },
       {
         "time": 1827.19,
-        "momentum": -0.0006028432662698706
+        "momentum": -0.0005941327636903153
       },
       {
         "time": 1827.69,
-        "momentum": -0.0006006691099602012
+        "momentum": -0.0005919900218381067
       },
       {
         "time": 1828.19,
-        "momentum": -0.0005985027947527275
+        "momentum": -0.0005898550077917451
       },
       {
         "time": 1828.69,
-        "momentum": -0.0005963442923684877
+        "momentum": -0.0005877276936808723
       },
       {
         "time": 1829.19,
-        "momentum": -0.0005941935746305079
+        "momentum": -0.0005856080517356446
       },
       {
         "time": 1829.69,
-        "momentum": -0.0005920506134634346
+        "momentum": -0.0005834960542863701
       },
       {
         "time": 1830.19,
-        "momentum": -0.0005899153808931682
+        "momentum": -0.0005813916737631479
       },
       {
         "time": 1830.69,
-        "momentum": -0.0005877878490464979
+        "momentum": -0.0005792948826955082
       },
       {
         "time": 1831.19,
-        "momentum": -0.0005856679901507374
+        "momentum": -0.0005772056537120533
       },
       {
         "time": 1831.69,
-        "momentum": -0.0005835557765333631
+        "momentum": -0.0005751239595401005
       },
       {
         "time": 1832.19,
-        "momentum": -0.0005814511806216522
+        "momentum": -0.0005730497730053265
       },
       {
         "time": 1832.69,
-        "momentum": -0.0005793541749423229
+        "momentum": -0.0005709830670314117
       },
       {
         "time": 1833.19,
-        "momentum": -0.0005772647321211763
+        "momentum": -0.0005689238146396882
       },
       {
         "time": 1833.69,
-        "momentum": -0.0005751828248827382
+        "momentum": -0.0005668719889487856
       },
       {
         "time": 1834.19,
-        "momentum": -0.0005731084260499038
+        "momentum": -0.0005648275631742824
       },
       {
         "time": 1834.69,
-        "momentum": -0.0005710415085435825
+        "momentum": -0.0005627905106283543
       },
       {
         "time": 1835.19,
-        "momentum": -0.0005689820453823445
+        "momentum": -0.0005607608047194276
       },
       {
         "time": 1835.69,
-        "momentum": -0.0005669300096820686
+        "momentum": -0.0005587384189518302
       },
       {
         "time": 1836.19,
-        "momentum": -0.0005648853746555916
+        "momentum": -0.0005567233269254477
       },
       {
         "time": 1836.69,
-        "momentum": -0.0005628481136123578
+        "momentum": -0.0005547155023353771
       },
       {
         "time": 1837.19,
-        "momentum": -0.0005608181999580714
+        "momentum": -0.0005527149189715845
       },
       {
         "time": 1837.69,
-        "momentum": -0.0005587956071943488
+        "momentum": -0.0005507215507185623
       },
       {
         "time": 1838.19,
-        "momentum": -0.0005567803089183733
+        "momentum": -0.0005487353715549891
       },
       {
         "time": 1838.69,
-        "momentum": -0.0005547722788225496
+        "momentum": -0.0005467563555533888
       },
       {
         "time": 1839.19,
-        "momentum": -0.000552771490694161
+        "momentum": -0.0005447844768797932
       },
       {
         "time": 1839.69,
-        "momentum": -0.0005507779184150272
+        "momentum": -0.0005428197097934043
       },
       {
         "time": 1840.19,
-        "momentum": -0.0005487915359611631
+        "momentum": -0.0005408620286462587
       },
       {
         "time": 1840.69,
-        "momentum": -0.000546812317402439
+        "momentum": -0.0005389114078828918
       },
       {
         "time": 1841.19,
-        "momentum": -0.0005448402369022427
+        "momentum": -0.0005369678220400056
       },
       {
         "time": 1841.69,
-        "momentum": -0.0005428752687171416
+        "momentum": -0.0005350312457461351
       },
       {
         "time": 1842.19,
-        "momentum": -0.0005409173871965466
+        "momentum": -0.0005331016537213175
       },
       {
         "time": 1842.69,
-        "momentum": -0.0005389665667823781
+        "momentum": -0.0005311790207767629
       },
       {
         "time": 1843.19,
-        "momentum": -0.0005370227820087314
+        "momentum": -0.0005292633218145241
       },
       {
         "time": 1843.69,
-        "momentum": -0.0005350860075015449
+        "momentum": -0.0005273545318271701
       },
       {
         "time": 1844.19,
-        "momentum": -0.0005331562179782686
+        "momentum": -0.0005254526258974595
       },
       {
         "time": 1844.69,
-        "momentum": -0.0005312333882475338
+        "momentum": -0.0005235575791980145
       },
       {
         "time": 1845.19,
-        "momentum": -0.000529317493208825
+        "momentum": -0.0005216693669909978
       },
       {
         "time": 1845.69,
-        "momentum": -0.0005274085078521517
+        "momentum": -0.0005197879646277888
       },
       {
         "time": 1846.19,
-        "momentum": -0.0005255064072577215
+        "momentum": -0.0005179133475486626
       },
       {
         "time": 1846.69,
-        "momentum": -0.0005236111665956161
+        "momentum": -0.0005160454912824687
       },
       {
         "time": 1847.19,
-        "momentum": -0.0005217227611254659
+        "momentum": -0.0005141843714463123
       },
       {
         "time": 1847.69,
-        "momentum": -0.0005198411661961278
+        "momentum": -0.000512329963745235
       },
       {
         "time": 1848.19,
-        "momentum": -0.0005179663572453625
+        "momentum": -0.0005104822439718989
       },
       {
         "time": 1848.69,
-        "momentum": -0.0005160983097995156
+        "momentum": -0.0005086411880062694
       },
       {
         "time": 1849.19,
-        "momentum": -0.0005142369994731959
+        "momentum": -0.0005068067718153012
       },
       {
         "time": 1849.69,
-        "momentum": -0.000512382401968959
+        "momentum": -0.0005049789714526242
       },
       {
         "time": 1850.19,
-        "momentum": -0.000510534493076989
+        "momentum": -0.000503157763058231
       },
       {
         "time": 1850.69,
-        "momentum": -0.0005086932486747825
+        "momentum": -0.0005013431228581653
       },
       {
         "time": 1851.19,
-        "momentum": -0.0005068586447268346
+        "momentum": -0.0004995350271642118
       },
       {
         "time": 1851.69,
-        "momentum": -0.000505030657284324
+        "momentum": -0.0004977334523735865
       },
       {
         "time": 1852.19,
-        "momentum": -0.0005032092624848014
+        "momentum": -0.0004959383749686294
       },
       {
         "time": 1852.69,
-        "momentum": -0.000501394436551877
+        "momentum": -0.0004941497715164967
       },
       {
         "time": 1853.19,
-        "momentum": -0.0004995861557949108
+        "momentum": -0.0004923676186688554
       },
       {
         "time": 1853.69,
-        "momentum": -0.0004977843966087035
+        "momentum": -0.000490591893161578
       },
       {
         "time": 1854.19,
-        "momentum": -0.0004959891354731875
+        "momentum": -0.0004888225718144396
       },
       {
         "time": 1854.69,
-        "momentum": -0.0004942003489531208
+        "momentum": -0.00048705963153081465
       },
       {
         "time": 1855.19,
-        "momentum": -0.0004924180136977806
+        "momentum": -0.0004853030492973756
       },
       {
         "time": 1855.69,
-        "momentum": -0.0004906421064406584
+        "momentum": -0.00048355280218379275
       },
       {
         "time": 1856.19,
-        "momentum": -0.0004888726039991566
+        "momentum": -0.0004818088673424345
       },
       {
         "time": 1856.69,
-        "momentum": -0.00048710948327428566
+        "momentum": -0.00048007122200806947
       },
       {
         "time": 1857.19,
-        "momentum": -0.00048535272125036264
+        "momentum": -0.0004783398434975689
       },
       {
         "time": 1857.69,
-        "momentum": -0.00048360229499471076
+        "momentum": -0.0004766147092096114
       },
       {
         "time": 1858.19,
-        "momentum": -0.0004818581816573601
+        "momentum": -0.0004748957966243865
       },
       {
         "time": 1858.69,
-        "momentum": -0.00048012035847074886
+        "momentum": -0.00047318308330330215
       },
       {
         "time": 1859.19,
-        "momentum": -0.0004783888027494271
+        "momentum": -0.00047147654688869093
       },
       {
         "time": 1859.69,
-        "momentum": -0.0004766634918897595
+        "momentum": -0.0004697761651035184
       },
       {
         "time": 1860.19,
-        "momentum": -0.00047494440336963114
+        "momentum": -0.0004680819157510924
       },
       {
         "time": 1860.69,
-        "momentum": 0.15942151078031488
+        "momentum": 0.15942986939045825
       },
       {
         "time": 1861.19,
-        "momentum": 0.3174806961177188
+        "momentum": 0.31749052274687234
       },
       {
         "time": 1861.76,
-        "momentum": 0.3321112968749448
+        "momentum": 0.33212260679020605
       },
       {
         "time": 1862.26,
-        "momentum": 0.3422944544016153
+        "momentum": 0.3423063788451034
       },
       {
         "time": 1862.86,
-        "momentum": 0.3524408863357019
+        "momentum": 0.3524534230911186
       },
       {
         "time": 1863.36,
-        "momentum": 0.2026559828331173
+        "momentum": 0.20266760882004758
       },
       {
         "time": 1863.86,
-        "momentum": 0.05467188183095739
+        "momentum": 0.054682623041834535
       },
       {
         "time": 1864.36,
-        "momentum": 0.05008002958272736
+        "momentum": 0.05008986864698611
       },
       {
         "time": 1864.86,
-        "momentum": 0.049899415784087076
+        "momentum": 0.049909219363726796
       },
       {
         "time": 1865.36,
-        "momentum": 0.04971945336973173
+        "momentum": 0.049729221592727815
       },
       {
         "time": 1865.86,
-        "momentum": 0.04954013999044165
+        "momentum": 0.04954987298430796
       },
       {
         "time": 1866.36,
-        "momentum": 0.04936147330546966
+        "momentum": 0.04937117119726018
       },
       {
         "time": 1866.86,
-        "momentum": 0.04918345098251047
+        "momentum": 0.04919311389882095
       },
       {
         "time": 1867.36,
-        "momentum": 0.04900607069767028
+        "momentum": 0.0490156987646399
       },
       {
         "time": 1867.86,
-        "momentum": 0.0488293301354364
+        "momentum": 0.048838923478749435
       },
       {
         "time": 1868.36,
-        "momentum": 0.048653226988647054
+        "momentum": 0.0486627857335345
       },
       {
         "time": 1868.86,
-        "momentum": 0.04847775895846126
+        "momentum": 0.048487283229702444
       },
       {
         "time": 1869.36,
-        "momentum": 0.0483029237543288
+        "momentum": 0.048312413676253045
       },
       {
         "time": 1869.86,
-        "momentum": 0.04812871909396034
+        "momentum": 0.04813817479044859
       },
       {
         "time": 1870.36,
-        "momentum": 0.04795514270329763
+        "momentum": 0.04796456429778403
       },
       {
         "time": 1870.86,
-        "momentum": 0.04778219231648382
+        "momentum": 0.04779157993195736
       },
       {
         "time": 1871.36,
-        "momentum": 0.04760986567583388
+        "momentum": 0.04761921943483998
       },
       {
         "time": 1871.86,
-        "momentum": 0.04743816053180514
+        "momentum": 0.047447480556447263
       },
       {
         "time": 1872.36,
-        "momentum": 0.04726707464296788
+        "momentum": 0.047276361054909136
       },
       {
         "time": 1872.86,
-        "momentum": 0.047096605775976144
+        "momentum": 0.04710585869644084
       },
       {
         "time": 1873.36,
-        "momentum": 0.04692675170553852
+        "momentum": 0.04693597125531379
       },
       {
         "time": 1873.86,
-        "momentum": 0.04675751021438911
+        "momentum": 0.04676669651382647
       },
       {
         "time": 1874.36,
-        "momentum": 0.04658887909325864
+        "momentum": 0.04659803226227553
       },
       {
         "time": 1874.86,
-        "momentum": 0.04642085614084551
+        "momentum": 0.04642997629892692
       },
       {
         "time": 1875.36,
-        "momentum": 0.04625343916378718
+        "momentum": 0.04626252642998715
       },
       {
         "time": 1875.86,
-        "momentum": 0.04608662597663143
+        "momentum": 0.04609568046957465
       },
       {
         "time": 1876.36,
-        "momentum": 0.04592041440180791
+        "momentum": 0.04592943623969124
       },
       {
         "time": 1876.86,
-        "momentum": 0.04575480226959968
+        "momentum": 0.04576379157019371
       },
       {
         "time": 1877.36,
-        "momentum": 0.0455897874181149
+        "momentum": 0.04559874429876547
       },
       {
         "time": 1877.86,
-        "momentum": 0.04542536769325857
+        "momentum": 0.04543429227088832
       },
       {
         "time": 1878.36,
-        "momentum": 0.045261540948704465
+        "momentum": 0.045270433339814356
       },
       {
         "time": 1878.86,
-        "momentum": 0.04509830504586711
+        "momentum": 0.04510716536653792
       },
       {
         "time": 1879.36,
-        "momentum": 0.044935657853873795
+        "momentum": 0.044944486219767696
       },
       {
         "time": 1879.86,
-        "momentum": 0.04477359724953686
+        "momentum": 0.04478239377589885
       },
       {
         "time": 1880.36,
-        "momentum": 0.044612121117325904
+        "momentum": 0.044620885918985366
       },
       {
         "time": 1880.86,
-        "momentum": 0.04445122734934019
+        "momentum": 0.04445996054071238
       },
       {
         "time": 1881.36,
-        "momentum": 0.04429091384528116
+        "momentum": 0.04429961554036867
       },
       {
         "time": 1881.86,
-        "momentum": 0.04413117851242495
+        "momentum": 0.04413984882481925
       },
       {
         "time": 1882.36,
-        "momentum": 0.04397201926559514
+        "momentum": 0.04398065830847801
       },
       {
         "time": 1882.86,
-        "momentum": 0.04381343402713549
+        "momentum": 0.043822041913280554
       },
       {
         "time": 1883.36,
-        "momentum": 0.04365542072688285
+        "momentum": 0.04366399756865698
       },
       {
         "time": 1883.86,
-        "momentum": 0.04349797730214012
+        "momentum": 0.04350652321150493
       },
       {
         "time": 1884.36,
-        "momentum": 0.0433411016976493
+        "momentum": 0.04334961678616265
       },
       {
         "time": 1884.86,
-        "momentum": 0.04318479186556471
+        "momentum": 0.0431932762443821
       },
       {
         "time": 1885.36,
-        "momentum": 0.043029045765426224
+        "momentum": 0.04303749954530228
       },
       {
         "time": 1885.86,
-        "momentum": 0.04287386136413264
+        "momentum": 0.04288228465542255
       },
       {
         "time": 1886.36,
-        "momentum": 0.042719236635915155
+        "momentum": 0.042727629548576104
       },
       {
         "time": 1886.86,
-        "momentum": 0.04256516956231089
+        "momentum": 0.04257353220590351
       },
       {
         "time": 1887.36,
-        "momentum": 0.042411658132136563
+        "momentum": 0.04241999061582635
       },
       {
         "time": 1887.86,
-        "momentum": 0.04225870034146225
+        "momentum": 0.042267002774021
       },
       {
         "time": 1888.36,
-        "momentum": 0.04210629419358518
+        "momentum": 0.042114566683392404
       },
       {
         "time": 1888.86,
-        "momentum": 0.04195443769900372
+        "momentum": 0.04196268035404806
       },
       {
         "time": 1889.36,
-        "momentum": 0.04180312887539137
+        "momentum": 0.041811341803271986
       },
       {
         "time": 1889.86,
-        "momentum": 0.0416523657475709
+        "momentum": 0.04166054905549891
       },
       {
         "time": 1890.36,
-        "momentum": 0.04150214634748855
+        "momentum": 0.041510300142288424
       },
       {
         "time": 1890.86,
-        "momentum": 0.041352468714188385
+        "momentum": 0.041360593102299316
       },
       {
         "time": 1891.36,
-        "momentum": 0.04120333089378664
+        "momentum": 0.04121142598126395
       },
       {
         "time": 1891.86,
-        "momentum": 0.041054730939446234
+        "momentum": 0.04106279683196276
       },
       {
         "time": 1892.36,
-        "momentum": 0.04090666691135138
+        "momentum": 0.04091470371419885
       },
       {
         "time": 1892.86,
-        "momentum": 0.040759136876682214
+        "momentum": 0.04076714469477263
       },
       {
         "time": 1893.36,
-        "momentum": 0.040612138909589646
+        "momentum": 0.040620117847456616
       },
       {
         "time": 1893.86,
-        "momentum": 0.04046567109117011
+        "momentum": 0.040473621252970264
       },
       {
         "time": 1894.36,
-        "momentum": 0.0403197315094406
+        "momentum": 0.040327652998954924
       },
       {
         "time": 1894.86,
-        "momentum": 0.04017431825931368
+        "momentum": 0.04018221117994888
       },
       {
         "time": 1895.36,
-        "momentum": 0.04002942944257263
+        "momentum": 0.04003729389736245
       },
       {
         "time": 1895.86,
-        "momentum": 0.039885063167846624
+        "momentum": 0.03989289925945325
       },
       {
         "time": 1896.36,
-        "momentum": 0.03974121755058611
+        "momentum": 0.03974902538130144
       },
       {
         "time": 1896.86,
-        "momentum": 0.03959789071303813
+        "momentum": 0.03960567038478519
       },
       {
         "time": 1897.36,
-        "momentum": 0.039455080784221885
+        "momentum": 0.03946283239855608
       },
       {
         "time": 1897.86,
-        "momentum": 0.03931278589990426
+        "momentum": 0.039320509558014735
       },
       {
         "time": 1898.36,
-        "momentum": 0.039171004202575486
+        "momentum": 0.03917870000528647
       },
       {
         "time": 1898.86,
-        "momentum": 0.03902973384142494
+        "momentum": 0.039037401889197035
       },
       {
         "time": 1899.36,
-        "momentum": 0.03888897297231694
+        "momentum": 0.03889661336524841
       },
       {
         "time": 1899.86,
-        "momentum": 0.038748719757766684
+        "momentum": 0.038756332595594814
       },
       {
         "time": 1900.36,
-        "momentum": 0.03860897236691626
+        "momentum": 0.03861655774901862
       },
       {
         "time": 1900.86,
-        "momentum": 0.03846972897551077
+        "momentum": 0.03847728700090653
       },
       {
         "time": 1901.36,
-        "momentum": 0.03833098776587447
+        "momentum": 0.03833851853322569
       },
       {
         "time": 1901.86,
-        "momentum": 0.03819274692688709
+        "momentum": 0.038200250534500005
       },
       {
         "time": 1902.36,
-        "momentum": 0.038055004653960174
+        "momentum": 0.03806248119978646
       },
       {
         "time": 1902.86,
-        "momentum": 0.037917759149013505
+        "momentum": 0.037925208730651604
       },
       {
         "time": 1903.36,
-        "momentum": 0.03778100862045166
+        "momentum": 0.037788431335148004
       },
       {
         "time": 1903.86,
-        "momentum": 0.03764475128314061
+        "momentum": 0.03765214722779091
       },
       {
         "time": 1904.36,
-        "momentum": 0.03750898535838441
+        "momentum": 0.03751635462953494
       },
       {
         "time": 1904.86,
-        "momentum": 0.037373709073901994
+        "momentum": 0.03738105176775082
       },
       {
         "time": 1905.36,
-        "momentum": 0.03723892066380404
+        "momentum": 0.037246236876202286
       },
       {
         "time": 1905.86,
-        "momentum": 0.0371046183685699
+        "momentum": 0.03711190819502301
       },
       {
         "time": 1906.36,
-        "momentum": 0.03697080043502465
+        "momentum": 0.03697806397069363
       },
       {
         "time": 1906.86,
-        "momentum": 0.036837465116316206
+        "momentum": 0.036844702456018855
       },
       {
         "time": 1907.36,
-        "momentum": 0.03670461067189248
+        "momentum": 0.036711821910104636
       },
       {
         "time": 1907.86,
-        "momentum": 0.03657223536747872
+        "momentum": 0.03657942059833551
       },
       {
         "time": 1908.36,
-        "momentum": 0.03644033747505485
+        "momentum": 0.03644749679235189
       },
       {
         "time": 1908.86,
-        "momentum": 0.03630891527283288
+        "momentum": 0.0363160487700275
       },
       {
         "time": 1909.36,
-        "momentum": 0.03617796704523445
+        "momentum": 0.03618507481544695
       },
       {
         "time": 1909.86,
-        "momentum": 0.03604749108286848
+        "momentum": 0.0360545732188833
       },
       {
         "time": 1910.36,
-        "momentum": 0.035917485682508764
+        "momentum": 0.03592454227677573
       },
       {
         "time": 1910.86,
-        "momentum": 0.035787949147071826
+        "momentum": 0.03579498029170734
       },
       {
         "time": 1911.36,
-        "momentum": 0.035658879785594705
+        "momentum": 0.03566588557238295
       },
       {
         "time": 1911.86,
-        "momentum": 0.09860050483003512
+        "momentum": 0.09860808854854741
       },
       {
         "time": 1912.36,
-        "momentum": 0.15925090517641394
+        "momentum": 0.1592590061865857
       },
       {
         "time": 1912.9,
-        "momentum": 0.21968256964569993
+        "momentum": 0.219691186081917
       },
       {
         "time": 1913.4,
-        "momentum": 0.2798962871095848
+        "momentum": 0.27990541711296146
       },
       {
         "time": 1913.9,
-        "momentum": 0.3398928435946919
+        "momentum": 0.3399024853130464
       },
       {
         "time": 1914.4,
-        "momentum": 0.3366027933760146
+        "momentum": 0.33661234176572685
       },
       {
         "time": 1914.9,
-        "momentum": 0.3353888342459757
+        "momentum": 0.3353983481993877
       },
       {
         "time": 1915.4,
-        "momentum": 0.3341792532637074
+        "momentum": 0.33418873290501366
       },
       {
         "time": 1915.9,
-        "momentum": 0.26291290469329887
+        "momentum": 0.262922405146048
       },
       {
         "time": 1916.4,
-        "momentum": 0.19209538140281265
+        "momentum": 0.19210480877389388
       },
       {
         "time": 1917.05,
-        "momentum": 0.12153326175322607
+        "momentum": 0.12154261630620877
       },
       {
         "time": 1917.55,
-        "momentum": 0.05122562463043131
+        "momentum": 0.051234906627934194
       },
       {
         "time": 1918.05,
-        "momentum": -0.01882844775767825
+        "momentum": -0.018819238053983594
       },
       {
         "time": 1918.55,
-        "momentum": -0.01856873994708309
+        "momentum": -0.018559657276270465
       },
       {
         "time": 1919.05,
-        "momentum": -0.018501771722708022
+        "momentum": -0.018492721808578864
       },
       {
         "time": 1919.55,
-        "momentum": -0.018435045019464094
+        "momentum": -0.018426027743881315
       },
       {
         "time": 1920.05,
-        "momentum": -0.018368558966304523
+        "momentum": -0.018359574211557095
       },
       {
         "time": 1920.55,
-        "momentum": -0.018302312695323952
+        "momentum": -0.01829336034412537
       },
       {
         "time": 1921.05,
-        "momentum": -0.018236305341747132
+        "momentum": -0.018227385277233884
       },
       {
         "time": 1921.55,
-        "momentum": -0.01817053604391762
+        "momentum": -0.018161648149647668
       },
       {
         "time": 1922.05,
-        "momentum": -0.01810500394328655
+        "momentum": -0.0180961481032378
       },
       {
         "time": 1922.55,
-        "momentum": -0.11421196197967376
+        "momentum": -0.11420305382241673
       },
       {
         "time": 1923.05,
-        "momentum": -0.20805893177811963
+        "momentum": -0.20805000671441615
       },
       {
         "time": 1923.97,
-        "momentum": -0.3015674421577631
+        "momentum": -0.3015585002485864
       },
       {
         "time": 1924.47,
-        "momentum": -0.39473871377366015
+        "momentum": -0.39472975507976343
       },
       {
         "time": 1924.97,
-        "momentum": -0.4875739628785702
+        "momentum": -0.48756498746048765
       },
       {
         "time": 1925.47,
-        "momentum": -0.3656536591327183
+        "momentum": -0.36564471906420376
       },
       {
         "time": 1925.97,
-        "momentum": -0.24638602520520508
+        "momentum": -0.24637710947747146
       },
       {
         "time": 1926.66,
-        "momentum": -0.12754853040895778
+        "momentum": -0.12753963893421996
       },
       {
         "time": 1927.16,
-        "momentum": 0.06309609797024922
+        "momentum": 0.06310498443138893
       },
       {
         "time": 1927.66,
-        "momentum": 0.2507965311618093
+        "momentum": 0.250805369917628
       },
       {
         "time": 1928.55,
-        "momentum": 0.31957153368575086
+        "momentum": 0.3195802926659102
       },
       {
         "time": 1929.05,
-        "momentum": 0.3883980845874162
+        "momentum": 0.3884067884204082
       },
       {
         "time": 1929.55,
-        "momentum": 0.45697641229693814
+        "momentum": 0.4569850611816513
       },
       {
         "time": 1930.05,
-        "momentum": 0.45307169061613956
+        "momentum": 0.4530802655988159
       },
       {
         "time": 1930.55,
-        "momentum": 0.6449464671688873
+        "momentum": 0.6449550397815438
       },
       {
         "time": 1931.05,
-        "momentum": 1.1969458823723513
+        "momentum": 1.1969544575988311
       },
       {
         "time": 1932.6200000000001,
-        "momentum": 1.6150315517345386
+        "momentum": 1.615039775865231
       },
       {
         "time": 1932.72,
-        "momentum": 2.031609393694671
+        "momentum": 2.031617267995804
       },
       {
         "time": 1933.22,
-        "momentum": 2.4466848462374506
+        "momentum": 2.4466923719706863
       },
       {
         "time": 1933.72,
-        "momentum": 2.6667545465748903
+        "momentum": 2.6667616964416547
       },
       {
         "time": 1934.22,
-        "momentum": 2.5252139290912936
+        "momentum": 2.525220699471855
       },
       {
         "time": 1934.72,
-        "momentum": 2.516106736385684
+        "momentum": 2.5161134823488447
       },
       {
         "time": 1935.22,
-        "momentum": 2.5070323888018367
+        "momentum": 2.507039110435658
       },
       {
         "time": 1935.72,
-        "momentum": 2.4979907678837074
+        "momentum": 2.497997465275933
       },
       {
         "time": 1936.22,
-        "momentum": 2.488981755602463
+        "momentum": 2.4889884288405213
       },
       {
         "time": 1936.72,
-        "momentum": 2.4800052343549446
+        "momentum": 2.4800118835259464
       },
       {
         "time": 1937.22,
-        "momentum": 2.4710610869621257
+        "momentum": 2.4710677121528697
       },
       {
         "time": 1937.72,
-        "momentum": 2.462149196667589
+        "momentum": 2.4621557979645594
       },
       {
         "time": 1938.22,
-        "momentum": 2.4532694471359986
+        "momentum": 2.4532760246253686
       },
       {
         "time": 1938.72,
-        "momentum": 2.4444217224515823
+        "momentum": 2.444428276219215
       },
       {
         "time": 1939.22,
-        "momentum": 2.4356059071166194
+        "momentum": 2.4356124372480665
       },
       {
         "time": 1939.72,
-        "momentum": 2.426821886049931
+        "momentum": 2.4268283926304366
       },
       {
         "time": 1940.22,
-        "momentum": 2.4180695445853795
+        "momentum": 2.4180760276998803
       },
       {
         "time": 1940.72,
-        "momentum": 2.4093487684703714
+        "momentum": 2.4093552282034976
       },
       {
         "time": 1941.22,
-        "momentum": 2.400659443864365
+        "momentum": 2.4006658803004415
       },
       {
         "time": 1941.72,
-        "momentum": 2.392001457337385
+        "momentum": 2.392007870560432
       },
       {
         "time": 1942.22,
-        "momentum": 2.383374695868542
+        "momentum": 2.383381085962278
       },
       {
         "time": 1942.72,
-        "momentum": 2.374779046844556
+        "momentum": 2.3747854138923974
       },
       {
         "time": 1943.22,
-        "momentum": 2.366214398058288
+        "momentum": 2.3662207421433497
       },
       {
         "time": 1943.72,
-        "momentum": 2.3576806377072748
+        "momentum": 2.357686958912372
       },
       {
         "time": 1944.22,
-        "momentum": 2.3491776543922684
+        "momentum": 2.3491839527999177
       },
       {
         "time": 1944.72,
-        "momentum": 2.3407053371157827
+        "momentum": 2.340711612808203
       },
       {
         "time": 1945.22,
-        "momentum": 2.332263575280644
+        "momentum": 2.3322698283397583
       },
       {
         "time": 1945.72,
-        "momentum": 2.3238522586885493
+        "momentum": 2.3238584891959837
       },
       {
         "time": 1946.22,
-        "momentum": 2.3154712775386237
+        "momentum": 2.315477485575712
       },
       {
         "time": 1946.72,
-        "momentum": 2.3071205224259916
+        "momentum": 2.307126708073773
       },
       {
         "time": 1947.22,
-        "momentum": 2.2987998843403457
+        "momentum": 2.298806047679567
       },
       {
         "time": 1947.72,
-        "momentum": 2.2905092546645243
+        "momentum": 2.2905153957756417
       },
       {
         "time": 1948.22,
-        "momentum": 2.282248525173095
+        "momentum": 2.282254644136274
       },
       {
         "time": 1948.72,
-        "momentum": 2.2740175880309397
+        "momentum": 2.2740236849260573
       },
       {
         "time": 1949.22,
-        "momentum": 2.265816335791849
+        "momentum": 2.265822410698493
       },
       {
         "time": 1949.72,
-        "momentum": 2.257644661397117
+        "momentum": 2.2576507143945896
       },
       {
         "time": 1950.22,
-        "momentum": 2.2495024581741476
+        "momentum": 2.249508489341464
       },
       {
         "time": 1950.72,
-        "momentum": 2.241389619835058
+        "momentum": 2.2413956292509485
       },
       {
         "time": 1951.22,
-        "momentum": 2.2333060404752936
+        "momentum": 2.2333120282182053
       },
       {
         "time": 1951.72,
-        "momentum": 2.225251614572245
+        "momentum": 2.2252575807203416
       },
       {
         "time": 1952.22,
-        "momentum": 2.217226236983872
+        "momentum": 2.217232181615034
       },
       {
         "time": 1952.72,
-        "momentum": 2.209229802947325
+        "momentum": 2.2092357261391555
       },
       {
         "time": 1953.22,
-        "momentum": 2.201262208077588
+        "momentum": 2.201268109907406
       },
       {
         "time": 1953.72,
-        "momentum": 2.1933233483661043
+        "momentum": 2.1933292289109536
       },
       {
         "time": 1954.22,
-        "momentum": 2.185413120179429
+        "momentum": 2.185418979516073
       },
       {
         "time": 1954.72,
-        "momentum": 2.1775314202578686
+        "momentum": 2.1775372584627943
       },
       {
         "time": 1955.22,
-        "momentum": 2.1696781457141374
+        "momentum": 2.1696839628635574
       },
       {
         "time": 1955.72,
-        "momentum": 2.161853194032012
+        "momentum": 2.161858990201863
       },
       {
         "time": 1956.22,
-        "momentum": 2.1540564630649954
+        "momentum": 2.1540622383309396
       },
       {
         "time": 1956.72,
-        "momentum": 2.1462878510349817
+        "momentum": 2.146293605472409
       },
       {
         "time": 1957.22,
-        "momentum": 2.1385472565309276
+        "momentum": 2.138552990214957
       },
       {
         "time": 1957.72,
-        "momentum": 2.1308345785075296
+        "momentum": 2.1308402915130076
       },
       {
         "time": 1958.22,
-        "momentum": 2.123149716283905
+        "momentum": 2.1231554086854088
       },
       {
         "time": 1958.72,
-        "momentum": 2.1154925695422753
+        "momentum": 2.115498241414114
       },
       {
         "time": 1959.22,
-        "momentum": 2.1078630383266606
+        "momentum": 2.1078686897428742
       },
       {
         "time": 1959.72,
-        "momentum": 2.100261023041571
+        "momentum": 2.100266654075933
       },
       {
         "time": 1960.22,
-        "momentum": 2.092686424450709
+        "momentum": 2.0926920351767255
       },
       {
         "time": 1960.72,
-        "momentum": 2.085139143675672
+        "momentum": 2.085144734166586
       },
       {
         "time": 1961.22,
-        "momentum": 2.077619082194664
+        "momentum": 2.077624652523453
       },
       {
         "time": 1961.72,
-        "momentum": 2.0701261418412074
+        "momentum": 2.0701316920805866
       },
       {
         "time": 1962.22,
-        "momentum": 2.0626602248028627
+        "momentum": 2.0626657550252845
       },
       {
         "time": 1962.72,
-        "momentum": 2.0552212336199505
+        "momentum": 2.055226743897607
       },
       {
         "time": 1963.22,
-        "momentum": 2.0917414990660426
+        "momentum": 2.0917472681253093
       },
       {
         "time": 1963.72,
-        "momentum": 2.115813233005389
+        "momentum": 2.1158192224924397
       },
       {
         "time": 1964.63,
-        "momentum": 2.139798152153633
+        "momentum": 2.139804361273493
       },
       {
         "time": 1965.13,
-        "momentum": 2.163696569608616
+        "momentum": 2.1637029975691795
       },
       {
         "time": 1965.63,
-        "momentum": 2.187508797338993
+        "momentum": 2.1875154433510096
       },
       {
         "time": 1966.13,
-        "momentum": 2.16730271830654
+        "momentum": 2.167309302929161
       },
       {
         "time": 1966.63,
-        "momentum": 2.159486333611516
+        "momentum": 2.159492894486673
       },
       {
         "time": 1967.13,
-        "momentum": 2.090641220155923
+        "momentum": 2.0906477906161447
       },
       {
         "time": 1967.63,
-        "momentum": 2.0149431842537116
+        "momentum": 2.0149497384476533
       },
       {
         "time": 1968.48,
-        "momentum": 1.939518153577891
+        "momentum": 1.9395246915642173
       },
       {
         "time": 1968.98,
-        "momentum": 1.8643651435341755
+        "momentum": 1.8643716653713387
       },
       {
         "time": 1969.48,
-        "momentum": 1.789483173079221
+        "momentum": 1.789489678825463
       },
       {
         "time": 1969.98,
-        "momentum": 1.710356257248129
+        "momentum": 1.7103627370841494
       },
       {
         "time": 1970.48,
-        "momentum": 1.6344306419546104
+        "momentum": 1.6344371027583329
       },
       {
         "time": 1971.2,
-        "momentum": 1.558778852653339
+        "momentum": 1.5587852944934038
       },
       {
         "time": 1971.7,
-        "momentum": 1.483399901789934
+        "momentum": 1.483406324734733
       },
       {
         "time": 1972.2,
-        "momentum": 1.2923512016323209
+        "momentum": 1.292357624205287
       },
       {
         "time": 1972.7,
-        "momentum": 1.1615004043667776
+        "momentum": 1.161506755312026
       },
       {
         "time": 1973.24,
-        "momentum": 1.035306804491581
+        "momentum": 1.0353131030997353
       },
       {
         "time": 1973.74,
-        "momentum": 0.909568322267621
+        "momentum": 0.9095745687274353
       },
       {
         "time": 1974.24,
-        "momentum": 0.7842833163115257
+        "momentum": 0.784289510811073
       },
       {
         "time": 1974.74,
-        "momentum": 0.7753917548988891
+        "momentum": 0.7753978791702778
       },
       {
         "time": 1975.24,
-        "momentum": 0.7725953018725326
+        "momentum": 0.7726014040567154
       },
       {
         "time": 1975.74,
-        "momentum": 0.7698089342636172
+        "momentum": 0.7698150144402518
       },
       {
         "time": 1976.24,
-        "momentum": 0.7670326156990503
+        "momentum": 0.767038673947507
       },
       {
         "time": 1976.74,
-        "momentum": 0.7642663099369191
+        "momentum": 0.764272346336282
       },
       {
         "time": 1977.24,
-        "momentum": 0.959072884885464
+        "momentum": 0.9590789434519786
       },
       {
         "time": 1977.74,
-        "momentum": 1.1156376343160572
+        "momentum": 1.1156435816983128
       },
       {
         "time": 1978.51,
-        "momentum": 1.2716377324402626
+        "momentum": 1.2716435690392456
       },
       {
         "time": 1979.01,
-        "momentum": 1.4270752156749555
+        "momentum": 1.4270809418902064
       },
       {
         "time": 1979.51,
-        "momentum": 1.5819521130926668
+        "momentum": 1.5819577293222844
       },
       {
         "time": 1980.01,
-        "momentum": 1.538707542428623
+        "momentum": 1.5387130051318245
       },
       {
         "time": 1980.51,
-        "momentum": 1.5331581883936898
+        "momentum": 1.5331636313956332
       },
       {
         "time": 1981.01,
-        "momentum": 1.5276288481231373
+        "momentum": 1.5276342714948754
       },
       {
         "time": 1981.51,
-        "momentum": 1.5221194494372552
+        "momentum": 1.5221248532495848
       },
       {
         "time": 1982.01,
-        "momentum": 1.5166299204166505
+        "momentum": 1.5166353047401124
       },
       {
         "time": 1982.51,
-        "momentum": 1.511160189401307
+        "momentum": 1.5111655543061877
       },
       {
         "time": 1983.01,
-        "momentum": 1.5057101849896506
+        "momentum": 1.5057155305459835
       },
       {
         "time": 1983.51,
-        "momentum": 1.5002798360376175
+        "momentum": 1.5002851623151832
       },
       {
         "time": 1984.01,
-        "momentum": 1.494869071657725
+        "momentum": 1.4948743787260526
       },
       {
         "time": 1984.51,
-        "momentum": 1.4894778212181468
+        "momentum": 1.489483109146514
       },
       {
         "time": 1985.01,
-        "momentum": 1.4841060143417895
+        "momentum": 1.484111283199225
       },
       {
         "time": 1985.51,
-        "momentum": 1.478753580905376
+        "momentum": 1.478758830760659
       },
       {
         "time": 1986.01,
-        "momentum": 1.4734204510385287
+        "momentum": 1.4734256819601905
       },
       {
         "time": 1986.51,
-        "momentum": 1.4681065551228574
+        "momentum": 1.4681117671791823
       },
       {
         "time": 1987.01,
-        "momentum": 1.4628118237910512
+        "momentum": 1.4628170170500772
       },
       {
         "time": 1987.51,
-        "momentum": 1.457536187925973
+        "momentum": 1.4575413624554923
       },
       {
         "time": 1988.01,
-        "momentum": 1.452279578659756
+        "momentum": 1.4522847345273167
       },
       {
         "time": 1988.51,
-        "momentum": 1.4470419273729058
+        "momentum": 1.4470470646458127
       },
       {
         "time": 1989.01,
-        "momentum": 1.4418231656934055
+        "momentum": 1.44182828443872
       },
       {
         "time": 1989.51,
-        "momentum": 1.436623225495821
+        "momentum": 1.436628325780363
       },
       {
         "time": 1990.01,
-        "momentum": 1.431442038900413
+        "momentum": 1.4314471207907613
       },
       {
         "time": 1990.51,
-        "momentum": 1.4262795382722513
+        "momentum": 1.4262846018347444
       },
       {
         "time": 1991.01,
-        "momentum": 1.4211356562203303
+        "momentum": 1.4211407015210678
       },
       {
         "time": 1991.51,
-        "momentum": 1.416010325596691
+        "momentum": 1.4160153527015342
       },
       {
         "time": 1992.01,
-        "momentum": 1.4109034794955437
+        "momentum": 1.4109084884701162
       },
       {
         "time": 1992.51,
-        "momentum": 1.4058150512523948
+        "momentum": 1.4058200421620832
       },
       {
         "time": 1993.01,
-        "momentum": 1.3737079045885743
+        "momentum": 1.3737129945231747
       },
       {
         "time": 1993.51,
-        "momentum": 1.3346589143464624
+        "momentum": 1.3346640719055949
       },
       {
         "time": 1994.33,
-        "momentum": 1.295750754421734
+        "momentum": 1.29575597936151
       },
       {
         "time": 1994.83,
-        "momentum": 1.2569829169093654
+        "momentum": 1.2569882089867765
       },
       {
         "time": 1995.33,
-        "momentum": 1.2183548957360948
+        "momentum": 1.2183602547090093
       },
       {
         "time": 1995.83,
-        "momentum": 1.206903256508417
+        "momentum": 1.2069085651109306
       },
       {
         "time": 1996.33,
-        "momentum": 1.2025505557699074
+        "momentum": 1.202555845226928
       },
       {
         "time": 1996.83,
-        "momentum": 1.1964664374413065
+        "momentum": 1.1964717001371383
       },
       {
         "time": 1997.33,
-        "momentum": 1.1904042615063477
+        "momentum": 1.190409497537505
       },
       {
         "time": 1998.79,
-        "momentum": 1.1843639488297129
+        "momentum": 1.1843691582923621
       },
       {
         "time": 1999.29,
-        "momentum": 1.1783454205614856
+        "momentum": 1.178350603551446
       },
       {
         "time": 1999.79,
-        "momentum": 1.1723485981361226
+        "momentum": 1.172353754748868
       },
       {
         "time": 2000.29,
-        "momentum": 1.1681205188916763
+        "momentum": 1.1681256569070804
       },
       {
         "time": 2000.79,
-        "momentum": 1.1639076882295425
+        "momentum": 1.163912807714676
       },
       {
         "time": 2001.29,
-        "momentum": 1.09446291130531
+        "momentum": 1.094468042029674
       },
       {
         "time": 2001.79,
-        "momentum": 1.022080009439824
+        "momentum": 1.0220851312186077
       },
       {
         "time": 2002.31,
-        "momentum": 0.9499581567584429
+        "momentum": 0.9499632696239086
       },
       {
         "time": 2002.81,
-        "momentum": 0.8780964117863883
+        "momentum": 0.8781015157706819
       },
       {
         "time": 2003.31,
-        "momentum": 0.8064938364443133
+        "momentum": 0.8064989315794646
       },
       {
         "time": 2003.81,
-        "momentum": 0.7312937174364538
+        "momentum": 0.7312987923544154
       },
       {
         "time": 2004.31,
-        "momentum": 0.6493278822102676
+        "momentum": 0.6493328407438459
       },
       {
         "time": 2005.02,
-        "momentum": 0.567657657050255
+        "momentum": 0.5676624996191907
       },
       {
         "time": 2005.52,
-        "momentum": 0.4862819758376973
+        "momentum": 0.48628670286021725
       },
       {
         "time": 2006.02,
-        "momentum": 0.40519977629883674
+        "momentum": 0.4052043881916595
       },
       {
         "time": 2006.52,
-        "momentum": 0.3935129184409596
+        "momentum": 0.39351739731659174
       },
       {
         "time": 2007.02,
-        "momentum": 0.3920937127494725
+        "momentum": 0.3920981754720244
       },
       {
         "time": 2007.52,
-        "momentum": 0.3906796254281847
+        "momentum": 0.3906840720559123
       },
       {
         "time": 2008.02,
-        "momentum": 0.38927063801767636
+        "momentum": 0.3892750686086258
       },
       {
         "time": 2008.52,
-        "momentum": 0.3878667321251018
+        "momentum": 0.38787114673710976
       },
       {
         "time": 2009.02,
-        "momentum": 0.3864678894239491
+        "momentum": 0.38647228811464374
       },
       {
         "time": 2009.52,
-        "momentum": 0.385074091653801
+        "momentum": 0.38507847448060256
       },
       {
         "time": 2010.02,
-        "momentum": 0.38368532062009664
+        "momentum": 0.38368968764021827
       },
       {
         "time": 2010.52,
-        "momentum": 0.38230155819389366
+        "momentum": 0.3823059094643423
       },
       {
         "time": 2011.02,
-        "momentum": 0.38092278631163196
+        "momentum": 0.38092712188920874
       },
       {
         "time": 2011.52,
-        "momentum": 0.3795489869748977
+        "momentum": 0.379553306916199
       },
       {
         "time": 2012.02,
-        "momentum": 0.3781801422501882
+        "momentum": 0.37818444661160644
       },
       {
         "time": 2012.52,
-        "momentum": 0.3768162342686784
+        "momentum": 0.37682052310640235
       },
       {
         "time": 2013.02,
-        "momentum": 0.3754572452259869
+        "momentum": 0.37546151859600285
       },
       {
         "time": 2013.52,
-        "momentum": 0.3741031573819439
+        "momentum": 0.3741074153400362
       },
       {
         "time": 2014.02,
-        "momentum": 0.37275395306035974
+        "momentum": 0.37275819566211166
       },
       {
         "time": 2014.52,
-        "momentum": 0.37140961464879396
+        "momentum": 0.371413841949588
       },
       {
         "time": 2015.02,
-        "momentum": 0.3700701245983252
+        "momentum": 0.37007433665334444
       },
       {
         "time": 2015.52,
-        "momentum": 0.36873546542332264
+        "momentum": 0.368739662287551
       },
       {
         "time": 2016.02,
-        "momentum": 0.36740561970121727
+        "momentum": 0.36740980142944035
       },
       {
         "time": 2016.52,
-        "momentum": 0.36608057007227474
+        "momentum": 0.3660847367190806
       },
       {
         "time": 2017.02,
-        "momentum": 0.3647602992393685
+        "momentum": 0.36476445085914844
       },
       {
         "time": 2017.52,
-        "momentum": 0.3634447899677543
+        "momentum": 0.3634489266147033
       },
       {
         "time": 2018.02,
-        "momentum": 0.36213402508484505
+        "momentum": 0.3621381468129625
       },
       {
         "time": 2018.52,
-        "momentum": 0.3608279874799865
+        "momentum": 0.3608320943430774
       },
       {
         "time": 2019.02,
-        "momentum": 0.3595266601042342
+        "momentum": 0.35953075215590924
       },
       {
         "time": 2019.52,
-        "momentum": 0.3582300259701306
+        "momentum": 0.3582341032638072
       },
       {
         "time": 2020.02,
-        "momentum": 0.35693806815148366
+        "momentum": 0.3569421307403867
       },
       {
         "time": 2020.52,
-        "momentum": 0.4245929224712179
+        "momentum": 0.424597072185953
       },
       {
         "time": 2021.02,
-        "momentum": 0.4881201316517075
+        "momentum": 0.48812434297913787
       },
       {
         "time": 2021.81,
-        "momentum": 0.5514182297341665
+        "momentum": 0.5514225024520857
       },
       {
         "time": 2022.31,
-        "momentum": 0.6144880430085566
+        "momentum": 0.6144923768955597
       },
       {
         "time": 2022.81,
-        "momentum": 0.6773303947848219
+        "momentum": 0.6773347896203022
       },
       {
         "time": 2023.31,
-        "momentum": 0.6710039527155641
+        "momentum": 0.6710083065021379
       },
       {
         "time": 2023.81,
-        "momentum": 0.668583974656198
+        "momentum": 0.6685883127408256
       },
       {
         "time": 2024.31,
-        "momentum": 0.5495607377653776
+        "momentum": 0.5495650821876998
       },
       {
         "time": 2024.81,
-        "momentum": 0.43062218258277535
+        "momentum": 0.43062651395351753
       },
       {
         "time": 2025.73,
-        "momentum": 0.31211257970781564
+        "momentum": 0.3121168980740483
       },
       {
         "time": 2026.23,
-        "momentum": 0.19403038212252816
+        "momentum": 0.19403468753115216
       },
       {
         "time": 2026.73,
-        "momentum": 0.07637404838826815
+        "momentum": 0.07637834088601515
       },
       {
         "time": 2027.23,
-        "momentum": 0.0757540291162292
+        "momentum": 0.07575828676665063
       },
       {
         "time": 2027.73,
-        "momentum": 0.14780926531200295
+        "momentum": 0.14781352606689835
       },
       {
         "time": 2028.23,
-        "momentum": 0.205625628257543
+        "momentum": 0.20562975429419672
       },
       {
         "time": 2028.82,
-        "momentum": 0.263233476291607
+        "momentum": 0.26323746809588083
       },
       {
         "time": 2029.32,
-        "momentum": 0.3206335614239392
+        "momentum": 0.32063741947994273
       },
       {
         "time": 2029.82,
-        "momentum": 0.37782663295215796
+        "momentum": 0.3778303577422547
       },
       {
         "time": 2030.32,
-        "momentum": 0.36248499410965385
+        "momentum": 0.362488567654763
       },
       {
         "time": 2030.82,
-        "momentum": 0.36117769073380235
+        "momentum": 0.36118125139090873
       },
       {
         "time": 2031.32,
-        "momentum": 0.3598751021520644
+        "momentum": 0.35987864996764873
       },
       {
         "time": 2031.82,
-        "momentum": 0.35857721136051895
+        "momentum": 0.3585807463808942
       },
       {
         "time": 2032.32,
-        "momentum": 0.3572840014165696
+        "momentum": 0.35728752368788164
       },
       {
         "time": 2032.82,
-        "momentum": 0.35599545543872324
+        "momentum": 0.3559989650069517
       },
       {
         "time": 2033.32,
-        "momentum": 0.3547115566063702
+        "momentum": 0.3547150535173289
       },
       {
         "time": 2033.82,
-        "momentum": 0.3534322881595644
+        "momentum": 0.3534357724589017
       },
       {
         "time": 2034.32,
-        "momentum": 0.3521576333988044
+        "momentum": 0.3521611051320041
       },
       {
         "time": 2034.82,
-        "momentum": 0.35088757568481554
+        "momentum": 0.3508910348971976
       },
       {
         "time": 2035.32,
-        "momentum": 0.349622098438333
+        "momentum": 0.34962554517505373
       },
       {
         "time": 2035.82,
-        "momentum": 0.3483611851398849
+        "momentum": 0.3483646194459378
       },
       {
         "time": 2036.32,
-        "momentum": 0.34710481932957704
+        "momentum": 0.34710824124979334
       },
       {
         "time": 2036.82,
-        "momentum": 0.34585298460687774
+        "momentum": 0.34585639418592706
       },
       {
         "time": 2037.32,
-        "momentum": 0.34460566463040404
+        "momentum": 0.3446090619127948
       },
       {
         "time": 2037.82,
-        "momentum": 0.3433628431177082
+        "momentum": 0.3433662281477884
       },
       {
         "time": 2038.32,
-        "momentum": 0.34212450384506515
+        "momentum": 0.3421278766670227
       },
       {
         "time": 2038.82,
-        "momentum": 0.3408906306472607
+        "momentum": 0.3408939913051243
       },
       {
         "time": 2039.32,
-        "momentum": 0.3396612074173807
+        "momentum": 0.33966455595502015
       },
       {
         "time": 2039.82,
-        "momentum": 0.3384362181066004
+        "momentum": 0.3384395545677274
       },
       {
         "time": 2040.32,
-        "momentum": 0.3372156467239756
+        "momentum": 0.337218971152144
       },
       {
         "time": 2040.82,
-        "momentum": 0.3359994773362329
+        "momentum": 0.33600278977483977
       },
       {
         "time": 2041.32,
-        "momentum": 0.3347876940675629
+        "momentum": 0.33479099455984856
       },
       {
         "time": 2041.82,
-        "momentum": 0.33358028109941207
+        "momentum": 0.3335835696884609
       },
       {
         "time": 2042.32,
-        "momentum": 0.3323772226702765
+        "momentum": 0.3323804993990177
       },
       {
         "time": 2042.82,
-        "momentum": 0.3311785030754963
+        "momentum": 0.33118176798670407
       },
       {
         "time": 2043.32,
-        "momentum": 0.32998410666705047
+        "momentum": 0.32998735980334476
       },
       {
         "time": 2043.82,
-        "momentum": 0.3287940178533527
+        "momentum": 0.32879725925719977
       },
       {
         "time": 2044.32,
-        "momentum": 0.32760822109904775
+        "momentum": 0.32761145081276066
       },
       {
         "time": 2044.82,
-        "momentum": 0.3264267009248086
+        "momentum": 0.3264299189905479
       },
       {
         "time": 2045.32,
-        "momentum": 0.3252494419071346
+        "momentum": 0.3252526483669088
       },
       {
         "time": 2045.82,
-        "momentum": 0.32407642867814995
+        "momentum": 0.32407962357381603
       },
       {
         "time": 2046.32,
-        "momentum": 0.3229076459254032
+        "momentum": 0.32291082929866705
       },
       {
         "time": 2046.82,
-        "momentum": 0.3217430783916673
+        "momentum": 0.32174625028408455
       },
       {
         "time": 2047.32,
-        "momentum": 0.32058271087474033
+        "momentum": 0.32058587132771665
       },
       {
         "time": 2047.82,
-        "momentum": 0.3194265282272473
+        "momentum": 0.31942967728203914
       },
       {
         "time": 2048.3199999999997,
-        "momentum": 0.31827451535644224
+        "momentum": 0.3182776530541571
       },
       {
         "time": 2048.8199999999997,
-        "momentum": 0.3171266572240111
+        "momentum": 0.31712978360560845
       },
       {
         "time": 2049.3199999999997,
-        "momentum": 0.3159829388458758
+        "momentum": 0.31598605395216717
       },
       {
         "time": 2049.8199999999997,
-        "momentum": 0.31484334529199826
+        "momentum": 0.31484644916364807
       },
       {
         "time": 2050.3199999999997,
-        "momentum": 0.3137078616861856
+        "momentum": 0.3137109543637116
       },
       {
         "time": 2050.8199999999997,
-        "momentum": 0.3125764732058959
+        "momentum": 0.3125795547296698
       },
       {
         "time": 2051.3199999999997,
-        "momentum": 0.311449165082045
+        "momentum": 0.31145223549229284
       },
       {
         "time": 2051.8199999999997,
-        "momentum": 0.26199452787897864
+        "momentum": 0.2619977022503015
       },
       {
         "time": 2052.3199999999997,
-        "momentum": 0.21216113537895603
+        "momentum": 0.21216438304101923
       },
       {
         "time": 2053.06,
-        "momentum": 0.1625074671800881
+        "momentum": 0.16251078786856837
       },
       {
         "time": 2053.56,
-        "momentum": 0.11303287510606568
+        "momentum": 0.11303626855759297
       },
       {
         "time": 2054.06,
-        "momentum": 0.0637367133182296
+        "momentum": 0.06374017927038375
       },
       {
         "time": 2054.56,
-        "momentum": 0.06294973302697486
+        "momentum": 0.06295315618376206
       },
       {
         "time": 2055.06,
-        "momentum": 0.06272270459867467
+        "momentum": 0.06272611540983516
       },
       {
         "time": 2055.56,
-        "momentum": 0.06249649494918065
+        "momentum": 0.062499893459238974
       },
       {
         "time": 2056.06,
-        "momentum": 0.06227110112556422
+        "momentum": 0.062274487378884344
       },
       {
         "time": 2056.56,
-        "momentum": 0.06204652018554655
+        "momentum": 0.06204989422633246
       },
       {
         "time": 2057.06,
-        "momentum": 0.061822749197460156
+        "momentum": 0.061826111069756384
       },
       {
         "time": 2057.56,
-        "momentum": 0.18209567754445705
+        "momentum": 0.18209905425838133
       },
       {
         "time": 2058.06,
-        "momentum": 0.29578481789137545
+        "momentum": 0.2957881773250974
       },
       {
         "time": 2059.01,
-        "momentum": 0.4090639379632801
+        "momentum": 0.4090672801791208
       },
       {
         "time": 2059.51,
-        "momentum": 0.5219345164997006
+        "momentum": 0.5219378415597565
       },
       {
         "time": 2060.01,
-        "momentum": 0.6343980269070876
+        "momentum": 0.634401334873231
       },
       {
         "time": 2060.51,
-        "momentum": 0.6259600449737994
+        "momentum": 0.6259633089414477
       },
       {
         "time": 2061.01,
-        "momentum": 0.6237025179223626
+        "momentum": 0.6237057701185004
       },
       {
         "time": 2061.51,
-        "momentum": 0.621453132649988
+        "momentum": 0.6214563731170692
       },
       {
         "time": 2062.01,
-        "momentum": 0.6192118597933216
+        "momentum": 0.6192150885736472
       },
       {
         "time": 2062.51,
-        "momentum": 0.6169786700949083
+        "momentum": 0.6169818872306264
       },
       {
         "time": 2063.01,
-        "momentum": 0.6147535344028097
+        "momentum": 0.614756739935917
       },
       {
         "time": 2063.51,
-        "momentum": 0.6125364236702249
+        "momentum": 0.6125396176425658
       },
       {
         "time": 2064.01,
-        "momentum": 0.6103273089551096
+        "momentum": 0.6103304914083784
       },
       {
         "time": 2064.51,
-        "momentum": 0.5419329094136245
+        "momentum": 0.5419361106677151
       },
       {
         "time": 2065.01,
-        "momentum": 0.4556034891236953
+        "momentum": 0.45560648918333824
       },
       {
         "time": 2065.6,
-        "momentum": 0.3695854161844546
+        "momentum": 0.36958821577525824
       },
       {
         "time": 2066.1,
-        "momentum": 0.283877567720613
+        "momentum": 0.28388016756556894
       },
       {
         "time": 2066.6,
-        "momentum": 0.19847882490653485
+        "momentum": 0.19848122572602717
       },
       {
         "time": 2067.1,
-        "momentum": 0.17958132495780768
+        "momentum": 0.17958349719127192
       },
       {
         "time": 2067.6,
-        "momentum": 0.17893366429275342
+        "momentum": 0.17893582869205027
       },
       {
         "time": 2068.1,
-        "momentum": 0.17828833941811148
+        "momentum": 0.1782904960114948
       },
       {
         "time": 2068.6,
-        "momentum": 0.17764534190984563
+        "momentum": 0.1776474907254675
       },
       {
         "time": 2069.1,
-        "momentum": 0.17700466337430107
+        "momentum": 0.17700680444021205
       },
       {
         "time": 2069.6,
-        "momentum": 0.17636629544809473
+        "momentum": 0.17636842879224415
       },
       {
         "time": 2070.1,
-        "momentum": 0.1757302297980061
+        "momentum": 0.1757323554482425
       },
       {
         "time": 2070.6,
-        "momentum": 0.17509645812086844
+        "momentum": 0.17509857610493998
       },
       {
         "time": 2071.1,
-        "momentum": 0.17446497214346046
+        "momentum": 0.17446708248901516
       },
       {
         "time": 2071.6,
-        "momentum": 0.17383576362239822
+        "momentum": 0.17383786635698442
       },
       {
         "time": 2072.1,
-        "momentum": 0.17320882434402757
+        "momentum": 0.17321091949509426
       },
       {
         "time": 2072.6,
-        "momentum": 0.17258414612431694
+        "momentum": 0.17258623371921414
       },
       {
         "time": 2073.1,
-        "momentum": 0.17196172080875055
+        "momentum": 0.17196380087472957
       },
       {
         "time": 2073.6,
-        "momentum": 0.17134154027222187
+        "momentum": 0.1713436128364358
       },
       {
         "time": 2074.1,
-        "momentum": 0.17072359641892756
+        "momentum": 0.17072566150843155
       },
       {
         "time": 2074.6,
-        "momentum": 0.1701078811822619
+        "momentum": 0.17010993882401346
       },
       {
         "time": 2075.1,
-        "momentum": 0.1694943865247113
+        "momentum": 0.16949643674557083
       },
       {
         "time": 2075.6,
-        "momentum": 0.1688831044377496
+        "momentum": 0.16888514726448056
       },
       {
         "time": 2076.1,
-        "momentum": 0.16827402694173338
+        "momentum": 0.16827606240100274
       },
       {
         "time": 2076.6,
-        "momentum": 0.1676671460857978
+        "momentum": 0.16766917420417632
       },
       {
         "time": 2077.1,
-        "momentum": 0.1670624539477529
+        "momentum": 0.1670644747517155
       },
       {
         "time": 2077.6,
-        "momentum": 0.16645994263398006
+        "momentum": 0.16646195614990625
       },
       {
         "time": 2078.1,
-        "momentum": 0.16585960427932908
+        "momentum": 0.16586161053350318
       },
       {
         "time": 2078.6,
-        "momentum": 0.1652614310470154
+        "momentum": 0.1652634300656269
       },
       {
         "time": 2079.1,
-        "momentum": 0.1646654151285179
+        "momentum": 0.16466740693766196
       },
       {
         "time": 2079.6,
-        "momentum": 0.1640715487434769
+        "momentum": 0.16407353336915442
       },
       {
         "time": 2080.1,
-        "momentum": 0.16347982413959258
+        "momentum": 0.16348180160771078
       },
       {
         "time": 2080.6,
-        "momentum": 0.16289023359252386
+        "momentum": 0.16289220392889653
       },
       {
         "time": 2081.1,
-        "momentum": 0.16230276940578753
+        "momentum": 0.16230473263613526
       },
       {
         "time": 2081.6,
-        "momentum": 0.1617174239106577
+        "momentum": 0.16171938006060843
       },
       {
         "time": 2082.1,
-        "momentum": 0.16113418946606584
+        "momentum": 0.1611361385611551
       },
       {
         "time": 2082.6,
-        "momentum": 0.16055305845850096
+        "momentum": 0.16055500052417207
       },
       {
         "time": 2083.1,
-        "momentum": 0.15997402330191018
+        "momentum": 0.15997595836351478
       },
       {
         "time": 2083.6,
-        "momentum": 0.15939707643759976
+        "momentum": 0.15939900452039804
       },
       {
         "time": 2084.1,
-        "momentum": 0.1588222103341364
+        "momentum": 0.15882413146329746
       },
       {
         "time": 2084.6,
-        "momentum": 0.15824941748724902
+        "momentum": 0.15825133168785116
       },
       {
         "time": 2085.1,
-        "momentum": 0.15767869041973065
+        "momentum": 0.15768059771676174
       },
       {
         "time": 2085.6,
-        "momentum": 0.15711002168134086
+        "momentum": 0.15711192209969865
       },
       {
         "time": 2086.1,
-        "momentum": 0.1565434038487086
+        "momentum": 0.15654529741320106
       },
       {
         "time": 2086.6,
-        "momentum": 0.1559788295252352
+        "momentum": 0.1559807162605808
       },
       {
         "time": 2087.1,
-        "momentum": 0.1554162913409979
+        "momentum": 0.155418171271826
       },
       {
         "time": 2087.6,
-        "momentum": 0.1548557819526535
+        "momentum": 0.15485765510350463
       },
       {
         "time": 2088.1,
-        "momentum": 0.1542972940433427
+        "momentum": 0.15429916043866884
       },
       {
         "time": 2088.6,
-        "momentum": 0.1537408203225944
+        "momentum": 0.15374267998675942
       },
       {
         "time": 2089.1,
-        "momentum": 0.15318635352623064
+        "momentum": 0.15318820648351045
       },
       {
         "time": 2089.6,
-        "momentum": 0.15263388641627174
+        "momentum": 0.15263573269085473
       },
       {
         "time": 2090.1,
-        "momentum": 0.15208341178084178
+        "momentum": 0.15208525139682916
       },
       {
         "time": 2090.6,
-        "momentum": 0.15153492243407457
+        "momentum": 0.1515367554154806
       },
       {
         "time": 2091.1,
-        "momentum": 0.15098841121601972
+        "momentum": 0.150990237586772
       },
       {
         "time": 2091.6,
-        "momentum": 0.15044387099254924
+        "momentum": 0.15044569077648912
       },
       {
         "time": 2092.1,
-        "momentum": 0.1499012946552644
+        "momentum": 0.14990310787614725
       },
       {
         "time": 2092.6,
-        "momentum": 0.14936067512140289
+        "momentum": 0.1493624818028984
       },
       {
         "time": 2093.1,
-        "momentum": 0.14882200533374648
+        "momentum": 0.148823805499439
       },
       {
         "time": 2093.6,
-        "momentum": 0.14828527826052879
+        "momentum": 0.14828707193391755
       },
       {
         "time": 2094.1,
-        "momentum": 0.1477504868953435
+        "momentum": 0.14775227409984304
       },
       {
         "time": 2094.6,
-        "momentum": 0.147217624257053
+        "momentum": 0.14721940501599334
       },
       {
         "time": 2095.1,
-        "momentum": 0.14668668338969706
+        "momentum": 0.14668845772632416
       },
       {
         "time": 2095.6,
-        "momentum": 0.14615765736240222
+        "momentum": 0.1461594252998782
       },
       {
         "time": 2096.1,
-        "momentum": 0.14563053926929123
+        "momentum": 0.14563230083069462
       },
       {
         "time": 2096.6,
-        "momentum": 0.1451053222293929
+        "momentum": 0.14510707743771906
       },
       {
         "time": 2097.1,
-        "momentum": 0.1445819993865523
+        "momentum": 0.14458374826471362
       },
       {
         "time": 2097.6,
-        "momentum": 0.14406056390934127
+        "momentum": 0.1440623064801675
       },
       {
         "time": 2098.1,
-        "momentum": 0.14354100899096917
+        "momentum": 0.1435427452772077
       },
       {
         "time": 2098.6,
-        "momentum": 0.14302332784919403
+        "momentum": 0.1430250578735103
       },
       {
         "time": 2099.1,
-        "momentum": 0.1425075137262342
+        "momentum": 0.1425092375112118
       },
       {
         "time": 2099.6,
-        "momentum": 0.14199355988867984
+        "momentum": 0.141995277456821
       },
       {
         "time": 2100.1,
-        "momentum": 0.1414814596274053
+        "momentum": 0.1414831710011311
       },
       {
         "time": 2100.6,
-        "momentum": 0.14097120625748133
+        "momentum": 0.1409729114591319
       },
       {
         "time": 2101.1,
-        "momentum": 0.140462793118088
+        "momentum": 0.14046449216992293
       },
       {
         "time": 2101.6,
-        "momentum": 0.13995621357242746
+        "momentum": 0.13995790649662615
       },
       {
         "time": 2102.1,
-        "momentum": 0.13945146100763775
+        "momentum": 0.1394531478262995
       },
       {
         "time": 2102.6,
-        "momentum": 0.13894852883470601
+        "momentum": 0.13895020956985044
       },
       {
         "time": 2103.1,
-        "momentum": 0.13844741048838277
+        "momentum": 0.13844908516195015
       },
       {
         "time": 2103.6,
-        "momentum": 0.13794809942709613
+        "momentum": 0.13794976806094755
       },
       {
         "time": 2104.1,
-        "momentum": 0.1374505891328664
+        "momentum": 0.13745225174878412
       },
       {
         "time": 2104.6,
-        "momentum": 0.13695487311122104
+        "momentum": 0.13695652973090872
       },
       {
         "time": 2105.1,
-        "momentum": 0.13646094489110977
+        "momentum": 0.13646259553619286
       },
       {
         "time": 2105.6,
-        "momentum": 0.13596879802482026
+        "momentum": 0.13597044271684616
       },
       {
         "time": 2106.1,
-        "momentum": 0.1354784260878938
+        "momentum": 0.13548006484833225
       },
       {
         "time": 2106.6,
-        "momentum": 0.13498982267904153
+        "momentum": 0.13499145552928488
       },
       {
         "time": 2107.1,
-        "momentum": 0.13450298142006095
+        "momentum": 0.13450460838142428
       },
       {
         "time": 2107.6,
-        "momentum": 0.13401789595575245
+        "momentum": 0.13401951704947404
       },
       {
         "time": 2108.1,
-        "momentum": 0.1335345599538365
+        "momentum": 0.13353617520107802
       },
       {
         "time": 2108.6,
-        "momentum": 0.13305296710487102
+        "momentum": 0.13305457652671784
       },
       {
         "time": 2109.1,
-        "momentum": 0.1325731111221689
+        "momentum": 0.13257471473963028
       },
       {
         "time": 2109.6,
-        "momentum": 0.13209498574171596
+        "momentum": 0.13209658357572546
       },
       {
         "time": 2110.1,
-        "momentum": 0.13161858472208926
+        "momentum": 0.13162017679350496
       },
       {
         "time": 2110.6,
-        "momentum": 0.1311439018443756
+        "momentum": 0.13114548817398025
       },
       {
         "time": 2111.1,
-        "momentum": 0.13067093091209023
+        "momentum": 0.1306725115205917
       },
       {
         "time": 2111.6,
-        "momentum": 0.13019966575109612
+        "momentum": 0.13020124065912758
       },
       {
         "time": 2112.1,
-        "momentum": 0.1297301002095232
+        "momentum": 0.12973166943764344
       },
       {
         "time": 2112.6,
-        "momentum": 0.1292622281576882
+        "momentum": 0.12926379172638186
       },
       {
         "time": 2113.1,
-        "momentum": 0.1287960434880146
+        "momentum": 0.12879760141769242
       },
       {
         "time": 2113.6,
-        "momentum": 0.12833154011495285
+        "momentum": 0.12833309242595192
       },
       {
         "time": 2114.1,
-        "momentum": 0.1278687119749009
+        "momentum": 0.12787025868748503
       },
       {
         "time": 2114.6,
-        "momentum": 0.12740755302612522
+        "momentum": 0.12740909416048507
       },
       {
         "time": 2115.1,
-        "momentum": 0.12694805724868163
+        "momentum": 0.12694959282493515
       },
       {
         "time": 2115.6,
-        "momentum": 0.1264902186443371
+        "momentum": 0.12649174868252958
       },
       {
         "time": 2116.1,
-        "momentum": 0.12603403123649112
+        "momentum": 0.1260355557565956
       },
       {
         "time": 2116.6,
-        "momentum": 0.12557948907009786
+        "momentum": 0.12558100809201536
       },
       {
         "time": 2117.1,
-        "momentum": 0.1251265862115884
+        "momentum": 0.1251280997551481
       },
       {
         "time": 2117.6,
-        "momentum": 0.12467531674879317
+        "momentum": 0.12467682483375286
       },
       {
         "time": 2118.1,
-        "momentum": 0.12422567479086495
+        "momentum": 0.12422717743691106
       },
       {
         "time": 2118.6,
-        "momentum": 0.12377765446820185
+        "momentum": 0.12377915169494984
       },
       {
         "time": 2119.1,
-        "momentum": 0.12333124993237074
+        "momentum": 0.1233327417593653
       },
       {
         "time": 2119.6,
-        "momentum": 0.12288645535603082
+        "momentum": 0.1228879418027462
       },
       {
         "time": 2120.1,
-        "momentum": 0.12244326493285766
+        "momentum": 0.12244474601869788
       },
       {
         "time": 2120.6,
-        "momentum": 0.07408454426012115
+        "momentum": 0.07408616616002722
       },
       {
         "time": 2121.1,
-        "momentum": 0.027227845016150738
+        "momentum": 0.027229582613260438
       },
       {
         "time": 2121.95,
-        "momentum": -0.019459865381113446
+        "momentum": -0.019458012504062476
       },
       {
         "time": 2122.45,
-        "momentum": -0.06597919639052727
+        "momentum": -0.06597722864929254
       },
       {
         "time": 2122.95,
-        "momentum": -0.11233075527293115
+        "momentum": -0.11232867308177072
       },
       {
         "time": 2123.45,
-        "momentum": -0.11059801848173097
+        "momentum": -0.11059596840901594
       },
       {
         "time": 2123.95,
-        "momentum": -0.11019914634833743
+        "momentum": -0.11019710366921669
       },
       {
         "time": 2124.45,
-        "momentum": -0.10980171274866249
+        "momentum": -0.10979967743647104
       },
       {
         "time": 2124.95,
-        "momentum": -0.10940571249462938
+        "momentum": -0.10940368452279832
       },
       {
         "time": 2125.45,
-        "momentum": -0.10901114041687213
+        "momentum": -0.10900911975892842
       },
       {
         "time": 2125.95,
-        "momentum": -0.10861799136466806
+        "momentum": -0.10861597799423417
       },
       {
         "time": 2126.45,
-        "momentum": -0.10822626020587064
+        "momentum": -0.10822425409666414
       },
       {
         "time": 2126.95,
-        "momentum": -0.10783594182684245
+        "momentum": -0.1078339429526757
       },
       {
         "time": 2127.45,
-        "momentum": -0.10744703113238838
+        "momentum": -0.10744503946716817
       },
       {
         "time": 2127.95,
-        "momentum": -0.10705952304568918
+        "momentum": -0.10705753856341642
       },
       {
         "time": 2128.45,
-        "momentum": -0.10667341250823519
+        "momentum": -0.10667143518300455
       },
       {
         "time": 2128.95,
-        "momentum": 0.012455341442055692
+        "momentum": 0.012457334916922445
       },
       {
         "time": 2129.45,
-        "momentum": 0.11942469492179222
+        "momentum": 0.11942665469554012
       },
       {
         "time": 2129.96,
-        "momentum": 0.22600826306092392
+        "momentum": 0.22601018925509622
       },
       {
         "time": 2130.46,
-        "momentum": 0.33220743719560636
+        "momentum": 0.33220932993130786
       },
       {
         "time": 2130.96,
-        "momentum": 0.4380236036441364
+        "momentum": 0.43802546304203516
       },
       {
         "time": 2131.46,
-        "momentum": 0.42471410780323315
+        "momentum": 0.42471591070269576
       },
       {
         "time": 2131.96,
-        "momentum": 0.42318237491518157
+        "momentum": 0.4231841713124811
       },
       {
         "time": 2132.46,
-        "momentum": 0.4216561662270498
+        "momentum": 0.42165795614563645
       },
       {
         "time": 2132.96,
-        "momentum": 0.42013546181579225
+        "momentum": 0.4201372452790312
       },
       {
         "time": 2133.46,
-        "momentum": 0.41862024183021507
+        "momentum": 0.4186220188613878
       },
       {
         "time": 2133.96,
-        "momentum": 0.4171104864907186
+        "momentum": 0.4171122571130222
       },
       {
         "time": 2134.46,
-        "momentum": 0.4156061760890376
+        "momentum": 0.4156079403255858
       },
       {
         "time": 2134.96,
-        "momentum": 0.4141072909879854
+        "momentum": 0.4141090488618085
       },
       {
         "time": 2135.46,
-        "momentum": 0.4126138116211965
+        "momentum": 0.4126155631552416
       },
       {
         "time": 2135.96,
-        "momentum": 0.4111257184928719
+        "momentum": 0.4111274637100034
       },
       {
         "time": 2136.46,
-        "momentum": 0.40964299217752387
+        "momentum": 0.4096447311005239
       },
       {
         "time": 2136.96,
-        "momentum": 0.4081656133197232
+        "momentum": 0.40816734597129145
       },
       {
         "time": 2137.46,
-        "momentum": 0.40669356263384576
+        "momentum": 0.4066952890366001
       },
       {
         "time": 2137.96,
-        "momentum": 0.4052268209038212
+        "momentum": 0.40522854108029815
       },
       {
         "time": 2138.46,
-        "momentum": 0.40376536898288207
+        "momentum": 0.4037670829555366
       },
       {
         "time": 2138.96,
-        "momentum": 0.4023091877933137
+        "momentum": 0.40231089558452
       },
       {
         "time": 2139.46,
-        "momentum": 0.40085825832620536
+        "momentum": 0.4008599599582568
       },
       {
         "time": 2139.96,
-        "momentum": 0.3994125616412018
+        "momentum": 0.3994142571363114
       },
       {
         "time": 2140.46,
-        "momentum": 0.39797207886625663
+        "momentum": 0.3979737682465573
       },
       {
         "time": 2140.96,
-        "momentum": 0.39653679119738516
+        "momentum": 0.39653847448493
       },
       {
         "time": 2141.46,
-        "momentum": 0.39510667989841963
+        "momentum": 0.3951083571151821
       },
       {
         "time": 2141.96,
-        "momentum": 0.39368172630076403
+        "momentum": 0.39368339746863856
       },
       {
         "time": 2142.46,
-        "momentum": 0.392261911803151
+        "momentum": 0.3922635769439528
       },
       {
         "time": 2142.96,
-        "momentum": 0.39084721787139853
+        "momentum": 0.3908488770068643
       },
       {
         "time": 2143.46,
-        "momentum": 0.38943762603816834
+        "momentum": 0.38943927918995636
       },
       {
         "time": 2143.96,
-        "momentum": 0.38803311790272443
+        "momentum": 0.3880347650924149
       },
       {
         "time": 2144.46,
-        "momentum": 0.38663367513069347
+        "momentum": 0.38663531637978865
       },
       {
         "time": 2144.96,
-        "momentum": 0.38523927945382486
+        "momentum": 0.38524091478374956
       },
       {
         "time": 2145.46,
-        "momentum": 0.3838499126697525
+        "momentum": 0.3838515421018542
       },
       {
         "time": 2145.96,
-        "momentum": 0.3824655566417573
+        "momentum": 0.3824671801973065
       },
       {
         "time": 2146.46,
-        "momentum": 0.4512861160037098
+        "momentum": 0.45128777700228595
       },
       {
         "time": 2146.96,
-        "momentum": 0.5132097753866466
+        "momentum": 0.5132114570789303
       },
       {
         "time": 2147.74,
-        "momentum": 0.5749101068794034
+        "momentum": 0.5749118091907629
       },
       {
         "time": 2148.24,
-        "momentum": 0.636387915914783
+        "momentum": 0.6363896387708554
       },
       {
         "time": 2148.74,
-        "momentum": 0.6976440050207919
+        "momentum": 0.6976457483474828
       },
       {
         "time": 2149.24,
-        "momentum": 0.6884792511259373
+        "momentum": 0.6884809715510337
       },
       {
         "time": 2149.74,
-        "momentum": 0.6859962483428527
+        "momentum": 0.6859979625632301
       },
       {
         "time": 2150.24,
-        "momentum": 0.6835222005178305
+        "momentum": 0.6835239085558663
       },
       {
         "time": 2150.74,
-        "momentum": 0.6810570753547841
+        "momentum": 0.6810587772327749
       },
       {
         "time": 2151.24,
-        "momentum": 0.6786008406741022
+        "momentum": 0.678602536414264
       },
       {
         "time": 2151.74,
-        "momentum": 0.6761534644122297
+        "momentum": 0.6761551540366988
       },
       {
         "time": 2152.24,
-        "momentum": 0.6737149146212487
+        "momentum": 0.6737165981520814
       },
       {
         "time": 2152.74,
-        "momentum": 0.7491911638956271
+        "momentum": 0.7491928561131798
       },
       {
         "time": 2153.24,
-        "momentum": 0.8226085300985696
+        "momentum": 0.8226102280289169
       },
       {
         "time": 2154.22,
-        "momentum": 0.9692688071257256
+        "momentum": 0.969270513231379
       },
       {
         "time": 2154.72,
-        "momentum": 0.9711773724084016
+        "momentum": 0.9711790863868435
       },
       {
         "time": 2155.4,
-        "momentum": 0.9709006862017981
+        "momentum": 0.9709024025315098
       },
       {
         "time": 2156.01,
-        "momentum": 0.8927189934377833
+        "momentum": 0.8927206973519054
       },
       {
         "time": 2156.51,
-        "momentum": 0.8166059409364387
+        "momentum": 0.8166076354223449
       },
       {
         "time": 2157.01,
-        "momentum": 0.5731820315340331
+        "momentum": 0.5731837189900977
       },
       {
         "time": 2157.51,
-        "momentum": 0.473953792939904
+        "momentum": 0.47395546561349544
       },
       {
         "time": 2158.25,
-        "momentum": 0.3772617895710001
+        "momentum": 0.3772634530085567
       },
       {
         "time": 2158.75,
-        "momentum": 0.28091850624423886
+        "momentum": 0.2809201604790705
       },
       {
         "time": 2159.25,
-        "momentum": 0.18492268529959105
+        "momentum": 0.1849243303648873
       },
       {
         "time": 2159.75,
-        "momentum": 0.183350741691521
+        "momentum": 0.1833523727728657
       },
       {
         "time": 2160.25,
-        "momentum": 0.1114844322368489
+        "momentum": 0.11148606450749968
       },
       {
         "time": 2160.75,
-        "momentum": 0.04730699332749524
+        "momentum": 0.04730855664242475
       },
       {
         "time": 2161.6,
-        "momentum": -0.016638989428078087
+        "momentum": -0.016637494820180804
       },
       {
         "time": 2162.1,
-        "momentum": -0.0803543507772844
+        "momentum": -0.0803529246286272
       },
       {
         "time": 2162.6,
-        "momentum": -0.1438399224570176
+        "momentum": -0.143838564520702
       },
       {
         "time": 2163.1,
-        "momentum": -0.13589147882928423
+        "momentum": -0.13589019593110874
       },
       {
         "time": 2163.6,
-        "momentum": -0.13540138574430194
+        "momentum": -0.13540010747290313
       },
       {
         "time": 2164.1,
-        "momentum": -0.1349130601817134
+        "momentum": -0.13491178652040475
       },
       {
         "time": 2164.6,
-        "momentum": -0.13442649576694296
+        "momentum": -0.13442522669909823
       },
       {
         "time": 2165.1,
-        "momentum": -0.13394168614840504
+        "momentum": -0.13394042165745784
       },
       {
         "time": 2165.6,
-        "momentum": -0.13345862499742098
+        "momentum": -0.1334573650668647
       },
       {
         "time": 2166.1,
-        "momentum": -0.13297730600813654
+        "momentum": -0.13297605062152412
       },
       {
         "time": 2166.6,
-        "momentum": -0.13249772289743955
+        "momentum": -0.13249647203838327
       },
       {
         "time": 2167.1,
-        "momentum": -0.13201986940487795
+        "momentum": -0.13201862305704917
       },
       {
         "time": 2167.6,
-        "momentum": -0.13154373929257798
+        "momentum": -0.13154249743970695
       },
       {
         "time": 2168.1,
-        "momentum": -0.13106932634516283
+        "momentum": -0.13106808897103842
       },
       {
         "time": 2168.6,
-        "momentum": -0.13059662436967143
+        "momentum": -0.13059539145814103
       },
       {
         "time": 2169.1,
-        "momentum": -0.13012562719547766
+        "momentum": -0.13012439873044696
       },
       {
         "time": 2169.6,
-        "momentum": -0.1296563286742098
+        "momentum": -0.12965510463964242
       },
       {
         "time": 2170.1,
-        "momentum": -0.12918872267967024
+        "momentum": -0.12918750305958773
       },
       {
         "time": 2170.6,
-        "momentum": -0.1287228031077555
+        "momentum": -0.128721587886237
       },
       {
         "time": 2171.1,
-        "momentum": -0.1282585638763766
+        "momentum": -0.1282573530375587
       },
       {
         "time": 2171.6,
-        "momentum": -0.12779599892537966
+        "momentum": -0.1277947924534561
       },
       {
         "time": 2172.1,
-        "momentum": -0.12733510221646668
+        "momentum": -0.1273339000956883
       },
       {
         "time": 2172.6,
-        "momentum": -0.12687586773311693
+        "momentum": -0.12687466994779123
       },
       {
         "time": 2173.1,
-        "momentum": -0.12641828948050815
+        "momentum": -0.12641709601499934
       },
       {
         "time": 2173.6,
-        "momentum": -0.1259623614854385
+        "momentum": -0.12596117232416712
       },
       {
         "time": 2174.1,
-        "momentum": -0.12550807779624848
+        "momentum": -0.12550689292369133
       },
       {
         "time": 2174.6,
-        "momentum": -0.12505543248274334
+        "momentum": -0.12505425188343314
       },
       {
         "time": 2175.1,
-        "momentum": -0.12460441963611549
+        "momentum": -0.12460324329464076
       },
       {
         "time": 2175.6,
-        "momentum": -0.12415503336886757
+        "momentum": -0.1241538612698724
       },
       {
         "time": 2176.1,
-        "momentum": -0.12370726781473547
+        "momentum": -0.12370609994291934
       },
       {
         "time": 2176.6,
-        "momentum": -0.12326111712861174
+        "momentum": -0.12325995346872934
       },
       {
         "time": 2177.1,
-        "momentum": -0.12281657548646936
+        "momentum": -0.12281541602333032
       },
       {
         "time": 2177.6,
-        "momentum": -0.12237363708528573
+        "momentum": -0.12237248180375446
       },
       {
         "time": 2178.1,
-        "momentum": -0.12193229614296679
+        "momentum": -0.12193114502796235
       },
       {
         "time": 2178.6,
-        "momentum": -0.12149254689827167
+        "momentum": -0.12149139993476746
       },
       {
         "time": 2179.1,
-        "momentum": -0.12105438361073743
+        "momentum": -0.121053240783761
       },
       {
         "time": 2179.6,
-        "momentum": -0.12061780056060412
+        "momentum": -0.12061666185523712
       },
       {
         "time": 2180.1,
-        "momentum": -0.12018279204874012
+        "momentum": -0.12018165745011793
       },
       {
         "time": 2180.6,
-        "momentum": -0.11974935239656777
+        "momentum": -0.11974822188987941
       },
       {
         "time": 2181.1,
-        "momentum": -0.11931747594598921
+        "momentum": -0.1193163495164771
       },
       {
         "time": 2181.6,
-        "momentum": -0.11888715705931249
+        "momentum": -0.11888603469227228
       },
       {
         "time": 2182.1,
-        "momentum": -0.11845839011917807
+        "momentum": -0.11845727179995846
       },
       {
         "time": 2182.6,
-        "momentum": -0.11803116952848544
+        "momentum": -0.11803005524248793
       },
       {
         "time": 2183.1,
-        "momentum": -0.11760548971031999
+        "momentum": -0.11760437944299876
       },
       {
         "time": 2183.6,
-        "momentum": -0.11718134510788034
+        "momentum": -0.11718023884474202
       },
       {
         "time": 2184.1,
-        "momentum": -0.1167587301844057
+        "momentum": -0.11675762791100916
       },
       {
         "time": 2184.6,
-        "momentum": -0.1163376394231036
+        "momentum": -0.11633654112505987
       },
       {
         "time": 2185.1,
-        "momentum": -0.11591806732707796
+        "momentum": -0.11591697299004991
       },
       {
         "time": 2185.6,
-        "momentum": -0.11550000841925726
+        "momentum": -0.11549891802895944
       },
       {
         "time": 2186.1,
-        "momentum": -0.11508345724232301
+        "momentum": -0.11508237078452155
       },
       {
         "time": 2186.6,
-        "momentum": -0.1146684083586386
+        "momentum": -0.11466732581915093
       },
       {
         "time": 2187.1,
-        "momentum": -0.11425485635017829
+        "momentum": -0.114253777714873
       },
       {
         "time": 2187.6,
-        "momentum": -0.11384279581845642
+        "momentum": -0.11384172107325305
       },
       {
         "time": 2188.1,
-        "momentum": -0.11343222138445701
+        "momentum": -0.1134311505153259
       },
       {
         "time": 2188.6,
-        "momentum": -0.11302312768856353
+        "momentum": -0.11302206068152562
       },
       {
         "time": 2189.1,
-        "momentum": -0.11261550939048892
+        "momentum": -0.11261444623161557
       },
       {
         "time": 2189.6,
-        "momentum": -0.11220936116920588
+        "momentum": -0.11220830184461865
       },
       {
         "time": 2190.1,
-        "momentum": -0.11180467772287739
+        "momentum": -0.11180362221874793
       },
       {
         "time": 2190.6,
-        "momentum": -0.1114014537687876
+        "momentum": -0.11140040207133739
       },
       {
         "time": 2191.1,
-        "momentum": -0.11099968404327268
+        "momentum": -0.11099863613877295
       },
       {
         "time": 2191.6,
-        "momentum": -0.11059936330165232
+        "momentum": -0.11059831917642378
       },
       {
         "time": 2192.1,
-        "momentum": -0.11020048631816112
+        "momentum": -0.11019944595857378
       },
       {
         "time": 2192.6,
-        "momentum": -0.10980304788588043
+        "momentum": -0.10980201127835351
       },
       {
         "time": 2193.1,
-        "momentum": -0.10940704281667035
+        "momentum": -0.10940600994767205
       },
       {
         "time": 2193.6,
-        "momentum": -0.2748413600757578
+        "momentum": -0.2748402759035008
       },
       {
         "time": 2194.1,
-        "momentum": -0.43814657426387954
+        "momentum": -0.43814544109356895
       },
       {
         "time": 2194.83,
-        "momentum": -0.4582015676739532
+        "momentum": -0.45820038383013967
       },
       {
         "time": 2195.33,
-        "momentum": -0.47622957106919506
+        "momentum": -0.4762283487249217
       },
       {
         "time": 2195.97,
-        "momentum": -0.49419255640829274
+        "momentum": -0.4941912957024116
       },
       {
         "time": 2196.47,
-        "momentum": -0.3462618640444332
+        "momentum": -0.34626062014359993
       },
       {
         "time": 2196.97,
-        "momentum": -0.20039714786825594
+        "momentum": -0.20039591859168313
       },
       {
         "time": 2197.47,
-        "momentum": -0.19771975325416452
+        "momentum": -0.19771854040127096
       },
       {
         "time": 2197.97,
-        "momentum": -0.19700667628518104
+        "momentum": -0.1970054678064456
       },
       {
         "time": 2198.47,
-        "momentum": -0.19629617103073455
+        "momentum": -0.1962949669103818
       },
       {
         "time": 2198.97,
-        "momentum": -0.19558822821592772
+        "momentum": -0.1955870284382392
       },
       {
         "time": 2199.47,
-        "momentum": -0.19488283859931324
+        "momentum": -0.19488164314862705
       },
       {
         "time": 2199.97,
-        "momentum": -0.19417999297277305
+        "momentum": -0.19417880183348385
       },
       {
         "time": 2200.47,
-        "momentum": -0.1934796821613982
+        "momentum": -0.19347849531795694
       },
       {
         "time": 2200.97,
-        "momentum": -0.19278189702336906
+        "momentum": -0.19278071446028278
       },
       {
         "time": 2201.47,
-        "momentum": -0.26592078510211303
+        "momentum": -0.2659195955528572
       },
       {
         "time": 2201.97,
-        "momentum": -0.33649799560768273
+        "momentum": -0.3364968041295921
       },
       {
         "time": 2202.6,
-        "momentum": -0.4068206691612367
+        "momentum": -0.4068194757612676
       },
       {
         "time": 2203.1,
-        "momentum": -0.47688972375116634
+        "momentum": -0.47688852843624996
       },
       {
         "time": 2203.6,
-        "momentum": -0.5467060740551348
+        "momentum": -0.5467048768321774
       },
       {
         "time": 2204.1,
-        "momentum": -0.42439985474507935
+        "momentum": -0.42439866257247505
       },
       {
         "time": 2204.6,
-        "momentum": -0.30526729507364714
+        "momentum": -0.30526611300458434
       },
       {
         "time": 2205.48,
-        "momentum": -0.18656438738771244
+        "momentum": -0.1865632153857528
       },
       {
         "time": 2205.98,
-        "momentum": -0.06828958214591449
+        "momentum": -0.06828842017475091
       },
       {
         "time": 2206.48,
-        "momentum": 0.04955866460468146
+        "momentum": 0.04955981658122507
       },
       {
         "time": 2206.98,
-        "momentum": 0.048945271194077856
+        "momentum": 0.048946408912472525
       },
       {
         "time": 2207.48,
-        "momentum": 0.048768749905462434
+        "momentum": 0.04876988352067181
       },
       {
         "time": 2207.98,
-        "momentum": 0.048592865241480494
+        "momentum": 0.04859399476830273
       },
       {
         "time": 2208.48,
-        "momentum": 0.0484176149061431
+        "momentum": 0.048418740359322976
       },
       {
         "time": 2208.98,
-        "momentum": 0.048242996611741834
+        "momentum": 0.04824411800597095
       },
       {
         "time": 2209.48,
-        "momentum": 0.04806900807881888
+        "momentum": 0.04807012542873585
       },
       {
         "time": 2209.98,
-        "momentum": -0.07171878209410228
+        "momentum": -0.07171765981143044
       },
       {
         "time": 2210.48,
-        "momentum": -0.18703638067310954
+        "momentum": -0.18703526191167746
       },
       {
         "time": 2211.45,
-        "momentum": -0.30193808593689775
+        "momentum": -0.30193697068400605
       },
       {
         "time": 2211.95,
-        "momentum": -0.4164253978061362
+        "momentum": -0.4164242860491313
       },
       {
         "time": 2212.45,
-        "momentum": -0.5304998107920251
+        "momentum": -0.5304987025182991
       },
       {
         "time": 2212.95,
-        "momentum": -0.5245483848855655
+        "momentum": -0.5245472890450371
       },
       {
         "time": 2213.45,
-        "momentum": -0.5226565993344346
+        "momentum": -0.5226555074460588
       },
       {
         "time": 2213.95,
-        "momentum": -0.5207716365143894
+        "momentum": -0.5207705485639128
       },
       {
         "time": 2214.45,
-        "momentum": -0.5188934718192267
+        "momentum": -0.5188923877924473
       },
       {
         "time": 2214.95,
-        "momentum": -0.5170220807314858
+        "momentum": -0.5170210006142526
       },
       {
         "time": 2215.45,
-        "momentum": -0.5909207137089689
+        "momentum": -0.590919629625278
       },
       {
         "time": 2215.95,
-        "momentum": -0.6588519395927002
+        "momentum": -0.6588508586506073
       },
       {
         "time": 2216.64,
-        "momentum": -0.7265381712770392
+        "momentum": -0.7265370934652143
       },
       {
         "time": 2217.14,
-        "momentum": -0.7939802923344076
+        "momentum": -0.7939792176415612
       },
       {
         "time": 2217.64,
-        "momentum": -0.8611791831506196
+        "momentum": -0.8611781115655031
       },
       {
         "time": 2218.14,
-        "momentum": -0.8523724460495341
+        "momentum": -0.8523713854228439
       },
       {
         "time": 2218.64,
-        "momentum": -0.849298361896229
+        "momentum": -0.8492973050946924
       },
       {
         "time": 2219.14,
-        "momentum": -0.8462353644379774
+        "momentum": -0.8462343114477994
       },
       {
         "time": 2219.64,
-        "momentum": -0.8431834136905761
+        "momentum": -0.8431823644980107
       },
       {
         "time": 2220.14,
-        "momentum": -0.9416560331729709
+        "momentum": -0.9416549809036681
       },
       {
         "time": 2220.64,
-        "momentum": -1.0255047084953701
+        "momentum": -1.0255036645632492
       },
       {
         "time": 2221.16,
-        "momentum": -1.1090509832823239
+        "momentum": -1.109049947657317
       },
       {
         "time": 2221.66,
-        "momentum": -1.1922959481424018
+        "momentum": -1.1922949207945492
       },
       {
         "time": 2222.16,
-        "momentum": -1.2752406897508894
+        "momentum": -1.2752396706503397
       },
       {
         "time": 2222.66,
-        "momentum": -1.256372727505028
+        "momentum": -1.256371723482691
       },
       {
         "time": 2223.16,
-        "momentum": -1.2518416149495153
+        "momentum": -1.2518406145481884
       },
       {
         "time": 2223.66,
-        "momentum": -1.2473268438669918
+        "momentum": -1.247325847073616
       },
       {
         "time": 2224.16,
-        "momentum": -1.2428283553218786
+        "momentum": -1.2428273621234416
       },
       {
         "time": 2224.66,
-        "momentum": -1.2383460905911492
+        "momentum": -1.2383451009746858
       },
       {
         "time": 2225.16,
-        "momentum": -1.2338799911635612
+        "momentum": -1.2338790051161528
       },
       {
         "time": 2225.66,
-        "momentum": -1.229429998738893
+        "momentum": -1.2294290162476682
       },
       {
         "time": 2226.16,
-        "momentum": -1.2249960552271835
+        "momentum": -1.2249950762793165
       },
       {
         "time": 2226.66,
-        "momentum": -1.220578102747973
+        "momentum": -1.2205771273306847
       },
       {
         "time": 2227.16,
-        "momentum": -1.2161760836295479
+        "momentum": -1.2161751117301054
       },
       {
         "time": 2227.66,
-        "momentum": -1.4171896962345367
+        "momentum": -1.4171887171319226
       },
       {
         "time": 2228.16,
-        "momentum": -1.6135460012318084
+        "momentum": -1.613545016741713
       },
       {
         "time": 2228.75,
-        "momentum": -1.6683770004345497
+        "momentum": -1.668376009127806
       },
       {
         "time": 2229.25,
-        "momentum": -1.6971644880765653
+        "momentum": -1.6971635074237732
       },
       {
         "time": 2229.98,
-        "momentum": -1.725848153545558
+        "momentum": -1.7258471835082936
       },
       {
         "time": 2230.48,
-        "momentum": -1.5490286154502015
+        "momentum": -1.5490276666985112
       },
       {
         "time": 2230.98,
-        "momentum": -1.3767791289497733
+        "momentum": -1.376778199617178
       },
       {
         "time": 2231.48,
-        "momentum": -1.3459680069201954
+        "momentum": -1.345967098385257
       },
       {
         "time": 2231.98,
-        "momentum": -1.3411137686818457
+        "momentum": -1.3411128634235419
       },
       {
         "time": 2232.48,
-        "momentum": -1.33627703727037
+        "momentum": -1.3362761352768833
       },
       {
         "time": 2232.98,
-        "momentum": -1.3314577495473365
+        "momentum": -1.3314568508068922
       },
       {
         "time": 2233.48,
-        "momentum": -1.3266558426020232
+        "momentum": -1.3266549471028897
       },
       {
         "time": 2233.98,
-        "momentum": -1.3218712537505959
+        "momentum": -1.3218703614810827
       },
       {
         "time": 2234.48,
-        "momentum": -1.3171039205352888
+        "momentum": -1.3171030314837489
       },
       {
         "time": 2234.98,
-        "momentum": -1.3123537807235914
+        "momentum": -1.312352894878419
       },
       {
         "time": 2235.48,
-        "momentum": -1.3076207723074347
+        "momentum": -1.3076198896570659
       },
       {
         "time": 2235.98,
-        "momentum": -1.3029048335023816
+        "momentum": -1.3029039540352945
       },
       {
         "time": 2236.48,
-        "momentum": -1.2982059027468211
+        "momentum": -1.298205026451535
       },
       {
         "time": 2236.98,
-        "momentum": -1.2935239187011645
+        "momentum": -1.2935230455662403
       },
       {
         "time": 2237.48,
-        "momentum": -1.2888588202470441
+        "momentum": -1.288857950261084
       },
       {
         "time": 2237.98,
-        "momentum": -1.2842105464865161
+        "momentum": -1.2842096796381635
       },
       {
         "time": 2238.48,
-        "momentum": -1.2795790367412654
+        "momentum": -1.2795781730192042
       },
       {
         "time": 2238.98,
-        "momentum": -1.2749642305518134
+        "momentum": -1.2749633699447687
       },
       {
         "time": 2239.48,
-        "momentum": -1.2703660676767283
+        "momentum": -1.270365210173466
       },
       {
         "time": 2239.98,
-        "momentum": -1.2657844880918403
+        "momentum": -1.2657836336811663
       },
       {
         "time": 2240.48,
-        "momentum": -1.2612194319894559
+        "momentum": -1.261218580660217
       },
       {
         "time": 2240.98,
-        "momentum": -1.256670839777579
+        "momentum": -1.2566699915186619
       },
       {
         "time": 2241.48,
-        "momentum": -1.2036409740062068
+        "momentum": -1.203640112942357
       },
       {
         "time": 2241.98,
-        "momentum": -1.1434210140195593
+        "momentum": -1.1434201469719736
       },
       {
         "time": 2242.58,
-        "momentum": -1.0834182375253694
+        "momentum": -1.0834173645156284
       },
       {
         "time": 2243.08,
-        "momentum": -1.0236318612506257
+        "momentum": -1.0236309823002319
       },
       {
         "time": 2243.58,
-        "momentum": -0.9640611047471939
+        "momentum": -0.9640602198775723
       },
       {
         "time": 2244.08,
-        "momentum": -0.9532028684545534
+        "momentum": -0.953201993551233
       },
       {
         "time": 2244.58,
-        "momentum": -0.9497651390366425
+        "momentum": -0.9497642672886639
       },
       {
         "time": 2245.08,
-        "momentum": -0.9463398078016807
+        "momentum": -0.9463389391976642
       },
       {
         "time": 2245.58,
-        "momentum": -0.9429268300355786
+        "momentum": -0.9429259645641856
       },
       {
         "time": 2246.08,
-        "momentum": -0.9395261611855086
+        "momentum": -0.9395252988354411
       },
       {
         "time": 2246.58,
-        "momentum": -0.8709763336623032
+        "momentum": -0.8709754681454729
       },
       {
         "time": 2247.08,
-        "momentum": -0.7969725787990775
+        "momentum": -0.7969717184808343
       },
       {
         "time": 2247.8,
-        "momentum": -0.7232357187318583
+        "momentum": -0.7232348635934533
       },
       {
         "time": 2248.3,
-        "momentum": -0.6497647909036477
+        "momentum": -0.6497639409264
       },
       {
         "time": 2248.8,
-        "momentum": -0.5765588362289126
+        "momentum": -0.5765579913942083
       },
       {
         "time": 2249.3,
-        "momentum": -0.5687783222780843
+        "momentum": -0.5687774888442081
       },
       {
         "time": 2249.8,
-        "momentum": -0.5667270213058835
+        "momentum": -0.5667261908777894
       },
       {
         "time": 2250.3,
-        "momentum": -0.5646831183576821
+        "momentum": -0.5646822909245298
       },
       {
         "time": 2250.8,
-        "momentum": -0.5626465867524811
+        "momentum": -0.5626457623034694
       },
       {
         "time": 2251.3,
-        "momentum": -0.5606173999055069
+        "momentum": -0.5606165784298732
       },
       {
         "time": 2251.8,
-        "momentum": -0.5585955313278632
+        "momentum": -0.5585947128148845
       },
       {
         "time": 2252.3,
-        "momentum": -0.5565809546261871
+        "momentum": -0.5565801390651781
       },
       {
         "time": 2252.8,
-        "momentum": -0.5545736435023026
+        "momentum": -0.5545728308826172
       },
       {
         "time": 2253.3,
-        "momentum": -0.6778498707887983
+        "momentum": -0.6778490533684398
       },
       {
         "time": 2253.8,
-        "momentum": -0.7385427608028758
+        "momentum": -0.7385419831554179
       },
       {
         "time": 2254.52,
-        "momentum": -0.7990167617007279
+        "momentum": -0.7990160236827295
       },
       {
         "time": 2255.02,
-        "momentum": -0.8592726629067039
+        "momentum": -0.8592719643752413
       },
       {
         "time": 2255.52,
-        "momentum": -0.9193112509980915
+        "momentum": -0.9193105918107565
       },
       {
         "time": 2256.02,
-        "momentum": -0.853857010679465
+        "momentum": -0.8538563984257511
       },
       {
         "time": 2256.52,
-        "momentum": -0.8507775724387245
+        "momentum": -0.850776962393106
       },
       {
         "time": 2257.02,
-        "momentum": -0.8477092402025728
+        "momentum": -0.8477086323570859
       },
       {
         "time": 2257.52,
-        "momentum": -0.8446519739171657
+        "momentum": -0.8446513682638755
       },
       {
         "time": 2258.02,
-        "momentum": -0.8416057336731143
+        "momentum": -0.8416051302041148
       },
       {
         "time": 2258.52,
-        "momentum": -0.8385704797049621
+        "momentum": -0.8385698784123757
       },
       {
         "time": 2259.02,
-        "momentum": -0.8355461723906679
+        "momentum": -0.8355455732666451
       },
       {
         "time": 2259.52,
-        "momentum": -0.8325327722510865
+        "momentum": -0.8325321752878067
       },
       {
         "time": 2260.02,
-        "momentum": -0.8295302399494551
+        "momentum": -0.8295296451391254
       },
       {
         "time": 2260.52,
-        "momentum": -0.8265385362908786
+        "momentum": -0.8265379436257344
       },
       {
         "time": 2261.02,
-        "momentum": -0.8235576222218188
+        "momentum": -0.8235570316941236
       },
       {
         "time": 2261.52,
-        "momentum": -0.8205874588295844
+        "momentum": -0.8205868704316291
       },
       {
         "time": 2262.02,
-        "momentum": -0.817628007341822
+        "momentum": -0.8176274210659258
       },
       {
         "time": 2262.52,
-        "momentum": -0.8146792291260112
+        "momentum": -0.8146786449645214
       },
       {
         "time": 2263.02,
-        "momentum": -0.8117410856889608
+        "momentum": -0.8117405036342513
       },
       {
         "time": 2263.52,
-        "momentum": -0.808813538676304
+        "momentum": -0.8088129587207769
       },
       {
         "time": 2264.02,
-        "momentum": -0.8058965498720003
+        "momentum": -0.8058959720080846
       },
       {
         "time": 2264.52,
-        "momentum": -0.8029900811978348
+        "momentum": -0.8029895054179873
       },
       {
         "time": 2265.02,
-        "momentum": -0.8000940947129219
+        "momentum": -0.8000935210096266
       },
       {
         "time": 2265.52,
-        "momentum": -0.7972085526132103
+        "momentum": -0.7972079809789778
       },
       {
         "time": 2266.02,
-        "momentum": -0.7943334172309889
+        "momentum": -0.7943328476583572
       },
       {
         "time": 2266.52,
-        "momentum": -0.7914686510343951
+        "momentum": -0.7914680835159291
       },
       {
         "time": 2267.02,
-        "momentum": -0.7886142166269258
+        "momentum": -0.7886136511552171
       },
       {
         "time": 2267.52,
-        "momentum": -0.7857700767469475
+        "momentum": -0.7857695133146145
       },
       {
         "time": 2268.02,
-        "momentum": -0.782936194267212
+        "momentum": -0.7829356328668995
       },
       {
         "time": 2268.52,
-        "momentum": -0.7801125321943696
+        "momentum": -0.7801119728187493
       },
       {
         "time": 2269.02,
-        "momentum": -0.777299053668488
+        "momentum": -0.7772984963102578
       },
       {
         "time": 2269.52,
-        "momentum": -0.7744957219625702
+        "momentum": -0.7744951666144544
       },
       {
         "time": 2270.02,
-        "momentum": -0.771702500482075
+        "momentum": -0.771701947136824
       },
       {
         "time": 2270.52,
-        "momentum": -0.7689193527644396
+        "momentum": -0.7689188014148303
       },
       {
         "time": 2271.02,
-        "momentum": -0.766146242478604
+        "momentum": -0.7661456931174389
       },
       {
         "time": 2271.52,
-        "momentum": -0.7633831334245357
+        "momentum": -0.7633825860446435
       },
       {
         "time": 2272.02,
-        "momentum": -0.760629989532758
+        "momentum": -0.7606294441269933
       },
       {
         "time": 2272.52,
-        "momentum": -0.757886774863879
+        "momentum": -0.757886231425122
       },
       {
         "time": 2273.02,
-        "momentum": -0.7551534536081221
+        "momentum": -0.7551529121292789
       },
       {
         "time": 2273.52,
-        "momentum": -0.7524299900848591
+        "momentum": -0.7524294505588612
       },
       {
         "time": 2274.02,
-        "momentum": -0.7497163487421437
+        "momentum": -0.7497158111619482
       },
       {
         "time": 2274.52,
-        "momentum": -0.7470124941562482
+        "momentum": -0.7470119585148375
       },
       {
         "time": 2275.02,
-        "momentum": -0.7443183910312003
+        "momentum": -0.7443178573215822
       },
       {
         "time": 2275.52,
-        "momentum": -0.7416340041983231
+        "momentum": -0.7416334724135306
       },
       {
         "time": 2276.02,
-        "momentum": -0.7389592986157757
+        "momentum": -0.7389587687488668
       },
       {
         "time": 2276.52,
-        "momentum": -0.7362942393680953
+        "momentum": -0.7362937114121533
       },
       {
         "time": 2277.02,
-        "momentum": -0.7336387916657421
+        "momentum": -0.733638265613875
       },
       {
         "time": 2277.52,
-        "momentum": -0.730992920844645
+        "momentum": -0.7309923966899857
       },
       {
         "time": 2278.02,
-        "momentum": -0.7283565923657488
+        "momentum": -0.7283560701014551
       },
       {
         "time": 2278.52,
-        "momentum": -0.7257297718145636
+        "momentum": -0.7257292514338178
       },
       {
         "time": 2279.02,
-        "momentum": -0.7231124249007154
+        "momentum": -0.7231119063967245
       },
       {
         "time": 2279.52,
-        "momentum": -0.7205045174574988
+        "momentum": -0.7205040008234944
       },
       {
         "time": 2280.02,
-        "momentum": -0.7179060154414303
+        "momentum": -0.7179055006706682
       },
       {
         "time": 2280.52,
-        "momentum": -0.7153168849318047
+        "momentum": -0.7153163720175651
       },
       {
         "time": 2281.02,
-        "momentum": -0.7127370921302519
+        "momentum": -0.7127365810658394
       },
       {
         "time": 2281.52,
-        "momentum": -0.7101666033602958
+        "momentum": -0.7101660941390386
       },
       {
         "time": 2282.02,
-        "momentum": -0.7076053850669142
+        "momentum": -0.7076048776821653
       },
       {
         "time": 2282.52,
-        "momentum": -0.7050534038161016
+        "momentum": -0.7050528982612376
       },
       {
         "time": 2283.02,
-        "momentum": -0.7025106262944323
+        "momentum": -0.7025101225628537
       },
       {
         "time": 2283.52,
-        "momentum": -0.6999770193086257
+        "momentum": -0.6999765173937569
       },
       {
         "time": 2284.02,
-        "momentum": -0.6974525497851125
+        "momentum": -0.6974520496804013
       },
       {
         "time": 2284.52,
-        "momentum": -0.6949371847696035
+        "momentum": -0.6949366864685217
       },
       {
         "time": 2285.02,
-        "momentum": -0.6924308914266597
+        "momentum": -0.6924303949227024
       },
       {
         "time": 2285.52,
-        "momentum": -0.6899336370392624
+        "momentum": -0.6899331423259484
       },
       {
         "time": 2286.02,
-        "momentum": -0.6874453890083877
+        "momentum": -0.6874448960792588
       },
       {
         "time": 2286.52,
-        "momentum": -0.6849661148525797
+        "momentum": -0.6849656237012015
       },
       {
         "time": 2287.02,
-        "momentum": -0.6824957822075273
+        "momentum": -0.6824952928274882
       },
       {
         "time": 2287.52,
-        "momentum": -0.6800343588256412
+        "momentum": -0.6800338712105529
       },
       {
         "time": 2288.02,
-        "momentum": -0.6775818125756332
+        "momentum": -0.6775813267191303
       },
       {
         "time": 2288.52,
-        "momentum": -0.6751381114420967
+        "momentum": -0.6751376273378369
       },
       {
         "time": 2289.02,
-        "momentum": -0.6727032235250887
+        "momentum": -0.6727027411667527
       },
       {
         "time": 2289.52,
-        "momentum": -0.6702771170397135
+        "momentum": -0.6702766364210045
       },
       {
         "time": 2290.02,
-        "momentum": -0.6678597603157079
+        "momentum": -0.6678592814303521
       },
       {
         "time": 2290.52,
-        "momentum": -0.6654511217970276
+        "momentum": -0.6654506446387733
       },
       {
         "time": 2291.02,
-        "momentum": -0.6630511700414349
+        "momentum": -0.6630506946040535
       },
       {
         "time": 2291.52,
-        "momentum": -0.660659873720089
+        "momentum": -0.6606593999973741
       },
       {
         "time": 2292.02,
-        "momentum": -0.6582772016171365
+        "momentum": -0.6582767296029044
       },
       {
         "time": 2292.52,
-        "momentum": -0.6559031226293044
+        "momentum": -0.6559026523173931
       },
       {
         "time": 2293.02,
-        "momentum": -0.6535376057654931
+        "momentum": -0.6535371371497634
       },
       {
         "time": 2293.52,
-        "momentum": -0.6511806201463733
+        "momentum": -0.6511801532207079
       },
       {
         "time": 2294.02,
-        "momentum": -0.6488321350039816
+        "momentum": -0.6488316697622851
       },
       {
         "time": 2294.52,
-        "momentum": -0.6464921196813196
+        "momentum": -0.6464916561175188
       },
       {
         "time": 2295.02,
-        "momentum": -0.644160543631953
+        "momentum": -0.6441600817399967
       },
       {
         "time": 2295.52,
-        "momentum": -0.641837376419614
+        "momentum": -0.6418369161934726
       },
       {
         "time": 2296.02,
-        "momentum": -0.5251708596380106
+        "momentum": -0.5251703683398212
       },
       {
         "time": 2296.52,
-        "momentum": -0.4074783929129523
+        "momentum": -0.4074778848333692
       },
       {
         "time": 2297.2,
-        "momentum": -0.2902103844732359
+        "momentum": -0.2902098596727814
       },
       {
         "time": 2297.7,
-        "momentum": -0.17336530350859797
+        "momentum": -0.1733647620475759
       },
       {
         "time": 2298.2,
-        "momentum": -0.05694162472964757
+        "momentum": -0.05694106666814425
       },
       {
         "time": 2298.7,
-        "momentum": -0.05528955642774737
+        "momentum": -0.05528901455748771
       },
       {
         "time": 2299.2,
-        "momentum": -0.05509015445265357
+        "momentum": -0.055089614536650865
       },
       {
         "time": 2299.7,
-        "momentum": -0.05489147162146759
+        "momentum": -0.0548909336526738
       },
       {
         "time": 2300.2,
-        "momentum": -0.05469350534059446
+        "momentum": -0.05469296931198697
       },
       {
         "time": 2300.7,
-        "momentum": -0.05449625302579303
+        "momentum": -0.05449571893037455
       },
       {
         "time": 2301.2,
-        "momentum": -0.054299712102142184
+        "momentum": -0.054299179932940665
       },
       {
         "time": 2301.7,
-        "momentum": -0.05410388000400731
+        "momentum": -0.05410334975407586
       },
       {
         "time": 2302.2,
-        "momentum": -0.053908754175006755
+        "momentum": -0.053908225837423496
       },
       {
         "time": 2302.7,
-        "momentum": -0.05371433206797847
+        "momentum": -0.05371380563584651
       },
       {
         "time": 2303.2,
-        "momentum": -0.05352061114494672
+        "momentum": -0.05352008661139405
       },
       {
         "time": 2303.7,
-        "momentum": -0.053327588877089015
+        "momentum": -0.053327066235268415
       },
       {
         "time": 2304.2,
-        "momentum": -0.05313526274470309
+        "momentum": -0.05313474198779202
       },
       {
         "time": 2304.7,
-        "momentum": -0.05294363023717398
+        "momentum": -0.052943111358374484
       },
       {
         "time": 2305.2,
-        "momentum": -0.05275268885294123
+        "momentum": -0.05275217184547991
       },
       {
         "time": 2305.7,
-        "momentum": -0.05256243609946633
+        "momentum": -0.05256192095659419
       },
       {
         "time": 2306.2,
-        "momentum": -0.05237286949320006
+        "momentum": -0.05237235620819246
       },
       {
         "time": 2306.7,
-        "momentum": -0.052183986559550165
+        "momentum": -0.052183475125706716
       },
       {
         "time": 2307.2,
-        "momentum": -0.05199578483284902
+        "momentum": -0.051995275243493476
       },
       {
         "time": 2307.7,
-        "momentum": -0.05180826185632141
+        "momentum": -0.05180775410480163
       },
       {
         "time": 2308.2,
-        "momentum": -0.05162141518205251
+        "momentum": -0.05162090926174032
       },
       {
         "time": 2308.7,
-        "momentum": -0.051435242370955904
+        "momentum": -0.05143473827524706
       },
       {
         "time": 2309.2,
-        "momentum": -0.05124974099274173
+        "momentum": -0.0512492387150558
       },
       {
         "time": 2309.7,
-        "momentum": -0.05106490862588502
+        "momentum": -0.05106440815966527
       },
       {
         "time": 2310.2,
-        "momentum": -0.050880742857593995
+        "momentum": -0.05088024419630739
       },
       {
         "time": 2310.7,
-        "momentum": -0.05069724128377865
+        "momentum": -0.05069674442091569
       },
       {
         "time": 2311.2,
-        "momentum": -0.05051440150901931
+        "momentum": -0.05051390643809398
       },
       {
         "time": 2311.7,
-        "momentum": -0.05033222114653544
+        "momentum": -0.0503317278610851
       },
       {
         "time": 2312.2,
-        "momentum": -0.05015069781815438
+        "momentum": -0.050150206311739706
       },
       {
         "time": 2312.7,
-        "momentum": -0.11122622413514016
+        "momentum": -0.11122572208793328
       },
       {
         "time": 2313.2,
-        "momentum": -0.17037027300079574
+        "momentum": -0.17036976308460985
       },
       {
         "time": 2314.1,
-        "momentum": -0.2293010186511458
+        "momentum": -0.22930050089436035
       },
       {
         "time": 2314.6,
-        "momentum": -0.2880192303649687
+        "momentum": -0.2880187047958609
       },
       {
         "time": 2315.1,
-        "momentum": -0.3465256746466362
+        "momentum": -0.3465251412933812
       },
       {
         "time": 2315.6,
-        "momentum": -0.3435647202552598
+        "momentum": -0.3435641914593429
       },
       {
         "time": 2316.1,
-        "momentum": -0.4158152311306596
+        "momentum": -0.41581470194917014
       },
       {
         "time": 2316.6,
-        "momentum": -0.3468544768482128
+        "momentum": -0.34685405380732254
       },
       {
         "time": 2317.48,
-        "momentum": -0.3476780372035786
+        "momentum": -0.34767764059971934
       },
       {
         "time": 2322.48,
-        "momentum": -0.3494636548520827
+        "momentum": -0.3494633016742486
       }
     ],
     "goals": [
       {
         "time": 1932.72,
-        "momentum": 3.214702749895866,
+        "momentum": 3.2147113688729587,
         "player": "14",
         "team": "teamA",
         "is_own_goal": false
       }
     ],
     "match_duration": 2322.48,
-    "max_momentum": 3.214702749895866,
+    "max_momentum": 3.2147113688729587,
     "raw_events": [
       {
         "time": 1.31,
@@ -19401,8 +19377,8 @@ window.matchData = {
       {
         "time": 364.36,
         "event": "pass",
-        "player": "22",
-        "team": "teamB"
+        "player": "21",
+        "team": "teamA"
       },
       {
         "time": 368.06,
@@ -20155,22 +20131,21 @@ window.matchData = {
       "32"
     ],
     "teamB": [
-      "26",
-      "3",
-      "24",
-      "4",
-      "7",
       "5",
+      "11",
       "20",
-      "23",
-      "13",
-      "9",
-      "15",
-      "22",
       "27",
+      "13",
+      "23",
       "25",
+      "4",
       "16",
-      "11"
+      "15",
+      "26",
+      "9",
+      "3",
+      "7",
+      "24"
     ]
   },
   "team_labels": {
@@ -20180,37 +20155,36 @@ window.matchData = {
   "team_swaps": {},
   "swapped_players": [],
   "player_names": {
-    "2": "Lewis Sowers",
-    "8": "Christian Ronald",
-    "11": "Pelly",
-    "7": "Newman Junior",
-    "6": "Mark O'danna",
-    "12": "Vince Junior",
-    "3": "Errol Hall-Hand",
-    "14": "Abraham O'Vick",
-    "22": "Bruce Sacker",
+    "2": "Terry Henries",
+    "8": "Errol Hall-Hand",
+    "11": "Mark O'danna",
+    "7": "Christian Ronald",
+    "6": "Abraham O'Vick",
+    "12": "Lionel Massey",
+    "3": "Bruce Sacker",
+    "14": "Vince Junior",
     "21": "Moe Sallers",
-    "26": "Cillian McBappeh",
-    "24": "Lionel Massey",
-    "27": "Liam Yarn-Hall",
-    "31": "Terry Henries",
-    "9": "Manuel Newer",
-    "18": "Eddison",
+    "26": "Liam Yarn-Hall",
+    "24": "Cillian McBappeh",
+    "27": "Lewis Sowers",
+    "31": "Pelly",
+    "9": "Alan Sonbaker",
+    "18": "Davey De Gear",
     "10": "Jimmy Dean J'Dan",
-    "5": "Andrew Innster",
-    "17": "Rodney",
-    "16": "Ronnie Deano",
+    "5": "Mason O'Zell",
+    "17": "James Marshall",
+    "16": "Andrew Innster",
     "15": "Calvin de Brown",
-    "13": "James Marshall",
-    "19": "Bruce Ferdinand",
-    "20": "Mason O'Zell",
-    "29": "John Bullingham",
+    "13": "Bruce Ferdinand",
+    "19": "John Bullingham",
+    "20": "Rodney",
+    "29": "Ronnie Deano",
     "1": "Luke Modrick",
-    "23": "Paddy Veers",
-    "32": "Tony Cross",
-    "4": "Fabian Cannaver",
-    "25": "Churchill Van Dyke",
-    "30": "Reuben Dyers",
-    "28": "Josh Kimmidge"
+    "23": "Tony Cross",
+    "32": "Nigel Cant-Hay",
+    "4": "Alex Nester",
+    "25": "John Berry",
+    "30": "Sir Goeff Ramus",
+    "28": "Fabian Cannaver"
   }
 };
